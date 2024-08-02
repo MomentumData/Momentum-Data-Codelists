@@ -1,0 +1,150 @@
+MedCodeID,Description
+2660561000006112,"Goeckerman treatment, photochemotherapy"
+2660551000006110,Goeckerman regimen
+2660541000006113,Photochemotherapy with tar and ultraviolet B
+8426571000006115,Photodynamic laser therapy to lesion of skin
+2735611000000111,Intraoral low level laser therapy
+2735601000000114,Intraoral LLLT (low level laser therapy)
+262898016,Visible light therapy
+262901015,Visible light therapy NOS
+4622731000006113,Light therapy for inflammation
+262900019,Antiinflammatory light therapy
+4622711000006119,Antiinflammatory light therapy
+12482671000006115,Anti-inflammat. light therapy
+282390012,Ultraviolet lesion destruction
+4870331000006117,Complication of phototherapy
+324603016,Phototherapy complication
+2860811000006116,Photochemotherapy with tar and petrolatum
+262914019,Laser beam therapy NOS
+4996101000006114,Laser therapy
+262908014,Laser therapy
+4996091000006115,Low power laser therapy
+344142014,UVA phototherapy
+344146012,Ultraviolet A therapy
+4996391000006117,Ultraviolet A light therapy
+4996371000006118,UVA - Ultraviolet A
+4996381000006115,UVA - Ultraviolet A light therapy
+344147015,Ultraviolet B therapy
+4996421000006113,Ultraviolet B light therapy
+4996411000006117,UVB - Ultraviolet B light therapy
+4996431000006111,UVB - Ultraviolet B
+344151018,UVB phototherapy
+4996461000006119,UVC - Ultraviolet C light therapy
+4996471000006114,Ultraviolet C light therapy
+4996481000006112,UVC - Ultraviolet C
+4996451000006116,Ultraviolet C therapy
+4996491000006110,Theraktin treatment
+4996501000006119,Kromayer treatment
+4996511000006116,Mercury vapour lamp treatment
+4996521000006112,Mercury vapor lamp treatment
+5122571000006112,Ultraviolet B phototherapy burn
+5122561000006117,UVB phototherapy burn
+383885014,Photodynamic therapy
+5388511000006115,PDT - Photodynamic therapy
+5589591000006119,Phototherapy skin rash
+5725901000006112,Local skin ultraviolet therapy
+2978261000006115,Photochemotherapy with petrolatum and ultraviolet B
+5961031000006116,Low power laser therapy to upper limb
+5961041000006114,Low power laser therapy to face
+5961051000006111,Low power laser therapy to neck
+5961061000006113,Low power laser therapy to trunk
+5961071000006118,Low power laser therapy to lower limb
+5961081000006115,Low power laser therapy to shoulder
+5961091000006117,Low power laser therapy to elbow
+5961101000006111,Low power laser therapy to wrist
+5961111000006114,Low power laser therapy to hand
+5961121000006118,Low power laser therapy to back
+5961131000006115,Low power laser therapy to pelvis
+5961141000006113,Low power laser therapy to abdomen
+5961151000006110,Low power laser therapy to hip
+5961161000006112,Low power laser therapy to knee
+5961171000006117,Low power laser therapy to ankle
+5961181000006119,Low power laser therapy to foot
+3005931000006115,Phototherapy
+232051000006113,Phototherapy/radiation therapy
+52479014,Light therapy
+3005941000006113,Actinotherapy
+232021000006116,Phototherapy
+3074571000006119,Phototherapy: neonate
+3074591000006118,Newborn phototherapy
+3074581000006116,Phototherapy of neonate
+3074561000006114,Phototherapy of newborn
+878811000006111,Ultraviolet radiation therapy
+485014019,Ultraviolet light therapy
+485012015,U-V light therapy
+6250061000006110,Actinotherapy with ultraviolet light
+878781000006114,U-V Radiation Therapy
+878801000006113,Local skin ultraviolet therapy
+485013013,Ultraviolet light phototherapy
+878791000006112,Ultraviolet therapy NOS
+6669731000006119,Skin disorder due to phototherapy
+6682481000006115,Hypermelanosis following phototherapy for neonatal jaundice
+6685741000006111,Psoralen and long-wave ultraviolet radiation (PUVA) keratosis
+6685751000006113,Psoralen and long-wave ultraviolet radiation keratosis
+6685731000006118,PUVA keratosis
+6685761000006110,Lentiginosis due to PUVA
+6685791000006119,Lentiginosis due to psoralen and long-wave ultraviolet radiation therapy
+6685781000006117,PUVA-induced freckles
+6685771000006115,PUVA lentigines
+6685861000006117,Psoralen and long-wave ultraviolet radiation (PUVA) phototherapy burn
+6685871000006112,Psoralen and long-wave ultraviolet radiation phototherapy burn
+6685841000006116,PUVA burn
+6685831000006114,PUVA phototherapy burn
+6685851000006119,Phototherapy burn due to PUVA
+6685961000006113,Adverse reactions to ultaviolet B light phototherapy
+6685951000006111,Adverse reactions to UVB phototherapy
+6724331000006119,Phototherapy: mood regulation
+6724341000006112,Phototherapy: sleep regulation
+2674035018,Ultraviolet A light therapy to skin
+2674036017,Ultraviolet B light therapy to skin
+1545911000006112,Endoscopic retrograde photodynamic laser therapy of lesion of bile duct
+1588611000006118,Combined photochemotherapy and ultraviolet B light therapy to skin
+486751000000114,Phototherapy of skin
+486931000000116,Phototherapy to skin NOS
+486911000000112,Other specified phototherapy to skin
+486471000000112,Other specified photodynamic therapy of skin
+486491000000111,Photodynamic therapy of skin NOS
+2692630017,Photodynamic therapy of skin
+361261000000119,Photodynamic therapy of subretinal lesion
+1588601000006116,Combined photochemotherapy and ultraviolet A light therapy to skin
+2693259019,Percutaneous photodynamic therapy of lesion of bile duct
+2696024019,Photodynamic therapy of skin of whole body
+7219261000006115,Intermittent phototherapy
+7231671000006119,Rhinophototherapy using ultraviolet and visible light
+1129201000000117,Photodynamic therapy to choroidal neovascular membrane
+7290141000006117,Photodynamic therapy of neovascular membrane of choroid
+7380021000006117,Narrowband UVB phototherapy
+7380011000006113,Narrowband ultraviolet B phototherapy
+7408841000006112,Infrared phototherapy unit
+7420371000006116,Overhead infant phototherapy unit
+3250481000006117,Photochemotherapy with psoralens and ultraviolet A
+3250491000006119,PUVA therapy
+494512018,PUVA phototherapy
+7429781000006111,"Red-light phototherapy unit, line-powered"
+7430501000006119,"Red-light phototherapy unit, battery-powered"
+7435961000006115,Ultraviolet phototherapy unit
+7436141000006113,Ultraviolet tanning device
+7436311000006112,"Ultraviolet phototherapy unit, home-use"
+7439251000006112,"Ultraviolet radiometer, skin phototherapy"
+7440891000006113,Ultraviolet phototherapy carbon arc lamp
+7485691000006112,Photodynamic therapy of chorioretinal lesion
+3456561000006110,Modified Goeckerman regimen
+3482431000006110,Local actinotherapy
+3537171000006119,General actinotherapy
+7745731000006119,Blue-light phototherapy lamp
+7812211000006119,Phototherapy unit
+7812331000006117,Blue/red/infrared phototherapy lamp
+7832111000006115,Phototherapy of neonate using ultraviolet light
+7843351000006112,"Blue-light phototherapy lamp, home-use"
+7857721000006110,Neonatal burn due to phototherapy caused by ultraviolet radiation
+7857731000006113,Neonatal phototherapy burn
+7955411000006111,Burn of skin caused by ultraviolet radiation due to ultraviolet light therapy
+7955421000006115,Burn of skin caused by ultraviolet radiation following exposure to therapeutic ultraviolet light therapy
+8257971000006112,NB-UVB (narrow band ultraviolet B) phototherapy
+8257981000006110,nUVB (narrow band ultraviolet B) phototherapy
+8257961000006117,Narrowband (311 nanometres) ultraviolet B phototherapy
+8269381000006112,Fluoroscopy guided percutaneous photodynamic therapy of lesion of bile duct
+3839721000006110,Photochemotherapy
+8282541000006119,Interstitial photodynamic therapy of malignant tumour of parotid gland
+8352571000006110,Ultraviolet light therapy treatment record
+282394015,Radiation/phototherapy NOS

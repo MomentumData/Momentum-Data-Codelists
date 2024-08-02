@@ -1,0 +1,208 @@
+SNOMEDCTCodes,Description
+10751431000119104,Urinary tract infection due to ectopic pregnancy
+10812041000119103,Urinary tract infection due to incomplete miscarriage (disorder)
+1081901000112109,Glomerulonephritis suspected (situation)
+1084821000119103,Cystitis due to Chlamydia (disorder)
+1087011000119108,Infection of lower genitourinary tract co-occurrent with abscess of periurethral gland caused by Gonococcus (disorder)
+1090711000000102,Uncomplicated urinary tract infection
+1092371000119103,Salmonella pyelonephritis (disorder)
+123611003,Subacute pyelonephritis
+123754002,Focal pyelonephritis
+123755001,Diffuse pyelonephritis
+128607006,Infectious disease of genitourinary tract
+129128006,Renal infection
+13285005,Cystitis cystica
+139466007,Recurrent urinary tract infections
+139864000,Suspected UTI
+1469007,Spontaneous abortion with urinary tract infection
+155850003,Acute glomerulonephritis
+155860007,Infection of kidney (& [pyelonephritis &/or pyelitis])
+155862004,Acute pyonephrosis
+155865002,Infection of kidney NOS
+155883005,Acute cystitis (& [recurrent])
+155885003,(Cystitis NOS) or (trigonitis)
+155891001,Non-venereal urethritis
+155897002,Urinary tract infection NOS
+155900009,(Urinary obstruction unspecified) or (recurrent urinary tract infection)
+155901008,Recurrent urinary tract infection
+156127000,Bacteriuria with pregnancy (& [asymptomatic])
+156128005,Pregnancy with genitourinary infections (& UTI [& cystitis])
+162183000,Recurrent urinary tract infections
+162597002,Suspected UTI
+16271000119108,Pyelonephritis in pregnancy (disorder)
+186237005,Tuberculous cystitis
+186729003,Chlamydial infection of lower genitourinary tract
+186735003,"[X]Chlamydial infection of genitourinary tract, unspecified"
+187368004,"[X]Chlamydial infection of genitourinary tract, unspecified"
+187402002,Infectious disease of genitourinary tract
+189176002,Infectious disease of genitourinary tract
+197768004,Acute pyelonephritis without medullary necrosis
+197769007,Acute pyelonephritis with medullary necrosis
+197770008,Acute pyonephrosis
+197771007,Acute pyelonephritis NOS
+197778001,Pyelonephritis and pyonephrosis unspecified
+197779009,Pyelonephritis unspecified
+197782004,Pyelonephritis in diseases EC
+197783009,Pyelitis in diseases EC
+197784003,Unspecified pyelonephritis NOS
+197785002,Infection of kidney NOS
+197819009,Periureteritis
+197833009,Acute cystitis
+197845000,Cystitis in diseases EC
+197847008,Diphtheritic cystitis
+197848003,Gonococcal cystitis
+197849006,Cystitis in moniliasis
+197850006,Trichomonal cystitis
+197851005,Cystitis in diseases EC NOS
+197853008,Recurrent cystitis
+197854002,Other specified cystitis
+197856000,Other cystitis NOS
+197857009,Cystitis NOS
+197898002,(Periurethritis) or (urethritis due to non venereal causes)
+197903003,Candidal urethritis
+197904009,Other urethritis
+197905005,Urethritis unspecified
+197910009,Other urethritis NOS
+197911008,Urethritis due to non-venereal cause NOS
+197924008,"Urinary tract infection, site not specified"
+197925009,Bacteriuria: [site not specified] or [asymptomatic]
+197926005,Postoperative urinary tract infection
+197927001,Recurrent urinary tract infection
+197928006,Chronic urinary tract infection
+197930008,"Urinary tract infection, site not specified NOS"
+198537002,[X]Other cystitis
+198541003,[X]Other urethritis
+198544006,[X]Urethritis in diseases classified elsewhere
+198870002,Urinary tract infection following abortive pregnancy
+199098007,Asymptomatic bacteriuria in pregnancy unspecified
+199099004,Asymptomatic bacteriuria in pregnancy - delivered
+199100007,Asymptomatic bacteriuria in pregnancy - delivered with postnatal complication
+199101006,Asymptomatic bacteriuria in pregnancy - not delivered
+199102004,Asymptomatic bacteriuria in pregnancy with postnatal complication
+199103009,Asymptomatic bacteriuria in pregnancy NOS
+199104003,GUT infections in pregnancy (& [cystitis])
+199105002,Genitourinary tract infection in pregnancy unspecified
+199106001,Genitourinary tract infection in pregnancy - delivered
+199107005,Genitourinary tract infection in pregnancy - delivered with postnatal complication
+199108000,Genitourinary tract infection in pregnancy - not delivered
+199109008,Genitourinary tract infection in pregnancy with postnatal complication
+199110003,Infections of kidney in pregnancy
+199111004,Urinary tract infection following delivery
+199114007,Urinary tract infection complicating pregnancy
+199115008,UTI - urinary tract infection in pregnancy
+200499003,[X]Infections of other parts of urinary tract in pregnancy
+200500007,[X]Other and unspecified genitourinary tract infection in pregnancy
+200560009,[X]Other genitourinary tract infections following delivery
+22352007,Acute bacterial tubulointerstitial nephritis
+236373001,Emphysematous pyelonephritis
+236374007,Chronic infective interstitial nephritis
+236375008,Emphysematous pyelitis
+236377000,Fungal infection of kidney
+236378005,Candida pyelonephritis
+236600007,Candida ureteritis
+236620008,Infective cystitis
+236621007,Recurrent infective cystitis
+236622000,Chronic infective cystitis
+236624004,Acute cystitis - culture-negative
+236625003,Recurrent cystitis - culture-negative
+236681009,Infective urethritis
+236682002,Gonococcal urethritis
+236683007,Chlamydial urethritis
+236684001,Tuberculous urethritis
+236685000,Schistosomiasis of the urethra
+236702008,Acute culture positive cystitis
+236703003,Recurrent infective cystitis
+236704009,ASB - Asymptomatic bacteriuria
+246832008,Nongonococcal urethritis due to Chlamydia trachomatis
+24868007,Acute gonococcal cystitis
+266563005,Non-venereal urethritis
+266613008,(Acute glomerulonephritis) or (acute nephritis)
+266618004,Infection of kidney (& [pyelonephritis &/or pyelitis])
+266620001,(Acute pyelonephritis) or (acute pyonephrosis)
+266628008,Acute recurrent cystitis
+266629000,(Cystitis NOS) or (trigonitis)
+266635000,Urinary tract infection (& [NOS])
+266636004,(Urinary obstruction unspecified) or (recurrent urinary tract infection)
+267204006,Genitourinary tract infections in pregnancy
+267205007,Genitourinary tract infection in pregnancy NOS
+267312001,Bacteriuria with pregnancy (& [asymptomatic])
+267313006,Genitourinary tract infections in pregnancy
+27174002,Pyelitis
+274109003,Acute recurrent cystitis
+275412000,Cystitis of pregnancy
+29864006,Acute gonococcal urethritis
+301010001,Coliform urinary tract infection
+301011002,Escherichia coli urinary tract infection
+301012009,Proteus urinary tract infection
+301013004,Pseudomonas urinary tract infection
+30116001,Trichomonal urethritis
+307426000,Acute infective cystitis
+307534009,Urinary tract infection in pregnancy
+309782006,Urinary tract infection complicating pregnancy
+312124009,Bacterial UTI (urinary tract infection)
+312221005,Infective ureteritis
+314940005,Suspected UTI
+315242001,Recurrent urinary tract infections
+31563000,Asymptomatic bacteriuria in pregnancy
+31822004,Urethritis
+32268008,Tuberculosis of bladder
+32801008,Acute pyelitis
+33046001,Illegal abortion with urinary tract infection
+36689008,Acute pyelonephritis
+366941000119107,Haematuria co-occurrent and due to acute cystitis
+367171000119100,Hematuria co-occurrent and due to cystitis
+368991000119100,Urinary tract infection caused by Enterococcus (disorder)
+369001000119100,Urinary tract infection caused by Klebsiella
+369011000119102,Urinary tract infection caused by Pseudomonas (disorder)
+371061003,Urinary tract infection due to urinary catheter
+371093006,Urosepsis (disorder)
+37133005,Tuberculous pyelitis
+38176009,Urinary tract infection following molar AND/OR ectopic pregnancy
+38822007,Cystitis
+4009004,Lower urinary tract infectious disease
+40635000,Cystitis due to Pseudomonas
+4181000119109,Obstructive pyelonephritis
+42231000009109,Bacterial nephritis (disorder)
+422747000,Upper urinary tract infection (disorder)
+423322005,Recurrent obstructive pyelonephritis (disorder)
+424551004,Bacterial cystitis (disorder)
+425562008,Recurrent bacterial cystitis (disorder)
+429728004,Bacterial urethritis (disorder)
+431308006,Acute upper urinary tract infection (disorder)
+431309003,Acute urinary tract infection (disorder)
+431737008,Acute lower urinary tract infection (disorder)
+4324001,Subacute cystitis
+44323002,Tuberculous pyelonephritis
+44412000,Chronic gonococcal urethritis
+45816000,Pyelonephritis
+48278001,Diphtheritic cystitis
+48631008,Pyonephrosis
+5093001,Cystitis with actinomycosis
+51105006,Nongonococcal urethritis due to Ureaplasma urealyticum
+51131008,Nongonococcal urethritis due to Chlamydia trachomatis
+521000119104,"Acute cystitis in pregnancy, antepartum"
+53991003,Cystitis with bilharziasis
+54026009,Cystitis with Echinococcus infestation
+5945005,Legal abortion with urinary tract infection
+60867007,Klebsiella cystitis
+609491002,Termination of pregnancy complicated by urinary tract infection
+60979006,Schistosoma hematobium infection
+61373006,Bacteriuria
+63302006,Chronic pyelonephritis
+66892003,Failed attempted abortion with urinary tract infection
+66993009,Acute infectious tubulointerstitial nephritis
+67685000,Prostatocystitis
+68226007,Acute cystitis
+68566005,Urinary tract infectious disease
+700372006,Catheter-associated urinary tract infection
+720406004,Asymptomatic bacteriuria (finding)
+721104000,Sepsis due to urinary tract infection (disorder)
+788962001,Infection of urinary tract caused by Herpes simplex
+838353009,Acute pyelonephritis caused by bacterium
+84619001,Nongonococcal urethritis
+87307008,Abortion with urinary tract infection
+8776008,Cystitis with amebiasis
+88813005,Chronic gonococcal cystitis
+91195006,Acute fungal tubulointerstitial nephritis
+95889002,Mycoplasmal pyelonephritis
+99631000119101,Febrile urinary tract infection

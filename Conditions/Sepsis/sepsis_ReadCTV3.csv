@@ -1,0 +1,199 @@
+CTV3Codes,Description
+A021.,Salmonella septicaemia
+A023.,Salmonella sepsis
+A202.,Septicaemic plague
+A2701,Listeria septicaemia
+A2711,Erysipelothrix septicaemia
+A2706,Listerial sepsis
+A362.,Meningococcal septicaemia
+A38..,Septicaemia
+A380.,Streptococcal septicaemia
+A3800,"Septicaemia due to streptococcus, group A"
+A3801,"Septicaemia due to streptococcus, group B"
+A3802,"Septicaemia due to streptococcus, group D"
+A3803,Septicaemia due to streptococcus pneumoniae
+A3804,Septicaemia due to enterococcus
+A3805,Vancomycin resistant enterococcal septicaemia
+A381.,Staphylococcal septicaemia
+A3810,Septicaemia due to Staphylococcus aureus
+A3811,Septicaemia due to coagulase-negative staphylococcus
+A382.,Pneumococcal septicaemia
+A383.,Septicaemia due to anaerobes
+A384.,Septicaemia due to other gram negative organisms
+A3840,Gram negative septicaemia NOS
+A3841,Haemophilus influenzae septicaemia
+A3842,E.coli septicaemia
+A3843,Pseudomonas septicaemia
+A3844,Serratia septicaemia
+A384z,Other gram negative septicaemia NOS
+A38y.,Other specified septicaemias
+A38z.,Sepsis
+A396.,Actinomycotic sepsis
+A3C..,Sepsis
+A3C0.,Sepsis due to Streptococcus
+A3C00,Sepsis due to Streptococcus group A
+A3C01,Sepsis due to Streptococcus group B
+A3C02,Sepsis due to Streptococcus group D
+A3C03,Sepsis due to Streptococcus pneumoniae
+A3C0y,Other streptococcal sepsis
+A3C0z,"Streptococcal sepsis, unspecified"
+A3C1.,Sepsis due to Staphylococcus
+A3C10,Sepsis due to Staphylococcus aureus
+A3C1y,Sepsis due to other specified staphylococcus
+A3C1z,Sepsis due to staphylococcus NOS
+A3C2.,Sepsis due to anaerobes
+A3C3.,Sepsis due to Gram negative bacteria
+A3C30,Sepsis due to Haemophilus influenzae
+A3C3y,Sepsis due to other Gram negative organisms
+A3Cy.,Other specified sepsis
+A3Cz.,Sepsis NOS
+A545.,Herpes simplex septicaemia
+A98yz,Gonococcal septicaemia
+Ayu3E,[X]Other streptococcal septicaemia
+Ayu3F,"[X]Streptococcal septicaemia, unspecified"
+Ayu3G,[X]Septicaemia due to other gram-negative organisms
+Ayu3H,[X]Other specified septicaemia
+Ayu3J,"[X]Septicaemia, unspecified"
+H5y01,Tracheostomy sepsis
+K1906,Urosepsis
+SP254,Postoperative septicaemia
+A3830,Fusobacterial necrotising tonsillitis
+A3Ay1,Toxic shock syndrome
+L090y,Sepsis NOS following abortion and ectopic and molar pregnancy
+L090z,Septicaemia NOS following abortive pregnancy
+L40..,Sepsis - puerperal
+L293.,Septicaemia during labour
+L2930,Septicaemia during labour unspecified
+L2931,Septicaemia during labour - delivered
+L2932,Septicaemia during labour with antenatal problem
+L293z,Septicaemia during labour NOS
+L403.,Puerperal septicaemia
+L4030,Puerperal septicaemia unspecified
+L4031,Puerperal septicaemia - delivered with postnatal complication
+L4032,Puerperal septicaemia with postnatal complication
+L403z,Puerperal septicaemia NOS
+A224.,Sepsis due to Bacillus anthracis
+A2713,Erysipelothrix sepsis
+A365.,Meningococcal meningitis with acute meningococcal septicaemia
+A366.,Meningococcal meningitis with meningococcal septicaemia
+A395.,Actinomycotic septicaemia
+AB25.,Disseminated candidiasis
+AB2y3,Candidal septicaemia
+AB2y5,Sepsis due to Candida
+J666.,Biliary sepsis
+R0552,[D]Endotoxic shock
+R0553,[D]Gram-negative shock
+R0555,[D]Septic shock
+R107.,[D]Unspecified viraemia
+SP201,Postoperative septic shock
+SP380,Septic shock due to transfusion
+X70N5,Gonococcal septicaemia
+X70VZ,Sepsis
+XE0Qx,Septicaemia NOS
+XE0Rz,Gonococcal infection of other site NOS
+XaCM2,Vancomycin-resistant enterococcal septicaemia
+XaCMc,Septicaemia due to streptococcus pneumoniae
+XaCMd,Septicaemia due to enterococcus
+XaELR,Meningococcal meningitis with acute meningococcal septicaemia
+XaEYW,Meningococcal meningitis with meningococcal septicaemia
+XaWzz,Biliary sepsis
+XaYaP,Sepsis due to Bacillus anthracis
+XaYaf,Salmonella sepsis
+XaYbc,Actinomycotic sepsis
+XaYbd,Streptococcal sepsis
+XaYbe,Sepsis due to Streptococcus group A
+XaYbf,Sepsis due to Streptococcus group B
+XaYbi,Sepsis due to Streptococcus group D
+XaYbj,Sepsis due to Streptococcus pneumoniae
+XaYbk,Sepsis due to Staphylococcus
+XaYbl,Sepsis due to Staphylococcus aureus
+XaYbm,Sepsis due to anaerobes
+XaYbn,Sepsis due to Gram negative bacteria
+XaYbo,Sepsis due to Haemophilus influenzae
+XaYbw,Sepsis due to Listeria monocytogenes
+XaYbx,Erysipelothrix sepsis
+XaYbz,Sepsis due to Candida
+XaZ0c,Urosepsis
+1JN0.,Suspected sepsis
+A223.,Anthrax septicaemia
+A2721,Pasteurella septic infection (cat or dog bite)
+G52y3,Septic myocarditis - pneumococcal
+G52y4,Septic myocarditis - staphylococcal
+G52y5,Septic myocarditis - streptococcal
+G52y6,Septic myocarditis NOS
+L0400,Spontaneous abortion with sepsis
+L0966,Septic embolism following abortive pregnancy
+L433.,Obstetric pyaemic and septic pulmonary embolism
+L4330,Obstetric pyaemic and septic pulmonary embolism unspecified
+L4331,Obstetric pyaemic and septic pulmonary embolism - delivered
+L4332,Obstetric pyaemic and septic pulmonary embolism - delivered with postnatal complication
+L4333,Obstetric pyaemic and septic pulmonary embolism with antenatal complication
+L4334,Obstetric pyaemic and septic pulmonary embolism with postnatal complication
+L433z,Obstetric pyaemic and septic pulmonary embolism NOS
+M07z.,Septic spots
+M080.,[X]Septic thumb
+N010.,Septic arthritis
+Q404y,Other specified umbilical sepsis
+Q404z,Umbilical sepsis NOS
+SP200,Postoperative endotoxic shock
+A363.,Acute adrenal insufficiency with meningococcal septicaemia
+J0250,Dental sepsis
+M102.,[Infective eczematoid dermatitis] or [Pustular eczema] or [Septic dermatitis]
+M12z2,[Infective eczematoid dermatitis] or [Pustular eczema] or [Septic dermatitis]
+R00B.,Abacteraemic sepsis
+X0025,Intracranial septic embolism
+X0026,Intracranial arterial septic embolism
+X0028,Septic thrombophlebitis of straight sinus
+X0029,Septic thrombophlebitis of sigmoid sinus
+X002A,Septic thrombophlebitis of cortical vein
+X002B,Septic thrombophlebitis of great cerebral vein
+X005J,Sepsis-associated encephalopathy
+X100j,Chronic bronchial sepsis
+X104U,Tracheal sepsis
+X104k,Bronchial sepsis
+X1056,Sepsis-associated lung injury
+X208Z,Sepsis-associated hypotension
+X208a,Hyperdynamic septic shock
+X208b,Cold septic shock
+X208c,Endotoxic shock
+X20Fq,Post-splenectomy septicaemia
+X301U,Sepsis-related gastritis
+X40BC,Spontaneous abortion with sepsis
+X40BF,Septic abortion
+X40Yk,Abacteraemic sepsis
+X40Yl,Sepsis syndrome
+X40Yr,Sepsis-associated organ dysfunction
+X40Ys,Sepsis-related gastrointestinal ulceration
+X70HL,Septicaemic glanders
+X70HP,Septicaemic melioidosis
+X70Ik,Staphylococcal toxic shock syndrome
+X70Il,Streptococcal toxic shock syndrome
+XE0xH,Puerperal sepsis
+XE0xM,Obstetric pyaemic and septic pulmonary embolism
+XE0zk,Puerperal sepsis
+XE1DJ,Septic arthritis
+XM01b,Septic wound
+XM0CA,Gonococcal septicaemia affecting skin
+Xa00d,Exotoxic shock
+Xa00e,Sepsis-associated gastrointestinal haemorrhage
+Xa01t,Recurrent salmonella septicaemia
+Xa0C3,Septic shock associated with other non-bacterial microorganism
+Xa0C4,Sepsis-associated myocardial dysfunction
+Xa0TT,Sepsis-associated left ventricular failure
+Xa0TU,Sepsis-associated right ventricular failure
+Xa6nq,Gram-negative septicaemia
+Xa7I4,Dental sepsis
+Xa7OY,Drainage of septic arthritis
+Xa7m3,Septic finger
+Xa7n6,Coliform septicaemia
+Xa7n7,Proteus septicaemia
+Xa9B6,Intracranial septic thrombophlebitis
+Xa9B7,Septic thrombophlebitis of cavernous sinus
+Xa9B8,Septic thrombophlebitis of sagittal sinus
+Xa9B9,Septic thrombophlebitis of lateral sinus
+XaB4X,Intracranial venous septic embolism
+XaBex,Intra-abdominal sepsis postprocedure
+XaDc3,Bacterial septicaemia
+XaZsP,Suspected sepsis
+XaffU,Gas gangrene septicaemia
+Xagdh,Suspected meningococcal septicaemia

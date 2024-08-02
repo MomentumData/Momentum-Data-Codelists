@@ -1,0 +1,326 @@
+SNOMEDCTCodes,Description
+10628511000119107,Irritant contact dermatitis caused by detergent (disorder)
+10628551000119108,Irritant contact dermatitis caused by rubber
+10628591000119103,Irritant contact dermatitis caused by chemical (disorder)
+10628631000119103,Irritant contact dermatitis caused by metal (disorder)
+10628671000119100,Allergic contact dermatitis caused by latex (disorder)
+10628711000119101,Allergic contact dermatitis caused by plant material (disorder)
+10628751000119100,Allergic contact dermatitis caused by pollen (disorder)
+10676871000119103,Allergic contact dermatitis caused by chemical (disorder)
+10761991000119101,Contact dermatitis of right upper and lower eyelids (disorder)
+10901008,Contact dermatitis caused by poison sumac (disorder)
+110979008,Irritant contact dermatitis (disorder)
+111189002,Acute contact dermatitis (disorder)
+111190006,Contact dermatitis caused by phenol (disorder)
+111191005,"Contact dermatitis due to other drug, NEC (disorder)"
+111192003,Contact dermatitis caused by insecticide
+111193008,Contact dermatitis due to other non food plant (disorder)
+111194002,Contact dermatitis due to other specified agents (disorder)
+111209006,Photoallergic contact dermatitis
+11804009,Contact dermatitis caused by solar radiation (disorder)
+11873831000119107,Contact dermatitis of bilateral lower eyelids
+123705009,Generalized exfoliative contact dermatitis (disorder)
+126631000119108 ,Contact dermatitis caused by adhesive bandage (disorder)
+13476007,Contact dermatitis due to fur (disorder)
+156332005,Urine-induced contact dermatitis (disorder)
+156338009,Contact dermatitis/eczema
+156339001,Contact dermatitis due to detergents (disorder)
+156340004,Contact dermatitis due to oils and greases (disorder)
+156341000,Contact dermatitis due to solvents (disorder)
+156342007,Drug-induced contact dermatitis (disorder)
+156343002,Contact dermatitis: [chemicals] or [elastoplast allergy]
+156344008,Contact dermatitis - foods/plants (disorder)
+156345009,(Contact dermatitis: sun) or (Farmers' skin) or (photosensitivity - sun) or (sunburn) (disorder)
+156346005,Contact dermatitis: metals(& [nickel]) (disorder)
+156348006,(Contact dermatitis NOS) or (discoid eczema) or (nummular eczema) (disorder)
+15681161000119107,Contact dermatitis of bilateral eyelids (disorder)
+16228891000119105 ,Allergic contact dermatitis caused by metal (disorder)
+17946007,Contact dermatitis caused by fungicide (disorder)
+18793008,Contact dermatitis caused by fruit (disorder)
+193918001,Contact &/or allergic eyelid dermatitis (disorder)
+200780008,(Contact dermatitis [& other eczemas]) or (contact eczema) or (occupational dermatitis) (disorder)
+200781007,Contact dermatitis due to detergents (disorder)
+200782000,Contact dermatitis due to oils &/or greases (disorder)
+200783005,Contact dermatitis due to solvents (disorder)
+200784004,Contact dermatitis caused by chlorocompound
+200785003,Contact dermatitis caused by cyclohexane group
+200786002,Contact dermatitis caused by ester (disorder)
+200787006,Contact dermatitis caused by glycol
+200788001,Contact dermatitis caused by hydrocarbon (disorder)
+200789009,Contact dermatitis caused by ketone (disorder)
+200790000,Contact dermatitis due to solvent NOS (disorder)
+200791001,Contact dermatitis due to arnica (disorder)
+200792008,Contact dermatitis due to fungicides (disorder)
+200793003,Contact dermatitis due to iodine (disorder)
+200794009,Contact dermatitis caused by keratolytic
+200795005,Contact dermatitis due to mercurials (disorder)
+200796006,Contact dermatitis due to neomycin (disorder)
+200797002,Contact dermatitis due to pediculicides (disorder)
+200798007,Contact dermatitis due to phenols (disorder)
+200799004,Contact dermatitis due to scabicides (disorder)
+200800000,Contact dermatitis due to medicament NOS (disorder)
+200801001,Contact dermatitis due to other chemical products (disorder)
+200802008,Contact dermatitis caused by acid (disorder)
+200803003,Contact dermatitis due to adhesive plaster (& elastoplast) (disorder)
+200804009,Contact dermatitis caused by alkali (disorder)
+200805005,Contact dermatitis due to caustic
+200806006,Contact dermatitis due to dichromate (disorder)
+200807002,Contact dermatitis due to insecticide (disorder)
+200808007,Contact dermatitis due to nylon (disorder)
+200809004,Contact dermatitis due to plastic (disorder)
+200810009,Contact dermatitis due to rubber (disorder)
+200811008,Contact dermatitis: other chemicals NOS (disorder)
+200813006,Contact dermatitis due to food in contact with skin (disorder)
+200814000,Contact dermatitis due to cereals (disorder)
+200815004,Contact dermatitis due to fish (disorder)
+200816003,Contact dermatitis due to flour (disorder)
+200817007,Contact dermatitis due to fruit (disorder)
+200818002,Contact dermatitis due to meat (disorder)
+200819005,Contact dermatitis due to milk (disorder)
+200820004,(Contact dermatitis due to food NOS) or (egg contact dermatitis) (disorder)
+200821000,Contact dermatitis caused by plants
+200822007,Contact dermatitis due to lacquer tree (disorder)
+200823002,Contact dermatitis caused by poison ivy (disorder)
+200824008,Contact dermatitis caused by poison oak
+200825009,Contact dermatitis due to poison-sumac (disorder)
+200826005,Contact dermatitis due to poison-vine (disorder)
+200827001,Contact dermatitis due to primrose (disorder)
+200828006,Contact dermatitis due to ragweed (disorder)
+200829003,Contact dermatitis due to plants NOS (disorder)
+200830008,Contact dermatitis due to solar radiation (disorder)
+200831007,Unspecified contact dermatitis due to solar radiation (disorder)
+200836002,Photocontact dermatitis
+200840006,Contact dermatitis due to solar radn NOS (disorder)
+200841005,Allergic contact dermatitis (disorder)
+200842003,Allergic contact dermatitis due to adhesive
+200843008,Allergic contact dermatitis due to cosmetic
+200844002,Allergic contact dermatitis due to drug in contact with skin
+200845001,Allergic contact dermatitis due to dye
+200846000,Allergic contact dermatitis due to other chemical products (disorder)
+200847009,Allergic contact dermatitis caused by food in contact with skin
+200848004,"Allergic contact dermatitis caused by plants, except food (disorder)"
+200850007,Irritant contact dermatitis (disorder)
+200851006,Irritant contact dermatitis due to cosmetic
+200852004,Irritant contact dermatitis due to drug in contact with skin
+200853009,Irritant contact dermatitis due to other chemical products (disorder)
+200854003,Irritant contact dermatitis due to food in contact with skin
+200855002,"Irritant contact dermatitis caused by plants, except food (disorder)"
+200867000,Contact dermatitis due to other specified agents (disorder)
+200869002,Contact dermatitis due to cold weather (disorder)
+200870001,Contact dermatitis due to dyes (disorder)
+200871002,Contact dermatitis due to fur
+200872009,Contact dermatitis due to hot weather (disorder)
+200873004,Contact dermatitis due to infrared rays (disorder)
+200874005,Contact dermatitis due to jewelry (disorder)
+200875006,Contact dermatitis due to light (excluding sunlight) (disorder)
+200876007,(Contact dermatitis due to metals) or (nickel sensitivity) (disorder)
+200877003,Contact dermatitis caused by preservatives
+200878008,Contact dermatitis due to radiation NOS (disorder)
+200879000,Contact dermatitis caused by ultraviolet rays (excluding sunlight)
+200880002,Contact dermatitis due to X-rays (disorder)
+200881003,Contact dermatitis caused by casting materials
+200882005,Contact dermatitis: specified agent NOS (disorder)
+200883000,Contact dermatitis NOS (disorder)
+200889001,Contact dermatitis NOS (disorder)
+201360000,[X]Allergic contact dermatitis due to other chemical products (disorder)
+201361001,[X]Allergic contact dermatitis due to other agents (disorder)
+201362008,[X]Irritant contact dermatitis due to other chemical products (disorder)
+201363003,[X]Irritant contact dermatitis due to other agents (disorder)
+201364009,[X]Unspecified contact dermatitis due to other chemical products (disorder)
+201365005,[X]Unspecified contact dermatitis due to other agents (disorder)
+22131007,"Contact dermatitis due to ultraviolet rays, except sun (disorder)"
+22353002,Contact dermatitis due to glycol group (disorder)
+23012005,Contact dermatitis caused by solvents
+238506004,Contact dermatitis due to cold weather
+238524002,Photoallergic contact dermatitis
+238568000,Grease contact dermatitis (disorder)
+238569008,Oil contact dermatitis (disorder)
+238570009,Elastoplast contact dermatitis (disorder)
+238571008,Egg contact dermatitis (disorder)
+238572001,Lanolin contact dermatitis (disorder)
+238573006,Perfume contact dermatitis (disorder)
+238575004,Allergic contact dermatitis (disorder)
+238576003,Allergic contact dermatitis caused by nickel implant (disorder)
+238577007,Ingested allergen contact dermatitis (disorder)
+238578002,Occupational allergic contact dermatitis (disorder)
+238579005,Acute irritant contact dermatitis (disorder)
+238580008,Subacute irritant contact dermatitis (disorder)
+238581007,Chronic irritant contact dermatitis (disorder)
+238583005,Saliva-induced contact dermatitis (disorder)
+238584004,Feces-induced contact dermatitis (disorder)
+238672005,Lichenoid allergic contact dermatitis (disorder)
+247469006,Urine-induced contact dermatitis (disorder)
+25664003,Contact dermatitis due to dichlorvos
+26208004,Contact dermatitis due to keratolytic agent (disorder)
+26532007,Contact dermatitis caused by scabicide (disorder)
+267648006,Contact or allergic eyelid dermatitis (disorder)
+267792000,Contact dermatitis and other eczemas (disorder)
+267793005,Contact dermatitis due to oil and grease
+267794004,Contact dermatitis due to food NOS (disorder)
+267795003,Contact dermatitis due to cosmetics (disorder)
+267796002,Contact dermatitis due to metal (disorder)
+267842005,Contact dermatitis/eczema (& [allergic eczema - extrinsic] or [occupational eczema])
+267843000,Contact dermatitis: [chemicals] or [elastoplast allergy]
+267844006,(Contact dermatitis: sun) or (Farmers' skin) or (photosensitivity - sun) or (sunburn) (disorder)
+267845007,Contact dermatitis: metals(& [nickel]) (disorder)
+279334008,Contact dermatitis due to infra-red rays
+287003002,Contact dermatitis - chemicals (disorder)
+287004008,Contact dermatitis - foods/plants (disorder)
+2889003,Contact dermatitis due to alkali (disorder)
+291000119100,Contact dermatitis caused by chemical (disorder)
+30451004,Contact dermatitis due to detergent
+31948006,Contact dermatitis caused by plastic (disorder)
+3226008,Contact dermatitis - chemicals
+32371003,Contact dermatitis caused by neomycin (disorder)
+342761000119104,Allergic contact dermatitis of right upper eyelid (disorder)
+342771000119105,Allergic contact dermatitis of right lower eyelid
+342781000119108,Allergic contact dermatitis of right eyelid (disorder)
+342791000119106,Allergic contact dermatitis of left upper eyelid
+342801000119107,Allergic contact dermatitis of left lower eyelid (disorder)
+342811000119105,Allergic contact dermatitis of left eyelid (disorder)
+36530008,Contact dermatitis caused by fish
+39670009,Contact dermatitis due to chlorocompound group (disorder)
+402249007,Allergic contact dermatitis of eyelid
+402252004,Allergic contact dermatitis of perianal skin
+402253009,Allergic contact dermatitis of external ear
+402254003,Allergic contact dermatitis of hands
+402255002,Allergic contact dermatitis of lower leg
+402256001,Allergic contact dermatitis of male genitalia
+402257005,Allergic contact dermatitis of female genitalia
+402261004,Acute irritant contact dermatitis
+402263001,Cumulative irritant contact dermatitis of hands caused by wet work
+402265008,Irritant contact dermatitis of hands caused by oil and/or grease (disorder)
+402266009,Irritant contact dermatitis of hands caused by solvent
+402267000,Irritant contact dermatitis caused by metal swarf (disorder)
+402268005,Irritant contact dermatitis caused by cement (disorder)
+402269002,Irritant contact dermatitis of hands caused by cement (disorder)
+402270001,Irritant contact dermatitis of hands caused by friction
+402271002,Irritant contact dermatitis caused by chlorine
+402272009,Irritant contact dermatitis caused by biocide (disorder)
+402273004,Cumulative irritant contact dermatitis of hands
+402274005,Cumulative irritant contact dermatitis
+402275006,Irritant contact dermatitis caused by contact with urine and/or feces (disorder)
+402276007,Irritant contact dermatitis due to incontinence
+402278008,Irritant contact dermatitis due to stoma/fistula
+402279000,Irritant contact dermatitis due to ileostomy
+402280002,Irritant contact dermatitis due to colostomy
+402281003,Irritant contact dermatitis due to urostomy
+402284006,Irritant contact dermatitis due to dribbling and/or teething
+402290005,Irritant contact hand dermatitis
+402291009,Contact dermatitis of hands
+402577002,Allergic contact dermatitis by site
+402578007,Irritant contact dermatitis caused by detergent and/or wet work (disorder)
+402579004,Irritant contact dermatitis caused by plant
+402580001,Irritant contact dermatitis caused by oil and/or grease (disorder)
+402581002,Irritant contact dermatitis caused by wood (disorder)
+402582009,Irritant contact dermatitis caused by solvent (disorder)
+402584005,Occupational irritant contact dermatitis
+40275004,Contact dermatitis and other eczemas
+403585004,Contact psychodermatitis
+405244005,Urine induced contact dermatitis
+40712008,Contact dermatitis caused by arnica
+409784006,Contact dermatitis caused by Rhus diversiloba (disorder)
+409785007,Contact dermatitis caused by Rhus quercifolia
+410049000,Contact dermatitis caused by Genus Toxicodendron
+419121001,Allergic contact dermatitis of pinna
+419957005,Allergic contact dermatitis of external auditory canal
+42409002,Contact dermatitis due to oils (disorder)
+425630003,Acute irritant contact dermatitis
+42733007,Contact dermatitis caused by dichromate
+44210006,Contact dermatitis due to preservative (disorder)
+45309006,Allergic contact dermatitis caused by secretions (disorder)
+46240005,Contact dermatitis caused by rubber (disorder)
+46787004,"Contact dermatitis caused by light, except sun (disorder)"
+48681004,Contact dermatitis due to hot weather (disorder)
+49186001,Contact dermatitis caused by cereal (disorder)
+51221005,Chronic contact dermatitis (disorder)
+51732009,Contact dermatitis due to hydrocarbon group (disorder)
+5205006,Contact dermatitis due to poison ivy (disorder)
+5221001,Contact dermatitis due to greases (disorder)
+52811009,Contact dermatitis due to ketone group (disorder)
+53930004,Contact dermatitis caused by ragweed (disorder)
+55113003,Contact dermatitis due to poison oak (disorder)
+55934006,Contact dermatitis caused by flour
+56669003,Contact dermatitis due to ester group (disorder)
+586008,Contact dermatitis caused by primrose (disorder)
+58843002,Contact dermatitis due to caustic agent (disorder)
+59336008,Contact dermatitis due to cold weather (disorder)
+64451001,Contact dermatitis due to cyclohexane group (disorder)
+65129009,Contact dermatitis caused by milk
+65394002,Contact dermatitis caused by Rhus verniciflua
+67445002,Contact dermatitis caused by food in contact with skin (disorder)
+67607005,Contact dermatitis due to infrared rays (disorder)
+68670009,Contact dermatitis of eyelid (disorder)
+6888008,Contact dermatitis caused by dye (disorder)
+69827001,Contact dermatitis due to X-ray
+69999007,"Contact dermatitis caused by plants, except food"
+700340008,Allergic contact dermatitis of upper eyelid (disorder)
+700341007,Allergic contact dermatitis of lower eyelid
+715150009,Contact dermatitis caused by Senecio jacobea
+717724001,Irritant contact dermatitis of female genitalia
+717725000,Contact dermatitis of female genitalia
+72057009,Contact dermatitis caused by pediculicide
+724635009,Contact dermatitis of external ear
+724825001,Allergic contact dermatitis caused by hairdressing product (disorder)
+724828004,Irritant contact dermatitis caused by cosmetic substance
+724829007,Occupational contact dermatitis
+724869008,Protein contact dermatitis
+72921001,Contact dermatitis caused by meat
+733201000,Irritant contact dermatitis caused by dietary substance (disorder)
+735758003,Irritant contact dermatitis caused by friction
+735759006,Irritant contact dermatitis caused by sweat
+735760001,Irritant contact dermatitis caused by body fluid
+762379000,Allergic contact dermatitis caused by dental material (disorder)
+762380002,Allergic contact dermatitis caused by food flavour
+762381003,Allergic contact dermatitis caused by food additive (disorder)
+762382005,Allergic contact dermatitis caused by agrochemical biocide
+762383000,Allergic contact dermatitis caused by cutting oil
+762384006,Allergic contact dermatitis caused by disinfectant (disorder)
+762385007,Allergic contact dermatitis caused by allergenic hapten derived from plants or organic matter
+762386008,Allergic contact dermatitis caused by rubber compound
+762387004,Allergic contact dermatitis caused by systemic medicament
+762388009,Irritant contact dermatitis caused by emollient substance (disorder)
+762545002,Occupational allergic contact dermatitis caused by footwear (disorder)
+762548000,Occupational allergic contact dermatitis caused by cosmetic
+762549008,Occupational allergic contact dermatitis caused by fragrance
+762552000,Occupational allergic contact dermatitis caused by dental material
+762554004,Occupational allergic contact dermatitis caused by food flavor
+762555003,Occupational allergic contact dermatitis caused by food additive (disorder)
+762558001,Occupational allergic contact dermatitis caused by hairdressing product (disorder)
+762560004,Occupational allergic contact dermatitis caused by agrochemical biocide (disorder)
+762561000,Occupational allergic contact dermatitis caused by cutting oil
+762562007,Occupational allergic contact dermatitis caused by disinfectant (disorder)
+762566005,Occupational allergic contact dermatitis caused by metal compound
+762568006,Occupational allergic contact dermatitis caused by allergenic hapten derived from plant (disorder)
+762570002,Occupational allergic contact dermatitis caused by industrial preservative (disorder)
+762571003,Occupational allergic contact dermatitis caused by biocide
+762574006,Occupational allergic contact dermatitis caused by rubber compound
+762576008,Occupational allergic contact dermatitis caused by systemic drug or medicament
+762578009,Occupational allergic contact dermatitis caused by topical medicament (disorder)
+762726008,Occupational allergic contact dermatitis caused by clothing
+762754001,Allergic contact dermatitis caused by fragrance (disorder)
+762755000,Allergic contact dermatitis caused by footwear (disorder)
+762757008,Allergic contact dermatitis caused by clothing
+76982008,Contact dermatitis due to poison vine
+770545005,Allergic contact dermatitis caused by iodine (disorder)
+770588002,Allergic contact dermatitis caused by iodophore (disorder)
+770589005,Allergic contact dermatitis caused by povidone iodine (disorder)
+77560002,Contact dermatitis due to adhesive plaster
+78079005,Allergic contact dermatitis due to excretions
+78634007,Contact dermatitis due to metal
+78755001,Contact dermatitis due to cosmetics
+788971005,Irritant contact dermatitis of external ear (disorder)
+79927003,Contact dermatitis due to acid (disorder)
+81351008,Contact dermatitis caused by radiation (disorder)
+81581001,Contact dermatitis due to mercurials
+83150005,Contact dermatitis due to iodine
+83508001,Contact dermatitis due to nylon
+85512009,Contact dermatitis due to jewellery
+86062001,Contact dermatitis caused by drugs AND/OR medicine
+860924005,Allergic contact dermatitis caused by alkali-metal soap (disorder)
+870749003,Allergic contact dermatitis caused by usnic acid (disorder)
+88718007,Subacute contact dermatitis
+91487003,Urine-induced contact dermatitis
+93418006,Contact dermatitis due to chromium
+93419003,Contact dermatitis due to metals
+10762031000119106,Contact dermatitis of left upper and lower eyelids (disorder)

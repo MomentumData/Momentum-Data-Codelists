@@ -1,0 +1,59 @@
+SNOMEDCTCodes,Description
+10629391000119103,Allergic rhinitis caused by feathers
+10629431000119108,Allergic rhinitis caused by insects
+10629471000119106,Allergic rhinitis caused by mold
+10674711000119105,Acute severe exacerbation of asthma co-occurrent with allergic rhinitis
+10675631000119109,Severe persistent asthma controlled co-occurrent with allergic rhinitis
+10675991000119100,Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis (disorder)
+10676111000119102,Mild persistent asthma controlled co-occurrent with allergic rhinitis
+10676511000119109,Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis (disorder)
+10676671000119102,Moderate persistent asthma uncontrolled co-occurrent with allergic rhinitis
+124991000119109,Severe persistent asthma co-occurrent with allergic rhinitis
+125001000119103,Moderate persistent asthma co-occurrent with allergic rhinitis (disorder)
+125011000119100,Mild persistent asthma co-occurrent with allergic rhinitis (disorder)
+125021000119107,Intermittent asthma co-occurrent with allergic rhinitis (disorder)
+138793002,H/O: hay fever
+155537009,(Allergic rhinitis: [NOS] or [perennial] or [seasonal]) or (vasomotor rhinitis)
+156051000119109,Allergic rhinitis due to animal hair and dander
+161524000,History of hay fever (situation)
+195817007,Allergic rhinitis
+195818002,Pollinosis (& allergic rhinitis due to pollens)
+195819005,Allergy: [allergic rhinitis due to other allergens] or [named animals or animal products] or [hay fever] or [house dust] (disorder)
+195820004,(Hay fever) or (allergic rhinitis) due to unspecified allergen
+195821000,Allergic rhinitis NOS
+195968006,Asthma: [extrinsic - atopic] or [allergic] or [pollen] or [childhood] or [with hay fever]
+195970002,(Hay fever with asthma) or (extrinsic asthma without status asthmaticus)
+196218004,[X]Other seasonal allergic rhinitis
+196219007,[X]Other allergic rhinitis
+21719001,Allergic rhinitis due to pollen
+231855007,Hay fever conjunctivitis
+232345000,NINA - Non-infective non-allergic rhinitis
+232351005,Hay fever - other allergen
+232352003,Hay fever - unspecified allergen
+232353008,Perennial allergic rhinitis with seasonal variation
+233683003,Hay fever with asthma
+266344005,Allergic rhinitis due to other allergens
+266345006,Allergic rhinitis due to unspecified allergen
+266386004,(Allergic rhinitis: [NOS] or [perennial] or [seasonal]) or (vasomotor rhinitis) (disorder)
+278515004,Seasonal allergic rhinitis
+311000119101,Non-allergic rhinitis
+315864002,FH: Hay fever
+367498001,Seasonal allergic rhinitis (disorder)
+38103000,Perennial allergic rhinitis
+403457003,Congestive non-allergic rhinitis (disorder)
+414381007,Hay fever conjunctivitis (disorder)
+429195002,Allergic rhinitis due to animal dander (disorder)
+441978001,Allergic rhinitis due to food (disorder)
+446096008,Perennial allergic rhinitis (disorder)
+449729000,Allergic rhinitis due to house dust mite (disorder)
+61582004,Allergic rhinitis
+67415000,Hay fever with asthma
+70369002,Seasonal allergic rhinitis
+703903005,Dermatophagoides farinae allergic rhinitis
+703937002,Allergic rhinitis due to Dermatophagoides pteronyssinus (disorder)
+91925003,Allergic rhinitis due to animals
+91926002,Allergic rhinitis due to grass pollens
+91927006,Allergic rhinitis due to tree pollens
+91928001,Allergic rhinitis due to weed pollens
+93447004,Eosinophilic non-allergic rhinitis
+99031000119107,Acute exacerbation of asthma co-occurrent with allergic rhinitis

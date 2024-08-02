@@ -1,0 +1,289 @@
+SNOMEDCTCodes,Description
+10001005,Bacterial septicemia
+105592009,Septicemia
+10751351000119104,Sepsis due to ectopic pregnancy
+10760081000119108,Pyemic and septic embolism in childbirth (disorder)
+10760131000119108,Pyaemic and septic embolism in pregnancy
+10812001000119100,Sepsis due to incomplete spontaneous abortion
+1089000,Intrauterine sepsis of fetus
+1092461000119104,Sepsis without acute organ dysfunction (disorder)
+1092471000119105,Septic shock co-occurrent with acute organ dysfunction due to Chromobacterium (disorder)
+1092481000119108,Septic shock co-occurrent with acute organ dysfunction due to coagulase-negative Staphylococcus (disorder)
+1092491000119106,Septic shock co-occurrent with acute organ dysfunction due to Enterococcus
+1092501000119104,Septic shock co-occurrent with acute organ dysfunction due to Gonococcus
+1092511000119101,Septic shock co-occurrent with acute organ dysfunction due to Gram-positive coccus
+1092531000119106,Septic shock co-occurrent with acute organ dysfunction due to Group A streptococcus (disorder)
+1092541000119102,Septic shock co-occurrent with acute organ dysfunction due to Group B streptococcus (disorder)
+1092571000119109,Severe sepsis with acute organ dysfunction due to Chromobacterium (disorder)
+1092581000119107,Severe sepsis with acute organ dysfunction due to coagulase negative Staphylococcus
+1092591000119105,Severe sepsis with acute organ dysfunction due to Enterococcus
+1092601000119103,Severe sepsis with acute organ dysfunction caused by Gonococcus (disorder)
+1092611000119100,Severe sepsis with acute organ dysfunction due to Gram-positive bacteria
+1092631000119105,Severe sepsis with acute organ dysfunction due to Group A streptococcus
+1092641000119101,Severe sepsis with acute organ dysfunction due to Group B streptococcus (disorder)
+111430000,Legal abortion with septicemia
+111821004,Staphylococcal septicemia
+111837005,Other gram-negative septicemia
+111938001,Septic enteritis
+1125006,Septicemia during labor
+11373009,Illegal abortion with sepsis
+11855002,Septicemia following molar AND/OR ectopic pregnancy
+12020000,Abortion with septicemia
+12266551000119108,Postprocedural septic shock (disorder)
+123301002,Puerperal sepsis
+12463005,"Septic gastroenteritis, NOS"
+127141000119107,Septic shock co-occurrent with acute organ dysfunction due to anaerobic bacteria
+127171000119100,Septic shock co-occurrent with acute organ dysfunction due to Hemophilus influenzae (disorder)
+127181000119102,Septic shock co-occurrent with acute organ dysfunction due to Meningococcus (disorder)
+127191000119104,Septic shock co-occurrent with acute organ dysfunction due to methicillin susceptible Staphylococcus aureus (disorder)
+127201000119101,Septic shock co-occurrent with acute organ dysfunction due to Pseudomonas (disorder)
+127231000119108,Septic shock co-occurrent with acute organ dysfunction due to Serratia (disorder)
+127241000119104,Septic shock co-occurrent with acute organ dysfunction due to Staphylococcus (disorder)
+127251000119102,Septic shock co-occurrent with acute organ dysfunction due to Streptococcus
+127261000119100,Septic shock co-occurrent with acute organ dysfunction due to Pneumococcus
+127271000119106,Severe sepsis with acute organ dysfunction due to anaerobic bacteria
+127291000119107,Severe sepsis with acute organ dysfunction due to Gram-negative bacteria (disorder)
+127301000119108,Severe sepsis with acute organ dysfunction due to Haemophilus influenzae (disorder)
+127311000119106,Severe sepsis with acute organ dysfunction due to Meningococcus (disorder)
+127321000119104,Severe sepsis with acute organ dysfunction due to methicillin resistant Staphylococcus aureus
+127331000119101,Severe sepsis with acute organ dysfunction due to methicillin susceptible Staphylococcus aureus (disorder)
+127341000119105,Severe sepsis with acute organ dysfunction due to Pneumococcus (disorder)
+127351000119107,Severe sepsis with acute organ dysfunction due to Pseudomonas
+127361000119109,Severe sepsis with acute organ dysfunction due to Salmonella
+127381000119100,Severe sepsis with acute organ dysfunction due to Serratia (disorder)
+127391000119102,Severe sepsis with acute organ dysfunction due to Staphylococcus (disorder)
+127401000119100,Severe sepsis with acute organ dysfunction due to Streptococcus (disorder)
+128070006,Abdominal sepsis
+128381000119104,Septic shock co-occurrent with acute organ dysfunction due to methicillin resistant Staphylococcus aureus
+12983003,Failed attempted abortion with septic shock
+14972006,Anthrax septicemia
+154308000,Meningococcal septicaemia
+154313001,Septicemia
+15522007,Gram positive septicemia
+15765005,Septic shock due to transfusion
+158359009,[D]Septic shock
+18504008,Gram-positive septic shock
+18613002,Spontaneous abortion with septic shock
+186323004,Erysipelothrix septicaemia
+186372006,Meningococcal meningitis with acute meningococcal septicemia
+186373001,Meningococcal meningitis with meningococcal septicaemia
+186379002,"Septicemia due to streptococcus, group A"
+186380004,Gp B streptococcal septicemia
+186381000,"Septicemia due to streptococcus, group D"
+186382007,Septicaemia due to streptococcus pneumoniae
+186383002,Septicemia due to enterococcus
+186384008,Vancomycin-resistant enterococcal septicaemia
+186385009,Septicaemia due to Staphylococcus aureus
+186386005,Septicemia due to coagulase-negative staphylococcus
+186388006,Septicaemia due to other Gram-negative organisms
+186389003,Gram-negative septicemia NOS
+186390007,Other Gram-negative septicaemia NOS
+186391006,Other specified septicemias
+186392004,(Septicaemia NOS) or (sepsis)
+186398000,Actinomycotic septicaemia
+186942006,Gonococcal septicaemia
+18700001,Septicemia due to Chromobacterium
+187329006,[X]Other streptococcal septicaemia
+187330001,"[X]Streptococcal septicemia, unspecified"
+187331002,[X]Septicaemia due to other gram-negative organisms
+187332009,[X]Other specified septicemia
+187333004,"[X]Septicaemia, unspecified"
+193643009,Gram positive septicemia
+194394004,Gram positive sepsis
+194956009,Septic myocarditis - pneumococcal
+194957000,Septic myocarditis - staphylococcal
+194958005,Septic myocarditis - streptococcal
+194959002,Septic myocarditis NOS
+195284000,Haemorrhagic septicaemia barbone
+196111003,Bacterial haemorrhagic septicaemia
+196853004,Septicemic pasteurellosis
+1976008,Anaerobic septicemia
+198462004,Haemorrhagic septicaemia due to Pasteurella multocida
+198632004,Spontaneous abortion: [unspecified with genital or pelvic infection] or [with sepsis]
+198825005,Sepsis NOS following abortion and ectopic and molar pregnancy
+198826006,Septicemia NOS following abortive pregnancy
+198857006,Septic embolism following abortive pregnancy
+199708006,Septicemia during labor
+199709003,Septicaemia during labour unspecified
+199710008,Septicemia during labor - delivered
+199711007,Septicaemia during labour with antenatal problem
+199712000,Septicemia during labor NOS
+200178005,Puerperal: [major infection] or [sepsis]
+200193009,Puerperal septicaemia
+200194003,Puerperal septicemia unspecified
+200195002,Puerperal septicaemia - delivered with postnatal complication
+200196001,Puerperal septicemia with postnatal complication
+200197005,Puerperal septicaemia NOS
+20604004,Failed attempted abortion with septicemia
+207031008,[D]Septic shock
+20886003,Abortion with septic embolism
+213256002,Postoperative septic shock
+213329002,Septic shock due to transfusion
+230220006,Intracranial septic embolism
+230221005,Intracranial arterial septic embolism
+230222003,Septic thrombophlebitis of straight sinus
+230223008,Septic thrombophlebitis of sigmoid sinus
+230224002,Septic thrombophlebitis of cortical vein
+230225001,Septic thrombophlebitis of great cerebral vein
+230361008,Sepsis-associated encephalopathy
+233626008,Chronic bronchial sepsis
+233785003,Tracheal sepsis
+233795005,Bronchial sepsis
+233812001,Sepsis-associated lung injury
+234173007,Warm septic shock
+234174001,Hypodynamic septicemic shock
+234514001,Post-splenectomy septicaemia
+235657005,Stress-related gastritis
+236854007,Septic splenitis
+237255005,Spontaneous abortion with sepsis
+238149007,SIRS - System inflammatory response syndrome
+238150007,Sepsis syndrome
+238151006,Sepsis-associated organ dysfunction
+238152004,Sepsis-related gastrointestinal ulceration
+23863009,Haemophilus influenzae septicemia
+240385003,Septicaemic glanders
+240389009,Septicaemic melioidosis
+240450004,Staphylococcal toxic shock syndrome
+240451000,Streptococcal toxic shock syndrome
+24051007,Septic shock following molar AND/OR ectopic pregnancy
+24444009,Failed attempted abortion with sepsis
+25042006,Tracheostomy sepsis
+25691001,Legal abortion with septic shock
+266089004,Septicaemia NOS
+267279002,Puerperal sepsis
+267284008,Obstetric pyaemic and septic pulmonary embolism
+267360003,Puerperal infection (& [major])
+268874001,Sepsis - perinatal
+276228000,Gram-positive septic shock
+276229008,Sepsis-associated gastrointestinal hemorrhage
+276288002,Recurrent salmonella septicaemia
+276741000,Sepsis-associated myocardial dysfunction
+277638005,Sepsis-associated left ventricular failure
+277639002,Sepsis-associated right ventricular failure
+2858002,Puerperal septicemia
+29577008,Streptococcal septicemia
+29950007,Legal abortion with septic embolism
+300985007,Coliform septicaemia
+300986008,Proteus septicemia
+30260009,Abortion with sepsis
+302878004,Intracranial septic thrombophlebitis
+302879007,Septic thrombophlebitis of cavernous sinus
+302880005,Septic thrombophlebitis of sagittal sinus
+302881009,Septic thrombophlebitis of lateral sinus
+307362003,Intracranial venous septic embolism
+308887002,Postprocedural intra-abdominal sepsis
+310649002,Vancomycin-resistant enterococcal septicaemia
+310668004,Septicaemia due to streptococcus pneumoniae
+310669007,Septicaemia due to enterococcus
+313437008,Meningococcal meningitis with acute meningococcal septicaemia
+314130008,Meningococcal meningitis with meningococcal septicaemia
+32751000119100,Line sepsis associated with dialysis catheter (disorder)
+36102002,Waterhouse-Friderichsen syndrome
+361206004,Gram-positive septic shock
+371044001,Transient respiratory distress with sepsis (disorder)
+371093006,Urosepsis (disorder)
+37122007,Septicemia due to Erysipelothrix rhusiopathiae
+371769008,Gram-negative septic shock
+39047000,AIDS with septicemia
+39246002,Legal abortion with sepsis
+39341005,"Septic colitis, NOS"
+402961006,Pseudomonas septicemia with skin involvement (disorder)
+402966001,Septicemia affecting skin (disorder)
+4089001,Meningococcemia
+41936006,Septicemia due to Erysipelothrix insidiosa
+421184005,Septicemia associated with AIDS (disorder)
+443980004,Neutropenic sepsis (disorder)
+446770002,Septicemia due to Genus Acinetobacter (disorder)
+446903007,Septicemia due to fungus (disorder)
+447400006,Septicemia due to Streptococcus suis (disorder)
+447401005,Septicemia due to Genus Enterobacter (disorder)
+447684006,Sepsis due to Erysipelothrix (disorder)
+447685007,Sepsis due to Haemophilus influenzae (disorder)
+447841007,Sepsis due to Candida (disorder)
+447843005,Sepsis due to anaerobic bacteria (disorder)
+447894003,Sepsis due to Staphylococcus (disorder)
+447897005,Sepsis due to Acinetobacter (disorder)
+447898000,Sepsis due to Actinomyces (disorder)
+447899008,Sepsis due to Escherichia coli (disorder)
+447931005,Clinical sepsis (disorder)
+448417001,Sepsis due to Staphylococcus aureus (disorder)
+448418006,Sepsis due to Streptococcus (disorder)
+448419003,Sepsis due to Streptococcus agalactiae (disorder)
+448420009,Sepsis due to Streptococcus group D (disorder)
+448421008,Sepsis due to Streptococcus pneumoniae (disorder)
+448422001,Sepsis due to Streptococcus suis (disorder)
+448482003,Sepsis due to Bacillus anthracis (disorder)
+448483008,Sepsis due to Enterobacter (disorder)
+448784003,Sepsis due to herpes simplex (disorder)
+448812000,Sepsis due to methicillin resistant Staphylococcus aureus (disorder)
+448813005,Sepsis due to Pseudomonas (disorder)
+449082003,Sepsis due to Gram negative bacteria (disorder)
+449083008,Sepsis due to Salmonella (disorder)
+449084002,Sepsis due to Serratia (disorder)
+449335002,Sepsis due to Listeria monocytogenes (disorder)
+449504009,Sepsis due to Streptococcus pyogenes (disorder)
+449505005,Sepsis due to coagulase negative Staphylococcus (disorder)
+449546000,Sepsis due to Haemophilus influenzae type B (disorder)
+46848006,Sepsis following molar AND/OR ectopic pregnancy
+49012006,Herpes simplex septicemia
+49786009,Salmonella septicemia
+5085001,Gonococcemia
+51831006,"Sepsis following infusion, injection, transfusion AND/OR vaccination"
+53869006,Gram negative septicemia
+55184003,"Septic enteritis, NOS"
+5567000,Gas gangrene septicemia
+609485004,Termination of pregnancy complicated by sepsis
+609486003,Termination of pregnancy complicated by septic embolism
+609487007,Termination of pregnancy complicated by septic shock
+609488002,Termination of pregnancy complicated by septicemia
+61636002,Spontaneous abortion with septicemia
+64043005,"Septic myocarditis, NOS"
+66380007,Listeria septicemia
+67465009,Spontaneous abortion with sepsis
+698819004,Postoperative sepsis (disorder)
+700051000,Sepsis in asplenic subject (disorder)
+700052007,Post-splenectomy sepsis (disorder)
+700053002,Sepsis associated with acquired immunodeficiency syndrome (disorder)
+700055009,Sepsis with cutaneous manifestations
+707271004,Sepsis due to oral infection
+70772007,Abortion with septic shock
+713854001,Perinatal sepsis (disorder)
+713865006,Perinatal sepsis caused by Streptococcus agalactiae (disorder)
+713866007,Perinatal sepsis caused by Escherichia coli
+714083007,Recurrent salmonella septicaemia co-occurrent with human immunodeficiency virus infection
+715070000,Sepsis caused by Peptostreptococcus
+715071001,Sepsis caused by anaerobic streptococcus (disorder)
+721104000,Sepsis due to urinary tract infection (disorder)
+721572008,Sepsis caused by Pseudomonas aeruginosa (disorder)
+722278006,Acute kidney injury due to sepsis (disorder)
+733142005,Sepsis following obstructed labor (disorder)
+74689003,Septicemia due to anaerobic streptococci
+750511000000101,Biliary sepsis
+75375008,Septic enteritis
+762528007,Sepsis caused by Klebsiella pneumoniae (disorder)
+762529004,Sepsis caused by Acinetobacter baumannii (disorder)
+76571007,Septic shock
+77206006,Puerperal pelvic sepsis
+772165002,Meningococcal septicaemia suspected
+789043007,Sepsis without septic shock
+79587009,Septicemia due to Bacteroides
+79770005,Septic infarct
+8173005,Illegal abortion with septicemia
+82042006,Gram-negative septic shock
+82091000,Septicemia due to Serratia
+82338001,Illegal abortion with septic shock
+8272009,Septic abortion
+846685008,Biliary sepsis
+85292007,Postoperative septicemia
+86011004,Septicemia due to Pseudomonas
+860682009,Septic embolism due to and following molar pregnancy
+860683004,Septic embolism due to and following ectopic pregnancy (disorder)
+870588003,Sepsis due to disease caused by COVID-19
+9012003,Septicemic plague
+90587006,Septic laminitis
+90849005,Pneumococcal septicemia
+91302008,Systemic infection
+9221009,Surgical treatment of septic abortion
+9323009,Septicemia due to E. Coli
+9772004,Hemorrhagic septicemia due to Pasteurella multocida
+33101000,Clostridium septicum (organism)

@@ -1,0 +1,89 @@
+V2Codes,Description
+Myu21,[X]Allergic contact dermatitis due to other chemical products
+Myu23,[X]Allergic contact dermatitis due to other agents
+Myu24,[X]Irritant contact dermatitis due to other chemical products
+Myu25,[X]Irritant contact dermatitis due to other agents
+Myu26,[X]Unspecified contact dermatitis due to other chemical products
+Myu27,[X]Unspecified contact dermatitis due to other agents
+M12..,Contact dermatitis and other eczemas
+M120.,Contact dermatitis due to detergents
+M121.,Contact dermatitis due to oils and greases
+M122.,Contact dermatitis due to solvents
+M1220,Contact dermatitis due to chlorocompound
+M1221,Contact dermatitis due to cyclohexane
+M1222,Contact dermatitis due to ester
+M1223,Contact dermatitis due to glycol
+M1224,Contact dermatitis due to hydrocarbon
+M1225,Contact dermatitis due to ketone
+M122z,Contact dermatitis due to solvent NOS
+M123.,Contact dermatitis due to drugs and medicaments
+M1230,Contact dermatitis due to arnica
+M1231,Contact dermatitis due to fungicides
+M1232,Contact dermatitis due to iodine
+M1233,Contact dermatitis due to keratolytics
+M1234,Contact dermatitis due to mercurials
+M1235,Contact dermatitis due to neomycin
+M1236,Contact dermatitis due to pediculocides
+M1237,Contact dermatitis due to phenols
+M1238,Contact dermatitis due to scabicides
+M123z,Contact dermatitis due to medicament NOS
+M124.,Contact dermatitis due to other chemical products
+M1240,Contact dermatitis due to acids
+M1241,Contact dermatitis due to adhesive plaster
+M1242,Contact dermatitis due to alkalis
+M1243,Contact dermatitis due to caustics
+M1244,Contact dermatitis due to dichromate
+M1245,Contact dermatitis due to insecticide
+M1246,Contact dermatitis due to nylon
+M1247,Contact dermatitis due to plastic
+M1248,Contact dermatitis due to rubber
+M124z,Contact dermatitis: other chemicals NOS
+M125.,Contact dermatitis due to food in contact with skin
+M1250,Contact dermatitis due to cereals
+M1251,Contact dermatitis due to fish
+M1252,Contact dermatitis due to flour
+M1253,Contact dermatitis due to fruit
+M1254,Contact dermatitis due to meat
+M1255,Contact dermatitis due to milk
+M125z,Contact dermatitis due to food NOS
+M126.,Contact dermatitis due to plants
+M1260,Contact dermatitis due to lacquer tree
+M1261,Contact dermatitis due to poison-ivy
+M1262,Contact dermatitis due to poison-oak
+M1263,Contact dermatitis due to poison-sumac
+M1264,Contact dermatitis due to poison-vine
+M1265,Contact dermatitis due to primrose
+M1266,Contact dermatitis due to ragweed
+M126z,Contact dermatitis due to plants NOS
+M128.,Allergic contact dermatitis
+M1280,Allergic contact dermatitis due to adhesives
+M1281,Allergic contact dermatitis due to cosmetics
+M1282,Allergic contact dermatitis due to drugs in contact with the skin
+M1283,Allergic contact dermatitis due to dyes
+M1284,Allergic contact dermatitis due to other chemical products
+M1285,Allergic contact dermatitis due to food in contact with the skin
+M1286,"Allergic contact dermatitis due to plants, except food"
+M129.,Irritant contact dermatitis
+M1290,Irritant contact dermatitis due to cosmetics
+M1291,Irritant contact dermatitis due to drugs in contact with the skin
+M1292,Irritant contact dermatitis due to other chemical products
+M1293,Irritant contact dermatitis due to food in contact with the skin
+M1294,"Irritant contact dermatitis due to plants, except food"
+M12y.,Contact dermatitis due to other specified agents
+M12y0,Contact dermatitis due to cosmetics
+M12y1,Contact dermatitis due to cold weather
+M12y2,Contact dermatitis due to dyes
+M12y3,Contact dermatitis due to furs
+M12y4,Contact dermatitis due to hot weather
+M12y5,Contact dermatitis due to infra-red rays
+M12y6,Contact dermatitis due to jewellery
+M12y7,Contact dermatitis due to light (excluding sunlight)
+M12y8,Contact dermatitis due to metals
+M12y9,Contact dermatitis due to preservatives
+M12yA,Contact dermatitis due to radiation NOS
+M12yB,Contact dermatitis due to ultra-violet rays (excluding sunlight)
+M12yC,Contact dermatitis due to x-rays
+M12yD,Contact dermatitis due to casting materials
+M12yz,Contact dermatitis: specified agent NOS
+M12z.,Contact dermatitis NOS
+M12zz,Contact dermatitis NOS
