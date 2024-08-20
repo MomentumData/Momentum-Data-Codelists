@@ -1,0 +1,107 @@
+MedCodeID,Description
+4392501000006113,Tumor of pituitary gland
+4392461000006113,Neoplasm of pituitary gland
+4392491000006117,Pituitary tumor
+291439010,[M]Pituitary adenoma or carcinoma NOS
+4392471000006118,Pituitary tumour
+4392481000006115,Tumour of pituitary gland
+4392531000006117,Tumour of craniopharyngeal duct
+4392511000006111,Neoplasm of craniopharyngeal duct
+4392521000006115,Tumor of craniopharyngeal duct
+4505721000006116,Prolactinoma
+4505731000006118,Prolactin-secreting pituitary adenoma
+730041000006115,Malig neop pituitary gland or craniopharyngeal duct NOS
+720481000006117,Malignant neoplasm of pituitary gland and craniopharyngeal duct
+289409016,Malignant neoplasm of craniopharyngeal duct
+4751071000006110,Malignant tumour of craniopharyngeal duct
+4751081000006113,Malignant tumor of craniopharyngeal duct
+508141000006110,Benign neoplasm of Rathke's pouch
+4755691000006115,Craniopharyngioma
+4758681000006114,Pituitary dependent hypercortisolism
+4758721000006119,Pituitary dependent Cushing disease
+4758731000006116,Cushing basophilism
+4758751000006111,Cushing's disease
+226301000006110,Pituitary-dependent Cushing's disease
+4758711000006110,Pituitary Cushing syndrome
+4758741000006114,Pituitary hyperadrenal corticism
+4758701000006112,Cushing disease
+5111531000006113,Pituitary adenoma with extrasellar extension
+5111581000006114,Tumor of pituitary and suprasellar region
+5111571000006111,Tumor of pituitary and hypothalamus
+5111561000006116,Tumour of pituitary and hypothalamus
+5111551000006118,Tumour of pituitary and suprasellar region
+5324581000006112,Microprolactinoma
+5324591000006110,Macroprolactinoma
+5353491000006112,Pituitary carcinoma
+5353511000006118,Adenoma of pituitary
+379886010,Pituitary adenoma
+5353521000006114,Somatotroph adenoma
+5353531000006112,Growth hormone-secreting pituitary adenoma
+5353541000006119,Corticotroph adenoma
+5353551000006117,ACTH-secreting pituitary adenoma
+5353581000006113,Thyrotropin-secreting pituitary adenoma
+5353571000006110,TSH-oma
+5353561000006115,Thyrotroph adenoma
+5353611000006117,Gonadotrophinoma
+5353601000006115,Gonadotrophin-secreting pituitary adenoma
+5353591000006111,Gonadotroph adenoma
+5353621000006113,Mixed-functioning pituitary adenoma
+5353631000006111,Functionless pituitary adenoma
+5353651000006116,Null cell pituitary adenoma
+5353641000006118,Non-functioning pituitary adenoma
+5353661000006119,Pituitary microadenoma
+5353671000006114,Pituitary mesoadenoma
+5353681000006112,Pituitary macroadenoma
+5353691000006110,Suprasellar extension of pituitary adenoma
+5481751000006114,Pituitary macroadenoma with extrasellar extension
+406274012,Benign neoplasm of pituitary gland and craniopharyngeal duct
+507971000006117,Benign neoplasm of pituitary and craniopharyngeal duct NOS
+5599531000006117,Suprasellar germ cell tumor
+5599521000006115,Suprasellar germ cell tumour
+6247001000006110,Malignant tumour of pituitary gland
+6247041000006112,Pituitary cancer
+6247011000006113,Malignant tumor of pituitary gland
+722981000006114,Malignant neoplasm of pituitary gland
+6247031000006119,CA - Cancer of pituitary gland
+6247021000006117,Cancer of pituitary gland
+7232891000006114,Craniotomy and excision of pituitary tumour using intracranial approach
+7232901000006113,Craniotomy and excision of pituitary tumor using intracranial approach
+7232911000006111,Incision of bone of cranium and excision of neoplasm of pituitary gland using intracranial approach
+7350561000006114,Functioning pituitary tumour
+7350571000006119,Secretory pituitary tumour
+7350541000006110,Functioning pituitary tumor
+7350531000006117,Functioning pituitary neoplasm
+7350551000006112,Secretory pituitary tumor
+7489281000006110,Pituicytoma
+7520721000006111,Granular cell tumour of posterior pituitary
+7520741000006116,Granular cell tumor of posterior pituitary
+7520731000006114,Granular cell tumor of neurohypophysis
+7520711000006115,Granular cell tumour of neurohypophysis
+7559211000006119,Familial isolated pituitary adenoma
+12617761000006115,Paediatric pituitary blastoma tumour and germline WGS (whole genome sequencing)
+152487014,Benign neoplasm of craniopharyngeal duct
+3996881000006111,Benign tumor of craniopharyngeal duct
+3996871000006113,Benign tumour of craniopharyngeal duct
+152784015,Benign neoplasm of pituitary gland
+4001071000006116,Benign tumour of pituitary gland
+4001081000006118,Benign tumor of pituitary gland
+4006411000006111,Carcinoma in situ of craniopharyngeal duct
+153286013,Carcinoma in situ of pituitary gland
+4025541000006113,Primary malignant neoplasm of craniopharyngeal duct
+4027461000006116,Primary malignant neoplasm of pituitary gland
+4032181000006118,Metastatic malignant neoplasm to craniopharyngeal duct
+4032171000006116,Secondary malignant neoplasm of craniopharyngeal duct
+4037741000006114,Metastatic malignant neoplasm to pituitary gland
+4037751000006111,Metastasis to pituitary
+4037761000006113,Cancer metastatic to pituitary gland
+4037731000006116,Secondary malignant neoplasm of pituitary gland
+511509018,Neoplasm of uncertain behaviour of craniopharyngeal duct
+4044801000006112,Neoplasm of uncertain behavior of craniopharyngeal duct
+4048871000006110,Neoplasm of uncertain behavior of pituitary gland
+511768014,Neoplasm of uncertain behaviour of pituitary gland
+679441000006113,Neop uncertain behaviour pituitary and craniopharyngeal NOS
+679431000006115,Neop uncertain behaviour pituitary and craniopharyngeal duct
+266302015,Excision of lesion of pituitary gland
+266303013,Biopsy of lesion of pituitary gland
+290649010,Benign neoplasm of sella turcica
+1228164013,[M] Prolactinoma
