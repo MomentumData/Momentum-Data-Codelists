@@ -1,0 +1,41 @@
+MedCodeID,Description
+11551000000118,MED3 - doctor's statement
+7968061000006117,Med3 certificate issued to patient
+12487881000006115,MED3 issued to patient
+11561000000115,Med3 certificate issued to patient
+12487861000006113,MED3 duplicate issued
+7968111000006116,Med3 certificate duplicate issued
+11571000000110,Med3 certificate duplicate issued
+34201000000114,Med3 certificate issued - back to work
+12487871000006118,MED3 issued - back to work
+7999471000006114,Med3 certificate issued - back to work
+250873012,Unfit for work
+251019010,Sickness benefit
+141281000006119,Sickness benefit
+251020016,Statutory sick pay
+4537261000006117,SSP - Statutory sick pay
+226031000000112,Sick note generated from secondary care done by practice
+4947911000006116,Unfit to return to work
+4947921000006112,Physically unfit to return to work
+4947941000006117,Psychologically unfit to return to work
+4947931000006110,Mentally unfit to return to work
+251041010,"Benefits - other, specified"
+251042015,Sickness/invalid benefit NOS
+397805011,Sickness/invalidity benefit
+5927021000006117,Unfit for particular post
+6012761000006113,Incapacity benefit
+735851000000113,Benefits agency reports unfit for work
+11591000000114,Med3 certification status
+1653351000000114,"eMED3 (2010) new statement issued, not fit for work"
+1653661000000118,"eMED3 (2010) new statement issued, may be fit for work"
+1653701000000112,"eMED3 (2010) duplicate issued, not fit for work"
+1653741000000110,"eMED3 (2010) duplicate issued, may be fit for work"
+1653921000000117,"MED3 (2010) issued by hand, not fit for work"
+1653961000000113,"MED3 (2010) issued by hand, may be fit for work"
+1769631000006118,MED3 (2010) certificate duplicate issued
+1769641000006111,MED3 (2010) certificate issued - recommend phased return to work
+1769651000006113,MED3 (2010) certificate issued - recommend altered hours
+1769661000006110,MED3 (2010) certificate issued - recommend amended duties
+1769671000006115,MED3 (2010) certificate issued - recommend workplace adaptation
+1921301000006115,Benefits agency reports unfit for work but fit note no longer needed
+1769621000006116,MED3 (2010) certificate issued to patient

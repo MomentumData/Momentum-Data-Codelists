@@ -1,0 +1,14 @@
+V2Codes,Description
+9D1..,MED3 - doctor's statement
+9D11.,MED3 issued to patient
+9D12.,MED3 duplicate issued
+9D15.,"eMED3 (2010) new statement issued, not fit for work"
+9D17.,"eMED3 (2010) duplicate issued, not fit for work"
+9D19.,"MED3 (2010) issued by hand, not fit for work"
+9D1C.,MED3 (2010) issued to patient
+9D1D.,MED3 (2010) duplicate issued
+9D1E.,MED3 (2010) issued - recommend phased return to work
+9D1F.,MED3 (2010) issued - recommend altered hours
+9D1G.,MED3 (2010) issued - recommend amended duties
+9D1H.,MED3 (2010) issued - recommend workplace adaptation
+9D1Z.,MED3 - NOS

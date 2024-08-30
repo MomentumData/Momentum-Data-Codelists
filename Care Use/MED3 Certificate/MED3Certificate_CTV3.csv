@@ -1,0 +1,13 @@
+CTV3Codes,Description
+XaBHd,MED3 status
+9D11.,MED3 issued to patient
+9D12.,MED3 duplicate issued
+9D1Z.,MED3 - NOS
+XaX1E,"eMED3 (2010) new statement issued, not fit for work"
+XaX1L,"eMED3 (2010) duplicate issued, not fit for work"
+XaX1R,"MED3 (2010) issued by hand, not fit for work"
+XaXf1,MED3 (2010) issued to patient
+XaXf2,MED3 (2010) duplicate issued
+XaXf3,MED3 (2010) issued - recommend phased return to work
+XaXf4,MED3 (2010) issued - recommend altered hours
+XaXf5,MED3 (2010) issued - recommend amended duties
