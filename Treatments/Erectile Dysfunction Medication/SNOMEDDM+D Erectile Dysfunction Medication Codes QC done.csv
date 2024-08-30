@@ -1,0 +1,811 @@
+SNOMEDCTCodes,Description
+24396611000001104,Spedra 100mg tablets (A. Menarini Farmaceutica Internazionale SRL)
+24396711000001108,Spedra 100mg tablets (A. Menarini Farmaceutica Internazionale SRL) 4 tablet
+24396811000001100,Spedra 100mg tablets (A. Menarini Farmaceutica Internazionale SRL) 8 tablet
+24397111000001105,Spedra 200mg tablets (A. Menarini Farmaceutica Internazionale SRL)
+24397211000001104,Spedra 200mg tablets (A. Menarini Farmaceutica Internazionale SRL) 4 tablet
+24397311000001107,Spedra 200mg tablets (A. Menarini Farmaceutica Internazionale SRL) 8 tablet
+24395911000001103,Spedra 50mg tablets (A. Menarini Farmaceutica Internazionale SRL)
+24396111000001107,Spedra 50mg tablets (A. Menarini Farmaceutica Internazionale SRL) 4 tablet
+24396311000001109,Spedra 50mg tablets (A. Menarini Farmaceutica Internazionale SRL) 8 tablet
+703959000,Avanafil 100mg tablets
+24422211000001103,Avanafil 100mg tablets
+24396411000001102,Avanafil 100mg tablets 4 tablet
+24396511000001103,Avanafil 100mg tablets 8 tablet
+703960005,Avanafil 200mg tablets
+24422311000001106,Avanafil 200mg tablets
+24396911000001105,Avanafil 200mg tablets 4 tablet
+24397011000001109,Avanafil 200mg tablets 8 tablet
+703958008,Avanafil 50mg tablets
+24422411000001104,Avanafil 50mg tablets
+24395711000001100,Avanafil 50mg tablets 4 tablet
+24395811000001108,Avanafil 50mg tablets 8 tablet
+326715008,Sildenafil 100mg tablets
+1118711000001105,Sildenafil 100mg tablets 4 tablet
+949111000001107,Sildenafil 100mg tablets 8 tablet
+24640311000001106,Sildenafil 100mg tablets 12 tablet
+419015002,Sildenafil 20mg tablets
+10156911000001105,Sildenafil 20mg tablets
+10154411000001105,Sildenafil 20mg tablets 90 tablet
+22099011000001107,Sildenafil 25mg pessaries
+22089211000001103,Sildenafil 25mg pessaries 1 pessary
+326713001,Sildenafil 25mg tablets
+1127111000001100,Sildenafil 25mg tablets 4 tablet
+1039111000001102,Sildenafil 25mg tablets 8 tablet
+326714007,Sildenafil 50mg tablets
+39179311000001103,Sildenafil 50mg tablets 2 tablet
+1011811000001102,Sildenafil 50mg tablets 4 tablet
+1088011000001104,Sildenafil 50mg tablets 8 tablet
+15452411000001107,Sildenafil 10mg/5ml oral solution
+15448311000001104,Sildenafil 10mg/5ml oral solution 1 ml
+15452511000001106,Sildenafil 10mg/5ml oral suspension
+15448611000001109,Sildenafil 10mg/5ml oral suspension 1 ml
+22250711000001102,Sildenafil 10mg/5ml oral suspension 100 ml
+15535611000001107,Sildenafil 12.5mg/5ml oral solution
+15532211000001100,Sildenafil 12.5mg/5ml oral solution 1 ml
+15535711000001103,Sildenafil 12.5mg/5ml oral suspension
+15532611000001103,Sildenafil 12.5mg/5ml oral suspension 1 ml
+21519711000001109,Sildenafil 12.5mg/5ml oral suspension 100 ml
+21995211000001105,Sildenafil 12.5mg/5ml oral suspension 200 ml
+13859611000001103,Sildenafil 2.5mg/5ml oral solution
+13852811000001109,Sildenafil 2.5mg/5ml oral solution 1 ml
+21705011000001109,Sildenafil 10mg/ml oral suspension sugar free
+21700111000001102,Sildenafil 10mg/ml oral suspension sugar free 112 ml
+40639811000001108,Sildenafil 10mg/ml oral suspension sugar free 122 ml
+14160311000001103,Sildenafil 5mg/5ml oral suspension
+14081011000001103,Sildenafil 5mg/5ml oral suspension 1 ml
+33748911000001104,Sildenafil 5mg/5ml oral suspension 50 ml
+21629511000001104,Sildenafil 5mg/5ml oral suspension 60 ml
+14160211000001106,Sildenafil 5mg/5ml oral solution
+14080511000001104,Sildenafil 5mg/5ml oral solution 1 ml
+15650111000001104,Sildenafil 50mg/5ml oral suspension
+15637511000001108,Sildenafil 50mg/5ml oral suspension 1 ml
+15650211000001105,Sildenafil 50mg/5ml oral solution
+15637011000001100,Sildenafil 50mg/5ml oral solution 1 ml
+13859711000001107,Sildenafil 2.5mg/5ml oral suspension
+13853111000001108,Sildenafil 2.5mg/5ml oral suspension 1 ml
+35839511000001108,Sildenafil 20mg/5ml oral suspension
+35834811000001107,Sildenafil 20mg/5ml oral suspension 1 ml
+14058011000001104,Sildenafil 25mg/5ml oral solution
+14031011000001106,Sildenafil 25mg/5ml oral solution 1 ml
+14058111000001103,Sildenafil 25mg/5ml oral suspension
+14031511000001103,Sildenafil 25mg/5ml oral suspension 1 ml
+22250911000001100,Sildenafil 25mg/5ml oral suspension 100 ml
+22648811000001107,Sildenafil 100mg chewable tablets sugar free
+22521111000001104,Sildenafil 100mg chewable tablets sugar free 4 tablet
+22521411000001109,Sildenafil 100mg chewable tablets sugar free 8 tablet
+22648911000001102,Sildenafil 25mg chewable tablets sugar free
+22522411000001104,Sildenafil 25mg chewable tablets sugar free 4 tablet
+22518511000001106,Sildenafil 25mg chewable tablets sugar free 8 tablet
+22649011000001106,Sildenafil 50mg chewable tablets sugar free
+22519411000001104,Sildenafil 50mg chewable tablets sugar free 4 tablet
+22520411000001100,Sildenafil 50mg chewable tablets sugar free 8 tablet
+18759411000001103,Sildenafil 10mg/12.5ml solution for injection vials
+18759611000001100,Sildenafil 10mg/12.5ml solution for injection vials 1 vial
+16660911000001106,Sildenafil 40mg/50ml solution for injection vials
+16661011000001103,Sildenafil 40mg/50ml solution for injection vials 1 vial
+16661111000001102,Revatio 40mg/50ml solution for injection vials (Pfizer Ltd)
+16661211000001108,Revatio 40mg/50ml solution for injection vials (Pfizer Ltd) 1 vial
+21700211000001108,Revatio 10mg/ml oral suspension (Viatris UK Healthcare Ltd)
+21700311000001100,Revatio 10mg/ml oral suspension (Viatris UK Healthcare Ltd) 112 ml
+18759511000001104,Revatio 10mg/12.5ml solution for injection vials (Viatris UK Healthcare Ltd)
+18759711000001109,Revatio 10mg/12.5ml solution for injection vials (Viatris UK Healthcare Ltd) 1 vial
+22519511000001100,Nipatra 50mg chewable tablets (Advanz Pharma)
+22519611000001101,Nipatra 50mg chewable tablets (Advanz Pharma) 4 tablet
+22520511000001101,Nipatra 50mg chewable tablets (Advanz Pharma) 8 tablet 2 x 4 tablets
+22519911000001107,Nipatra 25mg chewable tablets (Advanz Pharma)
+22522511000001100,Nipatra 25mg chewable tablets (Advanz Pharma) 4 tablet
+22520211000001104,Nipatra 25mg chewable tablets (Advanz Pharma) 8 tablet 2 x 4 tablets
+22521211000001105,Nipatra 100mg chewable tablets (Advanz Pharma)
+22521311000001102,Nipatra 100mg chewable tablets (Advanz Pharma) 4 tablet
+22521511000001108,Nipatra 100mg chewable tablets (Advanz Pharma) 8 tablet 2 x 4 tablets
+23592911000001105,Vizarsin 50mg tablets (Consilient Health Ltd)
+23593011000001102,Vizarsin 50mg tablets (Consilient Health Ltd) 4 tablet
+35585011000001105,Viagra Connect 50mg tablets (Viatris UK Healthcare Ltd)
+39179411000001105,Viagra Connect 50mg tablets (Viatris UK Healthcare Ltd) 2 tablet
+35585111000001106,Viagra Connect 50mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+35585211000001100,Viagra Connect 50mg tablets (Viatris UK Healthcare Ltd) 8 tablet
+10486311000001100,Viagra 50mg tablets (Waymade Healthcare Plc)
+10489311000001107,Viagra 50mg tablets (Waymade Healthcare Plc) 4 tablet
+10486411000001107,Viagra 50mg tablets (Waymade Healthcare Plc) 8 tablet
+808811000001107,Viagra 50mg tablets (Viatris UK Healthcare Ltd)
+2152211000001105,Viagra 50mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+2152411000001109,Viagra 50mg tablets (Viatris UK Healthcare Ltd) 8 tablet 2 x 4 tablets
+14757311000001104,Viagra 50mg tablets (Sigma Pharmaceuticals Plc)
+14757611000001109,Viagra 50mg tablets (Sigma Pharmaceuticals Plc) 4 tablet
+14757911000001103,Viagra 50mg tablets (Sigma Pharmaceuticals Plc) 8 tablet
+18206611000001108,Viagra 50mg tablets (Necessity Supplies Ltd)
+18206711000001104,Viagra 50mg tablets (Necessity Supplies Ltd) 4 tablet
+18206811000001107,Viagra 50mg tablets (Necessity Supplies Ltd) 8 tablet
+17472511000001108,Viagra 50mg tablets (Mawdsley-Brooks & Company Ltd)
+17472711000001103,Viagra 50mg tablets (Mawdsley-Brooks & Company Ltd) 4 tablet
+17472611000001107,Viagra 50mg tablets (Mawdsley-Brooks & Company Ltd) 8 tablet
+10465711000001106,Viagra 50mg tablets (Dowelhurst Ltd)
+13216411000001108,Viagra 50mg tablets (Dowelhurst Ltd) 4 tablet
+10465811000001103,Viagra 50mg tablets (Dowelhurst Ltd) 8 tablet
+13970111000001107,Viagra 50mg tablets (DE Pharmaceuticals)
+13970311000001109,Viagra 50mg tablets (DE Pharmaceuticals) 4 tablet
+37537111000001105,Viagra 50mg tablets (CST Pharma Ltd)
+37537211000001104,Viagra 50mg tablets (CST Pharma Ltd) 4 tablet
+39612211000001106,Liberize 50mg tablets (Teva UK Ltd)
+39612311000001103,Liberize 50mg tablets (Teva UK Ltd) 4 tablet
+39612611000001108,Liberize 50mg tablets (Teva UK Ltd) 8 tablet 2 x 4 tablets
+38040411000001106,Aronix 50mg tablets (Dr Reddy's Laboratories (UK) Ltd)
+38040611000001109,Aronix 50mg tablets (Dr Reddy's Laboratories (UK) Ltd) 4 tablet
+38040711000001100,Aronix 50mg tablets (Dr Reddy's Laboratories (UK) Ltd) 8 tablet
+23592711000001108,Vizarsin 25mg tablets (Consilient Health Ltd)
+23592811000001100,Vizarsin 25mg tablets (Consilient Health Ltd) 4 tablet
+10489811000001103,Viagra 25mg tablets (Waymade Healthcare Plc)
+10489911000001108,Viagra 25mg tablets (Waymade Healthcare Plc) 4 tablet
+10490111000001104,Viagra 25mg tablets (Waymade Healthcare Plc) 8 tablet
+908711000001105,Viagra 25mg tablets (Viatris UK Healthcare Ltd)
+2151311000001106,Viagra 25mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+2151411000001104,Viagra 25mg tablets (Viatris UK Healthcare Ltd) 8 tablet 2 x 4 tablets
+14756911000001101,Viagra 25mg tablets (Sigma Pharmaceuticals Plc)
+14757011000001102,Viagra 25mg tablets (Sigma Pharmaceuticals Plc) 4 tablet
+14757111000001101,Viagra 25mg tablets (Sigma Pharmaceuticals Plc) 8 tablet
+18206311000001103,Viagra 25mg tablets (Necessity Supplies Ltd)
+18206411000001105,Viagra 25mg tablets (Necessity Supplies Ltd) 4 tablet
+18206511000001109,Viagra 25mg tablets (Necessity Supplies Ltd) 8 tablet
+17472311000001102,Viagra 25mg tablets (Mawdsley-Brooks & Company Ltd)
+17472411000001109,Viagra 25mg tablets (Mawdsley-Brooks & Company Ltd) 8 tablet
+13969711000001105,Viagra 25mg tablets (DE Pharmaceuticals)
+13969811000001102,Viagra 25mg tablets (DE Pharmaceuticals) 4 tablet
+10154511000001109,Revatio 20mg tablets (Viatris UK Healthcare Ltd)
+10154611000001108,Revatio 20mg tablets (Viatris UK Healthcare Ltd) 90 tablet 6 x 15 tablets
+22681711000001101,Sildenafil 100mg tablets (A A H Pharmaceuticals Ltd)
+22681811000001109,Sildenafil 100mg tablets (A A H Pharmaceuticals Ltd) 4 tablet
+22681911000001104,Sildenafil 100mg tablets (A A H Pharmaceuticals Ltd) 8 tablet
+23494011000001105,Sildenafil 100mg tablets (Accord Healthcare Ltd)
+23494111000001106,Sildenafil 100mg tablets (Accord Healthcare Ltd) 4 tablet
+23494311000001108,Sildenafil 100mg tablets (Accord Healthcare Ltd) 8 tablet 2 x 4 tablets
+22666511000001100,Sildenafil 100mg tablets (Actavis UK Ltd)
+22666611000001101,Sildenafil 100mg tablets (Actavis UK Ltd) 4 tablet
+22666711000001105,Sildenafil 100mg tablets (Actavis UK Ltd) 8 tablet 2 x 4 tablets
+22675111000001106,Sildenafil 100mg tablets (Alliance Healthcare (Distribution) Ltd)
+22675211000001100,Sildenafil 100mg tablets (Alliance Healthcare (Distribution) Ltd) 4 tablet
+22675411000001101,Sildenafil 100mg tablets (Alliance Healthcare (Distribution) Ltd) 8 tablet 2 x 4 tablets
+34952911000001108,Sildenafil 100mg tablets (Almus Pharmaceuticals Ltd)
+34953011000001100,Sildenafil 100mg tablets (Almus Pharmaceuticals Ltd) 4 tablet
+34953111000001104,Sildenafil 100mg tablets (Almus Pharmaceuticals Ltd) 8 tablet
+36569411000001103,Sildenafil 100mg tablets (Bristol Laboratories Ltd)
+36569511000001104,Sildenafil 100mg tablets (Bristol Laboratories Ltd) 4 tablet
+36569611000001100,Sildenafil 100mg tablets (Bristol Laboratories Ltd) 8 tablet 2 x 4 tablets
+30096811000001101,Sildenafil 100mg tablets (DE Pharmaceuticals)
+30097011000001105,Sildenafil 100mg tablets (DE Pharmaceuticals) 4 tablet
+30096911000001106,Sildenafil 100mg tablets (DE Pharmaceuticals) 8 tablet
+22691811000001105,Sildenafil 100mg tablets (Dr Reddy's Laboratories (UK) Ltd)
+22691911000001100,Sildenafil 100mg tablets (Dr Reddy's Laboratories (UK) Ltd) 4 tablet
+22692011000001107,Sildenafil 100mg tablets (Dr Reddy's Laboratories (UK) Ltd) 8 tablet
+40233811000001108,Sildenafil 100mg tablets (Ennogen Healthcare Ltd)
+40233911000001103,Sildenafil 100mg tablets (Ennogen Healthcare Ltd) 4 tablet
+33041411000001103,Sildenafil 100mg tablets (Genesis Pharmaceuticals Ltd)
+33041511000001104,Sildenafil 100mg tablets (Genesis Pharmaceuticals Ltd) 4 tablet
+32445411000001101,Sildenafil 100mg tablets (Kent Pharma (UK) Ltd)
+32445611000001103,Sildenafil 100mg tablets (Kent Pharma (UK) Ltd) 4 tablet
+32445811000001104,Sildenafil 100mg tablets (Kent Pharma (UK) Ltd) 8 tablet
+29674411000001108,Sildenafil 100mg tablets (Macleods Pharma UK Ltd)
+29674511000001107,Sildenafil 100mg tablets (Macleods Pharma UK Ltd) 4 tablet
+29674611000001106,Sildenafil 100mg tablets (Macleods Pharma UK Ltd) 8 tablet
+30914911000001106,Sildenafil 100mg tablets (Mawdsley-Brooks & Company Ltd)
+30915011000001106,Sildenafil 100mg tablets (Mawdsley-Brooks & Company Ltd) 4 tablet
+30915111000001107,Sildenafil 100mg tablets (Mawdsley-Brooks & Company Ltd) 8 tablet
+39247111000001105,Sildenafil 100mg tablets (Medihealth (Northern) Ltd)
+39247711000001106,Sildenafil 100mg tablets (Medihealth (Northern) Ltd) 4 tablet
+39247811000001103,Sildenafil 100mg tablets (Medihealth (Northern) Ltd) 8 tablet
+35184911000001104,Sildenafil 100mg tablets (Milpharm Ltd)
+35185011000001104,Sildenafil 100mg tablets (Milpharm Ltd) 4 tablet
+35185111000001103,Sildenafil 100mg tablets (Milpharm Ltd) 8 tablet
+40699111000001108,Sildenafil 100mg tablets (RX Farma)
+40699211000001102,Sildenafil 100mg tablets (RX Farma) 4 tablet
+40699311000001105,Sildenafil 100mg tablets (RX Farma) 8 tablet 2 x 4 tablets
+24516111000001105,Sildenafil 100mg tablets (Sandoz Ltd)
+24516311000001107,Sildenafil 100mg tablets (Sandoz Ltd) 4 tablet
+24516411000001100,Sildenafil 100mg tablets (Sandoz Ltd) 8 tablet 2 x 4 tablets
+33974111000001101,Sildenafil 100mg tablets (Somex Pharma)
+33974211000001107,Sildenafil 100mg tablets (Somex Pharma) 4 tablet
+33974411000001106,Sildenafil 100mg tablets (Somex Pharma) 8 tablet
+22561011000001108,Sildenafil 100mg tablets (Teva UK Ltd)
+22561111000001109,Sildenafil 100mg tablets (Teva UK Ltd) 4 tablet
+22561211000001103,Sildenafil 100mg tablets (Teva UK Ltd) 8 tablet 2 x 4 tablets
+36828911000001109,Sildenafil 100mg tablets (Torrent Pharma (UK) Ltd)
+36829011000001100,Sildenafil 100mg tablets (Torrent Pharma (UK) Ltd) 4 tablet
+38787011000001109,Sildenafil 100mg tablets (Torrent Pharma (UK) Ltd) 8 tablet
+22592511000001105,Sildenafil 100mg tablets (Upjohn UK Ltd)
+22592611000001109,Sildenafil 100mg tablets (Upjohn UK Ltd) 4 tablet
+22592711000001100,Sildenafil 100mg tablets (Upjohn UK Ltd) 8 tablet
+33618011000001101,Sildenafil 100mg tablets (Viatris UK Healthcare Ltd)
+33618111000001100,Sildenafil 100mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+33621011000001103,Sildenafil 100mg tablets (Viatris UK Healthcare Ltd) 8 tablet
+22687711000001105,Sildenafil 100mg tablets (Zentiva Pharma UK Ltd)
+22687811000001102,Sildenafil 100mg tablets (Zentiva Pharma UK Ltd) 4 tablet
+24640911000001107,Sildenafil 100mg tablets (hameln pharma Ltd)
+24641011000001104,Sildenafil 100mg tablets (hameln pharma Ltd) 12 tablet 3 x 4 tablets
+33868311000001109,Sildenafil 20mg tablets (A A H Pharmaceuticals Ltd)
+33868611000001104,Sildenafil 20mg tablets (A A H Pharmaceuticals Ltd) 90 tablet 6 x 15 tablets
+39821411000001101,Sildenafil 20mg tablets (Macleods Pharma UK Ltd)
+39821711000001107,Sildenafil 20mg tablets (Macleods Pharma UK Ltd) 90 tablet
+39248911000001109,Sildenafil 20mg tablets (Medihealth (Northern) Ltd)
+39249011000001100,Sildenafil 20mg tablets (Medihealth (Northern) Ltd) 90 tablet
+40698111000001101,Sildenafil 20mg tablets (RX Farma)
+40698311000001104,Sildenafil 20mg tablets (RX Farma) 90 tablet 9 x 10 tablets
+33620211000001102,Sildenafil 20mg tablets (Teva UK Ltd)
+33620311000001105,Sildenafil 20mg tablets (Teva UK Ltd) 90 tablet 6 x 15 tablets
+36899911000001107,Sildenafil 20mg tablets (Torrent Pharma (UK) Ltd)
+36900011000001105,Sildenafil 20mg tablets (Torrent Pharma (UK) Ltd) 90 tablet
+22089311000001106,Sildenafil 25mg pessaries (Special Order)
+22089511000001100,Sildenafil 25mg pessaries (Special Order) 1 pessary
+22681111000001102,Sildenafil 25mg tablets (A A H Pharmaceuticals Ltd)
+22681211000001108,Sildenafil 25mg tablets (A A H Pharmaceuticals Ltd) 4 tablet
+22681311000001100,Sildenafil 25mg tablets (A A H Pharmaceuticals Ltd) 8 tablet
+23494811000001104,Sildenafil 25mg tablets (Accord Healthcare Ltd)
+23495111000001105,Sildenafil 25mg tablets (Accord Healthcare Ltd) 4 tablet
+23495411000001100,Sildenafil 25mg tablets (Accord Healthcare Ltd) 8 tablet 2 x 4 tablets
+22665811000001105,Sildenafil 25mg tablets (Actavis UK Ltd)
+22665911000001100,Sildenafil 25mg tablets (Actavis UK Ltd) 4 tablet
+22666011000001108,Sildenafil 25mg tablets (Actavis UK Ltd) 8 tablet 2 x 4 tablets
+22674511000001103,Sildenafil 25mg tablets (Alliance Healthcare (Distribution) Ltd)
+22674611000001104,Sildenafil 25mg tablets (Alliance Healthcare (Distribution) Ltd) 4 tablet
+22674711000001108,Sildenafil 25mg tablets (Alliance Healthcare (Distribution) Ltd) 8 tablet 2 x 4 tablets
+34953411000001109,Sildenafil 25mg tablets (Almus Pharmaceuticals Ltd)
+34953511000001108,Sildenafil 25mg tablets (Almus Pharmaceuticals Ltd) 4 tablet
+34953611000001107,Sildenafil 25mg tablets (Almus Pharmaceuticals Ltd) 8 tablet
+34444311000001100,Sildenafil 25mg tablets (Bristol Laboratories Ltd)
+36568911000001103,Sildenafil 25mg tablets (Bristol Laboratories Ltd) 4 tablet
+34444411000001107,Sildenafil 25mg tablets (Bristol Laboratories Ltd) 8 tablet 2 x 4 tablets
+30096211000001102,Sildenafil 25mg tablets (DE Pharmaceuticals)
+30096311000001105,Sildenafil 25mg tablets (DE Pharmaceuticals) 4 tablet
+30096411000001103,Sildenafil 25mg tablets (DE Pharmaceuticals) 8 tablet
+22691211000001109,Sildenafil 25mg tablets (Dr Reddy's Laboratories (UK) Ltd)
+22691311000001101,Sildenafil 25mg tablets (Dr Reddy's Laboratories (UK) Ltd) 4 tablet
+22691411000001108,Sildenafil 25mg tablets (Dr Reddy's Laboratories (UK) Ltd) 8 tablet
+32444911000001105,Sildenafil 25mg tablets (Kent Pharma (UK) Ltd)
+32445111000001106,Sildenafil 25mg tablets (Kent Pharma (UK) Ltd) 4 tablet
+29673811000001107,Sildenafil 25mg tablets (Macleods Pharma UK Ltd)
+29673911000001102,Sildenafil 25mg tablets (Macleods Pharma UK Ltd) 4 tablet
+29674011000001104,Sildenafil 25mg tablets (Macleods Pharma UK Ltd) 8 tablet
+30914311000001105,Sildenafil 25mg tablets (Mawdsley-Brooks & Company Ltd)
+30914411000001103,Sildenafil 25mg tablets (Mawdsley-Brooks & Company Ltd) 4 tablet
+30914511000001104,Sildenafil 25mg tablets (Mawdsley-Brooks & Company Ltd) 8 tablet
+39249111000001104,Sildenafil 25mg tablets (Medihealth (Northern) Ltd)
+39249211000001105,Sildenafil 25mg tablets (Medihealth (Northern) Ltd) 4 tablet
+39249311000001102,Sildenafil 25mg tablets (Medihealth (Northern) Ltd) 8 tablet
+39361511000001107,Sildenafil 25mg tablets (Milpharm Ltd)
+39361611000001106,Sildenafil 25mg tablets (Milpharm Ltd) 4 tablet
+40698711000001100,Sildenafil 25mg tablets (RX Farma)
+40698811000001108,Sildenafil 25mg tablets (RX Farma) 4 tablet
+40699011000001107,Sildenafil 25mg tablets (RX Farma) 8 tablet 2 x 4 tablets
+24513711000001104,Sildenafil 25mg tablets (Sandoz Ltd)
+24513811000001107,Sildenafil 25mg tablets (Sandoz Ltd) 4 tablet
+24513911000001102,Sildenafil 25mg tablets (Sandoz Ltd) 8 tablet 2 x 4 tablets
+33972911000001107,Sildenafil 25mg tablets (Somex Pharma)
+33973211000001109,Sildenafil 25mg tablets (Somex Pharma) 4 tablet
+33973411000001108,Sildenafil 25mg tablets (Somex Pharma) 8 tablet
+22558911000001109,Sildenafil 25mg tablets (Teva UK Ltd)
+22559111000001104,Sildenafil 25mg tablets (Teva UK Ltd) 4 tablet
+22559211000001105,Sildenafil 25mg tablets (Teva UK Ltd) 8 tablet 2 x 4 tablets
+36828511000001102,Sildenafil 25mg tablets (Torrent Pharma (UK) Ltd)
+38787111000001105,Sildenafil 25mg tablets (Torrent Pharma (UK) Ltd) 4 tablet
+36828611000001103,Sildenafil 25mg tablets (Torrent Pharma (UK) Ltd) 8 tablet
+22591511000001102,Sildenafil 25mg tablets (Upjohn UK Ltd)
+22591911000001109,Sildenafil 25mg tablets (Upjohn UK Ltd) 4 tablet
+22591611000001103,Sildenafil 25mg tablets (Upjohn UK Ltd) 8 tablet
+33618211000001106,Sildenafil 25mg tablets (Viatris UK Healthcare Ltd)
+33618611000001108,Sildenafil 25mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+33619311000001109,Sildenafil 25mg tablets (Viatris UK Healthcare Ltd) 8 tablet
+22688111000001105,Sildenafil 25mg tablets (Zentiva Pharma UK Ltd)
+22688211000001104,Sildenafil 25mg tablets (Zentiva Pharma UK Ltd) 4 tablet
+22681411000001107,Sildenafil 50mg tablets (A A H Pharmaceuticals Ltd)
+22681511000001106,Sildenafil 50mg tablets (A A H Pharmaceuticals Ltd) 4 tablet
+22681611000001105,Sildenafil 50mg tablets (A A H Pharmaceuticals Ltd) 8 tablet
+23495911000001108,Sildenafil 50mg tablets (Accord Healthcare Ltd)
+23496211000001105,Sildenafil 50mg tablets (Accord Healthcare Ltd) 4 tablet
+23524011000001106,Sildenafil 50mg tablets (Accord Healthcare Ltd) 8 tablet 2 x 4 tablets
+22666111000001109,Sildenafil 50mg tablets (Actavis UK Ltd)
+22666211000001103,Sildenafil 50mg tablets (Actavis UK Ltd) 4 tablet
+22666411000001104,Sildenafil 50mg tablets (Actavis UK Ltd) 8 tablet 2 x 4 tablets
+22674811000001100,Sildenafil 50mg tablets (Alliance Healthcare (Distribution) Ltd)
+22674911000001105,Sildenafil 50mg tablets (Alliance Healthcare (Distribution) Ltd) 4 tablet
+22675011000001105,Sildenafil 50mg tablets (Alliance Healthcare (Distribution) Ltd) 8 tablet 2 x 4 tablets
+34953711000001103,Sildenafil 50mg tablets (Almus Pharmaceuticals Ltd)
+34953811000001106,Sildenafil 50mg tablets (Almus Pharmaceuticals Ltd) 4 tablet
+34953911000001101,Sildenafil 50mg tablets (Almus Pharmaceuticals Ltd) 8 tablet
+35279211000001102,Sildenafil 50mg tablets (Bristol Laboratories Ltd)
+35279311000001105,Sildenafil 50mg tablets (Bristol Laboratories Ltd) 4 tablet
+35279411000001103,Sildenafil 50mg tablets (Bristol Laboratories Ltd) 8 tablet 2 x 4 tablets
+30096511000001104,Sildenafil 50mg tablets (DE Pharmaceuticals)
+30096611000001100,Sildenafil 50mg tablets (DE Pharmaceuticals) 4 tablet
+30096711000001109,Sildenafil 50mg tablets (DE Pharmaceuticals) 8 tablet
+22691511000001107,Sildenafil 50mg tablets (Dr Reddy's Laboratories (UK) Ltd)
+22691611000001106,Sildenafil 50mg tablets (Dr Reddy's Laboratories (UK) Ltd) 4 tablet
+22691711000001102,Sildenafil 50mg tablets (Dr Reddy's Laboratories (UK) Ltd) 8 tablet
+40233611000001109,Sildenafil 50mg tablets (Ennogen Healthcare Ltd)
+40233711000001100,Sildenafil 50mg tablets (Ennogen Healthcare Ltd) 4 tablet
+33041211000001102,Sildenafil 50mg tablets (Genesis Pharmaceuticals Ltd)
+33041311000001105,Sildenafil 50mg tablets (Genesis Pharmaceuticals Ltd) 4 tablet
+32445211000001100,Sildenafil 50mg tablets (Kent Pharma (UK) Ltd)
+32445311000001108,Sildenafil 50mg tablets (Kent Pharma (UK) Ltd) 4 tablet
+29674111000001103,Sildenafil 50mg tablets (Macleods Pharma UK Ltd)
+29674211000001109,Sildenafil 50mg tablets (Macleods Pharma UK Ltd) 4 tablet
+29674311000001101,Sildenafil 50mg tablets (Macleods Pharma UK Ltd) 8 tablet
+30914611000001100,Sildenafil 50mg tablets (Mawdsley-Brooks & Company Ltd)
+30914711000001109,Sildenafil 50mg tablets (Mawdsley-Brooks & Company Ltd) 4 tablet
+30914811000001101,Sildenafil 50mg tablets (Mawdsley-Brooks & Company Ltd) 8 tablet
+39249411000001109,Sildenafil 50mg tablets (Medihealth (Northern) Ltd)
+39249511000001108,Sildenafil 50mg tablets (Medihealth (Northern) Ltd) 4 tablet
+39249611000001107,Sildenafil 50mg tablets (Medihealth (Northern) Ltd) 8 tablet
+35184611000001105,Sildenafil 50mg tablets (Milpharm Ltd)
+35184711000001101,Sildenafil 50mg tablets (Milpharm Ltd) 4 tablet
+35184811000001109,Sildenafil 50mg tablets (Milpharm Ltd) 8 tablet
+38700211000001102,Sildenafil 50mg tablets (Omega Pharma Ltd)
+38700311000001105,Sildenafil 50mg tablets (Omega Pharma Ltd) 4 tablet
+38700411000001103,Sildenafil 50mg tablets (Omega Pharma Ltd) 8 tablet
+40699611000001100,Sildenafil 50mg tablets (RX Farma)
+40699711000001109,Sildenafil 50mg tablets (RX Farma) 4 tablet
+40699811000001101,Sildenafil 50mg tablets (RX Farma) 8 tablet 2 x 4 tablets
+24514511000001107,Sildenafil 50mg tablets (Sandoz Ltd)
+24515311000001102,Sildenafil 50mg tablets (Sandoz Ltd) 4 tablet
+24515411000001109,Sildenafil 50mg tablets (Sandoz Ltd) 8 tablet 2 x 4 tablets
+3.40E16,Sildenafil 50mg tablets (Somex Pharma)
+33973711000001102,Sildenafil 50mg tablets (Somex Pharma) 8 tablet
+22560311000001101,Sildenafil 50mg tablets (Teva UK Ltd)
+22560511000001107,Sildenafil 50mg tablets (Teva UK Ltd) 4 tablet
+22560711000001102,Sildenafil 50mg tablets (Teva UK Ltd) 8 tablet 2 x 4 tablets
+36828711000001107,Sildenafil 50mg tablets (Torrent Pharma (UK) Ltd)
+36828811000001104,Sildenafil 50mg tablets (Torrent Pharma (UK) Ltd) 4 tablet
+38787211000001104,Sildenafil 50mg tablets (Torrent Pharma (UK) Ltd) 8 tablet
+22592211000001107,Sildenafil 50mg tablets (Upjohn UK Ltd)
+22592311000001104,Sildenafil 50mg tablets (Upjohn UK Ltd) 4 tablet
+22592411000001106,Sildenafil 50mg tablets (Upjohn UK Ltd) 8 tablet
+33617411000001106,Sildenafil 50mg tablets (Viatris UK Healthcare Ltd)
+33617711000001100,Sildenafil 50mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+33617911000001103,Sildenafil 50mg tablets (Viatris UK Healthcare Ltd) 8 tablet
+22687911000001107,Sildenafil 50mg tablets (Zentiva Pharma UK Ltd)
+22688011000001109,Sildenafil 50mg tablets (Zentiva Pharma UK Ltd) 4 tablet
+15448411000001106,Sildenafil 10mg/5ml oral solution (Special Order)
+15448511000001105,Sildenafil 10mg/5ml oral solution (Special Order) 1 ml
+15448711000001100,Sildenafil 10mg/5ml oral suspension (Drug Tariff Special Order)
+15449011000001107,Sildenafil 10mg/5ml oral suspension (Drug Tariff Special Order) 1 ml
+22250811000001105,Sildenafil 10mg/5ml oral suspension (Drug Tariff Special Order) 100 ml
+15532311000001108,Sildenafil 12.5mg/5ml oral solution (Special Order)
+15532411000001101,Sildenafil 12.5mg/5ml oral solution (Special Order) 1 ml
+15532711000001107,Sildenafil 12.5mg/5ml oral suspension (Special Order)
+15532911000001109,Sildenafil 12.5mg/5ml oral suspension (Special Order) 1 ml
+21519811000001101,Sildenafil 12.5mg/5ml oral suspension (Special Order) 100 ml
+21995311000001102,Sildenafil 12.5mg/5ml oral suspension (Special Order) 200 ml
+13852911000001104,Sildenafil 2.5mg/5ml oral solution (Special Order)
+13853011000001107,Sildenafil 2.5mg/5ml oral solution (Special Order) 1 ml
+13853211000001102,Sildenafil 2.5mg/5ml oral suspension (Special Order)
+13853311000001105,Sildenafil 2.5mg/5ml oral suspension (Special Order) 1 ml
+35834911000001102,Sildenafil 20mg/5ml oral suspension (Special Order)
+35835011000001102,Sildenafil 20mg/5ml oral suspension (Special Order) 1 ml
+14031211000001101,Sildenafil 25mg/5ml oral solution (Special Order)
+14031411000001102,Sildenafil 25mg/5ml oral solution (Special Order) 1 ml
+14031711000001108,Sildenafil 25mg/5ml oral suspension (Drug Tariff Special Order)
+14031911000001105,Sildenafil 25mg/5ml oral suspension (Drug Tariff Special Order) 1 ml
+22251011000001108,Sildenafil 25mg/5ml oral suspension (Drug Tariff Special Order) 100 ml
+15637111000001104,Sildenafil 50mg/5ml oral solution (Special Order)
+15637211000001105,Sildenafil 50mg/5ml oral solution (Special Order) 1 ml
+15637611000001107,Sildenafil 50mg/5ml oral suspension (Special Order)
+15637811000001106,Sildenafil 50mg/5ml oral suspension (Special Order) 1 ml
+14080611000001100,Sildenafil 5mg/5ml oral solution (Special Order)
+14080811000001101,Sildenafil 5mg/5ml oral solution (Special Order) 1 ml
+14081111000001102,Sildenafil 5mg/5ml oral suspension (Special Order)
+14081411000001107,Sildenafil 5mg/5ml oral suspension (Special Order) 1 ml
+33749011000001108,Sildenafil 5mg/5ml oral suspension (Special Order) 50 ml
+21629611000001100,Sildenafil 5mg/5ml oral suspension (Special Order) 60 ml
+40639911000001103,Sildenafil 10mg/ml oral suspension sugar free (Rosemont Pharmaceuticals Ltd)
+40640011000001109,Sildenafil 10mg/ml oral suspension sugar free (Rosemont Pharmaceuticals Ltd) 122 ml
+37536911000001105,Viagra 100mg tablets (CST Pharma Ltd)
+37537011000001109,Viagra 100mg tablets (CST Pharma Ltd) 4 tablet
+38173811000001107,Viagra 100mg tablets (DE Pharmaceuticals)
+38173911000001102,Viagra 100mg tablets (DE Pharmaceuticals) 4 tablet
+10466011000001100,Viagra 100mg tablets (Dowelhurst Ltd)
+10466111000001104,Viagra 100mg tablets (Dowelhurst Ltd) 8 tablet
+18205411000001101,Viagra 100mg tablets (Necessity Supplies Ltd)
+18205511000001102,Viagra 100mg tablets (Necessity Supplies Ltd) 4 tablet
+18206211000001106,Viagra 100mg tablets (Necessity Supplies Ltd) 8 tablet
+14756311000001102,Viagra 100mg tablets (Sigma Pharmaceuticals Plc)
+14756611000001107,Viagra 100mg tablets (Sigma Pharmaceuticals Plc) 4 tablet
+14756811000001106,Viagra 100mg tablets (Sigma Pharmaceuticals Plc) 8 tablet
+525511000001107,Viagra 100mg tablets (Viatris UK Healthcare Ltd)
+2153111000001105,Viagra 100mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+2153311000001107,Viagra 100mg tablets (Viatris UK Healthcare Ltd) 8 tablet 2 x 4 tablets
+10490511000001108,Viagra 100mg tablets (Waymade Healthcare Plc)
+10490811000001106,Viagra 100mg tablets (Waymade Healthcare Plc) 4 tablet
+10491011000001109,Viagra 100mg tablets (Waymade Healthcare Plc) 8 tablet
+23593111000001101,Vizarsin 100mg tablets (Consilient Health Ltd)
+23593211000001107,Vizarsin 100mg tablets (Consilient Health Ltd) 4 tablet
+34937411000001101,Granpidam 20mg tablets (Accord Healthcare Ltd)
+34937511000001102,Granpidam 20mg tablets (Accord Healthcare Ltd) 90 tablet
+36931511000001102,Mysildecard 20mg tablets (Viatris UK Healthcare Ltd)
+36932611000001109,Mysildecard 20mg tablets (Viatris UK Healthcare Ltd) 90 tablet 6 x 15 tablets
+10154511000001109,Revatio 20mg tablets (Viatris UK Healthcare Ltd)
+10154611000001108,Revatio 20mg tablets (Viatris UK Healthcare Ltd) 90 tablet 6 x 15 tablets
+13969711000001105,Viagra 25mg tablets (DE Pharmaceuticals)
+13969811000001102,Viagra 25mg tablets (DE Pharmaceuticals) 4 tablet
+17472311000001102,Viagra 25mg tablets (Mawdsley-Brooks & Company Ltd)
+17472411000001109,Viagra 25mg tablets (Mawdsley-Brooks & Company Ltd) 8 tablet
+18206311000001103,Viagra 25mg tablets (Necessity Supplies Ltd)
+18206411000001105,Viagra 25mg tablets (Necessity Supplies Ltd) 4 tablet
+18206511000001109,Viagra 25mg tablets (Necessity Supplies Ltd) 8 tablet
+14756911000001101,Viagra 25mg tablets (Sigma Pharmaceuticals Plc)
+14757011000001102,Viagra 25mg tablets (Sigma Pharmaceuticals Plc) 4 tablet
+14757111000001101,Viagra 25mg tablets (Sigma Pharmaceuticals Plc) 8 tablet
+908711000001105,Viagra 25mg tablets (Viatris UK Healthcare Ltd)
+2151311000001106,Viagra 25mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+2151411000001104,Viagra 25mg tablets (Viatris UK Healthcare Ltd) 8 tablet 2 x 4 tablets
+10489811000001103,Viagra 25mg tablets (Waymade Healthcare Plc)
+10489911000001108,Viagra 25mg tablets (Waymade Healthcare Plc) 4 tablet
+10490111000001104,Viagra 25mg tablets (Waymade Healthcare Plc) 8 tablet
+23592711000001108,Vizarsin 25mg tablets (Consilient Health Ltd)
+23592811000001100,Vizarsin 25mg tablets (Consilient Health Ltd) 4 tablet
+38040411000001106,Aronix 50mg tablets (Dr Reddy's Laboratories (UK) Ltd)
+38040611000001109,Aronix 50mg tablets (Dr Reddy's Laboratories (UK) Ltd) 4 tablet
+38040711000001100,Aronix 50mg tablets (Dr Reddy's Laboratories (UK) Ltd) 8 tablet
+39612211000001106,Liberize 50mg tablets (Teva UK Ltd)
+39612311000001103,Liberize 50mg tablets (Teva UK Ltd) 4 tablet
+39612611000001108,Liberize 50mg tablets (Teva UK Ltd) 8 tablet 2 x 4 tablets
+37537111000001105,Viagra 50mg tablets (CST Pharma Ltd)
+37537211000001104,Viagra 50mg tablets (CST Pharma Ltd) 4 tablet
+13970111000001107,Viagra 50mg tablets (DE Pharmaceuticals)
+13970311000001109,Viagra 50mg tablets (DE Pharmaceuticals) 4 tablet
+10465711000001106,Viagra 50mg tablets (Dowelhurst Ltd)
+13216411000001108,Viagra 50mg tablets (Dowelhurst Ltd) 4 tablet
+10465811000001103,Viagra 50mg tablets (Dowelhurst Ltd) 8 tablet
+17472511000001108,Viagra 50mg tablets (Mawdsley-Brooks & Company Ltd)
+17472711000001103,Viagra 50mg tablets (Mawdsley-Brooks & Company Ltd) 4 tablet
+17472611000001107,Viagra 50mg tablets (Mawdsley-Brooks & Company Ltd) 8 tablet
+18206611000001108,Viagra 50mg tablets (Necessity Supplies Ltd)
+18206711000001104,Viagra 50mg tablets (Necessity Supplies Ltd) 4 tablet
+18206811000001107,Viagra 50mg tablets (Necessity Supplies Ltd) 8 tablet
+14757311000001104,Viagra 50mg tablets (Sigma Pharmaceuticals Plc)
+14757611000001109,Viagra 50mg tablets (Sigma Pharmaceuticals Plc) 4 tablet
+14757911000001103,Viagra 50mg tablets (Sigma Pharmaceuticals Plc) 8 tablet
+808811000001107,Viagra 50mg tablets (Viatris UK Healthcare Ltd)
+2152211000001105,Viagra 50mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+2152411000001109,Viagra 50mg tablets (Viatris UK Healthcare Ltd) 8 tablet 2 x 4 tablets
+10486311000001100,Viagra 50mg tablets (Waymade Healthcare Plc)
+10489311000001107,Viagra 50mg tablets (Waymade Healthcare Plc) 4 tablet
+10486411000001107,Viagra 50mg tablets (Waymade Healthcare Plc) 8 tablet
+35585011000001105,Viagra Connect 50mg tablets (Viatris UK Healthcare Ltd)
+39179411000001105,Viagra Connect 50mg tablets (Viatris UK Healthcare Ltd) 2 tablet
+35585111000001106,Viagra Connect 50mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+35585211000001100,Viagra Connect 50mg tablets (Viatris UK Healthcare Ltd) 8 tablet
+23592911000001105,Vizarsin 50mg tablets (Consilient Health Ltd)
+23593011000001102,Vizarsin 50mg tablets (Consilient Health Ltd) 4 tablet
+22521211000001105,Nipatra 100mg chewable tablets (Advanz Pharma)
+22521311000001102,Nipatra 100mg chewable tablets (Advanz Pharma) 4 tablet
+22521511000001108,Nipatra 100mg chewable tablets (Advanz Pharma) 8 tablet 2 x 4 tablets
+22519911000001107,Nipatra 25mg chewable tablets (Advanz Pharma)
+22522511000001100,Nipatra 25mg chewable tablets (Advanz Pharma) 4 tablet
+22520211000001104,Nipatra 25mg chewable tablets (Advanz Pharma) 8 tablet 2 x 4 tablets
+22519511000001100,Nipatra 50mg chewable tablets (Advanz Pharma)
+22519611000001101,Nipatra 50mg chewable tablets (Advanz Pharma) 4 tablet
+22520511000001101,Nipatra 50mg chewable tablets (Advanz Pharma) 8 tablet 2 x 4 tablets
+18759511000001104,Revatio 10mg/12.5ml solution for injection vials (Viatris UK Healthcare Ltd)
+18759711000001109,Revatio 10mg/12.5ml solution for injection vials (Viatris UK Healthcare Ltd) 1 vial
+21700211000001108,Revatio 10mg/ml oral suspension (Viatris UK Healthcare Ltd)
+21700311000001100,Revatio 10mg/ml oral suspension (Viatris UK Healthcare Ltd) 112 ml
+16661111000001102,Revatio 40mg/50ml solution for injection vials (Pfizer Ltd)
+36239111000001109,Vardenafil 10mg tablets (A A H Pharmaceuticals Ltd)
+36239211000001103,Vardenafil 10mg tablets (A A H Pharmaceuticals Ltd) 4 tablet
+36239311000001106,Vardenafil 10mg tablets (A A H Pharmaceuticals Ltd) 8 tablet 2 x 4 tablets
+36235511000001103,Vardenafil 10mg tablets (Accord Healthcare Ltd)
+36235611000001104,Vardenafil 10mg tablets (Accord Healthcare Ltd) 4 tablet
+36235711000001108,Vardenafil 10mg tablets (Accord Healthcare Ltd) 8 tablet 2 x 4 tablets
+36240911000001102,Vardenafil 10mg tablets (Alliance Healthcare (Distribution) Ltd)
+36241011000001105,Vardenafil 10mg tablets (Alliance Healthcare (Distribution) Ltd) 4 tablet‹
+36509311000001109,Vardenafil 10mg tablets (Aristo Pharma Ltd)
+36509411000001102,Vardenafil 10mg tablets (Aristo Pharma Ltd) 4 tablet
+36509511000001103,Vardenafil 10mg tablets (Aristo Pharma Ltd) 8 tablet 2 x 4 tablets
+37833311000001104,Vardenafil 10mg tablets (DE Pharmaceuticals)
+37833411000001106,Vardenafil 10mg tablets (DE Pharmaceuticals) 4 tablet
+40368111000001109,Vardenafil 10mg tablets (DE Pharmaceuticals) 8 tablet
+39923611000001107,Vardenafil 10mg tablets (Medihealth (Northern) Ltd)
+39923811000001106,Vardenafil 10mg tablets (Medihealth (Northern) Ltd) 4 tablet
+39923711000001103,Vardenafil 10mg tablets (Medihealth (Northern) Ltd) 8 tablet
+36562711000001103,Vardenafil 10mg tablets (Rivopharm (UK) Ltd)
+36562811000001106,Vardenafil 10mg tablets (Rivopharm (UK) Ltd) 4 tablet
+36562911000001101,Vardenafil 10mg tablets (Rivopharm (UK) Ltd) 8 tablet
+36504311000001108,Vardenafil 10mg tablets (Sovereign Medical Ltd)
+36504411000001101,Vardenafil 10mg tablets (Sovereign Medical Ltd) 4 tablet
+35993911000001100,Vardenafil 10mg tablets (Viatris UK Healthcare Ltd)
+35994111000001101,Vardenafil 10mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+22503711000001105,Vardenafil 10mg tablets (Waymade Healthcare Plc)
+22503811000001102,Vardenafil 10mg tablets (Waymade Healthcare Plc) 4 tablet
+37242111000001102,Vardenafil 10mg tablets (Zentiva Pharma UK Ltd)
+37242211000001108,Vardenafil 10mg tablets (Zentiva Pharma UK Ltd) 4 tablet
+37242311000001100,Vardenafil 10mg tablets (Zentiva Pharma UK Ltd) 8 tablet
+36239411000001104,Vardenafil 20mg tablets (A A H Pharmaceuticals Ltd)
+36239511000001100,Vardenafil 20mg tablets (A A H Pharmaceuticals Ltd) 4 tablet
+36239611000001101,Vardenafil 20mg tablets (A A H Pharmaceuticals Ltd) 8 tablet 2 x 4 tablets
+36235811000001100,Vardenafil 20mg tablets (Accord Healthcare Ltd)
+36235911000001105,Vardenafil 20mg tablets (Accord Healthcare Ltd) 4 tablet
+36236011000001102,Vardenafil 20mg tablets (Accord Healthcare Ltd) 8 tablet 2 x 4 tablets
+36241211000001100,Vardenafil 20mg tablets (Alliance Healthcare (Distribution) Ltd)
+36241311000001108,Vardenafil 20mg tablets (Alliance Healthcare (Distribution) Ltd) 4 tablet
+36509611000001104,Vardenafil 20mg tablets (Aristo Pharma Ltd)
+36509711000001108,Vardenafil 20mg tablets (Aristo Pharma Ltd) 4 tablet
+36509811000001100,Vardenafil 20mg tablets (Aristo Pharma Ltd) 8 tablet 2 x 4 tablets
+37833511000001105,Vardenafil 20mg tablets (DE Pharmaceuticals)
+37833611000001109,Vardenafil 20mg tablets (DE Pharmaceuticals) 4 tablet
+37833711000001100,Vardenafil 20mg tablets (DE Pharmaceuticals) 8 tablet
+39923111000001104,Vardenafil 20mg tablets (Medihealth (Northern) Ltd)
+39923311000001102,Vardenafil 20mg tablets (Medihealth (Northern) Ltd) 4 tablet
+39923211000001105,Vardenafil 20mg tablets (Medihealth (Northern) Ltd) 8 tablet
+36563011000001109,Vardenafil 20mg tablets (Rivopharm (UK) Ltd)
+36563111000001105,Vardenafil 20mg tablets (Rivopharm (UK) Ltd) 4 tablet
+36563211000001104,Vardenafil 20mg tablets (Rivopharm (UK) Ltd) 8 tablet
+36504011000001105,Vardenafil 20mg tablets (Sovereign Medical Ltd)
+36504211000001100,Vardenafil 20mg tablets (Sovereign Medical Ltd) 4 tablet
+36504111000001106,Vardenafil 20mg tablets (Sovereign Medical Ltd) 8 tablet 2 x 4 tablets
+35994211000001107,Vardenafil 20mg tablets (Viatris UK Healthcare Ltd)
+35994311000001104,Vardenafil 20mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+10494711000001109,Vardenafil 20mg tablets (Waymade Healthcare Plc)
+10494911000001106,Vardenafil 20mg tablets (Waymade Healthcare Plc) 4 tablet
+37242411000001107,Vardenafil 20mg tablets (Zentiva Pharma UK Ltd)
+37242511000001106,Vardenafil 20mg tablets (Zentiva Pharma UK Ltd) 4 tablet
+37242611000001105,Vardenafil 20mg tablets (Zentiva Pharma UK Ltd) 8 tablet
+36238711000001101,Vardenafil 5mg tablets (A A H Pharmaceuticals Ltd)
+36238811000001109,Vardenafil 5mg tablets (A A H Pharmaceuticals Ltd) 4 tablet
+36239011000001108,Vardenafil 5mg tablets (A A H Pharmaceuticals Ltd) 8 tablet 2 x 4 tablets
+36235211000001101,Vardenafil 5mg tablets (Accord Healthcare Ltd)
+36235311000001109,Vardenafil 5mg tablets (Accord Healthcare Ltd) 4 tablet
+36235411000001102,Vardenafil 5mg tablets (Accord Healthcare Ltd) 8 tablet 2 x 4 tablets
+36240411000001105,Vardenafil 5mg tablets (Alliance Healthcare (Distribution) Ltd)
+36240711000001104,Vardenafil 5mg tablets (Alliance Healthcare (Distribution) Ltd) 4 tablet
+36508811000001107,Vardenafil 5mg tablets (Aristo Pharma Ltd)
+36508911000001102,Vardenafil 5mg tablets (Aristo Pharma Ltd) 4 tablet
+36509211000001101,Vardenafil 5mg tablets (Aristo Pharma Ltd) 8 tablet 2 x 4 tablets
+37833111000001101,Vardenafil 5mg tablets (DE Pharmaceuticals)
+37833211000001107,Vardenafil 5mg tablets (DE Pharmaceuticals) 4 tablet
+40368211000001103,Vardenafil 5mg tablets (DE Pharmaceuticals) 8 tablet
+39922411000001100,Vardenafil 5mg tablets (Medihealth (Northern) Ltd)
+39922611000001102,Vardenafil 5mg tablets (Medihealth (Northern) Ltd) 4 tablet
+39922511000001101,Vardenafil 5mg tablets (Medihealth (Northern) Ltd) 8 tablet
+36562411000001109,Vardenafil 5mg tablets (Rivopharm (UK) Ltd)
+36562511000001108,Vardenafil 5mg tablets (Rivopharm (UK) Ltd) 4 tablet
+36562611000001107,Vardenafil 5mg tablets (Rivopharm (UK) Ltd) 8 tablet
+36504511000001102,Vardenafil 5mg tablets (Sovereign Medical Ltd)
+36504611000001103,Vardenafil 5mg tablets (Sovereign Medical Ltd) 4 tablet
+35993211000001109,Vardenafil 5mg tablets (Viatris UK Healthcare Ltd)
+35993511000001107,Vardenafil 5mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+37241811000001100,Vardenafil 5mg tablets (Zentiva Pharma UK Ltd)
+37241911000001105,Vardenafil 5mg tablets (Zentiva Pharma UK Ltd) 4 tablet
+37242011000001103,Vardenafil 5mg tablets (Zentiva Pharma UK Ltd) 8 tablet
+38852111000001104,Vardenafil 10mg orodispersible tablets sugar free (Alliance Healthcare (Distribution) Ltd)
+38852211000001105,Vardenafil 10mg orodispersible tablets sugar free (Alliance Healthcare (Distribution) Ltd) 4 tablet
+38772111000001100,Vardenafil 10mg orodispersible tablets sugar free (Ridge Pharma Ltd)
+38772711000001104,Vardenafil 10mg orodispersible tablets sugar free (Ridge Pharma Ltd) 4 tablet
+4361611000001105,Levitra 10mg tablets (Bayer Plc)
+4362011000001106,Levitra 10mg tablets (Bayer Plc) 4 tablet
+4362111000001107,Levitra 10mg tablets (Bayer Plc) 8 tablet
+13921711000001104,Levitra 10mg tablets (DE Pharmaceuticals)
+13921811000001107,Levitra 10mg tablets (DE Pharmaceuticals) 4 tablet
+13170811000001103,Levitra 10mg tablets (Dowelhurst Ltd)
+13171011000001100,Levitra 10mg tablets (Dowelhurst Ltd) 4 tablet
+16499811000001105,Levitra 10mg tablets (Mawdsley-Brooks & Company Ltd)
+16499911000001100,Levitra 10mg tablets (Mawdsley-Brooks & Company Ltd) 4 tablet
+37991811000001105,Levitra 10mg tablets (Pharmaram Ltd)
+37991911000001100,Levitra 10mg tablets (Pharmaram Ltd) 4 tablet
+14766811000001104,Levitra 10mg tablets (Sigma Pharmaceuticals Plc)
+14766911000001109,Levitra 10mg tablets (Sigma Pharmaceuticals Plc) 4 tablet
+10547811000001109,Levitra 10mg tablets (Waymade Healthcare Plc)
+10547911000001104,Levitra 10mg tablets (Waymade Healthcare Plc) 4 tablet
+4363011000001102,Levitra 20mg tablets (Bayer Plc)
+4363111000001101,Levitra 20mg tablets (Bayer Plc) 4 tablet
+4363211000001107,Levitra 20mg tablets (Bayer Plc) 8 tablet
+18631211000001107,Levitra 20mg tablets (Mawdsley-Brooks & Company Ltd)
+18631311000001104,Levitra 20mg tablets (Mawdsley-Brooks & Company Ltd) 4 tablet
+18631411000001106,Levitra 20mg tablets (Mawdsley-Brooks & Company Ltd) 8 tablet
+37992011000001107,Levitra 20mg tablets (Pharmaram Ltd)
+37992111000001108,Levitra 20mg tablets (Pharmaram Ltd) 4 tablet
+10547311000001100,Levitra 20mg tablets (Waymade Healthcare Plc)
+10547511000001106,Levitra 20mg tablets (Waymade Healthcare Plc) 4 tablet
+4361111000001102,Levitra 5mg tablets (Bayer Plc)
+4361211000001108,Levitra 5mg tablets (Bayer Plc) 4 tablet
+4361311000001100,Levitra 5mg tablets (Bayer Plc) 8 tablet
+19966311000001101,Levitra 5mg tablets (Lexon (UK) Ltd)
+19966411000001108,Levitra 5mg tablets (Lexon (UK) Ltd) 4 tablet
+18212211000001107,Levitra 5mg tablets (Mawdsley-Brooks & Company Ltd)
+18212311000001104,Levitra 5mg tablets (Mawdsley-Brooks & Company Ltd) 4 tablet
+14767011000001108,Levitra 5mg tablets (Sigma Pharmaceuticals Plc)
+14767111000001109,Levitra 5mg tablets (Sigma Pharmaceuticals Plc) 4 tablet
+18665611000001102,Levitra 5mg tablets (Waymade Healthcare Plc)
+18665711000001106,Levitra 5mg tablets (Waymade Healthcare Plc) 4 tablet
+18680111000001100,Levitra 10mg orodispersible tablets (Bayer Plc)
+18680311000001103,Levitra 10mg orodispersible tablets (Bayer Plc) 4 tablet
+39706511000001100,Vardenafil 10mg tablets
+408021001,Vardenafil 10mg tablets
+4361411000001107,Vardenafil 10mg tablets 4 tablet
+4361511000001106,Vardenafil 10mg tablets 8 tablet
+39706711000001105,Vardenafil 20mg tablets
+408034000,Vardenafil 20mg tablets
+4362211000001101,Vardenafil 20mg tablets 4 tablet
+4362611000001104,Vardenafil 20mg tablets 8 tablet
+39706811000001102,Vardenafil 5mg tablets
+408033006,Vardenafil 5mg tablets
+4360911000001106,Vardenafil 5mg tablets 4 tablet
+4361011000001103,Vardenafil 5mg tablets 8 tablet
+18684711000001105,Vardenafil 10mg orodispersible tablets sugar free
+18679911000001102,Vardenafil 10mg orodispersible tablets sugar free 4 tablet
+34968711000001102,Tadalafil 10mg tablets (A A H Pharmaceuticals Ltd)
+34968811000001105,Tadalafil 10mg tablets (A A H Pharmaceuticals Ltd) 4 tablet
+34965711000001109,Tadalafil 10mg tablets (Accord Healthcare Ltd)
+34965811000001101,Tadalafil 10mg tablets (Accord Healthcare Ltd) 4 tablet
+34980411000001108,Tadalafil 10mg tablets (Alliance Healthcare (Distribution) Ltd)
+34980511000001107,Tadalafil 10mg tablets (Alliance Healthcare (Distribution) Ltd) 4 tablet
+34938611000001104,Tadalafil 10mg tablets (Aspire Pharma Ltd)
+34938711000001108,Tadalafil 10mg tablets (Aspire Pharma Ltd) 4 tablet 2 x 2 tablets
+36606111000001105,Tadalafil 10mg tablets (Bristol Laboratories Ltd)
+36606211000001104,Tadalafil 10mg tablets (Bristol Laboratories Ltd) 4 tablet
+37818311000001100,Tadalafil 10mg tablets (DE Pharmaceuticals)
+37818411000001107,Tadalafil 10mg tablets (DE Pharmaceuticals) 4 tablet
+37905211000001105,Tadalafil 10mg tablets (Dawa Ltd)
+37905411000001109,Tadalafil 10mg tablets (Dawa Ltd) 4 tablet
+39264811000001102,Tadalafil 10mg tablets (Medihealth (Northern) Ltd)
+39264911000001107,Tadalafil 10mg tablets (Medihealth (Northern) Ltd) 4 tablet
+37979211000001102,Tadalafil 10mg tablets (Medreich Plc)
+37979311000001105,Tadalafil 10mg tablets (Medreich Plc) 4 tablet
+35185811000001105,Tadalafil 10mg tablets (Milpharm Ltd)
+35185911000001100,Tadalafil 10mg tablets (Milpharm Ltd) 4 tablet
+39357311000001100,Tadalafil 10mg tablets (Noumed Life Sciences Ltd)
+39357411000001107,Tadalafil 10mg tablets (Noumed Life Sciences Ltd) 4 tablet
+34960811000001107,Tadalafil 10mg tablets (Sandoz Ltd)
+34960911000001102,Tadalafil 10mg tablets (Sandoz Ltd) 4 tablet
+36502811000001105,Tadalafil 10mg tablets (Sovereign Medical Ltd)
+36502911000001100,Tadalafil 10mg tablets (Sovereign Medical Ltd) 4 tablet
+36591311000001108,Tadalafil 10mg tablets (Sun Pharmaceutical Industries Europe B.V.)
+36591511000001102,Tadalafil 10mg tablets (Sun Pharmaceutical Industries Europe B.V.) 4 tablet
+34912311000001100,Tadalafil 10mg tablets (Teva UK Ltd)
+34912411000001107,Tadalafil 10mg tablets (Teva UK Ltd) 4 tablet
+34935411000001107,Tadalafil 10mg tablets (Viatris UK Healthcare Ltd)
+34935511000001106,Tadalafil 10mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+34968311000001101,Tadalafil 2.5mg tablets (A A H Pharmaceuticals Ltd)
+34968411000001108,Tadalafil 2.5mg tablets (A A H Pharmaceuticals Ltd) 28 tablet 4 x 7 tablets
+37146411000001106,Tadalafil 2.5mg tablets (Accord Healthcare Ltd)
+37146511000001105,Tadalafil 2.5mg tablets (Accord Healthcare Ltd) 28 tablet 4 x 7 tablets
+34979811000001105,Tadalafil 2.5mg tablets (Alliance Healthcare (Distribution) Ltd)
+34980211000001109,Tadalafil 2.5mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet 4 x 7 tablets
+37817911000001100,Tadalafil 2.5mg tablets (DE Pharmaceuticals)
+37818011000001103,Tadalafil 2.5mg tablets (DE Pharmaceuticals) 28 tablet
+39265011000001107,Tadalafil 2.5mg tablets (Medihealth (Northern) Ltd)
+39265111000001108,Tadalafil 2.5mg tablets (Medihealth (Northern) Ltd) 28 tablet
+34960411000001105,Tadalafil 2.5mg tablets (Sandoz Ltd)
+34960511000001109,Tadalafil 2.5mg tablets (Sandoz Ltd) 28 tablet 4 x 7 tablets
+36592111000001101,Tadalafil 2.5mg tablets (Sun Pharmaceutical Industries Europe B.V.)
+36592211000001107,Tadalafil 2.5mg tablets (Sun Pharmaceutical Industries Europe B.V.) 28 tablet
+34934611000001109,Tadalafil 2.5mg tablets (Teva UK Ltd)
+34934711000001100,Tadalafil 2.5mg tablets (Teva UK Ltd) 28 tablet 4 x 7 tablets
+34968911000001100,Tadalafil 20mg tablets (A A H Pharmaceuticals Ltd)
+34969011000001109,Tadalafil 20mg tablets (A A H Pharmaceuticals Ltd) 4 tablet
+34969111000001105,Tadalafil 20mg tablets (A A H Pharmaceuticals Ltd) 8 tablet
+34969211000001104,Tadalafil 20mg tablets (A A H Pharmaceuticals Ltd) 56 tablet
+34965911000001106,Tadalafil 20mg tablets (Accord Healthcare Ltd)
+34966011000001103,Tadalafil 20mg tablets (Accord Healthcare Ltd) 4 tablet
+34966111000001102,Tadalafil 20mg tablets (Accord Healthcare Ltd) 8 tablet
+34980611000001106,Tadalafil 20mg tablets (Alliance Healthcare (Distribution) Ltd)
+34980911000001100,Tadalafil 20mg tablets (Alliance Healthcare (Distribution) Ltd) 4 tablet
+34981111000001109,Tadalafil 20mg tablets (Alliance Healthcare (Distribution) Ltd) 8 tablet
+34981811000001102,Tadalafil 20mg tablets (Alliance Healthcare (Distribution) Ltd) 56 tablet
+37241611000001104,Tadalafil 20mg tablets (Aristo Pharma Ltd)
+37241711000001108,Tadalafil 20mg tablets (Aristo Pharma Ltd) 8 tablet 2 x 4 tablets
+34938811000001100,Tadalafil 20mg tablets (Aspire Pharma Ltd)
+34938911000001105,Tadalafil 20mg tablets (Aspire Pharma Ltd) 4 tablet 2 x 2 tablets
+39182711000001100,Tadalafil 20mg tablets (Bristol Laboratories Ltd)
+39182811000001108,Tadalafil 20mg tablets (Bristol Laboratories Ltd) 4 tablet
+40692311000001102,Tadalafil 20mg tablets (Crescent Pharma Ltd)
+40692411000001109,Tadalafil 20mg tablets (Crescent Pharma Ltd) 4 tablet
+40692711000001103,Tadalafil 20mg tablets (Crescent Pharma Ltd) 8 tablet
+37818511000001106,Tadalafil 20mg tablets (DE Pharmaceuticals)
+37818611000001105,Tadalafil 20mg tablets (DE Pharmaceuticals) 4 tablet
+37818711000001101,Tadalafil 20mg tablets (DE Pharmaceuticals) 8 tablet
+37906211000001104,Tadalafil 20mg tablets (Dawa Ltd)
+37906311000001107,Tadalafil 20mg tablets (Dawa Ltd) 4 tablet
+37906411000001100,Tadalafil 20mg tablets (Dawa Ltd) 8 tablet
+39265211000001102,Tadalafil 20mg tablets (Medihealth (Northern) Ltd)
+39265311000001105,Tadalafil 20mg tablets (Medihealth (Northern) Ltd) 4 tablet
+39265411000001103,Tadalafil 20mg tablets (Medihealth (Northern) Ltd) 8 tablet
+35186011000001108,Tadalafil 20mg tablets (Milpharm Ltd)
+35186111000001109,Tadalafil 20mg tablets (Milpharm Ltd) 4 tablet
+35186211000001103,Tadalafil 20mg tablets (Milpharm Ltd) 8 tablet
+39357511000001106,Tadalafil 20mg tablets (Noumed Life Sciences Ltd)
+39357611000001105,Tadalafil 20mg tablets (Noumed Life Sciences Ltd) 4 tablet
+39357711000001101,Tadalafil 20mg tablets (Noumed Life Sciences Ltd) 8 tablet 2 x 4 tablets
+34961011000001105,Tadalafil 20mg tablets (Sandoz Ltd)
+34961111000001106,Tadalafil 20mg tablets (Sandoz Ltd) 4 tablet
+34961211000001100,Tadalafil 20mg tablets (Sandoz Ltd) 8 tablet 2 x 4 tablets
+36502611000001106,Tadalafil 20mg tablets (Sovereign Medical Ltd)
+36502711000001102,Tadalafil 20mg tablets (Sovereign Medical Ltd) 4 tablet
+38726611000001105,Tadalafil 20mg tablets (Sovereign Medical Ltd) 56 tablet 4 x 14 tablets
+36592311000001104,Tadalafil 20mg tablets (Sun Pharmaceutical Industries Europe B.V.)
+36592411000001106,Tadalafil 20mg tablets (Sun Pharmaceutical Industries Europe B.V.) 4 tablet
+36592511000001105,Tadalafil 20mg tablets (Sun Pharmaceutical Industries Europe B.V.) 8 tablet
+36592811000001108,Tadalafil 20mg tablets (Sun Pharmaceutical Industries Europe B.V.) 56 tablet
+34912511000001106,Tadalafil 20mg tablets (Teva UK Ltd)
+34912611000001105,Tadalafil 20mg tablets (Teva UK Ltd) 4 tablet
+34912711000001101,Tadalafil 20mg tablets (Teva UK Ltd) 8 tablet
+34912811000001109,Tadalafil 20mg tablets (Teva UK Ltd) 56 tablet
+34935611000001105,Tadalafil 20mg tablets (Viatris UK Healthcare Ltd)
+34935711000001101,Tadalafil 20mg tablets (Viatris UK Healthcare Ltd) 4 tablet
+34935811000001109,Tadalafil 20mg tablets (Viatris UK Healthcare Ltd) 8 tablet 2 x 4 tablets
+34968511000001107,Tadalafil 5mg tablets (A A H Pharmaceuticals Ltd)
+34968611000001106,Tadalafil 5mg tablets (A A H Pharmaceuticals Ltd) 28 tablet 4 x 7 tablets
+37174111000001109,Tadalafil 5mg tablets (Accord Healthcare Ltd)
+37174411000001104,Tadalafil 5mg tablets (Accord Healthcare Ltd) 28 tablet 4 x 7 tablets
+34980811000001105,Tadalafil 5mg tablets (Alliance Healthcare (Distribution) Ltd)
+34980311000001101,Tadalafil 5mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet 4 x 7 tablets
+35526811000001103,Tadalafil 5mg tablets (Aspire Pharma Ltd)
+35526911000001108,Tadalafil 5mg tablets (Aspire Pharma Ltd) 28 tablet 2 x 14 tablets
+40224311000001104,Tadalafil 5mg tablets (Bristol Laboratories Ltd)
+40224411000001106,Tadalafil 5mg tablets (Bristol Laboratories Ltd) 28 tablet 2 x 14 tablets
+37818111000001102,Tadalafil 5mg tablets (DE Pharmaceuticals)
+37818211000001108,Tadalafil 5mg tablets (DE Pharmaceuticals) 28 tablet
+37906711000001106,Tadalafil 5mg tablets (Dawa Ltd)
+37906811000001103,Tadalafil 5mg tablets (Dawa Ltd) 28 tablet
+39265511000001104,Tadalafil 5mg tablets (Medihealth (Northern) Ltd)
+39265611000001100,Tadalafil 5mg tablets (Medihealth (Northern) Ltd) 28 tablet
+37979011000001107,Tadalafil 5mg tablets (Medreich Plc)
+37979111000001108,Tadalafil 5mg tablets (Medreich Plc) 28 tablet 2 x 14 tablets
+39357111000001102,Tadalafil 5mg tablets (Noumed Life Sciences Ltd)
+39357211000001108,Tadalafil 5mg tablets (Noumed Life Sciences Ltd) 28 tablet 2 x 14 tablets
+34960611000001108,Tadalafil 5mg tablets (Sandoz Ltd)
+34960711000001104,Tadalafil 5mg tablets (Sandoz Ltd) 28 tablet 4 x 7 tablets
+36592611000001109,Tadalafil 5mg tablets (Sun Pharmaceutical Industries Europe B.V.)
+36592711000001100,Tadalafil 5mg tablets (Sun Pharmaceutical Industries Europe B.V.) 28 tablet
+34934211000001107,Tadalafil 5mg tablets (Teva UK Ltd)
+34934311000001104,Tadalafil 5mg tablets (Teva UK Ltd) 28 tablet 4 x 7 tablets
+34934911000001103,Tadalafil 5mg tablets (Viatris UK Healthcare Ltd)
+34935111000001102,Tadalafil 5mg tablets (Viatris UK Healthcare Ltd) 28 tablet 2 x 14 tablets
+13848811000001108,Cialis 10mg tablets (DE Pharmaceuticals)
+13848911000001103,Cialis 10mg tablets (DE Pharmaceuticals) 4 tablet
+4105911000001106,Cialis 10mg tablets (Eli Lilly and Company Ltd)
+4106011000001103,Cialis 10mg tablets (Eli Lilly and Company Ltd) 4 tablet 2 x 2 tablets
+16501111000001105,Cialis 10mg tablets (Mawdsley-Brooks & Company Ltd)
+16501211000001104,Cialis 10mg tablets (Mawdsley-Brooks & Company Ltd) 4 tablet
+18219811000001103,Cialis 10mg tablets (Necessity Supplies Ltd)
+18219911000001108,Cialis 10mg tablets (Necessity Supplies Ltd) 4 tablet
+14495211000001103,Cialis 10mg tablets (Sigma Pharmaceuticals Plc)
+14495311000001106,Cialis 10mg tablets (Sigma Pharmaceuticals Plc) 4 tablet
+10503111000001101,Cialis 10mg tablets (Waymade Healthcare Plc)
+10503311000001104,Cialis 10mg tablets (Waymade Healthcare Plc) 4 tablet
+15001211000001104,Cialis 2.5mg tablets (Eli Lilly and Company Ltd)
+15001311000001107,Cialis 2.5mg tablets (Eli Lilly and Company Ltd) 28 tablet 2 x 14 tablets
+16500611000001107,Cialis 2.5mg tablets (Mawdsley-Brooks & Company Ltd)
+16500711000001103,Cialis 2.5mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet
+18249011000001104,Adcirca 20mg tablets (Eli Lilly and Company Ltd)
+18249211000001109,Adcirca 20mg tablets (Eli Lilly and Company Ltd) 56 tablet 4 x 14 tablets
+13849011000001107,Cialis 20mg tablets (DE Pharmaceuticals)
+13849111000001108,Cialis 20mg tablets (DE Pharmaceuticals) 4 tablet
+4106311000001100,Cialis 20mg tablets (Eli Lilly and Company Ltd)
+4106411000001107,Cialis 20mg tablets (Eli Lilly and Company Ltd) 4 tablet 2 x 2 tablets
+4106511000001106,Cialis 20mg tablets (Eli Lilly and Company Ltd) 8 tablet 4 x 2 tablets
+16500811000001106,Cialis 20mg tablets (Mawdsley-Brooks & Company Ltd)
+19732311000001101,Cialis 20mg tablets (Mawdsley-Brooks & Company Ltd) 4 tablet
+16500911000001101,Cialis 20mg tablets (Mawdsley-Brooks & Company Ltd) 8 tablet
+18220011000001105,Cialis 20mg tablets (Necessity Supplies Ltd)
+18220111000001106,Cialis 20mg tablets (Necessity Supplies Ltd) 4 tablet
+18220211000001100,Cialis 20mg tablets (Necessity Supplies Ltd) 8 tablet
+14495411000001104,Cialis 20mg tablets (Sigma Pharmaceuticals Plc)
+14495511000001100,Cialis 20mg tablets (Sigma Pharmaceuticals Plc) 4 tablet
+14495611000001101,Cialis 20mg tablets (Sigma Pharmaceuticals Plc) 8 tablet
+10503611000001109,Cialis 20mg tablets (Waymade Healthcare Plc)
+10503811000001108,Cialis 20mg tablets (Waymade Healthcare Plc) 4 tablet
+34959711000001100,Talmanco 20mg tablets (Viatris UK Healthcare Ltd)
+34959811000001108,Talmanco 20mg tablets (Viatris UK Healthcare Ltd) 56 tablet 4 x 14 tablets
+15001711000001106,Cialis 5mg tablets (Eli Lilly and Company Ltd)
+15001811000001103,Cialis 5mg tablets (Eli Lilly and Company Ltd) 28 tablet 2 x 14 tablets
+18204511000001103,Cialis 5mg tablets (Mawdsley-Brooks & Company Ltd)
+18204611000001104,Cialis 5mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet
+4110211000001108,Tadalafil 10mg tablets
+4105811000001101,Tadalafil 10mg tablets 4 tablet
+15098011000001101,Tadalafil 2.5mg tablets
+15001111000001105,Tadalafil 2.5mg tablets 28 tablet
+407858000,Tadalafil 20mg tablets
+4110311000001100,Tadalafil 20mg tablets
+4106111000001102,Tadalafil 20mg tablets 4 tablet
+4106211000001108,Tadalafil 20mg tablets 8 tablet
+18248911000001108,Tadalafil 20mg tablets 56 tablet
+422044000,Tadalafil 5mg tablets
+15001611000001102,Tadalafil 5mg tablets 28 tablet
