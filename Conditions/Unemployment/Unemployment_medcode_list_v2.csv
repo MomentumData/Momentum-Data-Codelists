@@ -1,0 +1,66 @@
+MedCodeID,Description
+4119731000006112,"Forced retirement, life event"
+4119721000006114,Forced retirement
+4119761000006115,Discharged from job
+159541000006112,Sacked from job
+217551000000117,Sacked from work
+4119751000006117,Dismissal from employment
+4119741000006119,Dismissed from job
+4119771000006110,Redundancy
+290662014,Voluntarily redundant
+4119821000006119,Voluntary redundancy
+34021000000110,IB113 DLS Incapacity for work form completed
+34041000000115,IB113 DLS Incapacity for work form sent
+34061000000119,IB113 DLS Incapacity for work form received
+34081000000111,IB113 DLS Incapacity for work form paid
+250858011,Recently unemployed
+250859015,Chronic unemployment
+4536631000006114,Made redundant
+250861012,Redundant
+250873012,Unfit for work
+250932010,Time off work
+4536821000006110,Amount of time off work
+251058017,Unemployment benefits
+251059013,Unemployment benefit
+251061016,Unemployment benefit NOS
+251060015,Redundancy payment
+4927311000006118,Registered with job center
+4927301000006116,Registered with job centre
+4927321000006114,Registered with work placement officer
+4928391000006112,Unfair dismissal from job
+4947911000006116,Unfit to return to work
+4947921000006112,Physically unfit to return to work
+4947931000006110,Mentally unfit to return to work
+4947941000006117,Psychologically unfit to return to work
+5496391000006114,Lost job
+397781013,Loss of job
+5653011000006116,Number of days off work
+5653021000006112,Days off work
+5927021000006117,Unfit for particular post
+6025431000006112,Unemployment counseling
+6025421000006114,Unemployment counselling
+6025451000006117,Redundancy counseling
+6025441000006119,Redundancy counselling
+8113811000006113,Unemployed person
+735851000000113,Benefits agency reports unfit for work
+7229381000006113,Number of sick days off work in last month
+8220511000006113,Unemployed person
+8224691000006114,Youth unemployment
+8225191000006116,Long term unemployment
+3694101000006118,Without employment
+3694131000006114,U/E - Unemployed
+502435010,Unemployed
+3694121000006111,UE - Unemployed
+3694111000006115,Out of work
+460996012,[V]Unemployment
+2170171000000114,Employment and support allowance status
+2170231000000116,ESA113 form completed
+2170291000000115,ESA113 form sent
+2170331000000110,ESA113 form received
+2170371000000112,ESA113 form paid
+1921301000006115,Benefits agency reports unfit for work but fit note no longer needed
+2441091000000119,"Not in employment, education or training"
+2441101000000110,"NEET - Not in employment, education or training"
+250854013,Retirement on medical grounds
+250857018,Medically retired
+2128041000000115,Employment and support allowance

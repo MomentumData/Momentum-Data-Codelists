@@ -1,0 +1,13 @@
+ICD10Codes,Description
+K90,Intestinal malabsorption
+K90.1,Tropical sprue
+K90.2,"Blind loop syndrome, not elsewhere classified"
+K90.3,Pancreatic steatorrhoea
+K90.4,"Malabsorption due to intolerance, not elsewhere classified"
+K90.8,Other intestinal malabsorption
+K90.9,"Intestinal malabsorption, unspecified"
+K91.2,"Postsurgical malabsorption, not elsewhere classified"
+K91.5,Postcholecystectomy syndrome
+M80.3,Postsurgical malabsorption osteoporosis with pathological fracture
+M81.3,Postsurgical malabsorption osteoporosis
+M83.2,Adult osteomalacia due to malabsorption

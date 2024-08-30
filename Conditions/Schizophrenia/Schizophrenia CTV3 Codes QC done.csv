@@ -1,0 +1,73 @@
+CTV3Codes,Description
+Eu20.,Schizophrenia
+E103.,Paranoid schizophrenia
+E1030,Unspecified paranoid schizophrenia
+E1031,Subchronic paranoid schizophrenia
+E1032,Chronic paranoid schizophrenia
+E1033,Acute exacerbation of subchronic paranoid schizophrenia
+E1034,Acute exacerbation of chronic paranoid schizophrenia
+E1035,Paranoid schizophrenia in remission
+E103z,Paranoid schizophrenia NOS
+E122.,Paraphrenia
+E101.,Hebephrenic schizophrenia
+E1010,Unspecified hebephrenic schizophrenia
+E1011,Subchronic hebephrenic schizophrenia
+E1012,Chronic hebephrenic schizophrenia
+E1013,Acute exacerbation of subchronic hebephrenic schizophrenia
+E1014,Acute exacerbation of chronic hebephrenic schizophrenia
+E1015,Hebephrenic schizophrenia in remission
+E101z,Hebephrenic schizophrenia NOS
+E102.,Catatonic schizophrenia
+E1020,Unspecified catatonic schizophrenia
+E1021,Subchronic catatonic schizophrenia
+E1022,Chronic catatonic schizophrenia
+E1023,Acute exacerbation of subchronic catatonic schizophrenia
+E1024,Acute exacerbation of chronic catatonic schizophrenia
+E1025,Catatonic schizophrenia in remission
+E102z,Catatonic schizophrenia NOS
+E10y0,Atypical schizophrenia
+Eu203,[X]Undifferentiated schizophrenia
+X00S8,Post-schizophrenic depression
+E106.,Residual schizophrenia
+E100.,Simple schizophrenia
+E1002,Chronic schizophrenic
+E1000,Unspecified schizophrenia
+E1001,Subchronic schizophrenia
+E1003,Acute exacerbation of subchronic schizophrenia
+E1004,Acute exacerbation of chronic schizophrenia
+E1005,Schizophrenia in remission
+E100z,Simple schizophrenia NOS
+XE1Xw,Acute schizophrenic episode
+E10..,Schizophrenic disorders
+E10y1,Cenesthopathic schizophrenia
+E10z.,Schizophrenia NOS
+Eu20z,"[X]Schizophrenia, unspecified"
+X761M,Schizophrenic prodrome
+XE1Xx,Other schizophrenia
+E10yz,Other schizophrenia NOS
+XE1ZM,[X]Other schizophrenia
+E1070,Unspecified schizoaffective schizophrenia
+E1071,Subchronic schizoaffective schizophrenia
+E1072,Chronic schizoaffective schizophrenia
+E1073,Acute exacerbation of subchronic schizoaffective schizophrenia
+E1074,Acute exacerbation of chronic schizoaffective schizophrenia
+E1075,Schizoaffective schizophrenia in remission
+E107z,Schizoaffective schizophrenia NOS
+E105.,Latent schizophrenia
+Ub1T7,Schizophrenic language
+XaMwd,Schizophrenia resolved
+X00S7,Childhood schizophrenia NOS
+13Y2.,Schizophrenia assoc'n member
+E1052,Chronic latent schizophrenia
+Xa0s9,Acute schizophrenia-like psychotic disorder
+X00SD,Schizophreniform disorder
+Eu2..,"[X]Schizophrenia, schizotypal and delusional disorders"
+XE1ZN,[X]Schizotypal disorder
+XaLIa,"Psychosis, schizophrenia and bipolar affective disorder resolved"
+Eu25.,Schizoaffective disorder
+XE2uT,"Schizoaffective disorder, manic type"
+XE2un,"Schizoaffecrive disorder, depressive type"
+XE2b8,"Schizoaffective disorder, mixed type"
+E107.,Schizoaffective schizophrenia
+Eu25y,[X] Other schizoaffective disorders
+Eu25z,"[X] Schizoaffective disoder, unspecified"

@@ -1,0 +1,197 @@
+SNOMEDCTCodes,Description
+10190003,Aortocoronary bypass of four or more coronary arteries
+11101003,Percutaneous transluminal coronary angioplasty
+119564002,Creation of bypass from mammary artery to coronary artery
+119565001,"Coronary artery bypass graft, anastomosis of artery of thorax to coronary artery"
+130541000119100,History of placement of stent in coronary artery bypass graft (situation)
+130551000119103,Stent in branch of right coronary artery
+131521000119101,Bare metal stent in anterior descending branch of left coronary artery
+131551000119109,Drug coated stent in branch of right coronary artery
+131561000119106,Bare metal stent in branch of right coronary artery
+131581000119102,Drug coated stent in circumflex branch of left coronary artery
+131591000119104,Bare metal stent in circumflex branch of left coronary artery
+131601000119106,Drug coated stent in anterior descending branch of left coronary artery (finding)
+14201006,Coronary angioplasty by open chest approach
+14323007,Aortocoronary bypass of three coronary arteries
+149169006,Coronary artery operations (& bypass)
+149170007,Endarterectomy of coronary artery
+149171006,Saphenous vein graft bypass of coronary artery
+149172004,Connection of mammary artery to coronary artery
+149177005,Insertion of coronary artery stent
+149179008,Coronary artery operations NOS
+149254002,Angioplasty of coronary artery
+149255001,Percutaneous balloon angioplasty of coronary artery
+175006004,Coronary artery operations (& bypass)
+175007008,Saphenous vein graft replacement of one coronary artery
+175008003,Saphenous vein graft replacement of two coronary arteries
+175009006,Saphenous vein graft replacement of three coronary arteries
+175011002,Saphenous vein graft replacement of four or more coronary arteries
+175012009,Other specified saphenous vein graft replacement of coronary artery
+175013004,Saphenous vein graft replacement coronary artery NOS
+175014005,Other autograft replacement of coronary artery
+175015006,Autograft replacement of one coronary artery NEC
+175016007,Autograft replacement of two coronary arteries NEC
+175017003,Autograft replacement of three coronary arteries NEC
+175018008,Autograft replacement of four of more coronary arteries NEC
+175019000,Other specified other autograft replacement of coronary artery
+175020006,Other autograft replacement of coronary artery NOS
+175021005,Allograft bypass of coronary artery
+175022003,Allograft replacement of one coronary artery
+175024002,Allograft replacement of two coronary arteries
+175025001,Allograft replacement of three coronary arteries
+175026000,Allograft replacement of four or more coronary arteries
+175027009,Other specified allograft replacement of coronary artery
+175028004,Allograft replacement of coronary artery NOS
+175029007,Prosthetic bypass of coronary artery
+175030002,Prosthetic replacement of one coronary artery
+175031003,Prosthetic replacement of two coronary arteries
+175032005,Prosthetic replacement of three coronary arteries
+175033000,Prosthetic replacement of four or more coronary arteries
+175034006,Other specified prosthetic replacement of coronary artery
+175035007,Prosthetic replacement of coronary artery NOS
+175036008,Revision of bypass for coronary artery
+175037004,Revision of bypass for one coronary artery
+175038009,Revision of bypass for two coronary arteries
+175039001,Revision of bypass for three coronary arteries
+175040004,Revision of bypass for four or more coronary arteries
+175041000,Revision of connection of thoracic artery to coronary artery
+175042007,Revision of implantation of thoracic artery into heart
+175043002,Other specified revision of bypass for coronary artery
+175044008,Revision of bypass for coronary artery NOS
+175045009,Connection of mammary artery to coronary artery
+175046005,LIMA sequential anastomosis
+175047001,Double implantation of mammary arteries into coronary arteries
+175048006,Single anastomosis of mammary artery to left anterior descending coronary artery
+175049003,Single mammary to coronary artery anastomosis: [NEC] or [LIMA] or [RIMA]
+175050003,Single implantation of mammary artery into coronary artery
+175051004,Other specified connection of mammary artery to coronary artery
+175052006,Connection of mammary artery to coronary artery NOS
+175053001,Connection of other thoracic artery to coronary artery
+175054007,Double anastomosis of thoracic arteries to coronary arteries NEC
+175055008,Double implantation of thoracic arteries into coronary arteries NEC
+175056009,Single anastomosis of thoracic artery to coronary artery NEC
+175057000,Single implantation of thoracic artery into coronary artery NEC
+175058005,Other specified connection of other thoracic artery to coronary artery
+175059002,Connection of other thoracic artery to coronary artery NOS
+175060007,Other open operations on coronary artery
+175064003,Other specified other open operation on coronary artery
+175065002,Other open operation on coronary artery NOS
+175066001,Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery
+175068000,Other specified transluminal balloon angioplasty of coronary artery
+175069008,Transluminal balloon angioplasty of coronary artery NOS
+175070009,Other therapeutic transluminal operations on coronary artery
+175073006,Rotary blade coronary angioplasty
+175074000,Other specified other therapeutic transluminal operation on coronary artery
+175075004,Other therapeutic transluminal operation on coronary artery NOS
+175076003,Diagnostic transluminal operations on coronary artery
+175078002,Other specified diagnostic transluminal operation on coronary artery
+175079005,Diagnostic transluminal operation on coronary artery NOS
+175081007,Endarterectomy of coronary artery NEC
+175084004,Other replacement of coronary artery
+175085003,Replacement of coronary arteries using multiple methods
+175086002,Other specified replacement of coronary artery
+175087006,Replacement of coronary artery NOS
+175088001,Other bypass of coronary artery
+175089009,Other specified other bypass of coronary artery
+175090000,Other bypass of coronary artery NOS
+175091001,Other specified operations on coronary artery
+175092008,Coronary artery operations NOS
+175764006,Rotary blade angioplasty
+20738002,Endarterectomy of coronary artery
+213037002,Mechanical complication of coronary bypass
+216621000119100,Stent in anterior descending branch of left coronary artery (finding)
+216631000119102,Stent in circumflex branch of left coronary artery
+21789005,Gas endarterectomy of coronary artery
+232717009,Coronary artery bypass graft
+232718004,Connection of mammary artery to coronary artery
+232719007,Coronary artery bypass graft x 1
+232720001,CABG x 2 - Coronary artery bypass grafts x 2
+232721002,Coronary artery bypass grafts x 3
+232722009,CABG x 4 - Coronary artery bypass grafts x 4
+232726007,Percutaneous endarterectomy of coronary artery
+232730005,Angioplasty of coronary artery
+232735000,Operation for coronary artery fistula
+232736004,Open operation for coronary artery fistula
+24080003,Single vessel percutaneous transluminal coronary angioplasty with thrombolytic agent infusion
+24355008,Thromboendarterectomy of coronary artery by open chest approach
+265481001,Double anastomosis of mammary arteries to coronary arteries
+270480004,Single anastomosis of mammary artery to coronary artery NEC
+275215001,LIMA single anastomosis
+275216000,RIMA single anastomosis
+275252001,LIMA sequential anastomosis
+275253006,RIMA sequential anastomosis
+28903008,Percutaneous angioscopy
+29819009,Aortocoronary bypass of one coronary artery
+29843007,Coronary atherectomy by laser
+30670000,"Anastomosis of thoracic artery to coronary artery, double"
+309786009,[V]Status following coronary angioplasty NOS (context-dependent category)
+312610006,Prosthetic graft patch angioplasty
+312611005,Percutaneous transluminal angioplasty of vascular graft
+31413008,Operative procedure on coronary arteries
+34147004,"Anastomosis of internal mammary artery to coronary artery, single vessel"
+3546002,Aortocoronary artery bypass graft with saphenous vein graft
+359547002,Angioplasty of coronary artery
+359597003,"Cardiac revascularization with bypass anastomosis of internal mammary to coronary artery, single vessel"
+366879003,Insertion of coronary artery stent
+36969009,Placement of stents in coronary artery
+386138005,Stented coronary artery (finding)
+397193006,Percutaneous transluminal coronary angioplasty by rotoablation (procedure)
+397194000,Percutaneous rotational coronary endarterectomy (procedure)
+39724006,"Anastomosis of internal mammary artery to coronary artery, double vessel"
+397431004,"Percutaneous transluminal coronary angioplasty with rotoablation, single vessel (procedure)"
+405741001,History of - percutaneous coronary intervention (context-dependent category)
+41339005,Coronary angioplasty
+414089002,Emergency percutaneous coronary intervention (procedure)
+415070008,Percutaneous coronary intervention (procedure)
+418461002,Fluoroscopic angioplasty of coronary artery (procedure)
+418982001,Fluoroscopic angiography of coronary artery and insertion of stent (procedure)
+426674009,Percutaneous transluminal balloon angioplasty of artery (procedure)
+428488008,Placement of stent in anterior descending branch of left coronary artery (procedure)
+429499003,Placement of stent in circumflex branch of left coronary artery (procedure)
+429639007,Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery (procedure)
+429809004,Fluoroscopic percutaneous transluminal angioplasty of coronary artery (procedure)
+48431000,"Anastomosis of thoracic artery to coronary artery, single"
+609152003,Percutaneous insertion of stent into aneurysm of coronary artery using fluoroscopic guidance
+609153008,Percutaneous insertion of drug eluting stent into coronary artery using fluoroscopic guidance (procedure)
+609154002,Percutaneous transluminal insertion of metallic stent into coronary artery using fluoroscopic guidance
+68466008,"Removal of coronary artery obstruction by percutaneous transluminal balloon, single vessel"
+698740005,Percutaneous transluminal atherectomy of coronary artery by rotary cutter using fluoroscopic guidance (procedure)
+700515002,Bioabsorbable drug-eluting coronary artery stent
+700516001,"Drug-eluting coronary artery stent, non-bioabsorbable-polymer-coated"
+700517005,"Drug-eluting coronary artery stent, carbon-coated"
+701548008,"Antibody-coated coronary artery stent, drug-eluting"
+701553003,"Drug-eluting coronary artery stent, bioabsorbable-polymer-coated"
+705637003,Drug-eluting coronary artery stent
+705643001,Coronary artery stent
+705926001,Coronary angioplasty balloon catheter
+705928000,Coronary angioplasty catheter
+707828002,Percutaneous transluminal cutting balloon angioplasty of coronary artery (procedure)
+726011000,Placement of stent in coronary artery bypass graft (procedure)
+736962007,Bypass of four or more coronary arteries with prosthesis (procedure)
+736963002,Bypass of one coronary artery with prosthesis (procedure)
+736964008,Bypass of three coronary arteries with prosthesis (procedure)
+736965009,Bypass of two coronary arteries with prosthesis (procedure)
+736966005,Saphenous vein graft bypass of four or more coronary arteries
+736967001,Aortocoronary artery bypass of one coronary artery with saphenous vein graft (procedure)
+736968006,Aortocoronary artery bypass of three coronary arteries with saphenous vein graft (procedure)
+736969003,Aortocoronary artery bypass of two coronary arteries with saphenous vein graft (procedure)
+736970002,Allograft bypass of four or more coronary arteries (procedure)
+736971003,Allograft bypass of one coronary artery (procedure)
+736972005,Allograft bypass of three coronary arteries (procedure)
+736973000,Allograft bypass of two coronary arteries (procedure)
+737085003,Percutaneous insertion of bioresorbable stent into coronary artery using fluoroscopic guidance (procedure)
+75761004,Infusion of intra-arterial thrombolytic agent with percutaneous transluminal coronary angioplasty
+763725002,Percutaneous transluminal coronary angioplasty using drug eluting balloon catheter
+80762004,"Infusion of intra-arterial thrombolytic agent with percutaneous transluminal coronary angioplasty, multiple vessels"
+85053006,"Percutaneous transluminal coronary angioplasty, multiple vessels"
+868245005,Percutaneous coronary intervention of left coronary artery
+868246006,Percutaneous coronary intervention of anterior descending branch of left coronary artery
+868247002,Percutaneous coronary intervention of circumflex branch of left coronary artery
+868248007,PCI (percutaneous coronary intervention) of RCA (right coronary artery)
+870743002,Anastomosis of right internal thoracic artery to coronary artery (procedure)
+870744008,Anastomosis of LIMA (left internal mammary artery) to coronary artery
+871496000,Sequential anastomosis of left internal thoracic artery to coronary artery
+871497009,Sequential anastomosis of right internal thoracic artery to coronary artery
+871498004,Sequential anastomosis of free right internal thoracic artery to coronary artery (procedure)
+90487008,Aortocoronary bypass of two coronary arteries
+91338001,"Infusion of intra-arterial thrombolytic agent with percutaneous transluminal coronary angioplasty, single vessel"

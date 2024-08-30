@@ -1,0 +1,97 @@
+V2Codes,Description
+792..,Coronary artery operations
+7920.,Saphenous vein graft replacement of coronary artery
+79200,Saphenous vein graft replacement of one coronary artery
+79201,Saphenous vein graft replacement of two coronary arteries
+79202,Saphenous vein graft replacement of three coronary arteries
+79203,Saphenous vein graft replacement of four or more coronary arteries
+7920y,Other specified saphenous vein graft replacement of coronary artery
+7920z,Saphenous vein graft replacement coronary artery NOS
+7921.,Other autograft replacement of coronary artery
+79210,Autograft replacement of one coronary artery NEC
+79211,Autograft replacement of two coronary arteries NEC
+79212,Autograft replacement of three coronary arteries NEC
+79213,Autograft replacement of four of more coronary arteries NEC
+7921y,Other specified other autograft replacement of coronary artery
+7921z,Other autograft replacement of coronary artery NOS
+7922.,Allograft replacement of coronary artery
+79220,Allograft replacement of one coronary artery
+79221,Allograft replacement of two coronary arteries
+79222,Allograft replacement of three coronary arteries
+79223,Allograft replacement of four or more coronary arteries
+7922y,Other specified allograft replacement of coronary artery
+7922z,Allograft replacement of coronary artery NOS
+7923.,Prosthetic replacement of coronary artery
+79230,Prosthetic replacement of one coronary artery
+79231,Prosthetic replacement of two coronary arteries
+79232,Prosthetic replacement of three coronary arteries
+79233,Prosthetic replacement of four or more coronary arteries
+7923z,Prosthetic replacement of coronary artery NOS
+7925.,Connection of mammary artery to coronary artery
+79250,Double anastomosis of mammary arteries to coronary arteries
+79251,Double implantation of mammary arteries into coronary arteries
+79253,Single anastomosis of mammary artery to coronary artery NEC
+79254,Single implantation of mammary artery into coronary artery
+7925y,Other specified connection of mammary artery to coronary artery
+7925z,Connection of mammary artery to coronary artery NOS
+7926.,Connection of other thoracic artery to coronary artery
+79260,Double anastomosis of thoracic arteries to coronary arteries NEC
+79262,Single anastomosis of thoracic artery to coronary artery NEC
+79263,Single implantation of thoracic artery into coronary artery NEC
+7926z,Connection of other thoracic artery to coronary artery NOS
+79275,Open angioplasty of coronary artery
+7928.,Transluminal balloon angioplasty of coronary artery
+79280,Percutaneous transluminal balloon angioplasty of one coronary artery
+79281,Percutaneous transluminal balloon angioplasty of multiple coronary arteries
+79282,Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery
+79283,Percutaneous transluminal cutting balloon angioplasty of coronary artery
+7928y,Other specified transluminal balloon angioplasty of coronary artery
+7928z,Transluminal balloon angioplasty of coronary artery NOS
+79290,Percutaneous transluminal laser coronary angioplasty
+79293,Rotary blade coronary angioplasty
+79294,Insertion of coronary artery stent
+79295,Insertion of drug-eluting coronary artery stent
+79296,Percutaneous transluminal atherectomy of coronary artery
+792B0,Endarterectomy of coronary artery NEC
+792C.,Other replacement of coronary artery
+792C0,Replacement of coronary arteries using multiple methods
+792Cy,Other specified replacement of coronary artery
+792Cz,Replacement of coronary artery NOS
+792D.,Other bypass of coronary artery
+792Dy,Other specified other bypass of coronary artery
+792Dz,Other bypass of coronary artery NOS
+7923y,Other specified prosthetic replacement of coronary artery
+7924.,Revision of bypass for coronary artery
+79240,Revision of bypass for one coronary artery
+79241,Revision of bypass for two coronary arteries
+79242,Revision of bypass for three coronary arteries
+79243,Revision of bypass for four or more coronary arteries
+79244,Revision of connection of thoracic artery to coronary artery
+79245,Revision of implantation of thoracic artery into heart
+7924y,Other specified revision of bypass for coronary artery
+7924z,Revision of bypass for coronary artery NOS
+79252,Single anastomosis of mammary artery to left anterior descending coronary artery
+79261,Double implantation of thoracic arteries into coronary arteries NEC
+7926y,Other specified connection of other thoracic artery to coronary artery
+7929.,Other therapeutic transluminal operations on coronary artery
+7929y,Other specified other therapeutic transluminal operation on coronary artery
+7929z,Other therapeutic transluminal operation on coronary artery NOS
+792A0,Percutaneous transluminal angioscopy
+792E.,Percutaneous coronary intervention
+792..,Emergency percutaneous coronary intervention
+792y.,Other specified operations on coronary artery
+793G.,Perc translumin balloon angioplasty stenting coronary artery
+793G0,Perc translum ball angio insert 1-2 drug elut stents cor art
+793G1,Perc tran ball angio ins 3 or more drug elut stents cor art
+793G2,Perc translum balloon angioplasty insert 1-2 stents cor art
+793G3,Percutaneous cor balloon angiop 3 more stents cor art NEC
+793Gy,OS perc translumina balloon angioplast stenting coronary art
+793Gz,Perc translum balloon angioplasty stenting coronary art NOS
+7A540,Percutaneous transluminal angioplasty of artery NEC
+7A545,Rotary blade angioplasty
+7A548,Percutaneous transluminal atherectomy
+7A564,Percutaneous transluminal balloon angioplasty of artery
+7A6G1,Peroperative angioplasty
+7A6H3,Prosthetic graft patch angioplasty
+7A6H4,Percutaneous transluminal angioplasty of vascular graft
+SP003,Mechanical complication of coronary bypass

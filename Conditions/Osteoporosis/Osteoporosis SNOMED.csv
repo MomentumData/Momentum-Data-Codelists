@@ -1,0 +1,133 @@
+SNOMEDCTCodes,Description
+203879001,[X]Osteoporosis in other disorders classified elsewhere (disorder)
+203878009,[X]Other osteoporosis
+203877004,[X]Other osteoporosis with pathological fracture (disorder)
+203885008,[X]Unspecified osteoporosis with pathological fracture
+240155001,Adult idiopathic generalised osteoporosis
+18040001,Age related osteoporosis
+897308007,Chronic kidney disease with osteoporosis (disorder)
+203459002,Collapse of cervical vertebra due to osteoporosis
+311806008,Collapse of cervical vertebra due to osteoporosis (disorder)
+311890007,Collapse of lumbar vertebra due to osteoporosis
+203460007,Collapse of lumbar vertebra due to osteoporosis (disorder)
+203461006,Collapse of thoracic vertebra due to osteoporosis
+311891006,Collapse of thoracic vertebra due to osteoporosis (disorder)
+240198002,Collapse of vertebra due to osteoporosis
+311892004,Collapse of vertebra due to osteoporosis NOS
+203462004,Collapse of vertebra due to osteoporosis NOS (disorder)
+82351006,Congenital cranial osteoporosis
+203430002,Disuse osteoporosis
+203491001,Disuse osteoporosis
+53174001,Disuse osteoporosis
+783620009,Dominant hypophosphatemia with nephrolithiasis and/or osteoporosis
+203432005,Drug-induced osteoporosis
+14651005,Drug-induced osteoporosis (disorder)
+203447001,Drug-induced osteoporosis with pathological fracture
+278454001,Fetal osteoporosis
+78354004,Fetal osteoporosis
+391019001,Follow-up osteoporosis assessment
+134400000,Fragility fracture due to unspecified osteoporosis
+366913005,Fragility fracture due to unspecified osteoporosis (disorder)
+394010001,Health education - osteoporosis
+393054003,Health education - osteoporosis (procedure)
+473120007,History of osteoporosis
+473342003,History of osteoporosis resolved
+203429007,Idiopathic generalized osteoporosis (disorder)
+3345002,Idiopathic osteoporosis
+240154002,Idiopathic osteoporosis in pregnancy (disorder)
+203448006,Idiopathic osteoporosis with pathological fracture (disorder)
+240156000,Juvenile idiopathic generalized osteoporosis (disorder)
+44876001,Juvenile osteoporosis
+268028001,Localised disuse osteoporosis
+203435007,Localized osteoporosis - Lequesne (disorder)
+32369003,Menopausal osteoporosis (disorder)
+156825006,Osteoporosis
+391030003,Osteoporosis - no treatment response (regime/therapy)
+391028000,Osteoporosis - treatment response
+64859006,Osteoporosis (disorder)
+716189005,Osteoporosis and macrocephaly with blindness and joint hypermobility syndrome (disorder)
+722113001,Osteoporosis and oculocutaneous hypopigmentation syndrome
+698047001,Osteoporosis circumscripta
+702895002,Osteoporosis clinic (environment)
+739301006,Osteoporosis co-occurrent and due to multiple myeloma
+707419009,Osteoporosis due to cystic fibrosis
+735618008,Osteoporosis due to malabsorption (disorder)
+394936006,Osteoporosis health education
+203437004,Osteoporosis in endocrine disorders (disorder)
+203436008,Osteoporosis in multiple myelomatosis
+203439001,Osteoporosis localised to spine (disorder)
+309745002,Osteoporosis localized to spine (disorder)
+203440004,Osteoporosis NOS
+203445009,Osteoporosis of disuse with pathological fracture
+391022004,Osteoporosis treatment changed (situation)
+391020007,Osteoporosis treatment started (regime/therapy)
+391021006,Osteoporosis treatment stopped
+203452006,Osteoporosis with pathological fracture of cervical vertebrae
+203450003,Osteoporosis with pathological fracture of lumbar vertebrae
+203451004,Osteoporosis with pathological fracture of thoracic vertebrae (disorder)
+254112001,Osteoporosis with pseudoglioma (disorder)
+391024003,Osteoporosis dietary education (procedure)
+391026001,Osteoporosis exercise education (procedure)
+505141000000108,Osteoporosis enhanced services administration (procedure)
+109346000,Osteoporotic bone marrow defect (disorder)
+203428004,"Osteoporosis, unspecified"
+431030000,Pathologic fracture of femur associated with osteoporosis
+203446005,Pathological fracture co-occurrent and due to post-surgical malabsorption osteoporosis
+443165006,Pathological fracture due to osteoporosis
+11314841000119105,Pathological fracture due to secondary osteoporosis
+704328003,Pathological fracture of ankle due to osteoporosis
+704293000,Pathological fracture of ankle due to secondary osteoporosis (disorder)
+11311521000119104,Pathological fracture of cervical vertebra due to secondary osteoporosis
+704329006,Pathological fracture of clavicle due to osteoporosis (disorder)
+704292005,Pathological fracture of clavicle due to secondary osteoporosis (disorder)
+704330001,Pathological fracture of femur due to osteoporosis
+704291003,Pathological fracture of femur due to secondary osteoporosis (disorder)
+704331002,Pathological fracture of fibula due to osteoporosis
+704290002,Pathological fracture of fibula due to secondary osteoporosis
+704332009,Pathological fracture of foot due to osteoporosis
+704289006,Pathological fracture of foot due to secondary osteoporosis
+704333004,Pathological fracture of hand due to osteoporosis (disorder)
+704288003,Pathological fracture of hand due to secondary osteoporosis (disorder)
+704335006,Pathological fracture of humerus due to osteoporosis (disorder)
+704286004,Pathological fracture of humerus due to secondary osteoporosis
+11874341000119106,Pathological fracture of left rib due to osteoporosis (disorder)
+11311441000119109,Pathological fracture of lumbar vertebra due to secondary osteoporosis (disorder)
+431031001,Pathological fracture of neck of femur associated with osteoporosis (disorder)
+704334005,Pathological fracture of proximal femur due to osteoporosis
+704287008,Pathological fracture of proximal femur due to secondary osteoporosis
+704336007,Pathological fracture of radius due to osteoporosis
+704285000,Pathological fracture of radius due to secondary osteoporosis (disorder)
+11874381000119101,Pathological fracture of right rib due to osteoporosis (disorder)
+11311841000119107,Pathological fracture of sacral vertebra due to secondary osteoporosis (disorder)
+704337003,Pathological fracture of scapula due to osteoporosis (disorder)
+704284001,Pathological fracture of scapula due to secondary osteoporosis (disorder)
+11311361000119103,Pathological fracture of thoracic vertebra due to secondary osteoporosis
+704338008,Pathological fracture of tibia due to osteoporosis (disorder)
+704283007,Pathological fracture of tibia due to secondary osteoporosis (disorder)
+704339000,Pathological fracture of ulna due to osteoporosis
+704282002,Pathological fracture of ulna due to secondary osteoporosis
+11311601000119109,Pathological fracture of vertebra due to osteoporosis
+240164006,Post-irradiation osteoporosis (disorder)
+203434006,Post-surgical malabsorption osteoporosis
+102447009,Postmenopausal osteoporosis
+203453001,Postmenopausal osteoporosis with pathological fracture (disorder)
+203433000,Postoophorectomy osteoporosis (disorder)
+203444008,Postoophorectomy osteoporosis with pathological fracture (disorder)
+15743005,Posttraumatic osteoporosis (disorder)
+735617003,Premenopausal idiopathic osteoporosis (disorder)
+276661002,Primary osteoporosis (disorder)
+391033001,Refer to osteoporosis specialist
+412717001,Referral to osteoporosis clinic (procedure)
+240158004,Regional migrating osteoporosis (disorder)
+281387004,Regional osteoporosis (disorder)
+300004007,Screening for osteoporosis
+240157009,Secondary generalised osteoporosis
+240162005,Secondary localised osteoporosis
+703264005,Secondary osteoporosis
+391037000,Seen in osteoporosis clinic (finding)
+699528002,Transient osteoporosis
+240159007,Transient osteoporosis of hip
+240160002,Transient osteoporosis of hip in pregnancy (disorder)
+720745005,Treatment for osteoporosis
+203438009,Vertebral osteoporosis
+782785002,X-linked osteoporosis with fractures (disorder)

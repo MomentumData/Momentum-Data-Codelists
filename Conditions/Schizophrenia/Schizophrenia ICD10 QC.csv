@@ -1,0 +1,11 @@
+ICD10Codes,Description
+F20,Schizophrenia
+F20.0,Paranoid schizophrenia
+F20.1,Hebephrenic schizophrenia
+F20.2,Catatonic schizophrenia
+F20.3,Undifferentiated schizophrenia
+F20.4,Post-schizophrenic depression
+F20.5,Residual schizophrenia
+F20.6,Simple schizophrenia
+F20.8,Other schizophrenia
+F20.9,"Schizophrenia, unspecified"

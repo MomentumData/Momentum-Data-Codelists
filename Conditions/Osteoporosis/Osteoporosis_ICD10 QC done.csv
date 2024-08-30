@@ -1,0 +1,23 @@
+ICD10Codes,Description
+M81,Osteoporosis without pathological fracture
+M81.0,Postmenopausal osteoporosis
+M81.1,Postoophorectomy osteoporosis
+M81.2,Osteoporosis of disuse
+M81.3,Postsurgical malabsorption osteoporosis
+M81.4,Drug-induced osteoporosis
+M81.5,Idiopathic osteoporosis
+M81.8,Other osteoporosis
+M81.9,"Osteoporosis, unspecified"
+M82,Osteoporosis in diseases classified elsewhere
+M82.0,Osteoporosis in multiple myelomatosis
+M82.1,Osteoporosis in endocrine disorders
+M82.8,Osteoporosis in other diseases classified elsewhere
+M80,Osteoporosis with pathological fracture
+M80.0,Postmenopausal osteoporosis with pathological fracture
+M80.1,Postoophorectomy osteoporosis with pathological fracture
+M80.2,Osteoporosis of disuse with pathological fracture
+M80.3,Postsurgical malabsorption osteoporosis with pathological fracture
+M80.4,Drug-induced osteoporosis with pathological fracture
+M80.5,Idiopathic osteoporosis with pathological fracture
+M80.8,Other osteoporosis with pathological fracture
+M80.9,Unspecified osteoporosis with pathological fracture

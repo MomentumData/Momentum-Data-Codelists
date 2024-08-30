@@ -1,0 +1,40 @@
+V2Codes,Description
+N330.,Osteoporosis
+N3300,"Osteoporosis, unspecified"
+N3301,Senile osteoporosis
+N3302,Postmenopausal osteoporosis
+N3303,Idiopathic osteoporosis
+N3304,Dissuse osteoporosis
+N3305,Drug-induced osteoporosis
+N3306,Postoophorectomy osteoporosis
+N3307,Postsurgical malabsorption osteoporosis
+N3308,Localized osteoporosis - Lequesne
+N3309,Osteoporosis in multiple myelomatosis
+N330A,Osteoporosis in endocrine disorders
+N330B,Vertebral osteoporosis
+N330C,Osteoporosis localized to spine
+N330D,Osteoporosis due to corticosteroids
+N330z,Osteoporosis NOS
+N331J,Collapse of lumbar vertebra due to osteoporosis
+N331H,Collapse of cervical vertebra due to osteoporosis
+N3313,Osteoporosis of disuse with pathological fracture
+N331K,Collapse of thoracic vertebra due to osteoporosis
+N3316,Idiopathic osteoporosis with pathological fracture
+N3315,Drug-induced osteoporosis with pathological fracture
+N3318,Osteoporosis + pathological fracture lumbar vertebrae
+N331B,Postmenopausal osteoporosis with pathological fracture
+N3319,Osteoporosis + pathological fracture thoracic vertebrae
+N331A,Osteoporosis + pathological fracture cervical vertebrae
+N3312,Postoophorectomy osteoporosis with pathological fracture
+N3314,Postsurgical malabsorption osteoporosis with pathological fracture
+66a..,Osteoporosis monitoring
+66a2.,Osteoporosis - treatment started
+66a4.,Osteoporosis - treatment changed
+66a6.,Osteoporosis - dietary advice
+66a7.,Osteoporosis - dietary assessment
+66a8.,Osteoporosis - exercise advice
+66a9.,Osteoporosis - falls prevention
+66aA.,Osteoporosis - treatment response
+66aB.,Osteoporosis - no treatment response
+66aD.,Xray evidence of poor mineralisation
+9kj0.,Bone sparing drug treatment offered for osteoporosis - ESA
