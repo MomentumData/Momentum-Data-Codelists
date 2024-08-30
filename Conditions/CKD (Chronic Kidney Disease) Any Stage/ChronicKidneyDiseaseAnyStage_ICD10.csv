@@ -1,0 +1,165 @@
+ICD10Codes,Description
+I12,Hypertensive renal disease
+I12.0,Hypertensive renal disease with renal failure
+I12.9,Hypertensive renal disease without renal failure
+N00,Acute nephritic syndrome
+N00.0,Acute nephritic syndrome : minor glomerular abnormality
+N00.1,Acute nephritic syndrome : focal and segmental glomerular lesions
+N00.2,Acute nephritic syndrome : diffuse membranous glomerulonephritis
+N00.3,Acute nephritic syndrome : diffuse mesangial proliferative glomerulonephritis
+N00.4,Acute nephritic syndrome : diffuse endocapillary proliferative glomerulonephritis
+N00.5,Acute nephritic syndrome : diffuse mesangiocapillary glomerulonephritis
+N00.6,Acute nephritic syndrome : dense deposit disease
+N00.7,Acute nephritic syndrome : diffuse crescentic glomerulonephritis
+N00.8,Acute nephritic syndrome : other
+N00.9,Acute nephritic syndrome : unspecified
+N01,Rapidly progressive nephritic syndrome
+N01.0,Rapidly progressive nephritic syndrome : minor glomerular abnormality
+N01.1,Rapidly progressive nephritic syndrome : focal and segmental glomerular lesions
+N01.2,Rapidly progressive nephritic syndrome : diffuse membranous glomerulonephritis
+N01.3,Rapidly progressive nephritic syndrome : diffuse mesangial proliferative glomerulonephritis
+N01.4,Rapidly progressive nephritic syndrome : diffuse endocapillary proliferative glomerulonephritis
+N01.5,Rapidly progressive nephritic syndrome : diffuse mesangiocapillary glomerulonephritis
+N01.6,Rapidly progressive nephritic syndrome : dense deposit disease
+N01.7,Rapidly progressive nephritic syndrome : diffuse crescentic glomerulonephritis
+N01.8,Rapidly progressive nephritic syndrome : other
+N01.9,Rapidly progressive nephritic syndrome : unspecified
+N02,Recurrent and persistent haematuria
+N02.0,Recurrent and persistent haematuria : minor glomerular abnormality
+N02.1,Recurrent and persistent haematuria : focal and segmental glomerular lesions
+N02.2,Recurrent and persistent haematuria : diffuse membranous glomerulonephritis
+N02.3,Recurrent and persistent haematuria : diffuse mesangial proliferative glomerulonephritis
+N02.4,Recurrent and persistent haematuria : diffuse endocapillary proliferative glomerulonephritis
+N02.5,Recurrent and persistent haematuria : diffuse mesangiocapillary glomerulonephritis
+N02.6,Recurrent and persistent haematuria : dense deposit disease
+N02.7,Recurrent and persistent haematuria : diffuse crescentic glomerulonephritis
+N02.8,Recurrent and persistent haematuria : other
+N02.9,Recurrent and persistent haematuria : unspecified
+N03,Chronic nephritic syndrome
+N03.0,Chronic nephritic syndrome : minor glomerular abnormality
+N03.1,Chronic nephritic syndrome : focal and segmental glomerular lesions
+N03.2,Chronic nephritic syndrome : diffuse membranous glomerulonephritis
+N03.3,Chronic nephritic syndrome : diffuse mesangial proliferative glomerulonephritis
+N03.4,Chronic nephritic syndrome : diffuse endocapillary proliferative glomerulonephritis
+N03.5,Chronic nephritic syndrome : diffuse mesangiocapillary glomerulonephritis
+N03.6,Chronic nephritic syndrome : dense deposit disease
+N03.7,Chronic nephritic syndrome : diffuse crescentic glomerulonephritis
+N03.8,Chronic nephritic syndrome : other
+N03.9,Chronic nephritic syndrome : unspecified
+N04,Nephrotic syndrome
+N04.0,Nephrotic syndrome : minor glomerular abnormality
+N04.1,Nephrotic syndrome : focal and segmental glomerular lesions
+N04.2,Nephrotic syndrome : diffuse membranous glomerulonephritis
+N04.3,Nephrotic syndrome : diffuse mesangial proliferative glomerulonephritis
+N04.4,Nephrotic syndrome : diffuse endocapillary proliferative glomerulonephritis
+N04.5,Nephrotic syndrome : diffuse mesangiocapillary glomerulonephritis
+N04.6,Nephrotic syndrome : dense deposit disease
+N04.7,Nephrotic syndrome : diffuse crescentic glomerulonephritis
+N04.8,Nephrotic syndrome : other
+N04.9,Nephrotic syndrome : unspecified
+N05,Unspecified nephritic syndrome
+N05.0,Unspecified nephritic syndrome : minor glomerular abnormality
+N05.1,Unspecified nephritic syndrome : focal and segmental glomerular lesions
+N05.2,Unspecified nephritic syndrome : diffuse membranous glomerulonephritis
+N05.3,Unspecified nephritic syndrome : diffuse mesangial proliferative glomerulonephritis
+N05.4,Unspecified nephritic syndrome : diffuse endocapillary proliferative glomerulonephritis
+N05.5,Unspecified nephritic syndrome : diffuse mesangiocapillary glomerulonephritis
+N05.6,Unspecified nephritic syndrome : dense deposit disease
+N05.7,Unspecified nephritic syndrome : diffuse crescentic glomerulonephritis
+N05.8,Unspecified nephritic syndrome : other
+N05.9,Unspecified nephritic syndrome : unspecified
+N06,Isolated proteinuria with specified morphological lesion
+N06.0,Isolated proteinuria with specified morphological lesion : minor glomerular abnormality
+N06.1,Isolated proteinuria with specified morphological lesion : focal and segmental glomerular lesions
+N06.2,Isolated proteinuria with specified morphological lesion : diffuse membranous glomerulonephritis
+N06.3,Isolated proteinuria with specified morphological lesion : diffuse mesangial proliferative glomerulonephritis
+N06.4,Isolated proteinuria with specified morphological lesion : diffuse endocapillary proliferative glomerulonephritis
+N06.5,Isolated proteinuria with specified morphological lesion : diffuse mesangiocapillary glomerulonephritis
+N06.6,Isolated proteinuria with specified morphological lesion : dense deposit disease
+N06.7,Isolated proteinuria with specified morphological lesion : diffuse crescentic glomerulonephritis
+N06.8,Isolated proteinuria with specified morphological lesion : other
+N06.9,Isolated proteinuria with specified morphological lesion : unspecified
+N07,"Hereditary nephropathy, not elsewhere classified"
+N07.0,"Hereditary nephropathy, not elsewhere classified : minor glomerular abnormality"
+N07.1,"Hereditary nephropathy, not elsewhere classified : focal and segmental glomerular lesions"
+N07.2,"Hereditary nephropathy, not elsewhere classified : diffuse membranous glomerulonephritis"
+N07.3,"Hereditary nephropathy, not elsewhere classified : diffuse mesangial proliferative glomerulonephritis"
+N07.4,"Hereditary nephropathy, not elsewhere classified : diffuse endocapillary proliferative glomerulonephritis"
+N07.5,"Hereditary nephropathy, not elsewhere classified : diffuse mesangiocapillary glomerulonephritis"
+N07.6,"Hereditary nephropathy, not elsewhere classified : dense deposit disease"
+N07.7,"Hereditary nephropathy, not elsewhere classified : diffuse crescentic glomerulonephritis"
+N07.8,"Hereditary nephropathy, not elsewhere classified : other"
+N07.9,"Hereditary nephropathy, not elsewhere classified : unspecified"
+N08,Glomerular disorders in diseases classified elsewhere
+N08.0,Glomerular disorders in infectious and parasitic diseases classified elsewhere
+N08.1,Glomerular disorders in neoplastic diseases
+N08.2,Glomerular disorders in blood diseases and disorders involving the immune mechanism
+N08.3,Glomerular disorders in diabetes mellitus
+N08.4,"Glomerular disorders in other endocrine, nutritional and metabolic diseases"
+N08.5,Glomerular disorders in systemic connective tissue disorders
+N08.8,Glomerular disorders in other diseases classified elsewhere
+N10,Acute tubulo-interstitial nephritis
+N11,Chronic tubulo-interstitial nephritis
+N11.0,Nonobstructive reflux-associated chronic pyelonephritis
+N11.1,Chronic obstructive pyelonephritis
+N11.8,Other chronic tubulo-interstitial nephritis
+N11.9,"Chronic tubulo-interstitial nephritis, unspecified"
+N12,"Tubulo-interstitial nephritis, not specified as acute or chronic"
+N13,Obstructive and reflux uropathy
+N13.0,Hydronephrosis with ureteropelvic junction obstruction
+N13.1,"Hydronephrosis with ureteral stricture, not elsewhere classified"
+N13.2,Hydronephrosis with renal and ureteral calculous obstruction
+N13.3,Other and unspecified hydronephrosis
+N13.7,Vesicoureteral-reflux-associated uropathy
+N13.8,Other obstructive and reflux uropathy
+N13.9,"Obstructive and reflux uropathy, unspecified"
+N14,Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions
+N14.0,Analgesic nephropathy
+N14.1,"Nephropathy induced by other drugs, medicaments and biological substances"
+N14.2,"Nephropathy induced by unspecified drug, medicament or biological substance"
+N14.3,Nephropathy induced by heavy metals
+N14.4,"Toxic nephropathy, not elsewhere classified"
+N15,Other renal tubulo-interstitial diseases
+N15.0,Balkan nephropathy
+N15.8,Other specified renal tubulo-interstitial diseases
+N15.9,"Renal tubulo-interstitial disease, unspecified"
+N16,Renal tubulo-interstitial disorders in diseases classified elsewhere
+N16.0,Renal tubulo-interstitial disorders in infectious and parasitic diseases classified elsewhere
+N16.1,Renal tubulo-interstitial disorders in neoplastic diseases
+N16.2,Renal tubulo-interstitial disorders in blood diseases and disorders involving the immune mechanism
+N16.3,Renal tubulo-interstitial disorders in metabolic diseases
+N16.4,Renal tubulo-interstitial disorders in systemic connective tissue disorders
+N16.5,Renal tubulo-interstitial disorders in transplant rejection
+N16.8,Renal tubulo-interstitial disorders in other diseases classified elsewhere
+N18,Chronic kidney disease
+N18.1,"Chronic kidney disease, stage 1"
+N18.2,"Chronic kidney disease, stage 2"
+N18.3,"Chronic kidney disease, stage 3"
+N18.4,"Chronic kidney disease, stage 4"
+N18.5,"Chronic kidney disease, stage 5"
+N18.9,"Chronic kidney disease, unspecified"
+N19,Unspecified kidney failure
+Q60,Renal agenesis and other reduction defects of kidney
+Q60.0,"Renal agenesis, unilateral"
+Q60.1,"Renal agenesis, bilateral"
+Q60.2,"Renal agenesis, unspecified"
+Q60.3,"Renal hypoplasia, unilateral"
+Q60.4,"Renal hypoplasia, bilateral"
+Q60.5,"Renal hypoplasia, unspecified"
+Q60.6,Potter syndrome
+Q61,Cystic kidney disease
+Q61.0,Congenital single renal cyst
+Q61.1,"Polycystic kidney, autosomal recessive"
+Q61.2,"Polycystic kidney, autosomal dominant"
+Q61.3,"Polycystic kidney, unspecified"
+Q61.4,Renal dysplasia
+Q61.5,Medullary cystic kidney
+Q61.8,Other cystic kidney diseases
+Q61.9,"Cystic kidney disease, unspecified"
+Q63,Other congenital malformations of kidney
+Q63.0,Accessory kidney
+Q63.1,"Lobulated, fused and horseshoe kidney"
+Q63.2,Ectopic kidney
+Q63.3,Hyperplastic and giant kidney
+Q63.8,Other specified congenital malformations of kidney
+Q63.9,"Congenital malformation of kidney, unspecified"

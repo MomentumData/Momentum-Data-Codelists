@@ -1,0 +1,98 @@
+SNOMEDCTCodes,Description
+260994008,Bipolar (qualifier value)
+13746004,Bipolar disorder (disorder)
+16238741000119105,Bipolar disorder caused by drug (disorder)
+85248005,Bipolar disorder in remission (disorder)
+41836007,Bipolar disorder in full remission (disorder)
+191634005,"Bipolar affective disorder, currently depressed, in full remission (disorder)"
+191625000,"Bipolar affective disorder, currently manic, in full remission (disorder)"
+723903001,Bipolar type I disorder currently in full remission (disorder)
+3530005,"Bipolar I disorder, single manic episode, in full remission (disorder)"
+22121000,Depressed bipolar I disorder in full remission (disorder)
+30935000,Manic bipolar I disorder in full remission (disorder)
+111485001,Mixed bipolar I disorder in full remission (disorder)
+723905008,Bipolar type II disorder currently in full remission (disorder)
+12969000,"Severe bipolar II disorder, most recent episode major depressive, in full remission (disorder)"
+191643001,"Mixed bipolar affective disorder, in full remission (disorder)"
+5703000,Bipolar disorder in partial remission (disorder)
+78269000,"Bipolar I disorder, single manic episode, in partial remission (disorder)"
+49512000,Depressed bipolar I disorder in partial remission (disorder)
+63249007,Manic bipolar I disorder in partial remission (disorder)
+36583000,Mixed bipolar I disorder in partial remission (disorder)
+67002003,"Severe bipolar II disorder, most recent episode major depressive, in partial remission (disorder)"
+767631007,"Bipolar disorder, most recent episode depression (disorder)"
+191627008,"Bipolar affective disorder, current episode depression (disorder)"
+191629006,"Bipolar affective disorder, currently depressed, mild (disorder)"
+191630001,"Bipolar affective disorder, currently depressed, moderate (disorder)"
+765176007,Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder)
+767636002,"Bipolar I disorder, most recent episode depression (disorder)"
+29929003,"Bipolar I disorder, most recent episode depressed with atypical features (disorder)"
+21900002,"Bipolar I disorder, most recent episode depressed with catatonic features (disorder)"
+75752004,"Bipolar I disorder, most recent episode depressed with melancholic features (disorder)"
+87203005,"Bipolar I disorder, most recent episode depressed with postpartum onset (disorder)"
+51637008,"Chronic bipolar I disorder, most recent episode depressed (disorder)"
+16295005,"Bipolar II disorder, most recent episode major depressive (disorder)"
+43568002,"Bipolar II disorder, most recent episode major depressive with atypical features (disorder)"
+22407005,"Bipolar II disorder, most recent episode major depressive with catatonic features (disorder)"
+34315001,"Bipolar II disorder, most recent episode major depressive with melancholic features (disorder)"
+30687003,"Bipolar II disorder, most recent episode major depressive with postpartum onset (disorder)"
+1196001,"Chronic bipolar II disorder, most recent episode major depressive (disorder)"
+71294008,"Mild bipolar II disorder, most recent episode major depressive (disorder)"
+35846004,"Moderate bipolar II disorder, most recent episode major depressive (disorder)"
+30520009,"Severe bipolar II disorder, most recent episode major depressive with psychotic features (disorder)"
+19300006,"Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-congruent (disorder)"
+20960007,"Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-incongruent (disorder)"
+81319007,"Severe bipolar II disorder, most recent episode major depressive without psychotic features (disorder)"
+35722002,"Severe bipolar II disorder, most recent episode major depressive, in remission (disorder)"
+767632000,"Bipolar disorder, most recent episode manic (disorder)"
+191618007,"Bipolar affective disorder, current episode manic (disorder)"
+191620005,"Bipolar affective disorder, currently manic, mild (disorder)"
+191621009,"Bipolar affective disorder, currently manic, moderate (disorder)"
+191623007,"Bipolar affective disorder, currently manic, severe, with psychosis (disorder)"
+87950005,"Bipolar I disorder, single manic episode with catatonic features (disorder)"
+1499003,"Bipolar I disorder, single manic episode with postpartum onset (disorder)"
+31446002,"Bipolar I disorder, most recent episode hypomanic (disorder)"
+9340000,"Bipolar I disorder, single manic episode (disorder)"
+41552001,"Mild bipolar I disorder, single manic episode (disorder)"
+75360000,"Bipolar I disorder, single manic episode, in remission (disorder)"
+35481005,Mixed bipolar I disorder in remission (disorder)
+43769008,Mild mixed bipolar I disorder (disorder)
+40926005,Moderate mixed bipolar I disorder (disorder)
+271000119101,Severe mixed bipolar I disorder (disorder)
+10981006,Severe mixed bipolar I disorder with psychotic features (disorder)
+64731001,"Severe mixed bipolar I disorder with psychotic features, mood-congruent (disorder)"
+10875004,"Severe mixed bipolar I disorder with psychotic features, mood-incongruent (disorder)"
+46229002,Severe mixed bipolar I disorder without psychotic features (disorder)
+13313007,Mild bipolar disorder (disorder)
+74686005,Mild depressed bipolar I disorder (disorder)
+71984005,Mild manic bipolar I disorder (disorder)
+79584002,Moderate bipolar disorder (disorder)
+82998009,Moderate manic bipolar I disorder (disorder)
+28884001,"Moderate bipolar I disorder, single manic episode (disorder)"
+231444002,Organic bipolar disorder (disorder)
+38368003,"Schizoaffective disorder, bipolar type (disorder)"
+371600003,Severe bipolar disorder (disorder)
+4441000,Severe bipolar disorder with psychotic features (disorder)
+70546001,"Severe bipolar disorder with psychotic features, mood-congruent (disorder)"
+54761006,"Severe depressed bipolar I disorder with psychotic features, mood-congruent (disorder)"
+78640000,"Severe manic bipolar I disorder with psychotic features, mood-congruent (disorder)"
+26530004,"Severe bipolar disorder with psychotic features, mood-incongruent (disorder)"
+26203008,"Severe depressed bipolar I disorder with psychotic features, mood-incongruent (disorder)"
+33380008,"Severe manic bipolar I disorder with psychotic features, mood-incongruent (disorder)"
+41832009,"Severe bipolar I disorder, single manic episode with psychotic features (disorder)"
+13581000,"Severe bipolar I disorder, single manic episode with psychotic features, mood-congruent (disorder)"
+86058007,"Severe bipolar I disorder, single manic episode with psychotic features, mood-incongruent (disorder)"
+59617007,Severe depressed bipolar I disorder with psychotic features (disorder)
+261000119107,Severe depressed bipolar I disorder (disorder)
+61403008,Severe depressed bipolar I disorder without psychotic features (disorder)
+53049002,Severe bipolar disorder without psychotic features (disorder)
+14495005,"Severe bipolar I disorder, single manic episode without psychotic features (disorder)"
+23741000119105,Severe manic bipolar I disorder (disorder)
+162004,Severe manic bipolar I disorder without psychotic features (disorder)
+371599001,Severe bipolar I disorder (disorder)
+371604007,Severe bipolar II disorder (disorder)
+285491000000101,Bipolar affective disorder resolved (finding)
+133091000119105,Rapid cycling bipolar I disorder (disorder)
+702826007,Bipolar clinic (environment)
+48937005,"Bipolar II disorder, most recent episode hypomanic (disorder)"
+76105009,Cyclothymia (disorder)

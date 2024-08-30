@@ -1,0 +1,86 @@
+SNOMEDCTCodes,Description
+161504004,History of angina pectoris (situation)
+170593007,Angina control
+170594001,Angina control - good
+170595000,Angina control - poor (finding)
+170596004,Angina control - improving
+194828000,Angina (disorder)
+59021001,Angina decubitus (disorder)
+35928006,Nocturnal angina (disorder)
+300995000,Exercise-induced angina (disorder)
+170597008,Angina control - worsening
+4557003,Preinfarction angina
+225566008,Ischemic chest pain
+308066006,H/O: Angina in last year
+308117007,Antianginal therapy
+21470009,Syncope anginosa (disorder)
+314116003,Post infarct angina
+233821000,New onset angina (disorder)
+233819005,Stable angina (disorder)
+413844008,Chronic coronary insufficiency
+315025001,Refractory angina
+19057007,Status anginosus (disorder)
+194814006,(Angina: [crescendo] or [unstable] or [at rest]) or (preinfarction syndrome) or (impending infarction)
+87343002,Prinzmetal angina
+194823009,Acute coronary insufficiency
+704207005,Frequency of angina
+61490001,"Angina, class I"
+72050006,Agranulocytic angina
+23687008,Angina pectoris with documented spasm
+367416001,"Angina, NOS"
+147844002,Angina control
+151155002,Antianginal therapy
+155307004,Angina
+155308009,Unstable angina
+155309001,Refractory angina
+155310006,Post infarct angina
+155311005,New onset angina
+155312003,Stable angina
+155313008,Angina at rest
+155314002,Worsening angina
+161517001,H/O: Angina in last year
+170598003,Angina control NOS (finding)
+182824004,Antianginal therapy
+194816008,Unstable angina
+194817004,Angina at rest
+194818009,Refractory angina
+194819001,Worsening angina
+194820007,Preinfarction syndrome NOS (disorder)
+194829008,Angina decubitus NOS (disorder)
+194830003,Angina pectoris NOS (disorder)
+194831004,Status anginosus [dup] (disorder)
+194832006,Stenocardia (disorder)
+194833001,Syncope anginosa [dup] (disorder)
+194834007,Exercise-induced angina
+194835008,Ischaemic chest pain
+194836009,Post infarct angina
+194837000,New onset angina
+194838005,Stable angina
+194839002,Angina pectoris NOS
+195541002,[X]Other forms of angina pectoris (disorder)
+233818002,Angina at rest
+233820004,Unstable angina
+17828002,Angina pectoris (disorder) [Ambiguous]
+41334000,"Angina, class II (disorder)"
+64333001,Preinfarction angina (disorder)
+85284003,"Angina, class III (disorder)"
+89323001,"Angina, class IV (disorder)"
+371806006,Progressive Angina (disorder)
+371807002,Atypical angina (disorder)
+371811008,Recurrent angina status post rotational atherectomy
+371812001,Recurrent angina status post directional coronary atherectomy
+371808007,Recurrent angina after percutaneous transluminal coronary angioplasty
+371809004,Recurrent angina after coronary stent placement
+371810009,Recurrent angina after coronary artery bypass graft
+429559004,Typical angina (disorder)
+138786001,H/O: Angina in last year (situation)
+138776002,H/O: angina pectoris (situation)
+791000119109,Angina associated with type II diabetes mellitus
+15960061000119102,Unstable angina co-occurrent and due to coronary arteriosclerosis
+15960141000119102,Angina co-occurrent and due to coronary arteriosclerosis (disorder)
+15960381000119109,Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft (disorder)
+736059007,Angina self management plan
+15960581000119102,Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft
+16754391000119100,Stable angina due to coronary arteriosclerosis (disorder)
+233845001,Microvascular angina
+15960541000119107,Unstable angina due to arteriosclerosis of autologous vein coronary artery bypass graft (disorder)

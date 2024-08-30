@@ -1,0 +1,566 @@
+SNOMEDCTCodes,Description
+420054005,Alcoholic cirrhosis (disorder)
+76301009,Florid cirrhosis
+419728003,Portal cirrhosis (disorder)
+41309000,Alcoholic liver damage
+266469006,Multilobular portal cirrhosis
+43904005,Macronodular cirrhosis
+197293003,Diffuse nodular cirrhosis
+197294009,Fatty portal cirrhosis
+197296006,Capsular portal cirrhosis
+266470007,Cardiac portal cirrhosis
+74669004,Cardiac cirrhosis
+266471006,Juvenile portal cirrhosis
+197284004,Chronic active hepatitis
+6183001,Indian childhood cirrhosis
+197303009,Bacterial portal cirrhosis
+197306001,Zooparasitic portal cirrhosis
+235896001,Infectious cirrhosis
+266468003,Cirrhosis - non-alcoholic
+89580002,Cryptogenic cirrhosis
+19943007,Cirrhosis of liver
+235895002,"Laennec's cirrhosis, non-alcoholic"
+62484002,Hepatic fibrosis
+12368000,Secondary biliary cirrhosis
+197310003,Biliary cirrhosis of children
+1761006,Biliary cirrhosis
+235875008,Alcoholic hepatitis
+197279005,Cirrhosis and chronic liver disease
+197316009,Portal fibrosis without cirrhosis
+197362001,Toxic liver disease with fibrosis and cirrhosis of liver
+50325005,Alcoholic fatty liver
+186639003,Chronic viral hepatitis B without delta-agent
+128302006,Chronic type C viral hepatitis
+10295004,Chronic viral hepatitis
+31712002,Primary biliary cirrhosis
+197441003,Primary sclerosing cholangitis
+9953008,Acute alcoholic liver disease
+186628001,Viral hepatitis C with coma
+3738000,Viral hepatitis
+197270009,Acute liver failure
+197275004,Subacute hepatic failure
+213153001,Liver transplant failure and rejection
+213230009,Liver failure as a complication of care
+399126000,Bronze cirrhosis (disorder)
+308129003,Oesophageal varices in cirrhosis of the liver
+309783001,Oesophageal varices in alcoholic cirrhosis of the liver
+235880004,Alcoholic fibrosis and sclerosis of liver
+235881000,Alcoholic hepatic failure
+271440004,Cirrhosis secondary to cholestasis
+307757001,Chronic alcoholic hepatitis
+235899008,Hepatic sclerosis
+235901004,Hepatic fibrosis with hepatic sclerosis
+197321007,Steatosis of liver
+442685003,NASH - Nonalcoholic steatohepatitis
+429721005,History of hepatitis B (situation)
+165806002,Hepatitis B surface antigen positive
+165807006,Hepatitis e antigen present
+314706002,Hepatitis C antibody test positive
+66071002,Type B viral hepatitis
+50711007,Viral hepatitis C
+235865005,Hepatitis D superinfection of hepatitis B carrier
+235869004,Chronic viral hepatitis B with hepatitis D
+61977001,Chronic type B viral hepatitis
+60498001,Congenital viral hepatitis B infection
+408335007,Autoimmune hepatitis (disorder)
+26206000,Viral hepatitis B with hepatic coma
+197269008,Acute necrosis of liver
+197276003,Subacute yellow atrophy
+197274000,Subacute hepatic necrosis
+197268000,Acute and subacute liver necrosis
+72836002,Hepatic coma
+59927004,Hepatic failure
+17890003,Hepatic infarction
+197356006,Toxic liver disease with hepatic necrosis
+413438002,Acute hepatic failure due to drugs (disorder)
+197364000,Central hemorrhagic necrosis of liver
+197280008,Cirrhosis: [florid] or [alcoholic]
+197297002,Cirrhosis: [cardiac portal] or [congestive]
+197298007,Childhood function cirrhosis
+197290000,(Cirrhosis - non alcoholic) or (portal cirrhosis)
+197309008,(Liver cirrhosis: [named variants] or [NOS]) or (hepatic fibrosis)
+173617001,Open operations on oesophageal varices
+67364009,Ligation of esophageal varices
+173621008,Open injection sclerotherapy to oesophageal varices
+173639004,Fibreoptic oesophagoscopy and injection sclerotherapy of varices
+173641003,Fibreoptic oesophagoscopy and banding of oesophageal varices
+173660005,Endoscopic injection sclerotherapy to varices of oesophagus using rigid oesophagoscope
+173661009,Rigid oesophagoscopy and banding of oesophageal varices
+173679008,Balloon tamponade of esophageal varices
+18027006,Transplantation of liver
+174425003,Orthotopic liver transplant
+174426002,Heterotopic liver transplant
+174427006,Replacement of previous liver transplant
+235458006,Exploration of liver transplant
+174451001,Exploration liver (& transplanted)
+40946000,Viral hepatitis with hepatic coma
+20415001,Progressive sclerosing poliodystrophy
+17709002,Bleeding esophageal varices
+14223005,Esophageal varices without bleeding
+195474004,Esophageal varices in diseases EC
+195475003,Oesophageal varices with bleeding in diseases EC
+195476002,Esophageal varices without bleeding in diseases EC
+91109007,Gastric varices
+28670008,Esophageal varices
+76783007,Chronic hepatitis
+41889008,Chronic persistent hepatitis
+197286002,Recurrent hepatitis
+197291001,Unilobular portal cirrhosis
+15999000,Mixed micro AND macronodular cirrhosis
+197299004,Pigmentary portal cirrhosis
+197300007,Pipestem portal cirrhosis
+197301006,Toxic portal cirrhosis
+197305002,Syphilitic portal cirrhosis
+79720007,Chronic nonalcoholic liver disease
+81675001,Chronic yellow atrophy of liver
+328383001,Chronic liver disease
+197324004,Liver abscess and sequelae of chronic liver disease
+34742003,Portal hypertension
+51292008,Hepatorenal syndrome
+34736002,Chronic passive congestion of liver
+197359004,Toxic liver disease with chronic persistent hepatitis
+197360009,Toxic liver disease with chronic lobular hepatitis
+197361008,Toxic liver disease with chronic active hepatitis
+197368002,Hepatic granulomas in sarcoidosis
+77480004,Congenital biliary atresia
+1287007,Congenital absence of bile duct
+68094008,Congenital hypoplasia of bile duct
+253807009,Intrahepatic biliary atresia
+82821008,Congenital atresia of extrahepatic bile duct
+204779004,Atresia of bile duct (& [intrahepatic] or [extrahepatic]
+204781002,Congenital absence of hepatic ducts
+204782009,Atresia of hepatic ducts
+31742004,Arteriohepatic dysplasia
+213231008,Hepatorenal syndrome as a complication of care
+235212007,Balloon tamponade of oesophagus using Sengstaken-Blakemore tube
+235213002,Balloon tamponade of esophagus using Minnesota tube
+235870003,Chronic non-A non-B hepatitis
+235884008,Fulminant hepatic failure
+235885009,Subfulminant hepatic failure
+235886005,Chronic hepatic failure
+57339008,Chronic lobular hepatitis
+235889003,Drug-induced chronic hepatitis
+21861000,Micronodular cirrhosis
+235897005,Hypoxia-associated cirrhosis
+123604002,Toxic cirrhosis
+79607001,Congenital hepatic fibrosis
+235898000,Pericellular fibrosis of congenital syphilis
+235900003,Portal and splenic vein sclerosis
+235902006,Intrahepatic phlebosclerosis and fibrosis
+235910007,Liver transplant disorder
+235911006,Liver transplant rejection
+235912004,Liver transplant failure
+235916001,Ichthyosis congenita with biliary atresia
+266539002,Chronic hepatitis (& [NOS] or [active B] or [active] or [persistent])
+266540000,Biliary cirrhosis
+428198008,Transplantation of hepatocytes (procedure)
+426356008,Orthotopic transplantation of whole liver (procedure)
+427022004,Liver disease due to cystic fibrosis (disorder)
+737297006,Transplanted liver present
+29633007,Glycogen storage disease
+11179002,"Glycogen storage disease, type IV"
+399187006,Hemochromatosis (disorder)
+399144008,Bronze diabetes (disorder)
+35400008,Hereditary hemochromatosis
+776981000000103,Cirrhosis associated with cystic fibrosis (disorder)
+760421000000100,Hepatitis C viral ribonucleic acid polymerase chain reaction positive (finding)
+812181000000106,Hepatitis C antigen positive (finding)
+824841000000105,Hepatitis C genotype 1 (disorder)
+824851000000108,Hepatitis C genotype 2 (disorder)
+824871000000104,Hepatitis C genotype 3 (disorder)
+824881000000102,Hepatitis C genotype 4 (disorder)
+773411000000107,Liver failure support management (procedure)
+235856003,Hepatopathy
+13920009,Hepatic encephalopathy
+426841006,Fiberoptic endoscopic rubber band ligation of upper gastrointestinal tract varices (procedure)
+400381000000101,[V]Assessment for liver transplant (situation
+536002,Glissonian cirrhosis
+1116000,Chronic aggressive type B viral hepatitis
+3860006,Transplanted liver
+3873005,Failed attempted abortion with acute yellow atrophy of liver
+4517001,Acute noninfective hepatitis
+4032000,Primary sclerosing cholangitis
+4896000,Acute toxic hepatitis
+5360002,Nonalcoholic fatty liver
+5792004,Legal abortion with acute yellow atrophy of liver
+7077006,Enzootic hepatitis
+7496003,Canine distemper - hepatitis vaccine - leptospira bacterin
+9542007,Hepatitis B immune globulin (human)
+9843006,Chronic lymphocytic cholangitis-cholangiohepatitis
+9936001,Perinatal jaundice due to fetal OR neonatal hepatitis
+11447000,"Antibody to hepatitis B core antigen, IgM type"
+12074006,Ligation of gastric varices
+111895004,Other specified viral hepatitis with hepatic coma
+13265006,Acute fulminating type B viral hepatitis
+16069000,Toxic noninfectious hepatitis
+16070004,Syphilitic cirrhosis
+16428002,Chronic persistent type A viral hepatitis
+17627009,Antibody to hepatitis Be antigen
+17681007,Hepatitis due to acquired toxoplasmosis
+18418004,Hepatitis C virus recombinant immunoblot measurement
+19682006,Lupus hepatitis
+22010006,Duck virus hepatitis vaccine
+22290004,Hepatitis surface antigen
+22508003,Hepatic failure due to a procedure
+22846003,Hepatorenal syndrome following delivery
+24807004,Bleeding gastric varices
+25072000,Subacute yellow atrophy of liver
+25942009,Cirrhosis of pancreas
+26383008,Lobular dissecting hepatitis
+27156006,Posthepatitic cirrhosis
+27280000,Liver transplant with recipient hepatectomy
+28009009,Liver transplant without recipient hepatectomy
+28766006,Posttransfusion viral hepatitis
+29001004,Hepatitis
+29062009,Relapsing type B viral hepatitis
+31005002,Hepatorenal syndrome due to a procedure
+33144001,Parasitic cirrhosis
+33167004,Complication of transplanted liver
+37292007,Acute yellow atrophy of liver following molar AND/OR ectopic pregnancy
+37688005,Clonorchiasis with biliary cirrhosis
+38662009,Chronic persistent type B viral hepatitis
+40444006,Spontaneous abortion with acute yellow atrophy of liver
+50167007,Chronic active type B viral hepatitis
+53476006,Radiation hepatitis
+54453000,Abortion with acute yellow atrophy of liver
+55955008,Oriental cholangiohepatitis
+58262005,Fatty liver of Brahmin children
+58282009,Relapsing viral hepatitis
+60037002,Chronic persistent viral hepatitis
+60605004,Hepatitis e antigen
+60992009,Hepatitis E antigen measurement
+61082006,Hepatitis D antibody measurement
+62216007,Familial arthrogryposis-cholestatic hepatorenal syndrome
+62944002,Hepatitis C virus
+63194008,Infectious necrotic hepatitis
+66870002,Chronic active viral hepatitis
+68784009,Chronic active hepatitis
+69800000,Neonatal hepatitis
+69897008,Acute yellow atrophy of liver during pregnancy
+72445008,Subacute noninfective hepatitis
+73418000,Acute yellow atrophy of liver
+75393009,Alcoholic cirrhosis of liver
+76128005,"Antibody to hepatitis B core antigen, IgG type"
+76795007,Acute type B viral hepatitis
+78208005,Pigment cirrhosis
+80444007,Stapling of gastric varices
+80770009,Secondary syphilitic hepatitis
+81212000,"Viral hepatitis, carrier state"
+81665004,Hepatitis B virus
+83617006,Hepatitis D virus
+86454000,Postnecrotic cirrhosis
+86514004,Granulomatous hepatitis
+86781004,Bronzed cirrhosis
+88469006,Cerebrohepatorenal syndrome
+89789003,Chronic aggressive viral hepatitis
+90185007,Hepatitis B core antigen measurement
+90651007,"Anesthesia for liver transplant, recipient"
+90781005,Illegal abortion with acute yellow atrophy of liver
+91162000,Necrosis of liver of pregnancy
+95556007,Cholestatic hepatitis
+109819003,Obstructive biliary cirrhosis
+111370006,Cirrhosis of liver not due to alcohol
+111891008,Viral hepatitis B without hepatic coma
+111892001,Infectious neonatal hepatitis
+112386001,"Non-A, non-B hepatitis virus"
+123605001,Nutritional cirrhosis
+123606000,Cholangiolitic cirrhosis
+123607009,Septal fibrosis of liver
+123716002,Latent cirrhosis
+123717006,Advanced cirrhosis
+128072003,Acquired portal-systemic shunt due to cirrhosis
+73282006,Oesophagoscopy for injection of oesophageal varices
+147742007,Viral hepatitis carrier
+149322009,Operation on oesophageal varices
+149326007,Sclerotherapy of oesophageal varices
+149327003,Local ligation of oesophageal varices
+149473000,Liver transplant
+154349000,Hepatitis C
+155479001,Oesophageal varices
+155808003,(Acute/subacute necrosis of liver) or (acute liver failure)
+155809006,Cirrhosis
+155810001,Acute alcoholic hepatitis
+155811002,Alcoholic cirrhosis of liver
+155812009,Alcoholic liver damage NOS
+155813004,Chronic hepatitis
+155814005,Cirrhosis - non-alcoholic
+155815006,Biliary cirrhosis (& [primary])
+155816007,Chronic liver disease NOS
+155820006,Hepatic coma
+155821005,Portal hypertension
+157122002,Congenital hepatitis B infection
+170489004,Viral hepatitis carrier
+173622001,Other specified open operation on oesophageal varices
+173623006,Open operation on oesophageal varices NOS
+174428001,Other specified transplantation of liver
+174429009,Transplantation of liver NOS
+174573006,Roux-en-y procedure biliary atresia (& Sawaguchi)
+184068004,Juvenile cirrhosis
+186623005,Viral hepatitis B with coma
+186624004,Acute hepatitis B with delta agent (coinfection) with hepatic coma
+186625003,Viral serum hepatitis B
+186626002,Acute hepatitis B with delta-agent (coinfection) without hepatic coma
+186631000,Viral hepatitis C without mention of hepatic coma
+186632007,Hepatitis D superinfection of hepatitis B carrier
+186634008,Hepatitis non-A non-B
+186637001,Chronic viral hepatitis
+186638006,Chronic viral hepatitis B with hepatitis D
+186640001,Chronic viral hepatitis C
+186641002,"[X]Chronic viral hepatitis, unspecified"
+186643004,Hepatitis C
+190944000,Alpha-1-antitrypsin hepatitis
+195473005,(Oesophageal varices) or (other varicose veins)
+195477006,Oesophageal varices in cirrhosis of the liver
+195478001,Esophageal varices in alcoholic cirrhosis of the liver
+195479009,Oesophageal varices in diseases EC NOS
+195483009,Oesophageal varices NOS
+195643006,[X]Oesophageal varices in diseases classified elsewhere
+197272001,Acute yellow atrophy
+197273006,Acute necrosis of liver NOS
+197277007,Subacute necrosis of liver NOS
+197278002,Acute and subacute liver necrosis NOS
+197281007,Alcoholic fibrosis and sclerosis of liver
+197282000,Alcoholic liver damage unspecified
+197283005,Alcoholic hepatic failure
+197285003,Chronic aggressive hepatitis
+197287006,Chronic lobular hepatitis
+197288001,Chronic hepatitis unspecified
+197289009,Chronic hepatitis NOS
+197292008,Cirrhosis of liver: [multilobular portal] or [postnecrotic]
+197295005,Macronodular cirrhosis
+197302004,Cirrhosis secondary to cholestasis
+197304003,Cardituberculous cirrhosis
+197307005,Infectious cirrhosis NOS
+197308000,Portal cirrhosis unspecified
+197311004,Biliary cirrhosis NOS
+197312006,Alcoholic hepatitis
+197313001,Chronic alcoholic hepatitis
+197314007,Other non-alcoholic chronic liver disease
+197315008,Non-alcoholic fatty liver
+197317000,Fibrosis of liver
+197318005,Hepatic sclerosis
+197319002,Hepatic fibrosis with hepatic sclerosis
+197322000,Other non-alcoholic chronic liver disease NOS
+197323005,Chronic liver disease NOS
+197332007,Hepatic coma
+197334008,Hepatic failure
+197335009,(Hepatic failure (& [NOS]) or (other sequelae of chronic liver disease)
+197336005,Liver abscess and chronic liver disease causing sequelae NOS
+197338006,Hepatitis in viral diseases EC
+197347003,Hepatitis in late syphilis
+197348008,Hepatitis in secondary syphilis
+197354009,Toxic liver disease
+197355005,Toxic liver disease with cholestasis
+197358007,Toxic liver disease with acute hepatitis
+197363006,"[X]Toxic liver disease, unspecified"
+197369005,"[X]Granulomatous hepatitis, not elsewhere classified"
+197552007,[X]Toxic liver disease with other disorders of liver
+197553002,[X]Other and unspecified cirrhosis of liver
+197558006,"[X]Toxic liver disease, unspecified"
+197559003,"[X]Granulomatous hepatitis, not elsewhere classified"
+198866005,Acute liver necrosis following abortive pregnancy
+204776006,Congenital absence of bile duct
+204777002,Congenital hypoplasia of bile duct
+204783004,Biliary atresia NOS
+206372007,Congenital viral hepatitis
+217025003,"Transplantation of liver as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation"
+235184005,Operation on oesophageal varices
+235201007,Sclerotherapy of oesophageal varices
+235236006,Sclerotherapy of gastric varices
+235247004,Balloon tamponade of gastric varices
+235464004,Heterotopic liver transplant
+235864009,Acute hepatitis B with hepatitis D
+235866006,Acute hepatitis C
+235868007,Acute non-A non-B hepatitis
+235871004,Hepatitis B carrier
+235872006,Hepatitis C carrier
+235877000,Ischemic hepatitis
+235882007,Liver failure NOS
+235883002,Hepatic failure NOS
+235891006,Cirrhosis of liver NOS
+235892004,Florid cirrhosis
+235894003,Portal cirrhosis
+235907000,Neonatal giant cell hepatitis
+236067006,Bleeding oesophageal varices
+240792005,Clay pipe-stem cirrhosis
+240869004,Capillaria hepatica hepatitis
+241472007,US scan of transplant liver
+265349006,Other specified open operation on oesophageal varices
+265451009,Roux-en-Y procedure for biliary atresia
+265863006,Operation on oesophageal varices
+266467008,Alcoholic cirrhosis of liver
+266472004,Non-alcoholic cirrhosis NOS
+266473009,Other sequelae of chronic liver disease
+266536009,(Acute/subacute necrosis of liver) or (acute liver failure)
+266537000,Alcoholic liver disease
+266538005,Alcoholic liver damage NOS
+272508003,Entire transplanted liver
+276553003,Cryptogenic hepatitis in infancy
+276668008,Congenital non-A non-B hepatitis infection
+278929008,Congenital hepatitis C infection
+302126000,Yellow atrophy of the liver
+312980002,Oesophageal varices NOS
+316061004,[V]Liver transplanted
+40468003,IH - Infectious hepatitis
+6160004,Neonatal giant cell hepatitis
+87248009,Liver necrosis
+186642009,Unspecified viral hepatitis (disorder)
+187434006,[X]Other chronic viral hepatitis (disorder)
+187435007,"[X]Chronic viral hepatitis, unspecified (disorder)"
+206374008,Other specified congenital viral hepatitis (disorder)
+206375009,Congenital viral hepatitis NOS (disorder)
+206465005,Giant cell hepatitis causing neonatal jaundice (disorder)
+243582000,Hepatitis B group virus (organism)
+315349008,[V]Hepatitis B carrier (context-dependent category)
+315672002,[V]Viral hepatitis carrier (context-dependent category)
+315678003,[V]Hepatitis B carrier
+123136005,Delta hepatitis viral agent -RETIRED-
+123603008,Acute focal hepatitis (disorder)
+370492003,Copper storage associated hepatitis (disorder)
+370889009,Lymphocytic portal hepatitis (disorder)
+370988000,Hepatitis C antibody positive with elevated ALT (finding)
+371139006,Early cirrhosis (disorder)
+371329005,Nonalcoholic fatty liver (disorder)
+371330000,Fatty liver (disorder)
+371140008,PCR positive for hepatitis C viral RNA (genotype 1A) (finding)
+370490006,Acute cholangiohepatitis
+390002007,Fatty change of liver
+412772004,[V]Hepatitis C carrier
+424099008,Acute hepatitis B with hepatic coma (disorder)
+424340000,Chronic hepatitis B with hepatic coma (disorder)
+424460009,Hepatitis B with hepatitis D superinfection (disorder)
+424764001,Hepatitis B virus group
+425413006,Drug-induced cirrhosis of liver (disorder)
+427044009,Fulminant hepatitis (disorder)
+123324009,"Viral hepatitis, non-A, non-B (disorder)"
+432908002,Chronic rejection of liver transplant (disorder)
+432772009,Hyperacute rejection of liver transplant (disorder)
+432777003,Accelerated rejection of liver transplant (disorder)
+431222008,Acute rejection of liver transplant (disorder)
+433088006,Carrier of hepatitis B (finding)
+438543000,Specimen from transplanted liver obtained by biopsy (specimen)
+442374005,Hepatitis B and hepatitis C
+442134007,Hepatitis B associated with Human immunodeficiency virus infection (disorder)
+442191002,Steatohepatitis
+444918006,Sequela of chronic liver disease
+446698005,Reactivation of hepatitis B viral hepatitis (disorder)
+446739005,Endoscopy of upper gastrointestinal tract and banding of oesophageal varices
+446740007,Banding of gastric varices
+446742004,Endoscopy of upper gastrointestinal tract and injection of oesophageal varices
+446727002,Esophagogastroduodenoscopy and injection of gastric varices
+446743009,Endoscopy of upper gastrointestinal tract and banding of gastric varices
+446738002,Injection of gastric varices
+449901005,Hepatic encephalopathy in fulminant hepatic failure
+603414004,Hepatitis C virus subtype 1b
+603428005,Hepatitis C virus subtype 1c
+603422006,Hepatitis C virus genotype 1 (organism)
+603430007,Hepatitis C virus subtype 4b
+603433009,Hepatitis C virus subtype 4e (organism)
+603420003,Hepatitis C virus subtype 6a
+603417006,Hepatitis C virus subtype 3a (organism)
+603423001,Hepatitis C virus genotype 2 (organism)
+603425008,Hepatitis C virus genotype 4 (organism)
+603427000,Hepatitis C virus genotype 6
+603418001,Hepatitis C virus subtype 3b (organism)
+603432004,Hepatitis C virus subtype 4d (organism)
+603421004,Hepatitis C virus subtype 4a (organism)
+603415003,Hepatitis C virus subtype 2a (organism)
+603426009,Hepatitis C virus genotype 5 (organism)
+603416002,Hepatitis C virus subtype 2b
+603429002,Hepatitis C virus subtype 2c (organism)
+603424007,Hepatitis C virus genotype 3 (organism)
+603419009,Hepatitis C virus subtype 5a
+603431006,Hepatitis C virus subtype 4c
+603413005,Hepatitis C virus subtype 1a (organism)
+609454008,Induced termination of pregnancy complicated by acute necrosis of liver (disorder)
+831000119103,Cirrhosis of liver due to chronic hepatits C (disorder)
+698364008,Transgastric plication of gastric varices (procedure)
+699074005,Transgastric plication of oesophageal varices
+699189004,North American Indian childhood cirrhosis
+702377007,"Hypermanganesemia with dystonia, polycythaemia, and cirrhosis"
+702690005,Doppler ultrasound of transplant liver (procedure)
+702777009,Liver transplant recipient
+702969000,Reactivation of hepatitis C viral hepatitis
+347891000119103,Chronic hepatitis C with stage 3 fibrosis
+703866000,Chronic hepatitis C with stage 2 fibrosis
+703889008,Hepatitis B virus genotype D
+703891000,Hepatitis B virus genotype F
+703887005,Hepatitis B virus genotype B (organism)
+703886001,Hepatitis B virus genotype A
+703893002,Hepatitis B virus genotype H
+703890004,Hepatitis B virus genotype E (organism)
+703892007,Hepatitis B virus genotype G
+703888000,Hepatitis B virus genotype C (organism)
+128971000119101,Cryoglobulinaemia due to chronic hepatitis C
+103611000119102,Cirrhosis of liver due to hepatitis B
+120241000119100,Glomerulonephritis due to hepatitis C (disorder)
+707167006,Acute multi-acinar necrosis of liver (disorder)
+707341005,Viral hepatitis type D
+707420003,Portal hypertension due to cystic fibrosis
+708198006,Chronic active hepatitis C
+59701000119109,History of portal hypertension
+711331006,Polymerase chain reaction test for Hepatitis C positive (finding)
+1082611000119101,Ascites due to alcoholic hepatitis (disorder)
+146371000119104,Hepatic coma due to chronic hepatitis C (disorder)
+1085091000119108,Hepatic coma due to chronic hepatic failure (disorder)
+1082621000119108,Hepatic coma due to alcoholic liver failure (disorder)
+103931000119102,Hepatic coma due to hepatitis (disorder)
+125921000119106,Hepatic coma due to acute hepatitis C (disorder)
+1085021000119106,Hepatic ascites due to chronic alcoholic hepatitis (disorder)
+153091000119109,Hepatic coma due to chronic hepatitis B with delta agent (disorder)
+1092691000119109,Hepatic coma due to subacute liver failure (disorder)
+1082601000119104,Ascites due to alcoholic cirrhosis (disorder)
+1092801000119102,Hepatic ascites co-occurrent with chronic active hepatitis due to toxic liver disease
+1082511000119102,Coma due to acute hepatic failure
+713181003,Chronic alcoholic liver disease (disorder)
+713370005,Acute on chronic alcoholic liver disease (disorder)
+713529007,Steatosis of liver caused by retroviral protease inhibitor
+713542007,Portal hypertension caused by anti-retroviral drug
+713966008,Occult chronic type B viral hepatitis
+715401008,Primary biliary cirrhosis co-occurrent with systemic scleroderma (disorder)
+715864007,Idiopathic copper associated cirrhosis of liver
+716203000,Decompensated cirrhosis of liver (disorder)
+717053007,Renal tubulopathy with encephalopathy and liver failure syndrome (disorder)
+717156002,Biliary atresia with splenic malformation syndrome (disorder)
+717187000,Nephronophthisis hepatic fibrosis syndrome (disorder)
+717865007,Gastric varices without bleeding (disorder)
+718078008,Doppler ultrasonography of transplanted liver (procedure)
+718096004,Hepatoportal sclerosis (disorder)
+720461006,Acute infantile liver failure due to synthesis defect of mitochondrial deoxyribonucleic acid encoded protein (disorder)
+721710005,Fibrosis of liver caused by alcohol (disorder)
+721711009,Autoimmune hepatitis type 1 (disorder)
+721712002,Autoimmune hepatitis type 2 (disorder)
+721713007,Autoimmune hepatitis type 3 (disorder)
+721847002,Joubert syndrome with congenital hepatic fibrosis (disorder)
+722866000,Non-alcoholic fatty liver disease without non-alcoholic steatohepatitis (disorder)
+722867009,Idiopathic portal hypertension (disorder)
+723108006,Idiopathic granulomatous hepatitis (disorder)
+724094005,"Neonatal diabetes, congenital hypothyroidism, congenital glaucoma, hepatic fibrosis, polycystic kidney syndrome (disorder)"
+725416005,Cardiomyopathy co-occurrent and due to cirrhosis of liver (disorder)
+725938001,Cirrhosis of liver caused by methotrexate (disorder)
+725939009,Cirrhosis of liver caused by amiodarone (disorder)
+725940006,Cirrhosis of liver caused by methyldopa (disorder)
+735451005,Chronic infection caused by Hepatitis D virus (disorder)
+735733008,Cirrhosis of liver co-occurrent and due to primary sclerosing cholangitis (disorder)
+765482002,Steatohepatitis caused by ingestible alcohol
+767809001,Chronic hepatitis C caused by hepatitis C virus genotype 6 (disorder)
+767810006,Chronic hepatitis C caused by hepatitis C virus genotype 5 (disorder)
+768006009,Chronic hepatitis C caused by Hepatitis C virus genotype 3
+768125005,Chronic hepatitis C caused by Hepatitis C virus genotype 2
+768126006,Chronic hepatitis C caused by Hepatitis C virus genotype 4
+768127002,Chronic hepatitis C caused by Hepatitis C virus genotype 1 (disorder)
+768288001,Chronic hepatitis C caused by Hepatitis C virus genotype 1b (disorder)
+768289009,Chronic hepatitis C caused by Hepatitis C virus genotype 1a (disorder)
+771149000,"Hepatic fibrosis, renal cyst, intellectual disability syndrome (disorder)"
+16098491000119109,Chronic autoimmune hepatitis
+16093661000119105,History of oesophageal varices
+774204006,"Growth retardation, mild developmental delay, chronic hepatitis syndrome"
+774207004,Acute infantile liver failure with multisystemic involvement syndrome
+10690671000119109,Stage 3 hepatic fibrosis (disorder)
+781245007,Hepatitis C virus genotype 4h (organism)
+781276001,Hepatitis C virus genotype 3c
+822972000,Acute yellow atrophy of liver during pregnancy
+838380002,Chronic hepatitis B with hepatitis C and hepatitis D
+863957008,Chronic necrosis of liver
+870517000,Periportal fibrosis
+871619002,Cirrhosis of liver due to and following cardiac procedure (disorder)

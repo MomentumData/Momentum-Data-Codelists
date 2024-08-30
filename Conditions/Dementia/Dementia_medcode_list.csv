@@ -1,0 +1,179 @@
+MedCodeID,Description
+142920010,Kuru
+2386018,Jakob-Creutzfeldt disease
+2366171000000112,Sporadic Creutzfeldt-Jakob disease
+2366181000000114,Sporadic CJD (Creutzfeldt-Jakob disease)
+882191000006119,Senile and presenile dementias
+26545010,Senile dementia
+882171000006115,Dementia
+148381000006115,Senile/presenile dementia
+882181000006117,Other senile/presenile dement.
+401757012,Senile and presenile organic psychotic conditions
+294635013,Uncomplicated senile dementia
+882201000006116,Senile dementia - simple type
+21256010,Presenile dementia
+294637017,Uncomplicated presenile dementia
+294638010,Presenile dementia with delirium
+294641018,Presenile dementia with paranoia
+294642013,Presenile dementia with depression
+294643015,Presenile dementia NOS
+294644014,Senile dementia with depressive or paranoid features
+294645010,Senile dementia with paranoia
+294646011,Senile dementia with depression
+294647019,Senile dementia with depressive or paranoid features NOS
+294648012,Senile dementia with delirium
+882211000006118,Senile dementia-acute confused
+497559016,Arteriosclerotic dementia
+696161000006115,Multi-infarct dementia
+294652012,Uncomplicated arteriosclerotic dementia
+294653019,Arteriosclerotic dementia with delirium
+294654013,Arteriosclerotic dementia with paranoia
+294655014,Arteriosclerotic dementia with depression
+294656010,Arteriosclerotic dementia NOS
+401759010,Other senile and presenile organic psychoses
+346897015,Presbyophrenic psychosis
+294660013,Senile or presenile psychoses NOS
+401760017,Other alcoholic dementia
+346929012,Alcoholic dementia
+294668018,Chronic alcoholic brain syndrome
+294688019,Drug-induced dementia
+294718018,Dementia in conditions EC
+295668011,[X]Dementia in Alzheimer's disease
+423391000006114,"[X]Primary degen dementia, Alzheimer's type, presenile onset"
+423351000006115,"[X]Presenile dementia,Alzheimer's type"
+363041000006118,[X]Alzheimer's disease type 2
+376531000006119,Dementia in Alzheimer's disease with early onset
+425901000006116,"[X]Senile dementia,Alzheimer's type"
+363031000006111,[X]Alzheimer's disease type 1
+376541000006112,Dementia in Alzheimer's disease with late onset
+423381000006111,"[X]Primary degen dementia of Alzheimer's type, senile onset"
+295671015,"[X]Dementia in Alzheimer's dis, atypical or mixed type"
+363021000006113,[X]Alzheimer's dementia unspec
+295672010,"[X]Dementia in Alzheimer's disease, unspecified"
+363791000006112,[X]Arteriosclerotic dementia
+431681000006117,Vascular dementia
+431691000006119,Vascular dementia of acute onset
+423221000006117,[X]Predominantly cortical dementia
+399031000006111,[X]Multi-infarct dementia
+428201000006119,Subcortical vascular dementia
+398571000006112,Mixed cortical and subcortical vascular dementia
+295680015,[X]Other vascular dementia
+295681016,"[X]Vascular dementia, unspecified"
+295684012,Dementia associated with another disease
+295685013,Dementia due to Pick's disease
+295686014,Dementia due to Creutzfeldt Jakob disease
+295687017,Dementia due to Huntington chorea
+295688010,Dementia in Parkinsons disease
+376571000006116,[X]Dementia in human immunodef virus [HIV] disease
+299641000000112,Diffuse Lewy body disease
+295690011,[X]Dementia in other specified diseases classif elsewhere
+359141000006111,[X] Senile dementia NOS
+359101000006114,Cerebral degeneration presenting primarily with dementia
+359161000006110,[X] Senile psychosis NOS
+359081000006118,[X] Presenile dementia NOS
+359091000006115,[X] Presenile psychosis NOS
+359151000006113,"[X] Senile dementia, depressed or paranoid type"
+359241000006119,Dementia
+295714013,[X]Delirium superimposed on dementia
+45046017,Alzheimer's disease
+499946014,Alzheimer's disease with early onset
+500317011,Alzheimer's disease with late onset
+22408016,Pick's disease
+882941000006113,Senile brain degeneration
+76484016,Senile degeneration of brain
+745381000006119,Lewy body disease
+542651000006110,Cerebral degeneration due to Jakob - Creutzfeldt disease
+1235534016,Binswanger's encephalopathy
+149347010,Binswanger's disease
+299325013,[X]Other Alzheimer's disease
+2127581000000115,Suspected dementia
+407095015,Memory assessment
+612761000006118,Dementia assessment
+401263019,Disability assessment - mental
+257010018,Biopsy specimen not retrieved
+257012014,Memory: own age
+257013016,Memory: own age not known
+257014010,Memory: own age known
+257016012,Memory: present time
+257017015,Memory: present time not known
+257018013,Memory: present time known
+257020011,Memory: present place
+710751000006111,Memory: present place not known
+257022015,Memory: present place known
+257024019,Memory: present year
+257025018,Memory: present year not known
+257026017,Memory: present year known
+257028016,Memory: own DOB
+257029012,Memory: own DOB not known
+257030019,Memory: own DOB known
+257032010,Memory: present month
+257033017,Memory: present month not knwn
+257034011,Memory: present month known
+257036013,Memory: important event
+257037016,Memory: important event not kn
+257038014,Memory: important event known
+257040016,Memory: important person
+257041017,Memory: important person not known
+257042012,Memory: important person known
+257044013,Memory: count down
+257045014,Memory: count down successful
+711451000006113,Memory: count down unsuccessful
+257048011,Memory: address recall
+257049015,Memory: address recall success
+711421000006116,Memory: address recall unsuccessful
+257051016,Behaviour assessment
+496099016,Normal behaviour
+702141000006114,Mildly abnormal behaviour
+257057017,Severely abnormal behaviour
+459735014,Change in behaviour
+585041000000110,Audio recording of patient interview
+257062016,Mental disability assessment score
+257063014,Mental disability admission score
+257066018,Mental disability in-patient score
+257067010,Mental disability discharge score
+257070014,Mental disabil.out-pat score
+257071013,Mental disabil. DV score
+257073011,Dementia test
+257074017,Ten item dementia test
+106281000006116,Thirty seven item dementia test
+2160042019,6CIT (Six Item Cognitive Impairment Test) total score
+929501000006112,GDS (Global Deterioration Scale) level
+2159229019,GDS level 1 - no cognitive decline
+2159230012,GDS level 2 - very mild cognitive decline
+2159231011,GDS level 3 - mild cognitive decline
+2159232016,GDS level 4 - moderate cognitive decline
+2159233014,GDS level 5 - moderately severe cognitive decline
+2159234015,GDS level 6 - severe cognitive decline
+2159235019,GDS level 7 - very severe cognitive decline
+1739271000006113,Addenbrooke's cognitive examination revised - score
+407461000000119,Dementia monitoring
+2248021000000110,Dementia care plan
+2439591000000113,Dementia care plan agreed
+2439631000000113,Dementia care plan reviewed
+2439671000000110,Dementia care plan declined
+2439711000000111,Dementia care plan review declined
+295718011,Delirium
+403991000006117,Organic hallucinosis
+215831000000117,Mild cognitive disorder
+370961000006119,[X]Chronic alcoholic brain syndrome
+397201000006116,[X]Men & behav dis due alcoh: resid & late-onset psychot dis
+362941000006113,[X]Alcoholic dementia NOS
+12496011,Hypertensive retinopathy
+299687010,Hypertensive disorder
+84112010,Hypertensive crisis
+84111015,Hypertensive encephalopathy
+300869017,[X]Hypertensive diseases
+300870016,[X]Other secondary hypertension
+300871017,[X]Hypertension secondary to other renal disorders
+504811000006110,Benign essential hypertension in preg/childb/puerp unspec
+305764016,Other pre-existing hypertension in preg/childbirth/puerp
+19451000006111,Other pre-existing hypertension in preg/childb/puerp unspec
+19431000006116,Other pre-existing hypertension in preg/childb/puerp - deliv
+39871000006113,Oth pre-exist hypert in preg/childb/puerp -del with p/n comp
+19421000006119,Other pre-exist hypertension in preg/childb/puerp-not deliv
+19411000006110,Other pre-exist hypertension in preg/childb/puerp + p/n comp
+19441000006114,Other pre-existing hypertension in preg/childb/puerp NOS
+213111000006112,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium"
+213091000006115,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium"
+213101000006114,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium"
+213081000006118,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium"

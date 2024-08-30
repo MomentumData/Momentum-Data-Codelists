@@ -1,0 +1,137 @@
+V2Codes,Description
+1JA2.,Suspected dementia
+3A...,Disability assessment - mental
+3A0..,Biopsy specimen not retrieved
+3A1..,Memory: own age
+3A10.,Memory: own age not known
+3A11.,Memory: own age known
+3A2..,Memory: present time
+3A20.,Memory: present time not known
+3A21.,Memory: present time known
+3A3..,Memory: present place
+3A30.,Memory: present place not knwn
+3A31.,Memory: present place known
+3A4..,Memory: present year
+3A40.,Memory: present year not known
+3A41.,Memory: present year known
+3A5..,Memory: own DOB
+3A50.,Memory: own DOB not known
+3A51.,Memory: own DOB known
+3A6..,Memory: present month
+3A60.,Memory: present month not knwn
+3A61.,Memory: present month known
+3A7..,Memory: important event
+3A70.,Memory: important event not kn
+3A71.,Memory: important event known
+3A8..,Memory: important person
+3A80.,Memory: import.person not knwn
+3A81.,Memory: important person known
+3A9..,Memory: count down
+3A90.,Memory: count down successful
+3A91.,Memory: count down unsuccess.
+3AA..,Memory: address recall
+3AA0.,Memory: address recall success
+3AA1.,Memory: address recall unsucc.
+3AB..,Behaviour assessment
+3AB0.,Normal behaviour
+3AB1.,Mildy abnormal behaviour
+3AB2.,Severely abnormal behaviour
+3AB3.,Change in behaviour
+3AB4.,Audio recording of patient interview
+3AC..,Mental disabil.assess score
+3AC1.,Mental disabil admiss.score
+3AC2.,Mental disabil.in-pat score
+3AC3.,Mental disabil.disch. score
+3AC4.,Mental disabil.out-pat score
+3AC5.,Mental disabil. DV score
+3AD..,Dementia test
+3AD1.,Ten item dementia test
+3AD2.,Thirty seven item dementia test
+3AD3.,Six item cognitive impairment test
+3AE..,Global deterioration scale for assessment of primary degenerative dementia
+3AE0.,GDS level 1 - no cognitive decline
+3AE1.,GDS level 2 - very mild cognitive decline
+3AE2.,GDS level 3 - mild cognitive decline
+3AE3.,GDS level 4 - moderate cognitive decline
+3AE4.,GDS level 5 - moderately severe cognitive decline
+3AE5.,GDS level 6 - severe cognitive decline
+3AE6.,GDS level 7 - very severe cognitive decline
+3AF..,Addenbrooke's cognitive examination revised
+3AG..,Memory: months of year in reverse
+3AG0.,Memory: months of year in reverse successful
+3AG1.,Memory: months of year in reverse unsuccessful
+66h..,Dementia monitoring
+8CMZ.,Dementia care plan
+8CMZ0,Dementia care plan agreed
+8CMZ1,Dementia care plan reviewed
+8CMZ2,Dementia care plan declined
+8CMZ3,Dementia care plan review declined
+E000.,Uncomplicated senile dementia
+E001.,Presenile dementia
+E0010,Uncomplicated presenile dementia
+E0011,Presenile dementia with delirium
+E0012,Presenile dementia with paranoia
+E0013,Presenile dementia with depression
+E001z,Presenile dementia NOS
+E002.,Senile dementia with depressive or paranoid features
+E0020,Senile dementia with paranoia
+E0021,Senile dementia with depression
+E002z,Senile dementia with depressive or paranoid features NOS
+E003.,Senile dementia with delirium
+E004.,Arteriosclerotic dementia
+E0040,Uncomplicated arteriosclerotic dementia
+E0041,Arteriosclerotic dementia with delirium
+E0042,Arteriosclerotic dementia with paranoia
+E0043,Arteriosclerotic dementia with depression
+E004z,Arteriosclerotic dementia NOS
+E00y.,Other senile and presenile organic psychoses
+E00z.,Senile or presenile psychoses NOS
+E0120,Chronic alcoholic brain syndrome
+Eu00.,[X]Dementia in Alzheimer's disease
+Eu000,[X]Dementia in Alzheimer's disease with early onset
+Eu001,[X]Dementia in Alzheimer's disease with late onset
+Eu002,"[X]Dementia in Alzheimer's dis, atypical or mixed type"
+Eu00z,"[X]Dementia in Alzheimer's disease, unspecified"
+Eu01.,[X]Vascular dementia
+Eu011,[X]Multi-infarct dementia
+Eu012,[X]Subcortical vascular dementia
+Eu013,[X]Mixed cortical and subcortical vascular dementia
+Eu01y,[X]Other vascular dementia
+Eu01z,"[X]Vascular dementia, unspecified"
+Eu02.,[X]Dementia in other diseases classified elsewhere
+Eu020,[X]Dementia in Pick's disease
+Eu021,[X]Dementia in Creutzfeldt-Jakob disease
+Eu022,[X]Dementia in Huntington's disease
+Eu023,[X]Dementia in Parkinson's disease
+Eu024,[X]Dementia in human immunodef virus [HIV] disease
+Eu025,[X]Lewy body dementia
+Eu02y,[X]Dementia in other specified diseases classif elsewhere
+Eu02z,[X] Unspecified dementia
+Eu041,[X]Delirium superimposed on dementia
+Eu04z,"[X]Delirium, unspecified"
+Eu050,[X]Organic hallucinosis
+Eu057,[X]Mild cognitive disorder
+Eu107,[X]Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder
+F110.,Alzheimer's disease
+F1100,Alzheimer's disease with early onset
+F1101,Alzheimer's disease with late onset
+F111.,Pick's disease
+F112.,Senile degeneration of brain
+F4213,Hypertensive retinopathy
+G2z..,Hypertensive disease NOS
+G672.,Hypertensive encephalopathy
+Gyu2.,[X]Hypertensive diseases
+Gyu20,[X]Other secondary hypertension
+Gyu21,[X]Hypertension secondary to other renal disorders
+L1200,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium unspecified"
+L122.,Other pre-existing hypertension in preg/childbirth/puerp
+L1220,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium unspecified"
+L1221,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered"
+L1222,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication"
+L1223,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - not delivered"
+L1224,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication"
+L122z,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium NOS"
+L128.,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium"
+L1280,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium"
+L1281,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium"
+L1282,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium"

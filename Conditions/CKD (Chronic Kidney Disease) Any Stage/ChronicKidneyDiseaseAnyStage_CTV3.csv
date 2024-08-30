@@ -1,0 +1,238 @@
+CTV3Codes,Description
+7B00.,Renal transplant
+7B000,Autotransplantation of kidney
+7B001,Live donor renal transplant
+7B002,Cadaveric renal transplant
+7B003,NULL
+7B004,NULL
+7B005,NULL
+7B006,NULL
+7B00y,Other specified transplantation of kidney
+7B00z,Transplantation of kidney NOS
+7B012,Bilateral nephrectomy
+7B015,Transplant nephrectomy (& for rejection)
+7B063,Exploration of renal transplant
+8L50.,Renal transplant planned
+G7520,Goodpasture's syndrome
+K01..,Nephrotic syndrome
+K010.,Nephrotic syndrome with proliferative glomerulonephritis
+K011.,Nephrotic syndrome with membranous glomerulonephritis
+K012.,Nephrotic syndrome with membranoproliferative glomerulonephritis
+K013.,Nephrotic syndrome (& [minimal change glomerulonephritis] or [steroid sensitive])
+K014.,"Nephrotic syndrome, minor glomerular abnormality"
+K015.,"Nephrotic syndrome, focal and segmental glomerular lesions"
+K016.,"Nephrotic syndrome, diffuse membranous glomerulonephritis"
+K017.,"Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis"
+K018.,"Nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis"
+K019.,"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis"
+K01A.,"Nephrotic syndrome, dense deposit disease"
+K01B.,"Nephrotic syndrome, diffuse crescentic glomerulonephritis"
+K01w.,Congenital nephrotic syndrome
+K01w0,Finnish congenital nephrotic syndrome
+K01wz,Congenital nephrotic syndrome NOS
+K01x.,Nephrotic syndrome in diseases EC
+K01x0,Nephrotic syndrome in amyloidosis
+K01x1,Nephrotic syndrome in diabetes mellitus
+K01x2,Nephrotic syndrome in malaria
+K01x3,Nephrotic syndrome in polyarteritis nodosa
+K01x4,(Nephrotic syndrome in systemic lupus erythematosus) or (lupus nephritis)
+K01xz,Nephrotic syndrome in diseases EC NOS
+K01y.,Nephrotic syndrome with other pathological kidney lesions
+K01z.,Nephrotic syndrome NOS
+K020.,Chronic mesangial proliferative glomerulonephritis
+K021.,Membranous glomerulonephritis
+K022.,Mesangiocapillary glomerulonephritis
+K023.,Chronic rapidly progressive glomerulonephritis
+K02y.,Other chronic glomerulonephritis
+K02y0,Chronic glomerulonephritis with diseases EC
+K02y1,Chronic exudative glomerulonephritis
+K02y2,Chronic focal glomerulonephritis
+K02y3,Chronic diffuse glomerulonephritis
+K02yz,Other chronic glomerulonephritis NOS
+K02z.,Chronic glomerulonephritis NOS
+K0320,Focal membranoproliferative glomerulonephritis
+K0325,Other familial glomerulonephritis
+K0326,Berger's IgA or IgG nephropathy
+K033.,Rapidly progressive nephritis unspecified
+K05..,Renal failure: [chronic] or [end stage]
+K07..,Renal sclerosis unspecified
+K071.,Renal fibrosis
+K072.,Glomerulosclerosis
+K07z.,Renal sclerosis NOS
+K0A07,"Acute nephritic syndrome, diffuse crescentic glomerulonephritis"
+K0A1.,Rapidly progressive nephritic syndrome(?AND/OR [nephrotic syndrome])
+K0A10,"Rapidly progressive nephritic syndrome, minor glomerular abnormality"
+K0A11,"Rapidly progressive nephritic syndrome, focal and segmental glomerular lesions"
+K0A12,"Rapidly progressive nephritic syndrome, diffuse membranous glomerulonephritis"
+K0A13,"Rapidly progressive nephritic syndrome, diffuse mesangial proliferative glomerulonephritis"
+K0A14,"Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis"
+K0A15,"Rapidly progressive nephritic syndrome, diffuse mesangiocapillary glomerulonephritis"
+K0A16,"Rapidly progressive nephritic syndrome, dense deposit disease"
+K0A17,"Rapidly progressive nephritic syndrome, diffuse crescentic glomerulonephritis"
+K0A3.,Chronic nephritic syndrome
+K0A30,"Chronic nephritic syndrome, minor glomerular abnormality"
+K0A31,"Chronic nephritic syndrome, focal and segmental glomerular lesions"
+K0A34,"Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis"
+K0A35,"Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis"
+K0A36,"Chronic nephritic syndrome, dense deposit disease"
+K0A37,"Chronic nephritic syndrome, diffuse crescentic glomerulonephritis"
+Kyu21,[X]Other chronic renal failure
+SP08.,Transplanted organ complication
+SP081,Transplanted organ rejection
+SP083,Kidney transplant failure and rejection
+SP08z,Transplanted organ complication NOS
+TB001,"Transplantation of kidney as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation"
+TB11.,"Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of procedure"
+U641.,"[X]Kidney dialysis as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+X20FC,Epstein syndrome
+X30D2,Xenograft renal transplant
+X30Hw,Steroid-sensitive nephrotic syndrome
+X30Hx,Steroid-resistant nephrotic syndrome
+X30Hy,Steroid-dependent nephrotic syndrome
+X30Hz,Familial mesangial sclerosis
+X30I0,Congenital nephrotic syndrome with focal glomerulosclerosis
+X30I1,Drash syndrome
+X30I8,Rapidly progressive glomerulonephritis
+X30Ia,Membranous glomerulonephritis - stage III
+X30Ib,Membranous glomerulonephritis - stage IV
+X30Ic,Membranous glomerulonephritis stage V
+X30Id,Thin basement membrane disease
+X30Ie,Hereditary glomerulonephritis
+X30If,Progressive hereditary glomerulonephritis without deafness
+X30Ig,Alport syndrome-like hereditary nephritis
+X30Ih,Benign familial haematuria
+X30IH,Steroid-sensitive minimal change glomerulonephritis
+X30II,Steroid-resistant minimal change glomerulonephritis
+X30IJ,Steroid-dependent minimal change glomerulonephritis
+X30Ik,Fechtner syndrome
+X30IK,Ischaemic glomerulopathy
+X30IL,Focal glomerulosclerosis
+X30IM,Focal segmental glomerulosclerosis
+X30IN,Classical focal segmental glomerulosclerosis
+X30IO,Hyperfiltration focal segmental glomerulosclerosis
+X30IP,Acquired immune deficiency syndrome-related nephropathy
+X30IQ,IgA nephropathy
+X30IR,Mesangiocapillary glomerulonephritis NEC
+X30IS,Mesangiocapillary glomerulonephritis type I
+X30IT,Mesangiocapillary glomerulonephritis type II
+X30IU,Mesangiocapillary glomerulonephritis type III
+X30IV,Mesangiocapillary glomerulonephritis type IV
+X30IW,IgM nephropathy
+X30IX,C1q nephropathy
+X30IY,Membranous glomerulonephritis - stage I
+X30Iz,Acute-on-chronic renal failure
+X30IZ,Membranous glomerulonephritis - stage II
+X30J0,End stage renal failure
+X30J1,End stage renal failure untreated by renal replacement therapy
+X30J2,End stage renal failure on dialysis
+X30J3,End stage renal failure with renal transplant
+X30Km,Proteinuric diabetic nephropathy
+X30Kz,Goodpasture's disease
+X30LY,Chronic radiation nephritis
+X30Ma,Chronic rejection of renal transplant - grade III
+X30Mb,Acute-on-chronic rejection of renal transplant
+X30Mc,Failed renal transplant
+X30Md,Perfusion injury of renal transplant
+X30Me,De novo transplant disease
+X30Mf,De novo glomerulonephritis
+X30Mg,Transplant glomerulopathy
+X30Mh,Transplant glomerulopathy - early form
+X30Mi,Transplant glomerulopathy - late form
+X30Mj,Cytomegalovirus-induced glomerulonephritis
+X30MN,Renal transplant disorder
+X30MO,Primary non-function of renal transplant
+X30MP,Renal transplant rejection
+X30MQ,Hyperacute rejection of renal transplant
+X30MR,Accelerated rejection of renal transplant
+X30MS,Very mild acute rejection of renal transplant
+X30MT,Acute rejection of renal transplant
+X30MU,Acute rejection of renal transplant - grade I
+X30MV,Acute rejection of renal transplant - grade II
+X30MW,Acute rejection of renal transplant - grade III
+X30MX,Chronic rejection of renal transplant
+X30MY,Chronic rejection of renal transplant - grade 1
+X30MZ,Chronic rejection of renal transplant - grade II
+X30NN,Perirenal and periureteric post-transplant lymphocele
+Xa0HK,Unexplained episode of renal transplant dysfunction
+Xa0HL,Pre-existing disease in renal transplant
+Xa24a,IgA nephropathy associated with liver disease
+Xa2h5,Excision of rejected transplanted kidney
+Xa33c,[EDTA] Focal segmental glomeruloscerosis with nephrotic syndrome in adults with renal failure
+Xa33g,[EDTA] Ischaemic renal disease / cholesterol embolism associated with renal failure
+Xa9CC,Minimal change glomerulonephritis
+Xaa2O,Thrombosis of artery of transplanted kidney
+Xaa2Q,Thrombosis of vein of transplanted kidney
+Xaajq,"Nephritic syndrome, rapidly progressive"
+XaB9D,Acute-on-chronic renal impairment
+XaE9T,Donor renal transplantation
+XaIz0,Diabetes mellitus with persistent proteinuria
+XaM1o,"Allotransplantation of kidney from cadaver, heart-beating"
+XaM1p,"Allotransplantation of kidney from cadaver, heart non-beating"
+XaM4l,"Post-transplantation of kidney examination, recipient"
+XaMKM,Allotransplantation of kidney from cadaver NEC
+XaZe2,Rupture of artery of transplanted kidney
+XaZe3,Rupture of vein of transplanted kidney
+XaZe7,Stenosis of vein of transplanted kidney
+XaZkw,Aneurysm of vein of transplanted kidney
+XaZl0,Aneurysm of artery of transplanted kidney
+XaZWa,Urological complication of renal transplant
+XaZYx,Vascular complication of renal transplant
+XE0db,Chronic glomerulonephritis
+XE0dd,Primary IgA nephropathy
+XE0df,Chronic renal failure
+XE0dZ,Nephrotic syndrome with minimal change glomerulonephritis
+XE0Fv,Transplant nephrectomy
+XM194,[EDTA] Goodpasture's syndrome associated with renal failure
+XM196,[EDTA] Severe nephrotic syndrome with focal sclerosis (paediatric patients only) associated with renal failure
+XM198,[EDTA] Membranous nephropathy associated with renal failure
+XM19A,"[EDTA] Chronic renal failure, aetiology uncertain"
+XM19X,"[EDTA] IgA nephropathy (proven by immunofluorescence, excluding Henoch-Schonlein purpura) associated with renal failure"
+XM19Y,"[EDTA] Membrano-proliferative glomerulonephritis,type I (proven immunofluorescence / electron microscopy-excluding lupus erythematosus+other specified multi-system disease) associated renal failure"
+XM19Z,"[EDTA] Dense deposit disease, membrano-proliferative glomerulonephritis, type II, (proven by immunofluorescence and/or electronic microscopy) associated with renal failure"
+ZV420,[V]Kidney transplanted
+ZV56.,[V]Aftercare involving intermittent dialysis
+ZV560,[V]Aftercare involving extracorporeal dialysis
+ZV561,[V]Preparatory care for dialysis
+ZV56y,[V]Other specified aftercare involving intermittent dialysis
+ZV56z,[V]Unspecified aftercare involving intermittent dialysis
+ZVu3G,[X]Other dialysis
+X30In,Chronic renal impairment
+Xac9y,CKD G1A1 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A1
+Xac9z,CKD G1A2 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2
+XacA2,CKD G1A3 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A3
+XacA4,CKD G2A1 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1
+XacA6,CKD G2A2 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2
+XacA9,CKD G2A3 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3
+XacAb,CKD G4A1 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1
+XacAd,CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2
+XacAe,CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3
+XacAf,CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1
+XacAh,CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
+XacAi,CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
+XacAM,CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1
+XacAN,CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2
+XacAO,CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
+XacAV,CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1
+XacAW,CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
+XacAX,CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
+XaLHG,Chronic kidney disease stage 1
+XaLHH,Chronic kidney disease stage 2
+XaLHI,Chronic kidney disease stage 3
+XaLHJ,Chronic kidney disease stage 4
+XaLHK,Chronic kidney disease stage 5
+XaNbn,Chronic kidney disease stage 3A
+XaNbo,Chronic kidney disease stage 3B
+XaO3p,Chronic kidney disease stage 1 with proteinuria
+XaO3q,Chronic kidney disease stage 1 without proteinuria
+XaO3r,Chronic kidney disease stage 2 with proteinuria
+XaO3s,Chronic kidney disease stage 2 without proteinuria
+XaO3t,Chronic kidney disease stage 3 with proteinuria
+XaO3u,Chronic kidney disease stage 3 without proteinuria
+XaO3v,Chronic kidney disease stage 3A with proteinuria
+XaO3w,Chronic kidney disease stage 3A without proteinuria
+XaO3x,Chronic kidney disease stage 3B with proteinuria
+XaO3y,Chronic kidney disease stage 3B without proteinuria
+XaO3z,Chronic kidney disease stage 4 with proteinuria
+XaO40,Chronic kidney disease stage 4 without proteinuria
+XaO41,Chronic kidney disease stage 5 with proteinuria
+XaO42,Chronic kidney disease stage 5 without proteinuria

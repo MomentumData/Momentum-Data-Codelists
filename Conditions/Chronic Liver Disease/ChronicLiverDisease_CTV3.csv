@@ -1,0 +1,160 @@
+CTV3Codes,Description
+7800.,Liver transplant
+78000,Orthotopic liver transplant
+78001,Heterotopic liver transplant
+78002,Replacement of previous liver transplant
+7800y,Other specified transplantation of liver
+7800z,Transplantation of liver NOS
+A7071,Chronic viral hepatitis B without delta-agent
+AyuB1,[X]Other chronic viral hepatitis
+AyuB2,"[X]Chronic viral hepatitis, unspecified"
+C3104,Branching-transferase deficiency glycogenosis
+C3761,Alpha-1-antitrypsin hepatitis
+J6...,"Liver, biliary, pancreas and gastrointestinal diseases NEC"
+J61..,Cirrhosis and chronic liver disease
+J610.,Alcoholic fatty liver
+J612.,Cirrhosis: [florid] or [alcoholic]
+J613.,Alcoholic liver damage unspecified
+J614.,Chronic hepatitis
+J6140,Chronic persistent hepatitis
+J6141,Chronic active hepatitis
+J6142,Chronic aggressive hepatitis
+J6143,Recurrent hepatitis
+J614y,Chronic hepatitis unspecified
+J614z,Chronic hepatitis NOS
+J615.,(Cirrhosis - non alcoholic) or (portal cirrhosis)
+J6150,Unilobular portal cirrhosis
+J6151,Cirrhosis of liver: [multilobular portal] or [postnecrotic]
+J6152,Mixed portal cirrhosis
+J6153,Diffuse nodular cirrhosis
+J6154,Fatty portal cirrhosis
+J6155,Macronodular cirrhosis
+J6156,Capsular portal cirrhosis
+J6157,Cirrhosis: [cardiac portal] or [congestive]
+J6158,Cirrhosis: [juvenile portal] or [childhood function] or [Indian childhood]
+J6159,Pigmentary portal cirrhosis
+J615A,Pipestem portal cirrhosis
+J615B,Toxic portal cirrhosis
+J615D,Bacterial portal cirrhosis
+J615E,Cardituberculous cirrhosis
+J615F,Syphilitic portal cirrhosis
+J615G,Zooparasitic portal cirrhosis
+J615H,Infectious cirrhosis NOS
+J615y,Portal cirrhosis unspecified
+J615z,(Liver cirrhosis: [named variants] or [NOS]) or (hepatic fibrosis)
+J616.,Biliary cirrhosis
+J6160,Primary biliary cirrhosis
+J6161,Secondary biliary cirrhosis
+J6162,Biliary cirrhosis of children
+J616z,Biliary cirrhosis NOS
+J61y.,Other non-alcoholic chronic liver disease
+J61y0,Chronic yellow atrophy
+J61y1,Non-alcoholic fatty liver
+J61y2,Hepatosplenomegaly
+J61y3,Portal fibrosis without cirrhosis
+J61y7,Steatosis of liver
+J61yz,Other non-alcoholic chronic liver disease NOS
+J61z.,Chronic liver disease NOS
+J62..,Liver abscess and sequelae of chronic liver disease
+J623.,Portal hypertension
+J624.,Hepatorenal syndrome
+J62y.,(Hepatic failure (& [NOS]) or (other sequelae of chronic liver disease)
+J62z.,Liver abscess and chronic liver disease causing sequelae NOS
+J6353,Toxic liver disease with chronic persistent hepatitis
+J6354,Toxic liver disease with chronic lobular hepatitis
+J6355,Toxic liver disease with chronic active hepatitis
+J6356,Toxic liver disease with fibrosis and cirrhosis of liver
+J63A.,Hepatic granulomas in sarcoidosis
+J6617,Primary sclerosing cholangitis
+J671.,Chronic pancreatitis
+Jyu71,[X]Other and unspecified cirrhosis of liver
+Jyu84,[X]Other chronic pancreatitis
+PB61.,Atresia of bile ducts
+PB610,Congenital absence of bile duct
+PB611,Congenital hypoplasia of bile duct
+PB612,Congenital obstruction of bile duct
+PB614,Atresia of bile duct (& [intrahepatic] or [extrahepatic]
+PB615,Congenital absence of hepatic ducts
+PB616,Atresia of hepatic ducts
+PB61z,Biliary atresia NOS
+PB63.,Congenital absence of liver and gallbladder
+PB634,Agenesis of liver
+PB635,Alagille syndrome
+PB63z,Absence of liver or gallbladder NOS
+PB6y1,Congenital hepatomegaly
+Q4342,Inspissated bile syndrome
+SP086,Liver transplant failure and rejection
+SP143,Hepatorenal syndrome as a complication of care
+X306h,Chronic viral hepatitis
+X306i,Chronic viral hepatitis B
+X306j,Chronic viral hepatitis B with hepatitis D
+X306k,Chronic viral hepatitis C
+X306l,Chronic non-A non-B hepatitis
+X306n,Hepatitis B carrier
+X306o,Hepatitis C carrier
+X306r,Alcoholic hepatitis
+X306T,Inflammatory liver disease
+X3072,Alcoholic fibrosis and sclerosis of liver
+X3073,Alcoholic hepatic failure
+X3076,Hepatic failure
+X3077,Liver failure NOS
+X3078,Hepatic failure NOS
+X3079,Fulminant hepatic failure
+X307a,Portal and splenic vein sclerosis
+X307b,Hepatic fibrosis with hepatic sclerosis
+X307c,Intrahepatic phlebosclerosis and fibrosis
+X307C,Chronic hepatic failure
+X307G,Chronic lobular hepatitis
+X307I,Drug-induced chronic hepatitis
+X307J,Autoimmune liver disease
+X307L,Cirrhosis of liver
+X307M,Cirrhosis of liver NOS
+X307N,Florid cirrhosis
+X307O,Cryptogenic cirrhosis
+X307P,Indian childhood cirrhosis
+X307Q,Micronodular cirrhosis
+X307R,Portal cirrhosis
+X307S,"Laennec's cirrhosis, non-alcoholic"
+X307T,Infectious cirrhosis
+X307U,Hypoxia-associated cirrhosis
+X307V,Toxic cirrhosis
+X307W,Fibrosis of liver
+X307x,Liver transplant disorder
+X307X,Congenital hepatic fibrosis
+X307y,Liver transplant rejection
+X307Y,Pericellular fibrosis of congenital syphilis
+X307z,Liver transplant failure
+X307Z,Hepatic sclerosis
+X308u,Gallstone chronic pancreatitis
+X308v,Alcohol-induced chronic pancreatitis
+X308w,Idiopathic chronic pancreatitis
+X308x,Obstructive chronic pancreatitis
+X308y,Drug-induced chronic pancreatitis
+X308z,Familial chronic pancreatitis
+X7847,Intrahepatic biliary atresia
+X7848,Extrahepatic biliary atresia
+Xa7na,Calcific chronic pancreatitis
+Xa9C7,Cardiac cirrhosis
+XaBE3,Chronic alcoholic hepatitis
+XaBM6,Oesophageal varices in cirrhosis of the liver
+XaC1d,Oesophageal varices in alcoholic cirrhosis of the liver
+XaJTk,Autoimmune hepatitis
+XaLde,Transplantation of liver cells
+XaLdf,Orthotopic transplantation of whole liver
+XaMMe,Orthotopic transplantation of liver NEC
+XaQIT,Nonalcoholic steatohepatitis
+XaREa,Liver disease due to cystic fibrosis
+XaXi9,Cystic fibrosis related cirrhosis
+XE0b4,Alcoholic cirrhosis of liver
+XE0b5,Cirrhosis - non-alcoholic
+XE0b6,Multilobular portal cirrhosis
+XE0b7,Cardiac portal cirrhosis
+XE0b8,Juvenile portal cirrhosis
+XE0bA,Non-alcoholic cirrhosis NOS
+XE0bC,Other sequelae of chronic liver disease
+XE0dD,(Cirrhosis &/or chronic liver dis) or (alcoholic liver disease)
+XE0dH,Chronic hepatitis (& [NOS] or [active B] or [active] or [persistent])
+XE0dJ,Biliary cirrhosis (& [primary])
+XE1L0,Congenital stricture of bile duct
+XE2up,Cirrhosis secondary to cholestasis
+XM195,"[X] Hepatomegaly with splenomegaly, not elsewhere classified"

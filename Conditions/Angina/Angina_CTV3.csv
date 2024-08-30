@@ -1,0 +1,42 @@
+CTV3Codes,Description
+14A5.,H/O: angina pectoris
+662K.,Angina control
+662K0,Angina control - good
+662K1,Angina control - poor
+662K2,Angina control - improving
+662K3,Angina control - worsening
+662K4,NULL
+662K5,NULL
+662Kz,Angina control NOS
+G311.,(Angina: [crescendo] or [unstable] or [at rest]) or (preinfarction syndrome) or (impending infarction)
+G3111,NULL
+G3112,NULL
+G3113,NULL
+G3114,NULL
+G311z,Preinfarction syndrome NOS
+G31y0,Acute coronary insufficiency
+G33..,Angina
+G330.,Angina decubitus
+G3300,Nocturnal angina
+G330z,Angina decubitus NOS
+G331.,Prinzmetal's angina
+G332.,NULL
+G33z.,Angina pectoris NOS
+G33z0,Status anginosus
+G33z1,Stenocardia
+G33z2,Syncope anginosa
+G33z3,NULL
+G33z4,NULL
+G33z5,NULL
+G33z6,NULL
+G33z7,NULL
+G33zz,NULL
+Gyu30,[X]Other forms of angina pectoris
+X2007,Angina at rest
+X2008,Stable angina
+X2009,Unstable angina
+X200A,New onset angina
+Xa7nH,Exercise-induced angina
+XaEXt,Post infarct angina
+XaFsG,Refractory angina
+XE0Ui,Worsening angina

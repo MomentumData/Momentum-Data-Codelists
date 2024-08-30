@@ -1,0 +1,140 @@
+MedCodeID,Description
+31211000006119,Orthotopic transplantation of liver
+225661000006111,Piggy back liver transplant
+500401000006116,Auxillary liver transplant
+822591000006117,Heterotopic liver transplant
+270232016,Replacement of previous liver transplant
+270233014,Other specified transplantation of liver
+270234015,Transplantation of liver NOS
+286879013,Chronic viral hepatitis B without delta-agent
+288169017,[X]Other chronic viral hepatitis
+288170016,"[X]Chronic viral hepatitis, unspecified"
+19362016,Andersen's disease
+803961000006119,Glycogenosis with hepatic cirrhosis
+1495570018,"Glycogenosis, type 4"
+293605014,Alpha-1-antitrypsin hepatitis
+740411000006114,"Liver, biliary, pancreas + gastrointestinal diseases NEC"
+303393017,Cirrhosis and chronic liver disease
+83834016,Alcoholic fatty liver
+126721013,Florid cirrhosis
+476611000006116,Alcoholic cirrhosis of liver
+2579818016,Laennec's cirrhosis
+303399018,Alcoholic liver damage
+886501000006115,Alcoholic liver damage NOS
+127487019,Chronic hepatitis
+69895016,Chronic persistent hepatitis
+303404016,Autoimmune chronic active hepatitis
+303401012,Chronic active hepatitis
+553311000006111,Chronic aggressive hepatitis
+303407011,Recurrent hepatitis
+303409014,Chronic hepatitis unspecified
+303410016,Chronic hepatitis NOS
+221111000000114,Cirrhosis - non-alcoholic
+2576980018,Portal cirrhosis
+303414013,Unilobular portal cirrhosis
+211821000006111,Postnecrotic cirrhosis of liver
+396390012,Multilobular portal cirrhosis
+477604016,Mixed portal cirrhosis
+303419015,Diffuse nodular cirrhosis
+303420014,Fatty portal cirrhosis
+493707012,Hypertrophic portal cirrhosis
+303425016,Capsular portal cirrhosis
+123999018,Congestive cirrhosis
+396391011,Cardiac portal cirrhosis
+396392016,Juvenile portal cirrhosis
+11267010,Indian childhood cirrhosis
+550431000006116,Childhood function cirrhosis
+303433015,Pigmentary portal cirrhosis
+226161000006113,Pipe-stem portal cirrhosis
+303435010,Toxic portal cirrhosis
+303437019,Bacterial portal cirrhosis
+303438012,Cardituberculous cirrhosis
+303439016,Syphilitic portal cirrhosis
+303440019,Zooparasitic portal cirrhosis
+303441015,Infectious cirrhosis
+303442010,Portal cirrhosis unspecified
+731231000006114,Macronodular cirrhosis of liver
+353621011,"Laennec's cirrhosis, non-alcoholic"
+603321000006118,Cryptogenic cirrhosis
+820381000006112,Hepatic fibrosis
+353613017,Cirrhosis of liver
+396393014,Non-alcoholic cirrhosis NOS
+4044018,Biliary cirrhosis
+52980015,Primary biliary cirrhosis
+21289010,Secondary biliary cirrhosis
+303452014,Biliary cirrhosis of children
+303453016,Biliary cirrhosis NOS
+303456012,Chronic nonalcoholic liver disease
+504762019,Chronic yellow liver atrophy
+303457015,Non-alcoholic fatty liver
+61321014,Hepatosplenomegaly
+303458013,Portal fibrosis without cirrhosis
+303463012,Steatosis of liver
+303464018,Other non-alcoholic chronic liver disease NOS
+303465017,Chronic liver disease
+303466016,Liver abscess and sequelae of chronic liver disease
+57989014,Portal hypertension
+85441018,Hepatorenal syndrome
+353597010,Hepatic failure NOS
+99549014,Hepatic failure
+353596018,Liver failure
+396394015,Other sequelae of chronic liver disease
+303489012,Liver abscess and chronic liver disease causing sequelae NOS
+303515012,Toxic liver disease with chronic persistent hepatitis
+303516013,Toxic liver disease with chronic lobular hepatitis
+303517016,Toxic liver disease with chronic active hepatitis
+303518014,Toxic liver disease with fibrosis and cirrhosis of liver
+303525019,Hepatic granulomas in sarcoidosis
+303614019,Primary sclerosing cholangitis
+352985010,Chronic pancreatitis
+303781011,[X]Other and unspecified cirrhosis of liver
+303793019,[X]Other chronic pancreatitis
+511611000006113,Bile duct atresia
+128627011,Biliary atresia
+3268012,Congenital absence of bile duct
+3269016,Agenesis of bile duct
+113108015,Congenital hypoplasia of bile duct
+85041011,Congenital obstruction of bile duct
+768541000006118,Intrahepatic atresia of bile duct
+660151000006116,Extrahepatic atresia of bile duct
+221941000000113,Atresia of bile duct
+314032018,Congenital absence of hepatic ducts
+314033011,Agenesis of hepatic ducts
+314034017,Atresia of hepatic ducts
+314035016,Biliary atresia NOS
+314041011,Congenital absence of liver and gallbladder
+580021000006117,"Congenital agenesis liver,total"
+486468012,"Congenital absence of liver,total"
+53033015,Alagille syndrome
+314043014,Absence of liver or gallbladder NOS
+1767014,Congenital hepatomegaly
+502557018,Inspissated bile syndrome
+324976011,Liver transplant failure and rejection
+325081012,Hepatorenal syndrome as a complication of care
+363051000000111,Transplantation of liver cells
+2676200013,Orthotopic transplantation of whole liver
+376141000000113,Orthotopic transplantation of liver NEC
+17930015,Chronic viral hepatitis
+353580016,Chronic viral hepatitis B with delta-agent
+557071000006112,Chronic hepatitis C
+1232261014,Chronic viral hepatitis B
+557081000006110,"Chronic viral hepatitis, unspecified"
+451442010,Oesophageal varices in cirrhosis of the liver
+453265010,Oesophageal varices in alcoholic cirrhosis of the liver
+353594015,Alcoholic fibrosis and sclerosis of liver
+353595019,Alcoholic hepatic failure
+95368015,Chronic lobular hepatitis
+55851000006118,Xanthomatous portal cirrhosis
+353587018,Alcoholic hepatitis
+451124014,Chronic alcoholic hepatitis
+103853010,Hepatic fibrosis
+353625019,Hepatic sclerosis
+353627010,Hepatic fibrosis with hepatic sclerosis
+2819666013,Nonalcoholic steatohepatitis
+359011000006113,[X] Liver failure
+358961000006119,[X] Hepatic failure
+2159899016,Autoimmune hepatitis
+353698013,Alcohol-induced chronic pancreatitis
+353697015,Gallstone chronic pancreatitis
+419017014,Congenital stricture of common bile duct
+3631015,Congenital stricture of bile duct

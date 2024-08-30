@@ -1,0 +1,109 @@
+V2Codes,Description
+7800.,Transplantation of liver
+78000,Orthotopic transplantation of liver
+78001,Heterotopic transplantation of liver
+78002,Replacement of previous liver transplant
+78003,Transplantation of liver cells
+78004,Orthotopic transplantation of whole liver
+78005,Orthotopic transplantation of liver NEC
+7800y,Other specified transplantation of liver
+7800z,Transplantation of liver NOS
+A707.,Chronic viral hepatitis
+A7070,Chronic viral hepatitis B with delta-agent
+A7071,Chronic viral hepatitis B without delta-agent
+A7072,Chronic viral hepatitis C
+A7073,Chronic viral hepatitis B
+A707X,"Chronic viral hepatitis, unspecified"
+AyuB1,[X]Other chronic viral hepatitis
+AyuB2,"[X]Chronic viral hepatitis, unspecified"
+C3104,Glycogenosis with hepatic cirrhosis
+C3761,Alpha-1-antitrypsin hepatitis
+G8522,Oesophageal varices in cirrhosis of the liver
+G8523,Oesophageal varices in alcoholic cirrhosis of the liver
+J6...,"Liver, biliary, pancreas + gastrointestinal diseases NEC"
+J61..,Cirrhosis and chronic liver disease
+J610.,Alcoholic fatty liver
+J612.,Alcoholic cirrhosis of liver
+J6120,Alcoholic fibrosis and sclerosis of liver
+J613.,Alcoholic liver damage unspecified
+J6130,Alcoholic hepatic failure
+J614.,Chronic hepatitis
+J6140,Chronic persistent hepatitis
+J6141,Chronic active hepatitis
+J6142,Chronic aggressive hepatitis
+J6143,Recurrent hepatitis
+J6144,Chronic lobular hepatitis
+J614y,Chronic hepatitis unspecified
+J614z,Chronic hepatitis NOS
+J615.,Cirrhosis - non alcoholic
+J6150,Unilobular portal cirrhosis
+J6151,Multilobular portal cirrhosis
+J6152,Mixed portal cirrhosis
+J6153,Diffuse nodular cirrhosis
+J6154,Fatty portal cirrhosis
+J6155,Hypertrophic portal cirrhosis
+J6156,Capsular portal cirrhosis
+J6157,Cardiac portal cirrhosis
+J6158,Juvenile portal cirrhosis
+J6159,Pigmentary portal cirrhosis
+J615A,Pipe-stem portal cirrhosis
+J615B,Toxic portal cirrhosis
+J615C,Xanthomatous portal cirrhosis
+J615D,Bacterial portal cirrhosis
+J615E,Cardituberculous cirrhosis
+J615F,Syphilitic portal cirrhosis
+J615G,Zooparasitic portal cirrhosis
+J615H,Infectious cirrhosis NOS
+J615y,Portal cirrhosis unspecified
+J615z,Non-alcoholic cirrhosis NOS
+J616.,Biliary cirrhosis
+J6160,Primary biliary cirrhosis
+J6161,Secondary biliary cirrhosis
+J6162,Biliary cirrhosis of children
+J616z,Biliary cirrhosis NOS
+J617.,Alcoholic hepatitis
+J6170,Chronic alcoholic hepatitis
+J61y.,Other non-alcoholic chronic liver disease
+J61y0,Chronic yellow liver atrophy
+J61y2,Hepatosplenomegaly
+J61y3,Portal fibrosis without cirrhosis
+J61y4,Hepatic fibrosis
+J61y5,Hepatic sclerosis
+J61y6,Hepatic fibrosis with hepatic sclerosis
+J61y7,Steatosis of liver
+J61y8,Nonalcoholic steatohepatitis
+J61yz,Other non-alcoholic chronic liver disease NOS
+J62..,Liver abscess and sequelae of chronic liver disease
+J623.,Portal hypertension
+J624.,Hepatorenal syndrome
+J625.,[X] Hepatic failure
+J62y.,Other sequelae of chronic liver disease
+J62z.,Liver abscess and chronic liver disease causing sequelae NOS
+J6353,Toxic liver disease with chronic persistent hepatitis
+J6354,Toxic liver disease with chronic lobular hepatitis
+J6355,Toxic liver disease with chronic active hepatitis
+J6356,Toxic liver disease with fibrosis and cirrhosis of liver
+J63A.,Hepatic granulomas in sarcoidosis
+J63B.,Autoimmune hepatitis
+J6617,Primary sclerosing cholangitis
+J671.,Chronic pancreatitis
+J6710,Alcohol-induced chronic pancreatitis
+J6711,Gallstone chronic pancreatitis
+Jyu71,[X]Other and unspecified cirrhosis of liver
+Jyu84,[X]Other chronic pancreatitis
+PB61.,Biliary atresia
+PB610,Congenital absence of bile duct
+PB611,Congenital hypoplasia of bile duct
+PB612,Congenital obstruction of bile duct
+PB613,Congenital stricture of bile duct
+PB614,Atresia of bile duct
+PB615,Congenital absence of hepatic ducts
+PB616,Atresia of hepatic ducts
+PB61z,Biliary atresia NOS
+PB63.,Congenital absence of liver and gallbladder
+PB634,"Congenital absence of liver,total"
+PB635,Alagille syndrome
+PB63z,Absence of liver or gallbladder NOS
+PB6y1,Congenital hepatomegaly
+SP086,Liver transplant failure and rejection
+SP143,Hepatorenal syndrome as a complication of care

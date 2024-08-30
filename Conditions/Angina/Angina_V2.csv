@@ -1,0 +1,30 @@
+V2Codes,Description
+14A5.,H/O: angina pectoris
+662K.,Angina control
+662K0,Angina control - good
+662K1,Angina control - poor
+662K2,Angina control - improving
+662K3,Angina control - worsening
+662K4,Angina self management plan commenced
+662K5,Angina self management plan completed
+662Kz,Angina control NOS
+G3111,Unstable angina
+G3112,Angina at rest
+G3113,Refractory angina
+G3114,Worsening angina
+G33..,Angina pectoris
+G330.,Angina decubitus
+G3300,Nocturnal angina
+G330z,Angina decubitus NOS
+G331.,Prinzmetal's angina
+G332.,Coronary artery spasm
+G33z.,Angina pectoris NOS
+G33z0,Status anginosus
+G33z1,Stenocardia
+G33z2,Syncope anginosa
+G33z3,Angina on effort
+G33z4,Ischaemic chest pain
+G33z5,Post infarct angina
+G33z6,New onset angina
+G33z7,Stable angina
+G33zz,Angina pectoris NOS

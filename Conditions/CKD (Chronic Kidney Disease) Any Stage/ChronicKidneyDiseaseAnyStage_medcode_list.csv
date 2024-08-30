@@ -1,0 +1,972 @@
+MedCodeID,Description
+3331116019,Glomerulonephritis due to antineutrophil cytoplasmic antibody (ANCA) positive vasculitis
+3541411013,Glomerulonephritis co-occurrent and due to antineutrophil cytoplasmic antibody positive vasculitis
+8032721000006117,Chronic kidney disease due to hypertension
+8033511000006111,Idiopathic glomerulonephritis
+9325291000006119,Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth
+9325301000006118,Preexisting hypertensive heart and chronic kidney disease in childbirth
+9325341000006116,Pre-existing hypertensive heart and chronic kidney disease in mother complicating pregnancy
+9325351000006119,Preexisting hypertensive heart and chronic kidney disease in pregnancy
+9351511000006113,Dependence on continuous ambulatory peritoneal dialysis
+9351521000006117,Dependence on continuous cycling peritoneal dialysis
+9351541000006112,Dependence on continuous cyclic peritoneal dialysis
+9351531000006119,Continuous cycling peritoneal dialysis dependence
+2675201000006114,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class VI"
+2675171000006110,Lupus nephritis - WHO Class VI
+2675191000006111,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class VI"
+2675151000006117,SLE with advanced sclerosing glomerulonephritis
+2675181000006113,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class VI"
+2675141000006119,"SLE glomerulonephritis syndrome, WHO class VI"
+2675161000006115,Lupus with glomerular sclerosis
+8035251000006111,End stage renal disease due to hypertension
+8035261000006113,ESRD (End stage renal disease) due to hypertension
+8036941000006111,Chronic kidney disease stage 1 due to hypertension
+8037171000006115,Preexisting hypertensive chronic kidney disease in pregnancy
+8037161000006110,Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy
+2689941000006111,Stabilising haemodialysis
+2689951000006113,Stabilizing hemodialysis
+8037721000006115,Glomerulonephritis due to hepatitis C
+4353701000006118,Subacute glomerulonephritis
+4355451000006111,Immune-complex glomerulonephritis
+4355461000006113,Immune complex glomerulonephritis
+8040331000006118,Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus
+8040341000006111,Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus
+8040661000006119,Chronic kidney disease stage 4 due to hypertension
+8040671000006114,Chronic kidney disease stage 5 due to hypertension
+8040681000006112,Chronic kidney disease stage 3 due to hypertension
+8040691000006110,Chronic kidney disease stage 2 due to hypertension
+2711281000006117,Sclerosing glomerulonephritis
+8044021000006113,Hypertension in chronic kidney disease stage 5 due to type II diabetes mellitus
+8044011000006117,Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus
+8044051000006116,Hypertension in chronic kidney disease stage 4 due to type II diabetes mellitus
+8044041000006118,Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus
+8044061000006119,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus
+8044071000006114,Hypertension in chronic kidney disease stage 3 due to type II diabetes mellitus
+8044091000006110,Hypertension in chronic kidney disease stage 2 due to type II diabetes mellitus
+8044081000006112,Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus
+2521181000006116,Necrotising glomerulonephritis
+2521191000006118,Necrotizing glomerulonephritis
+2732451000006111,Peritoneal dialysis excluding cannulation
+8047971000006118,Malignant hypertensive chronic kidney disease stage 5
+8048001000006110,End stage renal disease on dialysis due to hypertension
+2751501000006118,Chronic haemodialysis diet
+2751511000006115,Chronic hemodialysis diet
+8001741000006111,Primary tubulointerstitial nephritis
+28321015,Renal osteodystrophy
+28322010,Renal rickets
+2765411000006114,ROD - Renal osteodystrophy
+303946017,Renal infantilism
+2765401000006111,Renal bone disease
+303948016,Renal osteodystrophy NOS
+4668951000006113,Autotransplantation of kidney
+4668961000006110,Autotransplant kidney
+4668981000006117,Renal autotransplantation or reimplantation of kidney
+500371000006119,Autotransplant of kidney
+4668971000006115,Renal autotransplantation
+7970461000006118,"Anemia, pre-end stage renal disease on erythropoietin protocol"
+7970471000006113,"Anemia, pre-ESRD erythropoietin protocol"
+284213011,Renal transplant planned
+8006221000006115,Microalbuminuria due to type 1 diabetes mellitus
+10128851000006111,Haemodialysis
+4760091000006111,Chronic urate nephropathy
+4760071000006110,Chronic gouty nephropathy
+293396010,Gouty nephropathy unspecified
+293400010,Gouty nephropathy NOS
+293394013,Gouty nephropathy
+303820015,Other acute glomerulonephritis NOS
+303815015,Other acute glomerulonephritis
+32619017,Acute glomerulonephritis
+303824012,Acute glomerulonephritis NOS
+479396010,AGN - Acute glomerulonephritis
+2807131000006118,Acute exudative glomerulonephritis
+8056041000006114,Chronic proliferative glomerulonephritis
+4788161000006115,PGN - Acute proliferative glomerulonephritis
+303812017,Acute proliferative glomerulonephritis
+4788181000006113,Acute nephritis with lesions of necrotizing glomerulitis
+303814016,Acute nephritis with lesions of necrotising glomerulitis
+4788191000006111,Acute glomerulonephritis associated with another disorder
+303816019,Acute glomerulonephritis in diseases EC
+303825013,Nephrotic syndrome with proliferative glomerulonephritis
+677621000006112,Nephrotic syndrome with membranoproliferative glomerulonephritis
+303832016,"Nephrotic syndrome, minor glomerular abnormality"
+303833014,"Nephrotic syndrome, focal and segmental glomerular lesions"
+303834015,"Nephrotic syndrome, diffuse membranous glomerulonephritis"
+677461000006115,"Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis"
+677481000006113,"Nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis"
+677471000006110,"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis"
+303838017,"Nephrotic syndrome, dense deposit disease"
+303839013,"Nephrotic syndrome, diffuse crescentic glomerulonephritis"
+303842019,Congenital Finnish nephrosis
+703481000006116,Microcystic type congenital nephrotic syndrome
+4788371000006112,CNF - Finnish congenital nephrotic syndrome
+710221000006113,Finnish congenital nephrotic syndrome
+303844018,Nephrotic syndrome in diseases EC
+303853013,Nephrotic syndrome associated with another disorder
+303845017,Nephrotic syndrome in amyloidosis
+303846016,Nephrotic syndrome in diabetes mellitus
+4788421000006117,Nephrotic syndrome due to diabetes mellitus
+303847013,Kimmelstiel - Wilson disease
+303848015,Nephrotic syndrome in malaria
+4788461000006111,Malarial nephrosis
+303849011,Nephrotic syndrome in polyarteritis nodosa
+553181000006118,"Chronic nephritic syndrome, diffuse mesangial proliferative glomerulonephritis"
+354349019,Hypocomplementaemic persistent glomerulonephritis NEC
+4788491000006115,PGN - Chronic mesangial proliferative glomerulonephritis
+12704531000006115,Chronic mesangial proliferative glomerulonephritis
+556211000006112,Chronic proliferative glomerulonephritis
+354347017,Chronic mesangial proliferative glomerulonephritis
+554481000006111,Chronic glomerulonephritis + diseases EC
+4788511000006114,Chronic glomerulonephritis associated with another disorder
+303866013,Chronic exudative glomerulonephritis
+303867016,Chronic focal glomerulonephritis
+303868014,Chronic diffuse glomerulonephritis
+303877019,Focal membranoproliferative glomerulonephritis
+303881019,Anaphylactoid glomerulonephritis
+458521000006111,"Acute nephritic syndrome, diffuse crescentic glomerulonephritis"
+303977015,Rapidly progressive nephritic syndrome
+191871000006114,"Rapidly progressive nephritic syndrome, minor glomerular abnormality"
+191891000006110,"Rapidly progressive nephritic syndrome, focal and segmental glomerular lesions"
+191861000006119,"Rapidly progressive nephritic syndrome, diffuse membranous glomerulonephritis"
+165061000006114,"Rapidly progressive nephritic syndrome, diffuse mesangial proliferative glomerulonephritis"
+191851000006116,"Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis"
+191841000006118,"Rapidly progressive nephritic syndrome, diffuse mesangiocapillary glomerulonephritis"
+191901000006114,"Rapidly progressive nephritic syndrome, dense deposit disease"
+191881000006112,"Rapidly progressive nephritic syndrome, diffuse crescentic glomerulonephritis"
+304004016,Chronic nephritic syndrome
+677941000006114,Nephritis - chronic
+304005015,"Chronic nephritic syndrome, minor glomerular abnormality"
+555391000006117,"Chronic nephritic syndrome, focal and segmental glomerular lesions"
+553191000006115,"Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis"
+555371000006118,"Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis"
+304011017,"Chronic nephritic syndrome, dense deposit disease"
+555381000006115,"Chronic nephritic syndrome, diffuse crescentic glomerulonephritis"
+303869018,Other chronic glomerulonephritis NOS
+303870017,Chronic glomerulonephritis NOS
+303864011,Other chronic glomerulonephritis
+2832821000006115,CGN - Chronic glomerulonephritis
+35171019,Chronic glomerulonephritis
+324973015,Kidney transplant failure and rejection
+988961000006115,Renal transplant rejected
+4937931000006111,Chronic peritoneal dialysis
+4937941000006118,PD - Chronic peritoneal dialysis
+4937961000006119,PD - Stab peritoneal dialysis
+4937951000006116,Stab peritoneal dialysis
+2861671000006115,Glomerulitis
+5052661000006111,Intermittent haemodialysis
+5052671000006116,Intermittent hemodialysis
+5052681000006118,Intermittent haemodialysis with sequential ultrafiltration
+5052691000006115,Intermittent hemodialysis with sequential ultrafiltration
+5052701000006115,Intermittent haemodialysis with continuous ultrafiltration
+5052711000006117,Intermittent hemodialysis with continuous ultrafiltration
+5052731000006111,Continuous hemodialysis
+5052721000006113,Continuous haemodialysis
+5052741000006118,Continuous arteriovenous haemodialysis
+5052781000006112,CAVD - Continuous arteriovenous haemodialysis
+5052761000006119,Continuous arteriovenous hemodialysis filtration
+5052751000006116,CAVD - Continuous arteriovenous hemodialysis
+5052771000006114,Continuous arteriovenous haemodialysis filtration
+5052791000006110,Continuous arteriovenous hemodialysis
+5052831000006115,Continuous venovenous haemodialysis filtration
+5052871000006117,CVVHD - Continuous venovenous hemodialysis
+5052801000006111,Continuous venovenous haemodialysis
+5052811000006114,Continuous venovenous hemodialysis
+5052841000006113,CVVD - Continuous venovenous haemodialysis
+5052861000006112,CVVD - Continuous venovenous hemodialysis
+5052821000006118,CVVHD - Continuous venovenous haemodialysis
+5052851000006110,Continuous venovenous hemodialysis filtration
+5053101000006112,Haemodiafiltration
+5053111000006110,Hemodiafiltration
+5053121000006119,Intermittent haemodiafiltration
+5053131000006116,Intermittent hemodiafiltration
+5053151000006111,Continuous hemodiafiltration
+5053141000006114,Continuous haemodiafiltration
+5053181000006115,CAVHD - Continuous arteriovenous hemodiafiltration
+5053191000006117,CAVHD - Continuous arteriovenous haemodiafiltration
+5053161000006113,Continuous arteriovenous haemodiafiltration
+5053171000006118,Continuous arteriovenous hemodiafiltration
+5053231000006110,Continuous venovenous hemodiafiltration
+5053221000006112,CVVHD - Continuous venovenous hemodiafiltration
+5053201000006119,Continuous venovenous haemodiafiltration
+5053211000006116,CVVHD - Continuous venovenous haemodiafiltration
+5065421000006118,Epstein syndrome
+5065431000006115,Epstein's macrothrombocytopenia syndrome
+354324018,Chronic infective interstitial nephritis
+5093341000006118,SSNS - Steroid-sensitive nephrotic syndrome
+5093331000006111,Steroid-responsive nephrotic syndrome
+127091000006118,Steroid-sensitive nephrotic syndrome
+5093361000006119,Steroid-unresponsive nephrotic syndrome
+5093351000006116,Steroid-resistant nephrotic syndrome
+5093371000006114,SRNS - Steroid-resistant nephrotic syndrome
+5093381000006112,Steroid-dependent nephrotic syndrome
+5093391000006110,SDNS - Steroid-dependent nephrotic syndrome
+5093401000006112,Familial mesangial sclerosis
+354340015,Congenital nephrotic syndrome with focal glomerulosclerosis
+1847541000006113,Wilms' tumour and nephrotic syndrome with pseudohermaphroditism
+354341016,Nephrotic syndrome with pseudohermaphroditism
+354343018,Drash syndrome
+5093451000006111,Wilms' tumor and nephrotic syndrome with pseudohermaphroditism
+303894017,Rapidly progressive nephritis unspecified
+5093471000006118,RPGN - Rapidly progressive glomerulonephritis
+303863017,Chronic rapidly progressive glomerulonephritis
+354352010,Rapidly progressive glomerulonephritis
+5093481000006115,Endocapillary glomerulonephritis
+5093491000006117,Endocapillary proliferative glomerulonephritis
+5093501000006113,Idiopathic endocapillary glomerulonephritis
+5093521000006115,Post-infective glomerulonephritis
+5093511000006111,Post-infectious glomerulonephritis
+5093541000006110,Post-infectious glomerulonephritis - Garland variety
+354363013,Crescentic glomerulonephritis
+354364019,CGN - Crescentic glomerulonephritis
+5093551000006112,Idiopathic crescentic glomerulonephritis
+5093581000006116,Proliferative crescentic glomerulonephritis
+5093591000006118,Steroid-sensitive minimal change glomerulonephritis
+5093601000006114,Steroid-resistant minimal change glomerulonephritis
+5093611000006112,Steroid-dependent minimal change glomerulonephritis
+5093741000006117,Immunoglobulin A nephropathy
+5093731000006110,IgA glomerulonephritis
+5093721000006112,IgAN - IgA nephropathy
+354379014,IgA nephropathy
+5093761000006118,MCGN type III - Mesangiocapillary glomerulonephritis type III
+5093751000006115,Mesangiocapillary glomerulonephritis type III
+5093771000006113,Mesangiocapillary glomerulonephritis type IV
+5093781000006111,MCGN type IV - Mesangiocapillary glomerulonephritis type IV
+5093811000006113,Immunoglobulin M nephropathy
+5093791000006114,IgM nephropathy
+5093801000006110,Mesangial IgM proliferative glomerulonephritis
+5093821000006117,C1q nephropathy
+5093831000006119,Membranous glomerulonephritis - stage I
+5093841000006112,MGN stage I - Membranous glomerulonephritis - stage I
+5093861000006111,MGN stage II - Membranous glomerulonephritis - stage II
+5093851000006114,Membranous glomerulonephritis - stage II
+5093871000006116,Membranous glomerulonephritis - stage III
+5093881000006118,MGN stage III - Membranous glomerulonephritis stage III
+5093891000006115,Membranous glomerulonephritis - stage IV
+5093901000006116,MGN stage IV - Membranous glomerulonephritis stage IV
+5093921000006114,MGN stage V - Membranous glomerulonephritis stage V
+5093911000006118,Membranous glomerulonephritis stage V
+5093941000006119,Thin basement membrane nephropathy
+354399015,Thin basement membrane disease
+5093961000006115,Familial nephropathy
+5093951000006117,Progressive hereditary glomerulonephritis without deafness
+5094001000006119,Fechtner syndrome
+354417015,Acute-on-chronic renal failure
+5094141000006118,Acute on chronic renal failure
+5094151000006116,End stage renal failure untreated by renal replacement therapy
+5094161000006119,End stage renal failure on dialysis
+5094171000006114,End stage renal failure with renal transplant
+5094351000006118,Chronic drug-induced T.I.N.
+5094361000006116,Chronic drug-induced interstitial nephritis
+5094341000006115,Chronic drug-induced tubulointerstitial nephritis
+5094371000006111,Chronic drug induced tubulointerstitial nephritis
+354442012,Chronic lead nephropathy
+5095031000006114,Microalbuminuric diabetic nephropathy
+5095041000006116,Incipient diabetic nephropathy
+354508018,Clinical diabetic nephropathy
+354509014,Proteinuric diabetic nephropathy
+354516010,Cryoglobulinaemic glomerulonephritis
+5095151000006115,Cryoglobulinemic glomerulonephritis
+5095221000006119,Malignancy-associated glomerulonephritis
+5095471000006119,Pulmonic stenosis and congenital nephrosis
+900121000006113,Renal transplant rejected
+615611000006116,Det.ren.func.after ren.transpl
+354610013,Renal transplant rejection
+354621016,Chronic transplant nephropathy
+5096141000006114,Chronic allograft nephropathy
+354619014,Chronic rejection of renal transplant
+354623018,Chronic rejection of renal transplant - grade 1
+5096171000006118,Mild chronic transplant nephropathy
+354624012,Chronic rejection of renal transplant - grade II
+5096191000006117,Moderate chronic transplant nephropathy
+5096211000006116,Severe chronic transplant nephropathy
+354627017,Chronic rejection of renal transplant - grade III
+354628010,Acute-on-chronic rejection of renal transplant
+5096231000006110,Failed renal transplant
+354632016,De novo glomerulonephritis
+5096271000006113,Transplant glomerulopathy
+5096281000006111,Transplant glomerulopathy - early form
+5096291000006114,Transplant glomerulopathy - late form
+354636018,Cytomegalovirus-induced glomerulonephritis
+5096311000006113,CMV - Cytomegalovirus-induced glomerulonephritis
+356511015,Hypophosphataemic rickets with nephrotic-glycosuric dwarfism
+5113911000006111,Hypophosphatemic rickets with nephrotic-glycosuric dwarfism
+357219012,Continuous ambulatory peritoneal dialysis
+5120171000006118,CAPD - Continuous ambulatory peritoneal dialysis
+5120181000006115,Continuous cycling peritoneal dialysis
+5120191000006117,CCPD - Continuous cycling peritoneal dialysis
+5120211000006116,Intermittent peritoneal dialysis
+5120221000006112,IPD - Intermittent peritoneal dialysis
+5120241000006117,"PD - Peritoneal dialysis, tidal"
+5120231000006110,Tidal peritoneal dialysis
+5120251000006115,Night-time intermittent peritoneal dialysis
+5120261000006118,"IPD - Intermittent peritoneal dialysis, night-time"
+5120271000006113,NIPD - Night-time intermittent peritoneal dialysis
+5141531000006116,Primary pauci-immune necrotizing and crescentic glomerulonephritis
+5141521000006119,Primary pauci-immune necrotising and crescentic glomerulonephritis
+407481000000111,Chronic kidney disease monitoring
+408381000000119,Chronic kidney disease annual review
+43768016,Balkan nephropathy
+5488811000006110,Artificial kidney dialysis
+5488801000006112,Kidney dialysis
+394640016,Renal dialysis
+619541000006116,Dialysis for renal failure
+278835013,Compensation for renal failure NOS
+877641000006113,Extracorporeal kidney
+396706011,Nephrotic syndrome with minimal change glomerulonephritis
+402249011,Congenital renal failure
+5618961000006117,CAPD diet
+5618981000006110,Continuous ambulatory peritoneal dialysis diet
+5618971000006112,Continuous ambulatory peritoneal dialysis (CAPD) diet
+8013961000006110,Chronic nephritic syndrome with membranous glomerulonephritis
+5663841000006117,IgA nephropathy associated with liver disease
+5663851000006115,Immunoglobulin A nephropathy associated with liver disease
+8087051000006119,Chronic kidney disease stage 1 due to benign hypertension
+8087061000006117,Chronic kidney disease stage 2 due to benign hypertension
+8087071000006112,Chronic kidney disease stage 3 due to benign hypertension
+8087081000006110,Chronic kidney disease stage 4 due to benign hypertension
+8087091000006113,Chronic kidney disease stage 5 due to benign hypertension
+8087641000006112,Malignant hypertensive chronic kidney disease
+8087651000006114,Malignant hypertensive end stage renal disease
+8087661000006111,Malignant hypertensive chronic kidney disease stage 1
+8087681000006118,Malignant hypertensive chronic kidney disease stage 2
+8087691000006115,Malignant hypertensive chronic kidney disease stage 3
+8087701000006115,Malignant hypertensive chronic kidney disease stage 4
+8088131000006111,Malignant hypertensive end stage renal disease on dialysis
+8091151000006111,Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus
+526441000000118,Did not attend chronic kidney disease monitoring clinic
+5907581000006118,Extracorporeal haemodialysis
+5907531000006119,Hemodialysis procedure
+278832011,Haemodialysis
+5907541000006112,HD - Hemodialysis
+5907561000006111,Haemodialysis procedure
+5907591000006115,Hemodialysis
+5907571000006116,Extracorporeal hemodialysis
+106291000006118,Thomas intravascular shunt for dialysis
+5907551000006114,HD - Haemodialysis
+8102681000006110,Tubulointerstitial nephropathy due to Sjogren syndrome
+8102701000006113,Tubulointerstitial nephropathy due to Sjogrens syndrome
+8102691000006113,Tubulointerstitial nephropathy due to SjÃ¶gren's syndrome
+8104101000006118,CKD (chronic kidney disease stage) 1 with proteinuria
+618391000000118,CKD stage 1 with proteinuria
+595541000000119,Chronic kidney disease stage 1 with proteinuria
+595601000000118,Chronic kidney disease stage 1 without proteinuria
+618401000000115,CKD stage 1 without proteinuria
+8104131000006114,CKD (chronic kidney disease) stage 1 without proteinuria
+618411000000118,CKD stage 2 with proteinuria
+8104161000006117,CKD (chronic kidney disease) stage 2 with proteinuria
+595661000000119,Chronic kidney disease stage 2 with proteinuria
+8104231000006115,CKD (chronic kidney disease) stage 3 with proteinuria
+618431000000114,CKD stage 3 with proteinuria
+595811000000117,Chronic kidney disease stage 3 with proteinuria
+8104261000006112,CKD (chronic kidney disease) stage 3 without proteinuria
+618441000000117,CKD stage 3 without proteinuria
+595871000000110,Chronic kidney disease stage 3 without proteinuria
+595931000000116,Chronic kidney disease stage 3A with proteinuria
+618451000000119,CKD stage 3A with proteinuria
+8104301000006115,CKD (chronic kidney disease) stage 3A with proteinuria
+618461000000116,CKD stage 3A without proteinuria
+595991000000115,Chronic kidney disease stage 3A without proteinuria
+8104351000006116,CKD (chronic kidney disease) stage 3A without proteinuria
+8104381000006112,CKD (chronic kidney disease) stage 3B with proteinuria
+596051000000115,Chronic kidney disease stage 3B with proteinuria
+618471000000111,CKD stage 3B with proteinuria
+618481000000113,CKD stage 3B without proteinuria
+8104411000006110,CKD (chronic kidney disease) stage 3B without proteinuria
+596131000000114,Chronic kidney disease stage 3B without proteinuria
+596191000000110,Chronic kidney disease stage 4 with proteinuria
+618491000000110,CKD stage 4 with proteinuria
+8104451000006111,CKD (chronic kidney disease) stage 4 with proteinuria
+618501000000116,CKD stage 4 without proteinuria
+596261000000111,Chronic kidney disease stage 4 without proteinuria
+8104481000006115,CKD (chronic kidney disease) stage 4 without proteinuria
+618511000000119,CKD stage 5 with proteinuria
+8104511000006111,CKD (chronic kidney disease) stage 5 with proteinuria
+596321000000110,Chronic kidney disease stage 5 with proteinuria
+8104551000006112,CKD (chronic kidney disease) stage 5 without proteinuria
+596401000000111,Chronic kidney disease stage 5 without proteinuria
+618521000000113,CKD stage 5 without proteinuria
+3072641000006116,Mesangial proliferative glomerulonephritis
+6205251000006115,"Idiopathic crescentic glomerulonephritis, type II"
+303907019,Glomerulonephritis
+763111000006117,Focal glomerulonephritis with focal recurrent macroscopic glomerulonephritis
+3082891000006115,GN - Glomerulonephritis
+6241711000006115,Nephrotic syndrome secondary to glomerulonephritis
+6241721000006111,Nephrotic syndrome secondary to systemic disease
+8117051000006114,Active on kidney transplant waiting list
+8117061000006111,Active on kidney transplant waiting list while waiting live donor work-up
+8117111000006112,Active on paired exchange kidney transplant waiting list
+8117121000006116,Active on kidney transplant waiting list with failing graft
+8117131000006118,Active on urgent kidney transplant waiting list
+8117151000006113,Suspended from kidney transplant waiting list due to patient being unfit
+8117181000006117,Removed from kidney transplant waiting list at patient request
+8117911000006114,Morphologic change of kidney due to chronic nephritic syndrome
+8118471000006113,"Hereditary mesangiocapillary glomerulonephritis, type 2"
+8118481000006111,Hereditary dense deposit disease
+8118491000006114,Hereditary diffuse crescentic glomerulonephritis
+8118511000006115,Hereditary diffuse endocapillary proliferative glomerulonephritis
+8118521000006111,Hereditary diffuse membranous glomerulonephritis
+8118531000006114,Hereditary diffuse mesangial proliferative glomerulonephritis
+8118551000006119,Hereditary diffuse mesangiocapillary glomerulonephritis
+8120471000006117,Acute nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III
+8120491000006116,Rapidly progressive nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type 3
+8120481000006119,Rapidly progressive nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III
+8120501000006112,Chronic nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III
+8120521000006119,Nephrotic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III
+8120531000006116,Nephrotic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type 3
+8120541000006114,Nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III
+8120551000006111,Isolated proteinuria co-occurrent and due to membranoproliferative glomerulonephritis type III
+8120561000006113,Isolated proteinuria co-occurrent and due to membranoproliferative glomerulonephritis type 3
+8120571000006118,Hereditary nephropathy co-occurrent with membranoproliferative glomerulonephritis type III
+81251000006113,"Unsp nephrit synd, diff endocap prolif glomerulonephritis"
+2557891000006117,Diffuse endocapillary proliferative glomerulonephritis
+430091000006117,"[X]Unspecified nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis"
+3097041000006118,Renal sarcoidosis
+3097031000006111,Granulomatous sarcoid nephropathy
+61863019,Shunt nephritis
+7965441000006117,Increase dialyser size for haemodialysis
+7965451000006115,Increase dialyzer size for hemodialysis
+54939014,Nephrosclerosis
+64282015,Hypertensive renal disease
+47076011,Renal hypertension
+3119661000006114,Hypertensive nephropathy
+395753015,Hypertensive renal disease NOS
+11777411000006113,Renal disease due to hypertension
+6618781000006111,Non-progressive hereditary glomerulonephritis
+6621291000006119,Hereditary nephritis
+6621311000006115,Hereditary glomerulonephritis
+6621301000006118,GN - Hereditary glomerulonephritis
+303883016,Other familial glomerulonephritis
+1786829010,Alport's syndrome
+666291000006116,Familial glomerulonephritis in Alport's syndrome
+3147311000006115,Nephrotic-nephritic syndrome
+8016481000006115,Secondary chronic nephritis
+6959091000006114,Persistent microalbuminuria associated with type II diabetes mellitus
+928571000006113,Type II diabetes mellitus with persistent microalbuminuria
+928561000006118,Persistent microalbuminuria associated with type 2 diabetes mellitus
+6969521000006113,Persistent microalbuminuria associated with type 1 diabetes mellitus
+6969531000006111,Persistent microalbuminuria associated with type I diabetes mellitus
+7043241000006119,Chronic progressive renal insufficiency
+7043231000006112,Chronic progressive renal failure
+7043491000006110,Sarcoidosis with glomerulonephritis
+7044581000006114,Diabetic glomerulonephritis
+11878001000006119,Amyloid A nephropathy
+7050771000006114,AA amyloid nephropathy
+7061571000006115,Renal AL amyloidosis
+7061561000006110,AL amyloid nephropathy
+7061581000006117,Amyloid light-chain nephropathy
+7075651000006117,Glomerulonephritis due to Wegener granulomatosis
+7075661000006115,Glomerulonephritis co-occurrent and due to Wegener's granulomatosis
+2692168016,Automated peritoneal dialysis
+7095851000006114,Dependence on peritoneal dialysis due to end stage renal disease
+7096521000006114,Dependence on haemodialysis due to end stage renal disease
+7096531000006112,Dependence on hemodialysis due to end stage renal disease
+7147741000006114,CKD stage 1
+304031000000117,Chronic kidney disease stage 1
+2767383018,Chronic kidney disease stage 1
+304051000000112,Chronic kidney disease stage 2
+7147761000006113,CKD stage 2
+2767384012,Chronic kidney disease stage 2
+2767385013,Chronic kidney disease stage 4
+304091000000116,Chronic kidney disease stage 4
+7147781000006115,CKD stage 4
+7174791000006111,CKD stage 3
+304071000000115,Chronic kidney disease stage 3
+2773184015,Chronic kidney disease stage 3
+7174851000006111,CKD stage 5
+304111000000114,Chronic kidney disease stage 5
+2767154014,Chronic kidney disease stage 5
+7965571000006112,Hemodialysis access site patent
+7965561000006117,Haemodialysis access site patent
+7255581000006116,Proliferative glomerulonephritis
+7272711000006110,Dependence on haemodialysis
+7272721000006119,Dependence on hemodialysis
+7272731000006116,Dependent on hemodialysis
+7279961000006115,Dependence on peritoneal dialysis
+7290571000006115,Erythropoietin resistance in anaemia of chronic kidney disease
+7290581000006117,Erythropoietin resistance in anemia of chronic kidney disease
+7303101000006118,Steroid sensitive nephrotic syndrome of childhood
+7303891000006115,Overt diabetic nephropathy
+7303881000006118,Macroalbuminuric diabetic nephropathy
+7305291000006117,Idiopathic rapidly progressive glomerulonephritis
+7307601000006118,Familial immunoglobulin A (IgA) nephropathy
+7307591000006114,Familial immunoglobulin A nephropathy
+74720014,Lipoid nephrosis
+3222361000006116,MCGN - Minimal change glomerulonephritis
+3222421000006116,MCNS - Minimal change nephrotic syndrome
+3222351000006118,MCD - Minimal change disease
+3222401000006114,Light negative glomerulonephritis
+3222321000006110,Nil disease
+3222381000006114,Idiopathic nephrotic syndrome
+3222311000006119,Minimal change disease
+3222391000006112,Minimal change nephropathy
+3222431000006118,MCN - Minimal change nephropathy
+3222341000006115,Lipid nephrosis
+3222371000006111,Minimal change nephrotic syndrome
+3222411000006112,Minimal change glomerulonephritis
+7375401000006117,Steroid resistant nephrotic syndrome of childhood
+215521000000116,End stage renal disease
+3245851000006118,ESRF - End stage renal failure
+641491000006116,End-stage renal disease
+3245871000006111,ESRD - End stage renal disease
+12704471000006116,End-stage renal disease
+3245841000006115,End stage kidney disease
+3245861000006116,ESCRF - End stage chronic renal failure
+3245881000006114,End stage chronic renal failure
+11924551000006114,End-stage renal disease
+641471000006117,End stage renal failure
+7403361000006112,"Haemodialysis system, institutional/home-use"
+7403371000006117,"Hemodialysis system, institutional/home-use"
+2573631000006113,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class II"
+2573601000006117,Lupus nephritis - WHO Class II
+2573621000006110,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class II"
+2573611000006119,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class II"
+2573591000006113,SLE with mesangial proliferative glomerulonephritis
+2573581000006110,"SLE glomerulonephritis syndrome, WHO class II"
+7480381000006111,History of chronic kidney disease
+7480391000006114,History of chronic renal impairment
+7480371000006113,H/O chronic kidney disease
+3289691000006118,Familial nephrotic syndrome
+81307015,Congenital nephrotic syndrome
+303843012,Congenital nephrotic syndrome NOS
+299665018,Hypertensive renal disease with renal failure
+3296351000006114,Hypertensive renal failure
+480871000006117,Anaemia of chronic renal failure
+3304621000006111,Anemia of chronic renal insufficiency
+3304631000006114,Anaemia of chronic renal insufficiency
+3304611000006115,Anemia of chronic renal failure
+8018011000006118,Secondary tubulointerstitial nephritis
+3319121000006118,Haemorrhagic pneumonia AND glomerulonephritis
+3319101000006111,Pulmonary haemorrhage with glomerulonephritis
+3319131000006115,Anti-GBM nephritis with pulmonary haemorrhage
+3319071000006118,Pulmonary hemorrhage with glomerulonephritis
+3319111000006114,Pulmonary haemosiderosis with glomerulonephritis
+3319081000006115,Pulmonary hemosiderosis with glomerulonephritis
+3319041000006114,Hemorrhagic pneumonia AND glomerulonephritis
+3319091000006117,Anti-GBM nephritis with pulmonary hemorrhage
+3319141000006113,Goodpasture syndrome
+3319061000006113,Lung purpura with nephritis syndrome
+84262013,Goodpasture's syndrome
+3319051000006111,Pulmonary-renal syndrome
+3343611000006110,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class V"
+3343621000006119,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class V"
+3343631000006116,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class V"
+3343581000006119,SLE with membranous glomerulonephritis
+3343571000006117,"SLE glomerulonephritis syndrome, WHO class V"
+3343591000006116,Membranous lupus glomerulonephritis
+3343601000006112,Lupus nephritis - WHO Class V
+86957016,Nephrotic syndrome
+303855018,Nephrotic syndrome NOS
+3347091000006118,NS - Nephrotic syndrome
+303854019,Nephrotic syndrome with other pathological kidney lesions
+3403671000006118,"Idiopathic crescentic glomerulonephritis, type III"
+3403681000006115,Idiopathic crescentic glomerulonephritis type 3
+3430761000006115,Initial hemodialysis
+3430751000006117,Initial haemodialysis
+3435181000006119,Chronic milk alkali syndrome
+3466091000006117,"MCGNdd - Mesangiocapillary glomerulonephritis, dense deposit"
+3466101000006111,Mesangiocapillary glomerulonephritis type II
+3466081000006115,"Mesangiocapillary glomerulonephritis, type II"
+3466111000006114,MCGN type II - Mesangiocapillary glomerulonephritis type II
+3489761000006118,Chronic T.I.N.
+3489801000006110,CIN - Chronic interstitial nephritis
+3489751000006115,Chronic interstitial nephritis
+3489791000006114,Chronic tubulo-interstitial nephritis
+3489771000006113,Chronic tubulointerstitial nephritis
+305172012,[X]Other chronic tubulo-interstitial nephritis
+3489781000006111,CTIN - Chronic tubulo-interstitial nephritis
+3521681000006118,Anti-glomerular basement membrane tubulointerstitial nephritis
+3543641000006111,"Idiopathic crescentic glomerulonephritis, type I"
+3544341000006115,Diffuse crescentic glomerulonephritis
+81581000006119,"Unspecif nephr synd, diff concentric glomerulonephritis"
+430591000006111,"[X]Unspecified nephritic syndrome, diffuse concentric glomerulonephritis"
+2509281000006118,Peritoneal dialysis including cannulation
+3605671000006116,"Haemodialysis, maintenance at home"
+3605681000006118,"Hemodialysis, maintenance at home"
+3612021000006116,"Haemodialysis, supervision at home"
+3612031000006118,"Hemodialysis, supervision at home"
+3615301000006118,Post-streptococcal glomerulonephritis
+3615311000006115,PSGN - Post-streptococcal glomerulonephritis
+3615291000006119,Acute post-streptococcal glomerulonephritis
+3618661000006118,Primary IgA nephropathy
+3618671000006113,Berger's disease
+3618691000006114,Primary immunoglobulin A nephropathy
+3618681000006111,Focal glomerulonephritis
+677561000006119,Nephrotic syndrome in systemic lupus erythematosus
+3619221000006118,SLE glomerulonephritis syndrome
+3619241000006113,Systemic lupus erythematosus glomerulonephritis syndrome
+114310015,Lupus nephritis
+8212331000006116,Anemia in chronic kidney disease stage 4
+8212311000006110,Anaemia in chronic kidney disease stage 4
+8212341000006114,Anaemia co-occurrent and due to chronic kidney disease stage 4
+8212321000006119,Anemia co-occurrent and due to chronic kidney disease stage 4
+8212361000006113,Anaemia in chronic kidney disease stage 5
+8212371000006118,Anemia co-occurrent and due to chronic kidney disease stage 5
+8212391000006117,Anemia in chronic kidney disease stage 5
+8212381000006115,Anaemia co-occurrent and due to chronic kidney disease stage 5
+8212411000006117,Anemia co-occurrent and due to chronic kidney disease stage 3
+8212401000006115,Anaemia co-occurrent and due to chronic kidney disease stage 3
+7507461000006117,Awaiting transplantation of kidney
+7507471000006112,Awaiting renal transplant
+557811000000119,Chronic kidney disease stage 3A
+557831000000110,Chronic kidney disease stage 3B
+7560481000006112,"Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps syndrome"
+7560491000006110,"Autosomal dominant familial hematuria, retinal arteriolar tortuosity, contractures"
+7560511000006116,"Autosomal dominant familial haematuria, retinal arteriolar tortuosity, contractures"
+7560471000006114,"HANAC - hereditary angiopathy with nephropathy, aneurysms, and muscle cramps"
+7560501000006119,HANAC syndrome
+1948021000006115,"Hereditary angiopathy with nephropathy, aneurysms and muscle cramps syndrome"
+7593681000006118,Hypertension concurrent and due to end stage renal disease on dialysis
+7598001000006110,Childhood nephrotic syndrome
+3647061000006115,Kidney transplant
+272327014,Transplantation of kidney NOS
+866731000006115,Kidney replacement NOS
+501594013,Transplantation of kidney
+117168016,Renal transplant
+3647051000006117,Tx - Renal transplantation
+3647031000006112,Kidney transplantation
+3647071000006110,Tx - Kidney transplantation
+3647091000006111,Renal graft
+866751000006110,Kidney replacement
+3647021000006114,Transplant of kidney
+272326017,Other specified transplantation of kidney
+7613801000006117,Familial reflux nephropathy
+7613791000006118,Familial non-obstructive reflux-associated chronic pyelonephritis
+7615361000006112,Anemia in chronic kidney disease
+7615331000006115,Anaemia in chronic kidney disease
+7615351000006110,Anaemia co-occurrent and due to chronic kidney disease
+7615341000006113,Anemia co-occurrent and due to chronic kidney disease
+7615371000006117,Anaemia in end stage renal disease
+7615381000006119,Anemia in end stage renal disease
+7615391000006116,Anemia co-occurrent and due to end stage renal disease
+7615401000006119,Anaemia co-occurrent and due to end stage renal disease
+7615481000006111,Recurrent proliferative glomerulonephritis
+7641771000006110,Maintenance hemodiafiltration
+7641761000006115,Maintenance haemodiafiltration
+7641791000006111,Maintenance hemodialysis
+7641781000006113,Maintenance haemodialysis
+7641811000006110,Emergency hemodialysis
+7641801000006112,Emergency haemodialysis
+7641831000006116,Emergency hemodiafiltration
+7641821000006119,Emergency haemodiafiltration
+7642391000006117,Mixed renal osteodystrophy
+7643331000006114,Chronic renal disease
+2771041011,Chronic kidney disease
+7643311000006115,CKD - chronic kidney disease
+354409011,Chronic renal impairment
+7966611000006114,Chronic kidney disease stage 5 due to type 2 diabetes mellitus
+7966621000006118,Diabetic stage 5 chronic renal impairment due to type 2 diabetes mellitus
+7966631000006115,Chronic kidney disease stage 5 due to type II diabetes mellitus
+8214711000006116,Chronic kidney disease monitoring invitation
+7689691000006113,Focal mesangial proliferative glomerulonephritis
+3657891000006116,PD - Peritoneal dialysis
+118218017,Peritoneal dialysis
+375841000000114,Peritoneal dialysis NEC
+7691491000006110,End stage renal disease due to benign hypertension
+7691501000006119,ESRD (End stage renal disease) due to benign hypertension
+7702321000006115,Chronic kidney disease mineral and bone disorder
+7702331000006117,CKD-MBD - chronic kidney disease mineral and bone disorder
+7707941000006112,Nephrotic syndrome co-occurrent with human immunodeficiency virus infection
+406821000000110,Chronic kidney disease monitoring administration
+7714901000006119,Chronic kidney disease 5d
+7714891000006118,Chronic kidney disease stage 5 on dialysis
+7714911000006116,CKD (chronic kidney disease) stage 5d
+7714931000006110,Chronic kidney disease 5t
+7714941000006117,CKD (chronic kidney disease) stage 5t
+7714921000006112,Chronic kidney disease stage 5 with transplant
+8022361000006113,Hypertension in chronic kidney disease due to type 2 diabetes mellitus
+8022371000006118,Hypertension in chronic kidney disease due to type II diabetes mellitus
+8022381000006115,Nephrotic syndrome due to type 2 diabetes mellitus
+7723861000006117,CRRT - Continuous renal replacement therapy
+7723851000006119,Continuous renal replacement therapy
+7724831000006112,Recurrent hematuria co-occurrent and due to dense deposit disease
+304001012,Recurrent haematuria co-occurrent and due to dense deposit disease
+7724821000006114,Recurrent haematuria co-occurrent and due to dense deposit disease
+7724851000006117,Persistent hematuria co-occurrent and due to dense deposit disease
+7724841000006119,Persistent haematuria co-occurrent and due to dense deposit disease
+189131000006116,Recurrent haematuria co-occurrent and due to diffuse crescentic glomerulonephritis
+7724871000006110,Recurrent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis
+7724891000006111,Persistent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis
+7724881000006113,Persistent haematuria co-occurrent and due to diffuse crescentic glomerulonephritis
+7724911000006113,Recurrent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis
+189161000006113,Recurrent haematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis
+7724931000006119,Persistent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis
+7724921000006117,Persistent haematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis
+408261000000119,Chronic kidney disease monitoring first letter
+1000001000006114,Excepted from chronic kidney disease quality indicators - informed dissent
+999991000006118,Excepted from chronic kidney disease quality indicators - patient unsuitable
+8022401000006115,Hypertension in chronic kidney disease due to type 1 diabetes mellitus
+8022411000006117,Hypertension in chronic kidney disease due to type I diabetes mellitus
+7757751000006115,Sporadic idiopathic nephrosis
+7757741000006117,Sporadic idiopathic steroid-resistant nephrotic syndrome
+8022431000006111,Nephrotic syndrome due to type 1 diabetes mellitus
+408321000000115,Chronic kidney disease monitoring verbal invite
+8218841000006117,Chronic kidney disease monitoring verbal invitation
+999981000006116,Exception reporting - chronic kidney disease quality indicators
+408301000000112,Chronic kidney disease monitoring third letter
+8219121000006112,Chronic kidney disease monitoring telephone invitation
+408341000000110,Chronic kidney disease monitoring telephone invite
+408281000000111,Chronic kidney disease monitoring second letter
+7761921000006113,Multi-drug resistant nephrotic syndrome
+7762041000006114,Alport syndrome autosomal dominant
+7762051000006111,Alport syndrome autosomal recessive
+7762061000006113,Alport syndrome X-linked
+7766201000006119,Hemodialysis care management
+7766191000006117,Haemodialysis care management
+7768141000006110,Familial idiopathic steroid-resistant nephrotic syndrome
+7768941000006112,Non-amyloid fibrillary glomerulonephritis
+7768951000006114,Non-amyloid fibrillary glomerulopathy
+7768961000006111,Congo red negative amyloidosis like glomerulopathy
+7810341000006114,AMME complex
+7810331000006116,"Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome"
+7810351000006111,AMME syndrome
+7966651000006110,Diabetic stage 4 chronic renal impairment due to type 2 diabetes mellitus
+7966661000006112,Chronic kidney disease stage 4 due to type II diabetes mellitus
+7966641000006113,Chronic kidney disease stage 4 due to type 2 diabetes mellitus
+7813401000006111,Low alkaline phosphatase in chronic kidney disease
+7813391000006114,Low alkaline phosphatase due to chronic kidney disease
+7815191000006113,Galloway syndrome
+7815211000006114,"Nephrosis, neuronal dysmigration syndrome"
+7815201000006111,"Microcephaly, hiatus hernia, nephrotic syndrome"
+7815181000006110,Galloway Mowat syndrome
+7827151000006118,Malignancy-associated membranous nephropathy
+7827161000006116,Membranous glomerulonephritis due to malignant neoplastic disease
+7827261000006111,Chronic kidney disease following donor nephrectomy
+7827581000006115,Congenital nephrotic syndrome (CNS) due to congenital infection
+7827571000006118,Congenital nephrotic syndrome due to congenital infection
+7827591000006117,Idiopathic membranous glomerulonephritis
+7827601000006113,Idiopathic membranous nephropathy
+7827621000006115,Membranous glomerulonephritis caused by drug
+7827611000006111,Drug-induced membranous nephropathy
+7827961000006119,Chronic kidney disease due to tumor nephrectomy
+7827971000006114,Chronic kidney disease due to tumour nephrectomy
+7827951000006116,Chronic kidney disease following excision of renal neoplasm
+7827981000006112,Chronic kidney disease due to systemic infection
+7828111000006115,Infection-associated membranous nephropathy
+7828121000006111,Membranous glomerulonephritis co-occurrent with infectious disease
+7829581000006112,Autosomal dominant intermediate Charcot-Marie-Tooth disease type E
+7829591000006110,Charcot-Marie-Tooth disease with nephropathy syndrome
+7830461000006114,Congenital nephrotic syndrome (CNS) due to diffuse mesangial sclerosis
+7830451000006112,Congenital nephrotic syndrome due to diffuse mesangial sclerosis
+7831551000006118,Dyschondrosteosis and nephritis syndrome
+7832091000006112,Chronic kidney disease due to traumatic loss of kidney
+7836031000006112,Complement component 3 glomerulopathy
+7836021000006114,C3 (complement component 3) glomerulopathy
+7836051000006117,Dense deposit disease
+7836061000006115,C3 (complement component 3) glomerulonephritis
+7836071000006110,Complement component 3 glomerulonephritis
+7841571000006110,Chronic renal insufficiency
+7844161000006114,Pierson syndrome
+7844171000006119,Microcoria and congenital nephrosis syndrome
+7850231000006117,Schimke syndrome
+7850211000006111,Schimke immuno-osseous dysplasia
+7850221000006115,Schimke immunoosseous dysplasia
+7871051000006110,Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunisation
+7871061000006112,Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization
+7876941000006116,Immunotactoid glomerulonephritis
+7877181000006110,X-linked diffuse leiomyomatosis with Alport syndrome
+7877191000006113,"X-linked diffuse leiomyomatosis, Alport syndrome"
+7966701000006116,Diabetic stage 3 chronic renal impairment due to type 2 diabetes mellitus
+7966691000006116,Chronic kidney disease stage 3 due to type 2 diabetes mellitus
+7966711000006118,Chronic kidney disease stage 3 due to type II diabetes mellitus
+3691341000006115,Peritoneal dialysis catheter maintenance
+3691781000006113,Lupus nephritis - WHO Class I
+3691801000006112,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class I"
+3691811000006110,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class I"
+3691771000006110,SLE with normal kidneys
+3691791000006111,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class I"
+3691761000006115,"SLE glomerulonephritis syndrome, WHO class I"
+3692111000006112,Amyloid-like glomerulopathy
+3692101000006114,Fibrillary glomerulonephritis
+7958111000006111,"Congenital nephrotic syndrome, epidermolysis bullosa, pulmonary disease syndrome"
+7958101000006113,"Congenital ILNEB (interstitial lung disease, nephrotic syndrome, epidermolysis bullosa) syndrome"
+7958091000006119,"Congenital nephrotic syndrome, interstitial lung disease, epidermolysis bullosa syndrome"
+7958391000006116,"Microcephalus, glomerulonephritis, marfanoid habitus syndrome"
+3517273018,Haemodialysis care plan
+3517274012,Hemodialysis care plan
+3527814014,Chronic kidney disease clinical management plan
+7966781000006113,Chronic kidney disease stage 2 due to type II diabetes mellitus
+7966761000006115,Chronic kidney disease stage 2 due to type 2 diabetes mellitus
+7966771000006110,Diabetic stage 2 chronic renal impairment due to type 2 diabetes mellitus
+7966801000006112,Diabetic stage 1 chronic renal impairment due to type 2 diabetes mellitus
+7966811000006110,Chronic kidney disease stage 1 due to type II diabetes mellitus
+7966791000006111,Chronic kidney disease stage 1 due to type 2 diabetes mellitus
+3744671000006116,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization (WHO) class III"
+3744691000006115,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class III"
+3744651000006114,SLE with focal AND segmental proliferative glomerulonephritis
+3744681000006118,"Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organisation (WHO) class III"
+3744661000006111,Lupus nephritis - WHO Class III
+3744641000006112,"SLE glomerulonephritis syndrome, WHO class III"
+12031641000006115,Allotransplantation of left kidney
+12031651000006118,Allotransplantation of right kidney
+7966891000006117,Diabetic chronic renal impairment due to type 2 diabetes mellitus
+7966871000006118,Chronic kidney disease due to type 2 diabetes mellitus
+7966901000006118,Chronic renal impairment due to type 2 diabetes mellitus
+7966881000006115,Chronic renal impairment due to type II diabetes mellitus
+555201000006116,Chronic membranous glomerulonephritis
+553201000006117,"Chronic nephritic syndrome, diffuse membranous glomerulonephritis"
+3755261000006110,MGN - Membranous glomerulonephritis
+303875010,Membranous glomerulonephritis
+2622801000006117,Nephritic syndrome
+8241691000006114,H/O: diabetic nephropathy
+3777651000006119,Chronic hypertensive uremia
+3777641000006116,Chronic hypertensive uraemia
+3806561000006111,MPGN - Membranoproliferative glomerulonephritis
+354380012,Mesangiocapillary glomerulonephritis
+3806551000006114,MCGN - Mesangiocapillary glomerulonephritis
+555191000006119,Membranoproliferative glomerulonephritis
+3806541000006112,Lobular glomerulonephritis
+2115881000000117,Chronic kidney disease self-management plan review
+2117811000000117,Chronic kidney disease self-management plan agreed
+2630841000006116,Focal embolic nephritis syndrome
+3864441000006115,Focal AND segmental proliferative glomerulonephritis
+3865371000006116,Familial interstitial nephritis
+8025531000006116,Glomerulonephritis due to Henoch-SchÃ¶nlein purpura
+2221251000000115,Discussion about kidney transplantation
+8027031000006117,Glomerulonephritis co-occurrent and due to scleroderma
+8027251000006115,History of nephrotic syndrome
+3973841000006119,CRF - Chronic renal failure
+3973811000006118,Chronic renal failure syndrome
+3973831000006112,Chronic uremia
+509111010,Chronic renal failure
+509108014,Chronic uraemia
+305192017,[X]Other chronic renal failure
+8027401000006118,Chronic kidney disease stage 1 due to type I diabetes mellitus
+8027391000006115,Chronic kidney disease stage 1 due to type 1 diabetes mellitus
+8027411000006115,Chronic kidney disease stage 2 due to type 1 diabetes mellitus
+8027421000006111,Chronic kidney disease stage 2 due to type I diabetes mellitus
+8027451000006119,Chronic kidney disease stage 3 due to type 1 diabetes mellitus
+8027461000006117,Chronic kidney disease stage 3 due to type I diabetes mellitus
+8027471000006112,Chronic kidney disease stage 4 due to type 1 diabetes mellitus
+8027481000006110,Chronic kidney disease stage 4 due to type I diabetes mellitus
+8027491000006113,Chronic kidney disease stage 5 due to type 1 diabetes mellitus
+8027501000006117,Chronic kidney disease stage 5 due to type I diabetes mellitus
+8027511000006119,End stage renal disease on dialysis due to type 1 diabetes mellitus
+8027521000006110,Microalbuminuria due to type 2 diabetes mellitus
+12107561000006114,Vasculitis with glomerulonephritis
+12107571000006119,Glomerulonephritis co-occurrent and due to vasculitis
+3978861000006111,Pseudo-Addison's disease
+3978871000006116,Thorn's syndrome
+150798017,Salt-losing nephritis
+3978841000006112,Salt-losing nephropathy
+3978851000006114,Salt-losing nephritis
+1940561000006118,CKD G1A1 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A1
+8345541000006113,Chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A1
+1940571000006113,CKD G1A2 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2
+8345571000006117,Chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2
+1940581000006111,CKD G1A3 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A3
+8345611000006110,Chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A3
+8345651000006111,Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1
+1940591000006114,CKD G2A1 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1
+1940601000006118,CKD G2A2 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2
+8345681000006115,Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2
+8345731000006113,Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3
+1940611000006115,CKD G2A3 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3
+8345881000006116,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1
+1940621000006111,CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1
+8345901000006119,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2
+1940631000006114,CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2
+8345931000006110,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
+1940641000006116,CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
+1940651000006119,CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1
+8346001000006110,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1
+1940661000006117,CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
+8346021000006117,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
+1940671000006112,CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
+8346041000006112,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
+1940501000006119,CKD G4A1 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1
+8346101000006114,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1
+1940511000006116,CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2
+8346121000006116,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2
+8346151000006113,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3
+1940521000006112,CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3
+8346171000006115,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1
+1940531000006110,CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1
+8346201000006116,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
+1940541000006117,CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
+8346221000006114,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
+1940551000006115,CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
+8030331000006117,Chronic kidney disease due to type 1 diabetes mellitus
+8030341000006110,Chronic kidney disease due to type I diabetes mellitus
+8030411000006118,Hypertensive heart AND chronic kidney disease stage 5
+8030421000006114,Hypertensive heart AND chronic kidney disease stage 4
+8030431000006112,Hypertensive heart AND chronic kidney disease stage 3
+8030441000006119,Hypertensive heart AND chronic kidney disease stage 2
+8030451000006117,Hypertensive heart AND chronic kidney disease stage 1
+90471000006113,Live donor renal transplant
+272320011,Allotransplantation of kidney from live donor
+478131000006115,Allotransplantation of kidney from cadaver
+90461000006118,Transplantation of kidney from cadaver
+272325018,Cadaveric renal transplant
+372621000000114,Allotransplantation of kidney from beating heart cadaver
+1549841000006116,Allotransplantation of kidney from non-beating heart cadaver
+399381000000115,Allotransplantation of kidney from cadaver NEC
+353974015,Xenograft renal transplant
+4223014,Bilateral nephrectomy
+422992018,Excision of rejected transplanted kidney
+394365013,Transplant nephrectomy
+272389014,Exploration of renal transplant
+303826014,Nephrotic syndrome with membranous glomerulonephritis
+303884010,Berger's IgA or IgG nephropathy
+303934016,Renal sclerosis unspecified
+303937011,Renal fibrosis
+303938018,Glomerulosclerosis
+303939014,Renal sclerosis NOS
+90611000006119,Transplanted organ complication
+324971018,Transplanted organ rejection
+324970017,Transplant rejection
+324977019,Transplanted organ complication NOS
+754061000006111,"Kidney transplant with complication, without blame"
+177251000006119,"Renal transplant with complication, without blame"
+176711000006111,"Renal dialysis with complication, without blame"
+754781000006116,"Kidney dialysis with complication, without blame"
+394661000006112,[X]Kidny dialysis caus abn reac pt/lat comp no misad at time
+460644012,History of renal transplant
+460910019,[V]Aftercare involving intermittent dialysis
+1227722017,[V]Aftercare involving renal dialysis NOS
+460911015,[V]Aftercare involving extracorporeal dialysis
+460912010,[V]Preparatory care for dialysis
+460913017,[V]Other specified aftercare involving intermittent dialysis
+1227723010,[V]Aftercare involving peritoneal dialysis
+460914011,[V]Unspecified aftercare involving intermittent dialysis
+461420012,Dialysis procedure
+595721000000116,Chronic kidney disease stage 2 without proteinuria
+618421000000112,CKD stage 2 without proteinuria
+1905531000006112,Excision of rejected transplanted kidney
+380101000000116,Examination of recipient after kidney transplant
+228131000006117,Placement ambulatory dialysis apparatus - compens renal fail
+228101000006113,Placement ambulatory apparatus compensation renal failure
+773041000006111,Insertion of chronic ambulatory peritoneal dialysis catheter
+181021000006119,Removal of ambulatory peritoneal dialysis catheter
+1705621000000113,Flushing of peritoneal dialysis catheter
+228121000006115,Placement ambulatory apparatus- compensate renal failure OS
+228111000006111,Placement ambulatory apparatus- compensate renal failure NOS
+228211000006117,Placement other apparatus for compensation for renal failure
+278844014,Insertion of temporary peritoneal dialysis catheter
+228231000006111,Placement other apparatus- compensate for renal failure OS
+228221000006113,Placement other apparatus- compensate for renal failure NOS
+2674486017,Extracorporeal albumin haemodialysis
+2214081000000112,Anti GBM disease - Antiglomerular basement membrane disease
+354518011,Antiglomerular basement membrane disease
+354520014,Goodpasture's disease
+678061000006111,Nephropathy - chronic
+354544011,Chronic radiation nephritis
+403103015,Transplanted organ failure
+1781512018,Acute graft-versus-host disease
+1781513011,Chronic graft-versus-host disease
+2234621000000111,Thrombosis of vein of transplanted kidney
+354631011,De novo transplant disease
+354612017,Accelerated rejection of renal transplant
+354616019,Acute rejection of renal transplant - grade I
+354617011,Acute rejection of renal transplant - grade II
+354618018,Acute rejection of renal transplant - grade III
+354615015,Acute rejection of renal transplant
+413415016,Unexplained episode of renal transplant dysfunction
+2198141000000110,Stenosis of vein of transplanted kidney
+2209101000000119,Aneurysm of artery of transplanted kidney
+2209021000000112,Aneurysm of vein of transplanted kidney
+2189151000000117,Urological complication of renal transplant
+354613010,Very mild acute rejection of renal transplant
+354614016,Borderline changes of acute rejection
+2191221000000118,Vascular complication of renal transplant
+2197961000000113,Rupture of artery of transplanted kidney
+2198001000000111,Rupture of vein of transplanted kidney
+2234541000000115,Thrombosis of artery of transplanted kidney

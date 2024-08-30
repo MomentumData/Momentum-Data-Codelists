@@ -1,0 +1,12 @@
+ICD10Codes,Description
+F31,Bipolar affective disorder
+F31.0,"Bipolar affective disorder, current episode hypomanic"
+F31.1,"Bipolar affective disorder, current episode manic without psychotic symptoms"
+F31.2,"Bipolar affective disorder, current episode manic with psychotic symptoms"
+F31.3,"Bipolar affective disorder, current episode mild or moderate depression"
+F31.4,"Bipolar affective disorder, current episode severe depression without psychotic symptoms"
+F31.5,"Bipolar affective disorder, current episode severe depression with psychotic symptoms"
+F31.6,"Bipolar affective disorder, current episode mixed"
+F31.7,"Bipolar affective disorder, currently in remission"
+F31.8,Other bipolar affective disorders
+F31.9,"Bipolar affective disorder, unspecified"

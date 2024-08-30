@@ -1,0 +1,9 @@
+ICD10Codes,Description
+E24,Cushing syndrome
+E24.0,Pituitary-dependent Cushing disease
+E24.1,Nelson syndrome
+E24.2,Drug-induced Cushing syndrome
+E24.3,Ectopic ACTH syndrome
+E24.4,Alcohol-induced pseudo-Cushing syndrome
+E24.8,Other Cushing syndrome
+E24.9,"Cushing syndrome, unspecified"

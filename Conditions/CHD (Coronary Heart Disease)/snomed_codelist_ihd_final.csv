@@ -1,0 +1,89 @@
+SNOMEDCTCodes,Description
+699245006,Admit ischemic heart disease emergency (procedure)
+414545008,Ischemic heart disease (disorder)
+443502000,Coronary atherosclerosis
+46109009,Subendocardial ischemia
+413838009,Chronic ischemic heart disease (disorder)
+233817007,Triple vessel disease of the heart
+53741008,Coronary arteriosclerosis
+233823002,Silent myocardial ischemia
+413844008,Chronic myocardial ischemia (disorder)
+315348000,Asymptomatic coronary heart disease
+42531007,Microinfarct of heart
+281091000,Ischemic myocardial dysfunction
+194823009,Acute coronary insufficiency
+414795007,Myocardial ischemia (disorder)
+315026000,Transient myocardial ischaemia
+194842008,Single coronary vessel disease
+194843003,Double coronary vessel disease
+67682002,Coronary artery atheroma
+194821006,Coronary thrombosis not resulting in myocardial infarction
+414024009,Disorder of coronary artery (disorder)
+810681000000101,NA
+2610009,"Ischaemic heart disease, NOS"
+32598000,Acute coronary insufficiency
+41702007,Coronary atherosclerosis
+84537008,Chronic coronary insufficiency
+138788000,H/O: Treatment for ischaemic heart disease
+142021007,ECG: myocardial ischaemia
+142023005,ECG:shows myocardial ischaemia
+142024004,ECG: myocardial ischaemia NOS
+155303000,Ischaemic heart disease
+155304006,Myocardial infarction (& [acute]) or coronary thrombosis
+155305007,Acute/subacute ischaemic heart disease NOS
+155315001,Chronic ischaemic heart disease NOS
+155316000,Coronary atherosclerosis
+155318004,Chronic ischaemic heart disease NOS
+155320001,Transient myocardial ischaemia
+155322009,Ischaemic heart disease NOS
+161519003,H/O: Treatment for ischaemic heart disease
+164864009,ECG: myocardial ischaemia NOS
+194795001,IHD - Ischaemic heart disease
+194796000,Coronary thrombosis
+194812005,Other acute and subacute ischaemic heart disease
+194815007,Coronary thrombosis not leading to myocardial infarction
+194822004,Other acute and subacute ischaemic heart disease
+194824003,Microinfarction of heart
+194825002,Transient myocardial ischaemia
+194826001,Other acute and subacute ischaemic heart disease NOS
+194828000,Ischaemic heart disease - angina
+194840000,Other chronic ischaemic heart disease
+194841001,Triple vessel disease of the heart
+194849004,Generalised ischaemic myocardial dysfunction
+194850004,Silent myocardial ischaemia
+194851000,Other specified chronic ischaemic heart disease
+194852007,Chronic myocardial ischaemia
+194853002,Other specified chronic ischaemic heart disease NOS
+194854008,Other chronic ischaemic heart disease NOS
+194855009,Asymptomatic coronary heart disease
+194877008,Other specified ischaemic heart disease
+194878003,Ischaemic heart disease NOS
+195540001,Ischaemic heart disease
+195543004,[X]Other forms of acute ischaemic heart disease
+195544005,[X]Other forms of chronic ischaemic heart disease
+206599005,Transient myocardial ischaemia of newborn
+233822007,Myocardial ischaemia
+266231003,Coronary atherosclerosis
+266288001,Coronary thrombosis
+266289009,Acute/subacute ischaemic heart disease NOS
+266290000,Chronic ischaemic heart disease NOS
+266291001,Chronic ischaemic heart disease NOS
+271430002,Ischaemic heart disease
+308068007,H/O: Treatment for ischaemic heart disease
+66514008,CT - Coronary thrombosis
+164861001,ECG myocardial ischaemia
+164863003,ECG shows myocardial ischaemia
+371824008,Myocardial ischaemia manifest on stress test status post myocardial infarction
+398274000,CT - Coronary thrombosis
+413439005,Acute ischaemic heart disease
+413444003,Acute myocardial ischaemia
+429477006,Increased myocardial ischaemia compared to prior study
+428824000,Resolution of myocardial ischaemia
+428196007,Mixed myocardial ischaemia and infarction
+429232006,Decreased myocardial ischaemia compared to prior study
+428927006,New myocardial ischaemia compared to prior study
+275931000,Aspirin prophylaxis for ischaemic heart disease
+713405002,Subacute ischaemic heart disease
+712866001,Resting ischaemia co-occurrent and due to ischaemic heart disease
+719678003,Non-obstructive coronary atherosclerosis
+233845001,Coronary microvascular disease

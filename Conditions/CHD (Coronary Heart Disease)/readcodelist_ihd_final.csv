@@ -1,0 +1,53 @@
+V2Codes,Description
+8H2V.,Admit ischaemic heart disease emergency
+G3...,Ischaemic heart disease
+G31..,Other acute and subacute ischaemic heart disease
+G31y.,Other acute and subacute ischaemic heart disease
+G31y2,Subendocardial ischaemia
+G31yz,Other acute and subacute ischaemic heart disease NOS
+G34..,Other chronic ischaemic heart disease
+G340.,Coronary atherosclerosis
+G344.,Silent myocardial ischaemia
+G34y.,Other specified chronic ischaemic heart disease
+G34y1,Chronic myocardial ischaemia
+G34yz,Other specified chronic ischaemic heart disease NOS
+G34z.,Other chronic ischaemic heart disease NOS
+G34z0,Asymptomatic coronary heart disease
+G3y..,Other specified ischaemic heart disease
+G3z..,Ischaemic heart disease NOS
+Gyu3.,[X]Ischaemic heart diseases
+Gyu32,[X]Other forms of acute ischaemic heart disease
+Gyu33,[X]Other forms of chronic ischaemic heart disease
+G30y1,Acute papillary muscle infarction
+G31y1,Microinfarction of heart
+X200D,Silent myocardial ischaemia
+Xa1dP,Ischaemic myocardial dysfunction
+G31y0,Acute coronary insufficiency
+Y201T,Ischaemic heart disease
+Y202C,Myocardial ischaemia
+Yah39,Transient myocardial ischaemia
+Y202D,Chronic myocardial ischaemia
+Y202F,Subendocardial ischaemia
+YaYAN,Single coronary vessel disease
+YaYAO,Double coronary vessel disease
+Y201g,Triple vessel disease of the heart
+YSLav,Coronary artery atheroma
+Y201b,Other acute and subacute ischaemic heart disease
+Y201d,Microinfarction of heart
+Y201e,Other acute and subacute ischaemic heart disease NOS
+YMAkD,Coronary thrombosis not resulting in myocardial infarction
+Y201k,Other specified ischaemic heart disease
+Y201l,Ischaemic heart disease NOS
+YahGt,Asymptomatic coronary heart disease
+XE2uV,Ischaemic heart disease
+X200C,Myocardial ischaemia
+XaFsH,Transient myocardial ischaemia
+G3400,Single coronary vessel disease
+G3401,Double coronary vessel disease
+X2006,Triple vessel disease of the heart
+XSDT6,Coronary artery atheroma
+G312.,Coronary thrombosis not resulting in myocardial infarction
+XaG1Q,Asymptomatic coronary heart disease
+G31y3,Transient myocardial ischaemia
+G34y0,Chronic coronary insufficiency
+G39..,Coronary microvascular disease
