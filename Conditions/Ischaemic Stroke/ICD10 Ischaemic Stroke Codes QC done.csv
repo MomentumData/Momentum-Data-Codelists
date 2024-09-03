@@ -1,0 +1,28 @@
+ICD10Codes,Description
+I63,Cerebral infarction
+I63.0,Cerebral infarction due to thrombosis of precerebral arteries
+I63.1,Cerebral infarction due to embolism of precerebral arteries
+I63.2,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+I63.3,Cerebral infarction due to thrombosis of cerebral arteries
+I63.4,Cerebral infarction due to embolism of cerebral arteries
+I63.5,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+I63.6,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
+I63.8,Other cerebral infarction
+I63.9,"Cerebral infarction, unspecified"
+I64,"Stroke, not specified as haemorrhage or infarction"
+G46,Vascular syndromes of brain in cerebrovascular diseases
+G46.0,Middle cerebral artery syndrome
+G46.1,Anterior cerebral artery syndrome
+G46.2,Posterior cerebral artery syndrome
+G46.3,Brain stem stroke syndrome
+G46.4,Cerebellar stroke syndrome
+G46.5,Pure motor lacunar syndrome
+G46.6,Pure sensory lacunar syndrome
+G46.7,Other lacunar syndromes
+G46.8,Other vascular syndromes of brain in cerebrovascular diseases
+I69,Sequelae of cerebrovascular disease
+I69.3,Sequelae of cerebral infarction
+I69.4,"Sequelae of stroke, not specified as haemorrhage or infarction"
+I69.8,Sequelae of other and unspecified cerebrovascular diseases
+O22.5,Cerebral venous thombosis in pregnancy
+O87.3,Cerebral venous thombosis in puerperium
