@@ -1,0 +1,84 @@
+V2Codes,Description
+14A2.,H/O: hypertension
+6627,Good hypertension control
+6628,Poor hypertension control
+662b.,Moderate hypertension control
+662c.,Hypertension six month review
+662d.,Hypertension annual review
+662F.,Hypertension treatm. started
+662G.,Hypertensive treatm.changed
+662O.,On treatment for hypertension
+662P.,Hypertension monitoring
+662P0,Hypertension 9 month review
+662P1,Telehealth hypertension monitoring
+67H8.,Lifestyle advice regarding hypertension
+8B26.,Antihypertensive therapy
+8HT5.,Referral to hypertension clinic
+9N03.,Seen in hypertension clinic
+9OI1.,Attends hypertension monitor.
+F4213,Hypertensive retinopathy
+G2...,Hypertensive disease
+G20..,Essential hypertension
+G200.,Malignant essential hypertension
+G201.,Benign essential hypertension
+G202.,Systolic hypertension
+G203.,Diastolic hypertension
+G20z.,Essential hypertension NOS
+G21..,Hypertensive heart disease
+G210.,Malignant hypertensive heart disease
+G2100,Malignant hypertensive heart disease without congestive cardiac failure
+G2101,Malignant hypertensive heart disease with congestive cardiac failure
+G210z,Malignant hypertensive heart disease NOS
+G211.,Benign hypertensive heart disease
+G2110,Benign hypertensive heart disease without congestive cardiac failure
+G2111,Benign hypertensive heart disease with congestive cardiac failure
+G211z,Benign hypertensive heart disease NOS
+G21z.,Hypertensive heart disease NOS
+G21z0,Hypertensive heart disease NOS without congestive cardic failure
+G21z1,Hypertensive heart disease NOS with congestive cardiac failure
+G21zz,Hypertensive heart disease NOS
+G22..,Hypertensive renal disease
+G220.,Malignant hypertensive renal disease
+G221.,Benign hypertensive renal disease
+G222.,Hypertensive renal disease with renal failure
+G22z.,Hypertensive renal disease NOS
+G23..,Hypertensive heart and renal disease
+G230.,Malignant hypertensive heart and renal disease
+G231.,Benign hypertensive heart and renal disease
+G232.,Hypertensive heart and renal disease with (congestive) heart failure
+G233.,Hypertensive heart and renal disease with renal failure
+G234.,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+G23z.,Hypertensive heart and renal disease NOS
+G24..,Secondary hypertension
+G240.,Secondary malignant hypertension
+G2400,Secondary malignant renovascular hypertension
+G240z,Secondary malignant hypertension NOS
+G241.,Secondary benign hypertension
+G2410,Secondary benign renovascular hypertension
+G241z,Secondary benign hypertension NOS
+G244.,Hypertension secondary to endocrine disorders
+G24z.,Secondary hypertension NOS
+G24z0,Secondary renovascular hypertension NOS
+G24zz,Secondary hypertension NOS
+G25..,Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+G26..,Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+G27..,Hypertension resistant to drug therapy
+G28..,Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+G2y..,Other specified hypertensive disease
+G2z..,Hypertensive disease NOS
+G672.,Hypertensive encephalopathy
+Gyu2.,[X]Hypertensive diseases
+Gyu20,[X]Other secondary hypertension
+Gyu21,[X]Hypertension secondary to other renal disorders
+L1200,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium unspecified"
+L122.,Other pre-existing hypertension in preg/childbirth/puerp
+L1220,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium unspecified"
+L1221,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered"
+L1222,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication"
+L1223,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - not delivered"
+L1224,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication"
+L122z,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium NOS"
+L128.,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium"
+L1280,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium"
+L1281,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium"
+L1282,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium"

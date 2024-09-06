@@ -1,0 +1,150 @@
+MedCodeID,Description
+146651000006118,Sezary's disease
+4309681000006112,SÃ©zary disease
+289749011,Sezary's disease NOS
+4309661000006119,SÃ©zary's disease
+2168831000000110,Sezary disease
+289740010,Sezary's disease of unspecified site
+4309651000006116,SÃ©zary's disease (clinical)
+4310071000006113,Mycosis fungoides (clinical)
+289727017,Mycosis fungoides of unspecified site
+2663191017,Mycosis fungoides
+4310081000006111,MF - Mycosis fungoides
+289739013,Mycosis fungoides NOS
+8038291000006110,History of malignant cutaneous T-cell lymphoma
+4415741000006116,Primary cutaneous CD30+ large T-cell lymphoma
+4415751000006119,Primary cutaneous CD30 antigen positive T-cell lymphoproliferative disorder
+4415731000006114,Primary cutaneous CD30+ T-cell lymphoproliferative disorder
+1815421000006116,Primary cutaneous CD30+ large T-cell lymphoma
+4419021000006111,Primary cutaneous CD30 antigen positive large T-cell lymphoma
+289738017,Mycosis fungoides of lymph nodes of multiple sites
+289742019,Sezary's disease of intrathoracic lymph nodes
+4752601000006115,SÃ©zary disease of intrathoracic lymph nodes
+4752581000006113,SÃ©zary's disease of intrathoracic lymph nodes
+4752611000006117,SÃ©zary's disease of intra-abdominal lymph nodes
+4752631000006111,SÃ©zary disease of intra-abdominal lymph nodes
+289743012,Sezary's disease of intra-abdominal lymph nodes
+4752641000006118,"Lymphoma intra abdominal, Sezarys"
+4752671000006114,SÃ©zary's disease of lymph nodes of axilla and upper limb
+289744018,Sezary's disease of lymph nodes of axilla and upper limb
+4752681000006112,SÃ©zary disease of lymph nodes of axilla and upper limb
+4752651000006116,SÃ©zary's disease of lymph nodes of axilla AND/OR upper limb
+4752711000006113,SÃ©zary disease of lymph nodes of inguinal region and lower limb
+146721000006119,Sezary's disease of lymph nodes of inguinal region and lower limb
+4752691000006110,SÃ©zary's disease of lymph nodes of inguinal region and lower limb
+4752741000006112,SÃ©zary disease of intrapelvic lymph nodes
+289746016,Sezary's disease of intrapelvic lymph nodes
+4752721000006117,SÃ©zary's disease of intrapelvic lymph nodes
+4752771000006116,SÃ©zary disease of lymph nodes of multiple sites
+289748015,Sezary's disease of lymph nodes of multiple sites
+4752751000006114,SÃ©zary's disease of lymph nodes of multiple sites
+5356021000006114,Sezary's disease of skin
+5356011000006118,SÃ©zary disease of skin
+5590011000006111,Amelanotic malignant melanoma of skin
+5590021000006115,Amelanotic melanoma
+1815301000006117,Cutaneous/peripheral T-cell lymphoma
+1815431000006118,Other mature T/NK-cell lymphoma
+39671000006114,Cutaneous/peripheral T-cell lymphoma
+404441000006117,[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas
+2950341000006113,"Cutaneous T-cell lymphoma, no ICD-O subtype"
+2950351000006110,"Cutaneous T-cell lymphoma, no International Classification of Diseases for Oncology subtype"
+1225763012,[M] Cutaneous lymphoma
+2950321000006118,Cutaneous lymphoma
+2950311000006114,Cutaneous T-cell lymphoma
+6585691000006116,"Cutaneous T-cell lymphoma, large cell, CD30-positive"
+6585681000006119,"Anaplastic large cell lymphoma, T/Null cell, primary cutaneous type"
+6585671000006117,Primary cutaneous anaplastic large cell lymphoma
+6585701000006116,"Primary cutaneous anaplastic large T-cell lymphoma, CD30-positive"
+6667151000006119,Metastatic malignant melanoma with diffuse hypermelanosis
+6667991000006111,Hypomelanosis surrounding melanocytic neoplasm
+6671201000006113,Primary cutaneous large T-cell lymphoma
+6678731000006119,Hypomelanosis surrounding malignant melanoma
+6692651000006114,Lymphomatoid papulosis type B - mycosis fungoides-like
+6692671000006116,Lymphomatoid pityriasis lichenoides
+6692661000006111,"Pityriasis lichenoides, lymphomatoid"
+6692711000006117,Patch/plaque stage mycosis fungoides
+6692721000006113,Parapsoriasis en plaques (mycosis fungoides)
+6692731000006111,Patch/plaque stage cutaneous T-cell lymphoma
+6692741000006118,Poikilodermatous mycosis fungoides
+6692751000006116,Poikilodermatous cutaneous T-cell lymphoma
+6692761000006119,Follicular mucinosis type mycosis fungoides
+6692771000006114,Folliculotropic mycosis fungoides
+6692781000006112,Alopecia mucinosa (T cell lymphoma)
+6692791000006110,Hypomelanotic mycosis fungoides
+6692801000006111,Hypomelanotic cutaneous T-cell lymphoma
+6692811000006114,Lymphomatoid papulosis-associated mycosis fungoides
+6692821000006118,Lymphomatoid papulosis-associated cutaneous T-cell lymphoma
+6692841000006113,Granulomatous cutaneous T-cell lymphoma
+6692831000006115,Granulomatous mycosis fungoides
+6692861000006112,Tumor stage mycosis fungoides
+6692881000006119,Tumor stage cutaneous T-cell lymphoma
+6692871000006117,Tumour stage cutaneous T-cell lymphoma
+6692851000006110,Tumour stage mycosis fungoides
+6692891000006116,Erythrodermic mycosis fungoides
+6692901000006117,Erythrodermic cutaneous T-cell lymphoma
+6692911000006119,Bullous mycosis fungoides
+6692921000006110,Bullous cutaneous T-cell lymphoma
+6692941000006115,Cutaneous T-cell lymphoma with systemic infiltration
+6692931000006113,Mycosis fungoides with systemic infiltration
+6692961000006116,Spongiotic cutaneous T-cell lymphoma
+6692951000006118,Spongiotic mycosis fungoides
+6692981000006114,Syringotropic cutaneous T-cell lymphoma
+6692971000006111,Syringotropic mycosis fungoides
+6693141000006114,CD-30 positive pleomorphic large T-cell cutaneous lymphoma
+6693161000006113,CD-30 negative cutaneous T-cell lymphoma
+6693171000006118,CD-30 negative anaplastic large T-cell cutaneous lymphoma
+6693181000006115,CD-30 negative pleomorphic large T-cell cutaneous lymphoma
+1815391000006112,Subcutaneous panniculitic T-cell lymphoma
+2872133010,Subcutaneous panniculitis-like T-cell lymphoma
+6693221000006112,Subcutaneous panniculitic cutaneous T-cell lymphoma
+6924291000006116,Follicular mycosis fungoides
+6930561000006119,Primary cutaneous large T-cell lymphoma - category
+6934901000006118,Primary cutaneous T-cell lymphoma - category
+6936641000006119,Primary cutaneous lymphoma
+6939661000006113,"Primary cutaneous T-cell lymphoma, large cell, CD30-negative"
+7384941000006115,Primary cutaneous gamma-delta T-cell lymphoma
+2578361000006119,Sezary syndrome
+2578411000006110,SÃ©zary disease
+2578401000006112,SÃ©zary's disease
+1230735015,[M]Sezary's disease
+2578391000006110,SÃ©zary's syndrome
+2578371000006114,Sezary's disease
+8211071000006113,History of mycosis fungoides
+305231000006118,Amelanotic melanoma
+7959721000006110,Primary cutaneous gamma-delta-positive T-cell lymphoma
+7961761000006110,Primary cutaneous CD8 positive aggressive epidermotropic cytotoxic T-cell lymphoma
+12026951000006119,Berti lymphoma
+12026941000006116,Primary cutaneous epidermotropic cytotoxic CD8 positive T-cell lymphoma
+12026931000006114,Primary cutaneous CD8 positive aggressive epidermotropic cytotoxic T-cell lymphoma
+12029881000006111,Mycosis fungoides Alibert Bazin type
+12029871000006113,Classic mycosis fungoides
+12617991000006113,ALK (anaplastic lymphoma kinase) negative ALCL (anaplastic large cell lymphoma) including primary cutaneous subtypes tumour and germline WGS (whole genome sequencing)
+3964971000006114,Pagetoid reticulosis
+291955012,[M]Mycosis fungoides NOS
+313301000006119,Mycosis fungoides
+313311000006116,[M]Mycosis fungoides
+157071014,Mycosis fungoides of intra-abdominal lymph nodes
+157072019,Mycosis fungoides of intrapelvic lymph nodes
+157073012,Mycosis fungoides of intrathoracic lymph nodes
+4042811000006116,Mycosis fungoides of lymph nodes of axilla AND/OR upper limb
+157075017,Mycosis fungoides of lymph nodes of axilla and upper limb
+683721000006115,"Mycosis fungoides of the lymph nodes of head, face and neck"
+4042831000006110,"Mycosis fungoides of lymph nodes of head, face AND/OR neck"
+4042841000006117,Mycosis fungoides of lymph nodes of inguinal region AND/OR lower limb
+683691000006113,Mycosis fungoides of lymph nodes of inguinal region and lower limb
+157081013,Mycosis fungoides of spleen
+4042871000006113,Mycosis fungoides of extranodal AND/OR solid organ site
+4053681000006115,"SÃ©zary disease of lymph nodes of head, face AND/OR neck"
+4053671000006118,"Sezary's disease of lymph nodes of head, face AND/OR neck"
+4053661000006113,"SÃ©zary's disease of lymph nodes of head, face AND/OR neck"
+4053711000006119,SÃ©zary disease of lymph nodes of inguinal region AND/OR lower limb
+4053691000006117,SÃ©zary's disease of lymph nodes of inguinal region AND/OR lower limb
+4053701000006117,Sezary's disease of lymph nodes of inguinal region AND/OR lower limb
+146741000006114,Sezary's disease of spleen
+4053721000006110,SÃ©zary's disease of spleen
+4053741000006115,SÃ©zary disease of spleen
+4053751000006118,Sezary syndrome of spleen
+4053761000006116,SÃ©zary's disease of extranodal AND/OR solid organ site
+4053781000006114,SÃ©zary disease of extranodal AND/OR solid organ site
+4053771000006111,Sezary's disease of extranodal AND/OR solid organ site
+289741014,"Sezary's disease of lymph nodes of head, face and neck"

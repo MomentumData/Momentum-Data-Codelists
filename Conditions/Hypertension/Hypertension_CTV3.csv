@@ -1,0 +1,78 @@
+CTV3Codes,Description
+14A2.,H/O: hypertension
+6627,Good hypertension control
+6628,Poor hypertension control
+662b.,Moderate hypertension control
+61462,Hypertension induced by oral contraceptive pill
+662c.,Hypertension six month review
+662d.,Hypertension annual review
+662F.,Hypertension treatm. started
+662G.,Hypertensive treatm.changed
+662O.,On treatment for hypertension
+662P.,Hypertension monitoring
+662P0,Hypertension 9 month review
+662P1,Telehealth hypertension monitoring
+67H8.,Lifestyle advice regarding hypertension
+8B26.,Antihypertensive therapy
+8HT5.,Referral to hypertension clinic
+9N03.,Seen in hypertension clinic
+9OI1.,Attends hypertension monitoring
+F4213,Hypertensive retinopathy
+G2...,Hypertensive disease
+G200.,Malignant essential hypertension
+G201.,Benign essential hypertension
+G202.,Systolic hypertension
+G24..,Secondary hypertension
+G240.,Malignant secondary hypertension
+G2400,Secondary malignant renovascular hypertension
+G240z,Secondary malignant hypertension NOS
+G241.,Secondary benign hypertension
+G2410,Secondary benign renovascular hypertension
+G241z,Secondary benign hypertension NOS
+G244.,Hypertension secondary to endocrine disorders
+G24z.,Secondary hypertension NOS
+G24z0,Secondary renovascular hypertension NOS
+G24z1,Hypertension secondary to drug
+G2y..,Other specified hypertensive disease
+G2z..,Hypertensive disease NOS
+Gyu2.,[X]Hypertensive diseases
+Gyu20,[X]Other secondary hypertension
+Gyu21,[X]Hypertension secondary to other renal disorders
+L120.,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium"
+L1200,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium unspecified"
+L1201,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered"
+L1202,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication"
+L1203,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered"
+L1204,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication"
+L120z,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium NOS"
+L122.,Other pre-existing hypertension in preg/childbirth/puerp
+L1220,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium unspecified"
+L1221,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered"
+L1222,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication"
+L1223,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - not delivered"
+L1224,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication"
+L122z,"Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium NOS"
+L128.,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium"
+Xa0Cs,Labile hypertension
+Xa0kX,Renovascular hypertension
+Xa0lt,Pre-existing hypertension complicating pregnancy
+Xa3fQ,Malignant hypertension
+Xa8HD,On treatment for hypertension
+Xab9L,Stage 1 hypertension (NICE 2011) without evidence of end organ damage
+Xab9M,Stage 1 hypertension (NICE 2011) with evidence of end organ damage
+Xac8u,Telehealth hypertension monitoring
+XaIy8,Moderate hypertension control
+XaIyE,Hypertension annual review
+XaQaV,Lifestyle advice regarding hypertension
+XaXOi,Hypertension 9 month review
+XaZbT,Hypertension resistant to drug therapy
+XaZbz,Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+XaZWm,Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+XaZWn,Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011)
+XaZzo,Nocturnal hypertension
+XE0Ub,Hypertension
+XE0Uc,Essential hypertension
+XE0Ud,Essential hypertension NOS
+XM1C1,Elevated blood-pressure reading without diagnosis of hypertension
+XM1YA,Hypertension monitoring
+XSDSb,Diastolic hypertension

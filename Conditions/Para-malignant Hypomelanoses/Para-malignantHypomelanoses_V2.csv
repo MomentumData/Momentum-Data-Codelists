@@ -1,0 +1,31 @@
+V2Codes,Description
+B621.,Mycosis fungoides
+B6210,Mycosis fungoides of unspecified site
+B6211,"Mycosis fungoides of lymph nodes of head, face and neck"
+B6212,Mycosis fungoides of intrathoracic lymph nodes
+B6213,Mycosis fungoides of intra-abdominal lymph nodes
+B6214,Mycosis fungoides of lymph nodes of axilla and upper limb
+B6215,Mycosis fungoides of lymph nodes of inguinal region and leg
+B6216,Mycosis fungoides of intrapelvic lymph nodes
+B6217,Mycosis fungoides of spleen
+B6218,Mycosis fungoides of lymph nodes of multiple sites
+B621z,Mycosis fungoides NOS
+BBI..,[M]Mycosis fungoides
+BBI0.,[M]Mycosis fungoides
+BBI1.,[M]Sezary's disease
+BBIz.,[M]Mycosis fungoides NOS
+B62xX,0th and unspecif peripheral & cutaneous T-cell lymphomas
+B62E7,Subcutaneous panniculitis like T-cell lymphoma
+BBmD.,[M]Cutaneous lymphoma
+B622.,Sezary's disease
+B6220,Sezary's disease of unspecified site
+B6221,"Sezary's disease of lymph nodes of head, face and neck"
+B6222,Sezary's disease of intrathoracic lymph nodes
+B6223,Sezary's disease of intra-abdominal lymph nodes
+B6224,Sezary's disease of lymph nodes of axilla and upper limb
+B6225,Sezary's disease of lymph nodes of inguinal region and leg
+B6226,Sezary's disease of intrapelvic lymph nodes
+B6227,Sezary's disease of spleen
+B6228,Sezary's disease of lymph nodes of multiple sites
+B622z,Sezary's disease NOS
+BBEA.,Amelanotic melanoma

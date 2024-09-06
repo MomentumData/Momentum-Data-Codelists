@@ -1,0 +1,18 @@
+ICD10Codes,Description
+C50,Malignant neoplasm of breast
+C50.0,Nipple and areola
+C50.1,Central portion of breast
+C50.2,Upper-inner quadrant of breast
+C50.3,Lower-inner quadrant of breast
+C50.4,Upper-outer quadrant of breast
+C50.5,Lower-outer quadrant of breast
+C50.6,Axillary tail of breast
+C50.8,Overlapping lesion of breast
+C50.9,"Breast, unspecified"
+Z85.3,Personal history of malignant neoplasm of breast
+D05,Carcinoma in situ of breast
+D05.0,Lobular carcinoma in situ
+D05.1,Intraductal carcinoma in situ
+D05.7,Other carcinoma in situ of breast
+D05.9,"Carcinoma in situ of breast, unspecified"
+D48.6,Neoplasm of uncertain or unknown behaviour: Breast
