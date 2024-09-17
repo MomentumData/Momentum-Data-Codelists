@@ -1,0 +1,181 @@
+CTV3Codes,Description
+69F2.,"""Section"" examination - approved doctor"
+8G43.,Rehabilitatio for disabling psychiatric problem
+8H23.,Admit psychiatric emergency
+8H230,Emerg psychiatric admiss MHA
+8H34.,Psychiatric day care
+8H38.,Non-urgent psychiatric admisn.
+8H3Q.,Non urgent psychogeriatric admission
+8H49.,Psychiatric referral
+8H4D.,Referral to psychogeriatrician
+8H4P.,Referral to child psychiatrist
+8H7B.,Referral to CPN
+8HHR.,Referral to child and adolescent psychiatry service
+8HJ3.,Psychiatric self-referral
+8HlB.,Urgent referral to psychiatrist
+8HlD.,Referral to forensic psychiatrist
+8HM9.,Listed for Psychiatric admissn
+8HV0.,Private referral to psychiatrist
+8HVO.,Private referral to psychiatrist
+8HVS.,Private referral to psychogeriatrian
+9H4..,Section 2 form - compulsary admission for assessment
+9H5..,Section 3 form - compulsary admission for treatment
+9N1T.,Seen in psychiatry clinic
+9N2E2,Seen by core psychiatry trainee doctor
+9NI6.,Psychiatric outreach clinic
+9NJb.,In-house psychiatry first appointment
+9NJc.,In-house psychiatry discharge
+9NJd.,In-house psychiatry follow-up appointment
+9Nla.,Seen by psychiatrist
+9Nla0,Seen by child and adolescent psychiatrist
+9Nla1,Seen by consultant psychiatrist
+9NlG.,Seen by forensic psychiatrist
+9NN5.,Under care of psychiatrist
+9No0.,Seen in child and adolescent psychiatry clinic
+Xa9Ef,MHRT referral under MHA 1983
+Xa9IX,Assessment for adm to hosp for assessm Section 2 MHA 1983
+Xa9IY,Assessment for adm to hosp for treatment Section 3 MHA 1983
+Xa9IZ,Assessment for emerg adm to hosp under Section 4 MHA 1983
+Xa9Jb,Completion of form relating to MHA 1983
+Xa9Jd,Completion of MHA 1983 form 2
+Xa9Jf,Completion of MHA 1983 form 3
+Xa9Jh,Completion of MHA 1983 form 4
+Xa9Jj,Completion of MHA 1983 form 7
+Xa9Jn,Completion of MHA 1983 form 10
+Xa9Jp,Completion of MHA 1983 form 12
+Xa9Jq,Completion of MHA 1983 form 38
+Xa9Jr,Completion of MHA 1983 form 39
+Xa9Js,Completion of MHA 1983 form 117
+Xa9Jt,Completion of MHA 1983 form 62
+Xa9lb,Assessment for detention in hospital under Sect 5 MHA 1983
+Xa9lc,Assessment for detent in hosp using nurses holding power S5(4) MHA 1983
+Xa9ld,Assessment for detent in hosp Section 5(2) MHA 1983
+Xa9le,Assessment for admiss to hosp on remand for reprt S35 MHA 9183
+Xa9lf,Assessment for adm to hsp for remd for treatm S36 MHA 1988
+Xa9lg,Assessment for adm to hsp on hsp order S37 MHA 1983
+Xa9lh,Assessment for adm to hsp on interm hsp ordr Sect 38 MHA 1983
+Xa9li,Assessm for adm to hsp under comm by mag court Sect 44 MHA 1983
+Xa9lj,Assessment for adm to hsp subj armd forc disc proc S46 Mha 1983
+Xa9lk,Assessm for adm to hsp of pretrial prisoner Sect 48 MHA 1983
+Xa9ll,Assessm for adm to hsp for sentanced prisnr Sect 47 MHA 1983
+XaAaG,Referral by psychiatrist
+XaAaH,Referral by child and adolescent psychiatrist
+XaAaI,Referral by forensic psychiatrist
+XaAaJ,Referral by liaision psychiatrist
+XaAaK,Referral by psychogeriatrician
+XaAaL,Referral by psychiatrist for mental handicap
+XaAaM,Referral by rehabilitation psychiatrist
+XaAcy,Referral to child and adolescent psychiatry sercice
+XaAcz,Referral to forensic psychiatry service
+XaAd0,Referral to liasion psychiatry service
+XaAd1,Referral to mental handicap psychiatry service
+XaAd2,Referral to psychogeriatric service
+XaAd3,Referral to rehabilitation psychiatry service
+XaAeL,Referral to psychiatry day hospital
+XaAgA,Referral to child and adolescent psychiatrist
+XaAgB,Referral to forensic psychiatrist
+XaAgC,Referral to liaision psychiatrist
+XaAgE,Referral to learning disabilities psychiatrist
+XaAgF,Referral to rehabilitation psychiatrist
+XaaHU,Seen by core psychiatry trainee doctor
+XaAjL,Discharge by psychiatrist
+XaAjM,Discharge by child and adolescent psychiatrist
+XaAjN,Discharge by forensic psychiatrist
+XaAjO,Discharge by liaision psychiatrist
+XaAjP,Discharge by psychogeriatrician
+XaAjQ,Discharge by psychiatrist for mental handicap
+XaAjR,Discharge by rehabilitation psychiatrist
+XaAM0,Admission by psychiatrist
+XaAM1,Admission by child and adolescent psychiatrist
+XaAM2,Admission by forensic psychiatrist
+XaAM3,Admission by liaision psychiatrist
+XaAM4,Admission by psychogeriatrician
+XaAM5,Admission by psychiatrist for mental handicap
+XaAM6,Admission by rehabilitation psychiatrist
+XaAmz,Discharge from psychiatry service
+XaAn2,Discharge from child and adolescent psychiatry service
+XaAn5,Discharge forensic psychiatry service
+XaAn8,Discharge from liasion psychiatry service
+XaAnB,Discharge from mental health psychiatry service
+XaAnE,Discharge from psychogeriatric service
+XaAnH,Discharge from rehabiltation psychiatry service
+XaANs,Admission to psychiatry department
+XaANt,Admission to child and adolescent psychiatry department
+XaANu,Admission to forensic psychiatry department
+XaANv,Admission to psychogeriatric department
+XaANw,Admission to mental handicap psychiatry department
+XaANx,Admisssion to rehabilitation psychiatry department
+XaAPn,Under care of psychiatrist
+XaAPo,Under care of child and adolescent psychiatrist
+XaAPp,Under care of forensic psychiatrist
+XaAPq,Under care of liaision psychiatrist
+XaAPr,Under care of psychogeriatrician
+XaAPs,Under care of psychiatrist for mental handicap
+XaAPt,Under care of psychogeriatrician
+XaAQo,Under care of CPN
+XaATC,Seen by psychiatrist
+XaATD,Seen by child and adolescent psychiatrist
+XaATE,Seen by forensic psychiatrist
+XaATF,Seen by liaison psychiatrist
+XaATG,Seen by psychogeriatrician
+XaATH,Seen by psychiatrist for mental handicap
+XaATI,Seen by rehabilitation psychiatrist
+XaAUA,Seen by community psychiatric nurse
+XaAXL,Seen by psychiatry - service
+XaAXM,Seen by child and adolescent psychiatry - service
+XaAXN,Seen by forensic psychiatry - service
+XaAXO,Seen by mental handicap psychiatry - service
+XaAXP,Seen by psychogeriatric - service
+XaAXQ,Seen by psychogeriatric - service
+XaAXR,Seen by rehabilitation psychiatry - service
+XaAZ1,Seen in psychiatry day hospital
+XaB1g,Mental health act forms
+XaBtN,Psychiatric therapy
+XaBTX,Referral to psychiatrist
+XaccJ,CAMHS choice appt cancelled by clinician
+XaccK,CAMHS partnership appt cancelled by clinician
+XaccL,CAMHS return appt cancelled by clinician
+XacpV,Completion medcl rept adm to hsp snrncd prisn undr S47 MHA 1983
+XaCPW,Completion of medical report for admission hospital prtiral prisner und S48 MHA 1983
+XagSS,H/O hospital admission for psychiatric disorder
+XaIOj,Secure and high-dependency mental health care
+XaIOm,Early intervention in psychosis
+XaIOo,General psychiatric care older adults
+XaITI,Mental health crisis resolution - daily intensive
+XaIUx,Mental health crisis - 24 hour intensive
+XaIUy,General psychiatric care adults working age 24 hour intensive
+XaIUz,General psychiatric care adults working age 24 hour not intensive
+XaIV0,General psychiatric care adults working age full day
+XaIVC,General psychiatric care older adults - 24 hour not intensive
+XaIVD,General psychiatric care older adults - full day care
+XaIWd,Mental health addiction programme 24 hour non intensive
+XaIWe,Mental health addiction programme 24 hour intensive
+XaJp0,Did not attend psychiatry clinic
+XaJQU,Admission to psychiatry intensive care unit
+XaK5q,Admission to MH specialist services
+XaK71,Assmnt for amd to MH serv under MA Act 1983
+XaL19,Referral to psychosis early intervention service
+XaLoA,In-house psychiatry first appintment
+XaLoB.,In-house psychiatry
+XaLoC,In-house psychiatry discharge
+XaLoD,In-house psychiatry follow-up appointmnet
+XaLst,Rehabilitation for psychiatric disorders
+XaLsu,Other specified rehabilitation for psychiatric diroder
+XaLsv,Rehabilitation for psychiatric disorder NOS
+XaMo7,H/o detention under MHA 1983
+XaNIN,Emergency informal psychiatric admission
+XaNTc,Discharged from community mental health team
+XaPDH,Urgent referral to psychiatrist
+XaZsy,Seen by consultant psychiatrist
+XE2Mu,Section 4 form - compulsary admissn for assm in emergency
+XE2N0,Form 5/7 emergency admission assessment
+XE2N1,Section 7 form - medical recommendation
+XE2N2,Section 5 form - nearest relative recommendation
+XE2XN,Form 3 section 18 - non urgent hospital admission
+XE2XT,Form A section 24/25 emergency admission
+XSBbs,Psychiatric rehabilitation
+ZV69.,[V] Psychiatric patient admission details
+ZV690,[V] Psychiatric patient - not previouly admitted
+ZV691,[V] Psychiatric patient - prev admitted this health care provider
+ZV692,[V] Psych patient - prev admitted other health care provider
+ZV962,[V] Psychiatric patient - previous admit other district

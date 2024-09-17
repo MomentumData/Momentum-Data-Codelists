@@ -1,0 +1,102 @@
+V2Codes,Description
+3822.,Diagnostic psych interview
+6653.,Initial psych assessment
+6654.,Follow-up psych assessment
+384..,Psychoanalysis
+665G.,Injectable neuroleptic managed by CMHT
+69F2.,Section exam - approved doctor
+7P22.,Rehabilitation for psychiatric disorders
+7P220,Deliverty of rehab for drug addiction
+7P221,Delivery of rehab for alcohol addiction
+7P22y,Other specific rehab psychiatric disorder
+7P22z,Rehab for psychiatric disorder NOS
+8A2..,Psychiatric monitoring
+8A21.,Psychiatric observation
+8A2Z.,Psychiatric monitoring NOS
+8CM2.,Psychiatry care plan
+8H23.,Admit psychiatric emergency
+8H230,Emergency psychiatric admission MHA
+8H2L.,Admit psychogeriatric emergency
+8H34.,Psychiatric day care
+8H38.,Non-urgent psychiatric admission
+8H3Q.,Non-urgent psychogeriatric admission
+8H49.,Psychiatric referral
+8H4D.,Referral to psychiatrist for the elderly mentally ill
+8H4f.,Referral to learning disabilities psychiatrist
+8H4P.,Referral to child psychiatrist
+8H7B.,Refer to CPN
+8Hc.,Referral to mental health team
+8Hc1,Referral to community mental health team
+8Hc2,Referral to mental health crisis team
+8Hg3.,Discharged from community mental health service
+8HHo.,Referral to old age community mental health team
+8HHR.,Referral to child and adolescent psychiatry clinic
+8HHs.,Referral to psychosis early intervention service
+8HIB.,Urgent referral to psychiatrist
+8Hj2.,referral to psycho-education group
+8HJ3.,Psychiatric self-referral
+8HM9.,Listed for psychiatric admission
+8HMC.,Listed for Psychogeriatri admiss
+8Hnn.,Referral to non NHS mental health service
+8HTc.,Referral to psychosexual clinic
+8HVO.,Private referral to psychiatrist
+8HVS.,Private referral to psychogeriatrician
+9H1..,Form 4 - admit to hosp assess
+9H11.,Form 4 assess
+9H12.,Form 4 passed to social worker
+9H13.,Form 4 fee paid
+9H14.,Form 4 fee unpaid
+9H1Z.,Form 4 NOS
+9H2..,Form 5/7 emerg admit assess
+9H21.,Form 7 - medical recommendation
+9H22.,Form 5 - nearest relative recom
+9H23.,Form 7 - fee to soc services
+9H24.,Form 7 - fee paid
+9H25.,Form 7 - fee unpaid
+9H2Z.,Form 5/7 NOS
+9H4..,Section 2 form - compulsary admission for assessment
+9H41.,Form 2 completed
+9H42.,Form 2 passed to social worker
+9H43.,Form 2 passed to nearest relative
+9H44.,Form 2 fee paid
+9H45.,Form 2 fee unpaid
+9H4Z.,Form 2 NOS
+9H5..,Section 3 form - compulsary admission for treatment
+9H51.,Form 3 completed
+9H52.,Form 3 passed to social worker
+9H53.,Form 3 passed to nearest relative
+9H54.,Form 3 fee paid
+9H55.,Form 3 fee unpaid
+9H5Z.,Form 3 NOS
+9HC5.,Substance misuse treatment programme completed
+9HC9.,Substance misuse programme del other healthcare provider
+9HCC.,On substance misuse programme.
+9HD..,Offering of CAMHS choice appointment
+9HE..,Removal of sbj by trsft dirctn to hospital under S47 MHA 1983
+9HF..,Removal of sbj by trsft dirctn to hospital under S48 MHA 1983
+9N0B.,Seen in psychogeriatric clinic
+9N1T.,Seen in psychiatry clinic
+9N2E2,Seen by core psychiatry trainee doctor
+9N4g.,DNA - Did not attend psychiatry clinic
+9N4j.,DNA - Did not attend CPN review
+9N4N.,DNA mental health appointment
+9N4N0,DNA child and adolescent mental health service appointment
+9N4N1,DNA CAMHS choice appointment
+9N4N2,DNA CAMHS partnership appointment
+9N4N3,DNA CAMHS return appointment
+9N6h.,Referral by mental health service
+9NI6.,Psychiatric outreach clinic
+9NIa.,Seen by psychiatrist
+9NIa0,Seen by child and adolescent psychaitrist
+9NIa1,Seen by consultant psychiatrist
+9NIG.,Seen by forensic psychiatrist
+9NJb.,In-house psychiatry first appointment
+9NJc.,In-house psychiatry discharge
+9NJd.,In-house psychiatry follow up appointment
+9Nk6.,Seen in mental health clinic
+9NN5.,Under care of psychiatrist
+9NN7.,Under care of mental health team
+9NN70,Under care of mental health in-reach team
+9NNQ.,Under care of hospital psychiatric team
+9No0.,Seen in child and adolescent psychiatry clinic
+9NS1.,Attended psycho-educational group
