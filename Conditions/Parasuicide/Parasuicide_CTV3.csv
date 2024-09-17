@@ -1,0 +1,153 @@
+CTV3Codes,Description
+Xa04L,Parasuicide
+Xa3jI,Attempted suicide NOS
+146A.,H/O: attempted suicide
+XM1Fs,"Self hanging, strangulation or suffocation"
+TK3..,"Suicide and selfinflicted injury by hanging, strangulation and suffocation"
+TK30.,Suicide or attempted suicide by hanging
+Xa3jC,Attempted suicide - hanging
+Xa3jL,Suicide - hanging
+TK3y.,"Suicide and selfinflicted injury by other means of hanging, strangulation and suffocation"
+TK3z.,"Suicide and selfinflicted injury by hanging, strangulation and suffocation NOS"
+XE22I,Suicide and selfinflicted injury by suffocation by plastic bag
+Xa3jD,Attempted suicide - suffocation
+Xa3jM,Suicide - suffocation
+TK0..,Suicide and selfinflicted poisoning by solid and liquid substances
+TK0z.,Suicide and selfinflicted poisoning by solid and liquid substances NOS
+TK4..,Suicide and selfinflicted injury by drowning
+TK5..,Suicide or selfinflicted injury by firearms and explosives
+TK50.,Suicide or selfinflicted injury by handgun
+TK51.,Suicide or selfinflicted injury by shotgun
+TK52.,Suicide or selfinflicted injury by hunting rifle
+TK53.,Suicide or selfinflicted injury by military firearm
+TK54.,Suicide and selfinflicted injury by other firearm
+TK55.,Suicide or selfinflicted injury by explosives
+TK5z.,Suicide and selfinflicted injury by firearms and explosives NOS
+Xa3jF,Attempted suicide - firearms
+Xa3jO,Suicide - firearms
+TK6..,Suicide or selfinflicted injury by cutting and stabbing
+TK60.,Suicide or selfinflicted injury by cutting
+TK61.,Suicide or selfinflicted injury by stabbing
+TK6z.,Suicide and selfinflicted injury by cutting and stabbing instruments NOS
+Xa3jG,Attempted suicide - cut/stab
+Xa3jP,Suicide - cut/stab
+TK7..,Suicide or self injury by jumping from a height
+TK70.,Suicide and selfinflicted injury by jumping from residential premises
+TK71.,Suicide and selfinflicted injury by jumping from other man-made structure
+TK72.,Suicide and selfinflicted injury by jumping from natural sites
+TK7z.,Suicide and selfinflicted injury by jumping from high place NOS
+X71B6,Suicide or self injury by jumping from high man-made structure
+X71B7,Suicide or self injury by jumping from high building
+X71B8,Suicide or self injury by jumping from bridge
+X71B9,Suicide or self injury by jumping from high natural feature
+X71BA,Suicide or self injury by jumping off cliff
+Xa3jH,Attempted suicide - jumping from a high place
+Xa3jQ,Suicide - jumping from a high place
+TKx..,Suicide and selfinflicted injury by other means
+TKx0.,Suicide and selfinflicted injury by jumping or lying before moving object
+TKx00,Suicide and selfinflicted injury by jumping before moving object
+TKx01,Suicide and selfinflicted injury by lying before moving object
+TKx0z,Suicide and selfinflicted injury by jumping or lying before moving object NOS
+TKxy.,Suicide and selfinflicted injury by other specified means
+TKxz.,Suicide and selfinflicted injury by other means NOS
+TKx1.,Suicide or self injury by burning or fire
+TKx2.,Suicide or self injury by scalding
+X71BF,Suicide or self injury by igniting petrol soaked clothing
+X71BG,Suicide or self injury by arson
+TKx3.,Suicide or self injury by exposure to cold
+TKx4.,Suicide or self injury by electric current
+TKx7.,"Suicide and selfinflicted injury by caustic substances, excluding poisoning"
+TKz..,Suicide and selfinflicted injury NOS
+Xa3jR,Suicide NOS
+X71B3,Self poisoning by gas
+TK1..,Suicide and selfinflicted poisoning by gases in domestic use
+TK21.,Suicide and selfinflicted poisoning by other carbon monoxide
+TK2y.,Suicide and selfinflicted poisoning by other gases and vapours
+TK2z.,Suicide and selfinflicted poisoning by gases and vapours NOS
+X71B4,Self poisoning by carbon monoxide
+TK20.,Self poisoning by motor vehicle exhaust gas
+X71B5,Self poisoning by coal gas
+X71BB,Suicide or self injury associated with moving vehicles
+TKx5.,Suicide or selfinflicted injury by crashing motor vehicle
+TKx6.,Suicide or selfinflicted injury by crashing of aircraft
+X71BC,Suicide or self injury by placing self in path of moving vehicle
+X71BD,Suicide or self injury by placing self in path of moving motor vehicle
+X71BE,Suicide or self injury by placing self in path of moving railway vehicle
+XE22J,Suicide or attempted suicide by drowning
+Xa3jE,Attempted suicide - drowning
+Xa3jN,Suicide - drowning
+Ua1AA,Hanging self
+Ua1AB,Drowning self
+Ua1A9,Jumping from height
+Ua1A8,Jumping from building
+Ua1A7,Jumping from bridge
+Ua14U,Jumping from cliff
+Ua1AE,Self-asphyxiation
+Ua1AD,Self-strangulation
+Ua1AC,Self-suffocation
+Ua14S,Throwing self in front of vehicle
+Ua14T,Throwing self in front of train
+X71B0,Self poisoning by non-drug solid or liquid agents
+TK07.,Self poisoning by corrosive or caustic substance
+TK08.,Self poisoning by arsenic or its compounds
+X71B2,Self poisoning by plants or parts of plants
+XM1FX,Self poisoning by agricultural chemical
+TK06.,Suicide and selfinflicted poisoning by agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers
+X71B1,Self poisoning by paraquat
+Ua14R,Shooting self
+Xa2pL,Stabbing self
+U21..,"[X]Intent self harm by hanging, strangulation/suffocation"
+U210.,"[X]Int self harm by hanging, strangulation/suffocation occ home"
+U211.,"[X]Intent self harm by hanging, strangulation/suffocation at res institut"
+U212.,"[X]Int self harm by hanging, strangulation/suffocation in school/pub admin area"
+U213.,"[X]Intent self harm by hanging, strangulation/suffocation in sport/athletic area"
+U214.,"[X]Int self harm by hanging, strangulation/suffocation in street/highway"
+U215.,"[X]Intent self harm by hanging, strangulation/suffocation trade/service area"
+U216.,"[X]Int self harm by hanging, strangulation/suffocation indust/construct area"
+U217.,"[X]Int self harm by hanging, strangulation/suffocation occ farm"
+U21y.,"[X]Int self harm by hanging, strangulation/suffocation other spec place"
+U21z.,"[X]Intent self harm by hanging, strangulation/suffocation unspecif place"
+U22..,[X]Intent self harm by drowning and submersion
+U220.,[X]Int self harm by drowning and submersion occ home
+U221.,[X]Intent self harm by drowning and submersion at res institut
+U222.,[X]Int self harm by drowning and submersion in school/pub admin area
+U223.,[X]Intent self harm by drowning and submersion in sport/athletic area
+U224.,[X]Int self harm by drowning and submersion in street/highway
+U225.,[X]Intent self harm by drowning and submersion trade/service area
+U226.,[X]Int self harm by drowning and submersion indust/construct area
+U227.,[X]Int self harm by drowning and submersion occ farm
+U22y.,[X]Int self harm by drowning and submersion other spec place
+U22z.,[X]Intent self harm by drowning and submersion unspecif place
+U23..,[X]Intent self harm by handgun discharge
+U230.,[X]Int self harm by handgun discharge occ home
+U231.,[X]Intent self harm by handgun discharge at res institut
+U232.,[X]Int self harm by handgun discharge in school/pub admin area
+U233.,[X]Intent self harm by handgun discharge in sport/athletic area
+U234.,[X]Int self harm by handgun discharge in street/highway
+U235.,[X]Intent self harm by handgun discharge trade/service area
+U236.,[X]Int self harm by handgun discharge indust/construct area
+U237.,[X]Int self harm by handgun discharge occ farm
+U23y.,[X]Int self harm by handgun discharge other spec place
+U23z.,[X]Intent self harm by handgun discharge unspecif place
+U24..,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge"
+U240.,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at home"
+U241.,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence in residential institution"
+U242.,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at school, other institution and public administrative area"
+U243.,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at sports and athletics area"
+U244.,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence on street and highway"
+U245.,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at trade and service area"
+U246.,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at industrial and construction area"
+U247.,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence on farm"
+U24y.,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at other specified place"
+U24z.,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at unspecified place"
+U25..,[X]Intentional self harm by other and unspecified firearm discharge
+U250.,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at home"
+U251.,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence in residential institution"
+U252.,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at school, other institution and public administrative area"
+U253.,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at sports and athletics area"
+U254.,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence on street and highway"
+U255.,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at trade and service area"
+U256.,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at industrial and construction area"
+U257.,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence on farm"
+U25y.,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at other specified place"
+U25z.,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at unspecified place"
