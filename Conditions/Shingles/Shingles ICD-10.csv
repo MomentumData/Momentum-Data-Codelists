@@ -1,0 +1,10 @@
+ICD10Codes,Description
+B02,Zoster [herpes zoster]
+B02.0,Zoster encephalitis
+B02.1,Zoster meningitis
+B02.2,Zoster with other nervous system involvement
+B02.3,Zoster ocular disease
+B02.7,Disseminated zoster
+B02.8,Zoster with other complications
+B02.9,Zoster without complication
+G53.0,Postzoster neuralgia

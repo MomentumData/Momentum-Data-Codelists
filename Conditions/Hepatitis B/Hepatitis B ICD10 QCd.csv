@@ -1,0 +1,13 @@
+ICD10Codes,Description
+B16,Acute hepatitis B
+B16.0,Acute hepatitis B with delta-agent (coinfection) with hepatic coma
+B16.1,Acute hepatitis B with delta-agent (coinfection) without hepatic coma
+B16.2,Acute hepatitis B without delta-agent with hepatic coma
+B16.9,Acute hepatitis B without delta-agent and without hepatic coma
+B17.0,Acute delta-(super)infection in chronic hepatitis B
+B18.0,Chronic viral hepatitis B with delta-agent
+B18.1,Chronic viral hepatitis B without delta-agent
+B18.00,Chronic viral hepatitis B with delta-agent : immune-tolerant phase
+B18.09,Chronic viral hepatitis B with delta-agent : other and unspecified phase 
+B18.10,Chronic viral hepatitis B without delta-agent : immune-tolerant phase  
+B18.19,Chronic viral hepatitis B without delta-agent : other and unspecified phase 

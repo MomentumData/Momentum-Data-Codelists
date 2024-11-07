@@ -1,0 +1,106 @@
+CTV3Codes,Description
+X000H,Meningitis
+XaDmS,Infective meningitis
+F00..,Bacterial meningitis
+F0077,Actinomycotic meningitis
+F00y0,Aerobacter meningitis
+F00y2,Escherichia coli meningitis
+F0070,Gonococcal meningitis
+F000.,Haemophilus meningitis
+F00y4,Klebsiella meningitis
+F00y3,Meningitis due to Friedlander bacillus
+F0071,Listeria meningitis
+X000R,Meningitis in Lyme disease
+F005.,Meningococcal meningitis
+F0078,Meningitis due to pertussis
+A206.,Plague meningitis
+F001.,Pneumococcal meningitis
+Xa9B4,Proteus meningitis
+F00y6,Pseudomonas meningitis
+F00y1,Meningitis due to bacillus pyocyaneus
+F0073,Salmonella meningitis
+F0076,Meningitis due to typhoid fever
+F003.,Staphylococcal meningitis
+Xa7pz,Syphilitic meningitis
+F0074,Congenital syphilitic meningitis
+X000T,Late congenital syphilitic meningitis
+F0075,Secondary syphilitic meningitis
+A9180,Acute secondary syphilitic meningitis
+F004.,Tuberculous meningitis
+A1300,Tuberculosis of cerebral meninges
+A1301,Tuberculosis of spinal meninges
+A1302,Tuberculous leptomeningitis
+A130z,Tuberculous meningitis NOS
+AA0y0,Leptospiral meningitis
+F007.,Meningitis in other bacterial disease classified elsewhere
+F0072,Meningitis due to neurosyphilis
+F007z,Unspecified meningitis in bacterial disease EC
+F00y.,Other specified bacterial meningitis
+F00yz,Other specified bacterial meningitis NOS
+Xa9B5,Viral meningitis
+A4z1.,Adenoviral meningitis
+A4z0.,Lymphocytic choriomeningitis
+F0114,Mumps meningitis
+X000M,Postmeasles meningitis
+F0112,Meningitis due to herpes zoster virus
+F0113,Herpes simplex meningitis
+A42..,Enteroviral meningitis
+F0110,Coxsackie viral meningitis
+X000J,Coxsackie A viral meningitis
+X000K,Coxsackie B viral meningitis
+F0111,Echovirus meningitis
+X000L,Chronic echovirus meningoencephalitis
+A42y.,Other specified viral meningitis
+Ayu8C,[X]Other viral meningitis
+Ayu8D,"[X]Viral meningitis, unspecified"
+F011.,Meningitis due to viral organisms EC
+F011y,Other viral meningitis
+Fyu01,[X]Meningitis in viral diseases classified elsewhere
+XE0R7,Viral meningitis NOS
+XE15A,Meningitis - viral NOS
+F010.,Fungal meningitis
+AB2y2,Candidal meningitis
+F0100,Cryptococcal meningitis
+AB32.,Coccidioidal meningitis
+F010z,Other fungal meningitis
+Fyu02,[X]Meningitis in mycoses classified elsewhere
+X000V,Parasitic meningitis
+F012.,Meningitis due to trypanosomiasis
+F01..,Meningitis due to other organisms
+F01y.,Other non-bacterial meningitis
+F01yz,Other non-bacterial meningitis NOS
+F01z.,Meningitis due to organism NOS
+Fyu03,[X]Meningitis in other specified infectious and parasitic diseases classified elsewhere
+Xa84l,Aseptic meningitis
+F022.,Chronic meningitis
+X000W,Chronic granulomatous meningitis
+X000X,Chronic lymphocytic meningitis
+F021.,Chronic eosinophilic meningitis
+X000Y,Non-infective meningitis
+X000Z,Benign recurrent endothelioleucocytic meningitis
+F013.,Sarcoid meningitis
+X000b,Malignant meningitis
+F2924,Chemical meningitis
+F023.,Arachnoiditis
+F02..,Meningitis of unspecified cause
+F020.,Non-pyogenic meningitis
+F02z.,Unspecified meningitis
+Fyu04,[X]Meningitis due to other specified causes
+1471,H/O: meningitis
+Xa0An,Neonatal meningitis
+F00z.,Bacterial meningitis NOS
+Xagdb,Suspected acute meningitis
+F00y5,Morganella morganii meningitis
+AB4z1,Histoplasmosis with meningitis
+X000P,Staphylococcus aureus meningitis
+AB411,Histoplasma duboisii with meningitis
+X000Q,Staphylococcus epidermidis meningitis
+AB401,Histoplasma capsulatum with meningitis
+XaEYW,Meningococcal meningitis with meningococcal septicaemia
+XaELR,Meningococcal meningitis with acute meningococcal septicaemia
+X001F,Listeria meningoencephalitis
+XE0RD,Herpetic meningoencephalitis
+F0334,Toxoplasma meningoencephalitis
+A1303,Tuberculous meningoencephalitis
+X001N,PAM - Primary amoebic meningoencephalitis
+Fyu05,"[X]Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified"

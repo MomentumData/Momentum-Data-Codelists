@@ -1,0 +1,41 @@
+CTV3Codes,Description
+C03..,Congenital hypothyroidism
+Xa0l7,Congenital hypothyroidism with diffuse goitre
+X40H8,Congenital hypothyroidism without goitre
+PK251,Congenital thyroid aplasia
+X40HA,Congenital thyroid hypoplasia
+X40HB,Congenital atrophy of thyroid
+X40HC,Congenital hypothyroidism with ectopic thyroid
+C03y.,Other specified congenital hypothyroidism
+XE107,Congenital hypothyroidism NOS
+X40I7,Congenital iodine deficiency hypothyroidism
+X40I8,Congenital iodine deficiency syndrome - myxoedematous type
+X40I9,Congenital iodine deficiency syndrome - mixed type
+X40HL,Iatrogenic hypothyroidism
+X40HM,Postablative hypothyroidism
+XE109,Post-surgical hypothyroidism
+C0410,Irradiation hypothyroidism
+X40HN,Radioactive iodine-induced hypothyroidism
+C041.,Other postablative hypothyroidism
+C041z,Postablative hypothyroidism NOS
+C043.,Other iatrogenic hypothyroidism
+C043z,Iatrogenic hypothyroidism NOS
+X40HO,Drug-induced hypothyroidism
+C0430,Hypothyroidism resulting from para-aminosalicylic acid
+C0431,Hypothyroidism resulting from phenylbutazone
+C0432,Hypothyroidism resulting from resorcinol
+X40HP,Post-infectious hypothyroidism
+X40IB,Subclinical iodine deficiency hypothyroidism
+C042.,Iodine hypothyroidism
+C1343,TSH deficiency
+X40LB,Isolated TSH deficiency
+X40LC,Idiopathic TSH deficiency
+X40Hv,Hypothyroidism due to iodide trapping defect
+X40Hw,Hypothyroidism due to iodide organification defect
+X40Hx,Hypothyroidism due to coupling defect
+X40Hy,Hypothyroidism due to deiodase defect
+X40Hz,Hypothyroidism due to thyroglobulin synthesis defect
+Cyu11,[X]Other specified hypothyroidism
+Xa3ec,Hypothyroidism - congenital and acquired
+Xa08g,Transient neonatal hypothyroidism
+Q4337,Neonatal jaundice with congenital hypothyroidism

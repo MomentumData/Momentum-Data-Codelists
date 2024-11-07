@@ -1,0 +1,122 @@
+CTV3Codes,Description
+7G03J,Excision of melanoma
+XSHw6,Clark melanoma level 3
+XSHw7,Clark melanoma level 4
+XSHw8,Clark melanoma level 5
+14250,H/O Malignant melanoma
+XSHw4,Clark melanoma level 1
+XSHw5,Clark melanoma level 2
+B8280,Melanoma in situ of lip
+X78TH,In situ melanoma of skin
+B8281,"Melanoma in situ of eyelid, including canthus"
+B8282,Melanoma in situ of ear and external auricular canal
+B8283,Melanoma in situ of scalp and neck
+B8284,Melanoma in situ of trunk
+B8285,"Melanoma in situ of upper limb, including shoulder"
+B8286,"Melanoma in situ of lower limb, including hip"
+XaFsS,Melanoma in situ of scalp
+XaFsU,Melanoma in situ of back of hand
+XaFw7,Melanoma in situ of back
+XaFsT,Melanoma in situ of neck
+ByuF5,[X] Melanoma in situ of other and unspecified parts of face
+Xa99Y,Lentingo maligna melanoma
+X78TD,Nodular melanoma of skin
+B3270,Malignant melanoma of hip
+B3278,Malignant melanoma of toe
+XM0ps,Malignant melanoma of eye
+B320.,Malignant melaoma of lip
+B3263,Malignant melaoma of hand
+B3276,Malignant melanoma of heel
+X78bc,Malignant melanoma of iris
+B3272,Malignant melanoma of  knee
+B3241,Malignant melanoma of neck
+B32..,Malignant melanoma of skin
+XaclU,Malignant melanoma stage IA
+XaclV,Malignant melanoma stage IB
+XaclW,Malignant melanoma stage IIA
+XaclX,Malignant melanoma stage IIB
+XaclY,Malignant melanoma stage IIC
+XaclZ,Malignant melanoma stage IIIA
+Xacla,Malignant melanoma stage IIIB
+Xaclb,Malignant melanoma stage IIIC
+Xacld,Malignant melanoma stage IV M1a
+Xacle,Malignant melanoma stage IV M1b
+Xaclf,Malignant melanoma stage IV M1c
+XaFrT,Local recurrence of malignant melanoma of skin
+X78TC,Superficial spreading malignant melanoma of skin
+X78TD,Nodular malignant melanoma of skin
+Xa0CE,Amelanotic malignant melanoma of skin
+X78TE,Acral lentiginous melanoma of skin
+XaBAw,Malignant blue naevus of skin
+X78TF,Malignant melanoma arising in intradermal naevus
+X78TG,Malignant melanoma arising in congenital naevus
+B321.,"Malignant melanoma of eyelid, including canthus"
+B322.,Malignant melanoma of ear and external auricular canal
+B320.,Malignant melanoma of lip
+B3220,Malignant melanoma of auricle (ear)
+B3221,Malignant melanoma of external auditory meatus
+B322z,Malignant melanoma of ear and external auricular canal NOS
+B323.,Malignant melanoma of other and unspecified parts of face
+B3230,Malignant melanoma of external surface of cheek
+B3231,Malignant melanoma of chin
+B3232,Malignant melanoma of eyebrow
+B3233,Malignant melanoma of forehead
+B3234,Malignant melanoma of external surface of nose
+B3235,Malignant melanoma of temple
+B323z,Malignant melanoma of face NOS
+B324.,Malignant melanoma of scalp and neck
+B3240,Malignant melanoma of scalp
+B324z,Malignant melanoma of scalp and neck NOS
+B325.,Malignant melanoma of trunk excluding scrotum
+B3250,Malignant melanoma of axilla
+B3251,Malignant melanoma of breast
+B3252,Malignant melanoma of buttock
+B3253,Malignant melanoma of groin
+B3254,Malignant melanoma of perianal skin
+B3255,Malignant melanoma of perineum
+B3256,Malignant melanoma of umbilicus
+XaClv,Malignant melanoma of back
+XaEGU,Malignant melanoma of chest wall
+B325z,Malignant melanoma of trunk excluding scrotum NOS
+B326.,Malignant melanoma of upper limb and shoulder
+B3260,Malignant melanoma of shoulder
+B3261,Malignant melanoma of upper arm
+B3262,Malignant melanoma of forearm
+B3263,Malignant melanoma of hand
+B3264,Malignant melanoma of finger
+B3265,Malignant melanoma of thumb
+B326z,Malignant melanoma of upper limb and shoulder NOS
+B327.,Malignant melanoma of lower limb and hip
+B3271,Malignant melanoma of thigh
+B3272,Malignant melanoma of knee
+B3273,Malignant melanoma of popliteal fossa area
+B3274,Malignant melanoma of lower leg
+B3275,Malignant melanoma of ankle
+B3277,Malignant melanoma of foot
+B3279,Malignant melanoma of great toe
+B327z,Malignant melanoma of lower limb and hip NOS
+B32y.,Malignant melanoma of other specified skin site
+B32y0,Overlapping malignant melanoma of skin
+B32z.,Malignant melanoma of skin NOS
+Byu41,[X] Malignant melanoma of skin unspecified
+XE1yl,Malignant melanoma of head and neck
+XE1yn,Malignant melanoma of trunk
+X78bV,Malignant melanoma of cornea
+XE1yp,Malignant melanoma of upper limb
+XE1yr,Malignant melanoma of lower limb
+Xa0Di,Malignant melanoma of anus
+X78Xx,Malignant melanoma of vulva
+X78bw,Malignant melanoma of choriod
+Xa0RU,Malignant melanoma of meninges
+XaE6A,Melanoma associated retinopathy
+ByuF6,[X] Melanoma in situ of other sites
+XSNL7,Breslow depth for staging of melanoma
+X78Fn,TNM Malignant melanoma of skin staging
+X78G8,TNM Malignant melanoma of uvea staging
+X78G9,TNM Malignant melanoma of iris staging
+X78GA,TNM Malignant melanoma of ciliary body staging
+X78GB,TNM Malignant melanoma of choriod staging
+X78G5,TNM Malignant melanoma of eyelid staging
+XaFrd,Metastasis from malignant melanoma of skin
+X78G7,TNM Malignant melanoma of conjunctiva staging
+Byu4.,[X] Melanoma and other malignant neoplasms of skin

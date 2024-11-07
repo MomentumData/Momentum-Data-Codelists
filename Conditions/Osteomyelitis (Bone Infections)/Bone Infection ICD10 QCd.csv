@@ -1,0 +1,22 @@
+ICD10Codes,Description
+M86,Osteomyelitis
+M86.0,Acute haematogenous osteomyelitis
+M86.1,Other acute osteomyelitis
+M86.2,Subacute osteomyelitis
+M86.3,Chronic multifocal osteomyelitis
+M86.4,Chronic osteomyelitis with draining sinus
+M86.5,Other chronic haematogenous osteomyelitis
+M86.6,Other chronic osteomyelitis
+M86.8,Other osteomyelitis
+M86.9,"Osteomyelitis, unspecified"
+M46.2,Osteomyelitis of vertebra
+M46.5,Other infective spondylopathies
+M90.0,Tuberculosis of bone
+M49.0,Tuberculosis of spine
+M49.1,Brucella spondylitis
+M49.2,Enterobacterial spondylitis
+B67.2,Echinococcus granulosus infection of bone
+B45.3,Osseous cryptococcosis
+H70.0,Acute mastoiditis
+H70.1,Chronic mastoiditis
+H70.9,"Mastoiditis, unspecified"

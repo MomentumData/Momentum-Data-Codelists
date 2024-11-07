@@ -1,0 +1,133 @@
+CTV3Codes,Description
+X000h,Encephalitis
+XaDmR,Infective encephalitis
+X001E,Bacterial encephalitis
+X001F,Encephalitis in listeriosis
+F0330,Meningococcal encephalitis
+A94y0,Syphilitic encephalitis
+A9041,Congenital syphilitic encephalitis
+X001I,Late syphilitic encephalitis
+F0332,Encephalitis due to syphilis unspecified
+F0333,Tuberculous encephalitis
+A1303,Tuberculous meningoencephalitis
+X001J,Fungal encephalitis
+X001K,Parasitic encephalitis
+F0320,Malarial encephalitis
+X001L,Amoebic encephalitis
+X001M,Primary amoebic encephalitis
+X001N,Granulomatous amoebic encephalitis
+F0334,Toxoplasma encephalitis
+F0321,Trypanosomiasis encephalitis
+F032.,Encephalitis due to protozoa EC
+F032z,Encephalitis due to protozoa EC NOS
+Xa1eZ,Viral encephalitis
+X000i,Acute viral encephalitis
+X000j,Enteroviral encephalitis
+F0303,Arbovirus encephalitis
+XE0RI,Viral encephalitis from other arthropods
+X0012,Rhabdovirus encephalitis
+X0013,Cytomegaloviral encephalitis
+X0014,Infectious mononucleosis encephalitis
+X0015,Adenoviral encephalitis
+XE0RD,Herpes simplex encephalitis
+X0016,Herpes zoster encephalitis
+A4zy1,Acute necrotising viral encephalitis
+A4zy3,Encephalitis lethargica
+X0017,Herpes simiae encephalitis
+F0306,Rubella encephalitis
+A4zy2,Epidemic encephalitis
+X0019,Chronic viral encephalitis
+F0301,Subacute sclerosing panencephalitis
+X001D,Progressive rubella panencephalitis
+Xa97d,Progressive congenital rubella encephalomyelitis
+A5601,Rubella encephalomyelitis
+Ayu8A,[X]Other specified viral encephalitis
+Ayu8B,[X]Unspecified viral encephalitis
+F030.,Encephalitis in viral disease EC
+F030z,Encephalitis in viral disease NOS
+XaC1s,Encephalitis due to influenza
+XaC2H,Encephalitis due to influenza-virus identified
+XaEGX,Encephalitis due to influenza-specific virus not identified
+F033.,Encephalitis due to other infection EC
+F033z,Unspecified encephalitis due to other infection EC
+F035.,Post-infectious encephalitis
+X001O,Post-influenza encephalitis
+F0351,Post-measles encephalitis
+F0305,Mumps encephalitis
+F0350,Varicella encephalitis
+A520.,Postvaricella encephalitis
+X001P,Acute haemorrhagic leucoencephalitis
+F035z,Post-infectious encephalitis NOS
+F212.,Acute and subacute haemorrhagic leukoencephalitis [Hurst]
+F034.,Post-immunisation encephalitis
+F0340,Post BCG vaccination encephalitis
+F0341,Post typhoid vaccination encephalitis
+F0342,Post paratyphoid vaccination encephalitis
+F0343,Post cholera vaccination encephalitis
+F0344,Post plague vaccination encephalitis
+F0345,Post tetanus vaccination encephalitis
+F0346,Post diphtheria vaccination encephalitis
+F0347,Post pertussis vaccination encephalitis
+F0348,Post smallpox vaccination encephalitis
+F0349,Post rabies vaccination encephalitis
+F034A,Post typhus vaccination encephalitis
+F034B,Post yellow fever vaccination encephalitis
+F034C,Post measles vaccination encephalitis
+F034D,Post polio vaccination encephalitis
+F034E,Post mumps vaccination encephalitis
+F034F,Post rubella vaccination encephalitis
+F034G,Post influenza vaccination encephalitis
+F034H,Post hepatitis A vaccination encephalitis
+F034J,Post hepatitis B vaccination encephalitis
+F034x,Post mixed vaccination encephalitis
+F034y,Post other specified vaccination encephalitis
+F034z,Post-immunisation encephalitis NOS
+X001Q,Focal encephalitis
+X001R,Brainstem encephalitis
+X001S,Rasmussen syndrome
+X001T,Limbic encephalitis
+F031.,Encephalitis due to rickettsia EC
+XE15C,Other causes of encephalitis
+XE15D,Encephalitis NOS
+1472,H/O: encephalitis
+F036.,Toxic encephalitis
+F036z,Toxic encephalitis NOS
+A63y1,Powassan encephalitis
+A620.,Japanese B encephalitis
+X000p,Rocio virus encephalitis
+A631.,Louping ill encephalitis
+X000o,Ilheus virus encephalitis
+A624.,Murray River encephalitis
+F0302,Poliomyelitis encephalitis
+X000w,Negishi virus encephalitis
+A621.,Western equine encephalitis
+X000x,Kumlinge virus encephalitis
+XE0RG,CE - California encephalitis
+Xagda,Suspected acute encephalitis
+A623.,Type C lethargic encephalitis
+A63..,Tick-borne viral encephalitis
+X000v,Tick-borne flavivirus encephalitis
+A632.,Central European tick-borne encephalitis
+A630.,Russian spring-summer encephalitis
+Xa2VM,West Russian spring-summer encephalitis
+Xa2VN,East Russian spring-summer encephalitis
+A63y0,Langat encephalitis
+X000y,Tick-borne bunyavirus encephalitis
+X0010,Tick-borne orbivirus encephalitis
+XaDsU,Tick-borne coltivirus encephalitis
+A63y.,Other tick-borne viral encephalitis
+A63yz,Other tick-borne viral encephalitis NOS
+A63z.,Tick-borne viral encephalitis NOS
+Ayu87,[X]Other tick-borne viral encephalitis
+Ayu88,"[X]Tick-borne viral encephalitis, unspecified"
+X000m,Venezuelan equine encephalitis
+AE20.,Late effects of viral encephalitis
+X001F,Listeria meningoencephalitis
+X000L,Chronic echovirus meningoencephalitis
+X001N,PAM - Primary amoebic meningoencephalitis
+XaEI5,Encephalomyelitis
+X001c,Acute disseminated encephalomyelitis
+X001d,Post-immunisation encephalomyelitis
+X001e,Post-infectious encephalomyelitis
+X001X,Encephalomyelitis NOS
+F10y1,SNEM - Subacute necrotising encephalomyelopathy

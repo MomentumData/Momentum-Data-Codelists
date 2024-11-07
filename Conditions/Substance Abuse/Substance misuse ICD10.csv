@@ -1,0 +1,100 @@
+ICD10Codes,Description
+F10,Mental and behavioural disorders due to use of alcohol
+F10.0,Alcohol acute intoxication
+F10.1,Harmful use of alcohol
+F10.2,Alcohol dependance syndrome
+F10.3,Alcohol withdrawal state
+F10.4,Alcohol withdrawal state with delirium
+F10.6,Alcohol associated amnesic syndrome
+F10.7,Alcohol associated residual and late-onset psychotic disorder
+F10.8,Other mental and behavioural disorders associated with alcohol
+F10.9,Unspecified mental and behavioural disorder associated with alcohol
+F11,Mental and behavioural disorders due to use of opioids
+F11.0,Opioids acute intoxication
+F11.1,Harmful use of opioids
+F11.2,Opioids dependence syndrome
+F11.3,Opioids withdrawal state
+F11.4,Opioids withdrawal state with delirium
+F11.5,Opioids associated psychotic disorder
+F11.6,Opioids associated amnesic syndrome
+F11.7,Opioids associated residual and late-onset psychotic disorder
+F11.8,Other mental and behavioural disorders associated with opioids
+F11.9,Unspecified mental and behavioural disorder associated with opioids
+F12,Mental and behavioural disorders due to use of cannabinoids
+F12.0,Cannabinoids acute intoxication
+F12.1,Harmful use of cannabinoids
+F12.2,Cannabinoids dependence syndrome
+F12.3,Cannabinoids withdrawal state
+F12.4,Cannabinoids withdrawal state with delirium
+F12.5,Cannabinoids associated psychotic disorder
+F12.6,Cannabinoids associated amnesic syndrome
+F12.7,Cannabinoids associated residual and late-onset psychotic disorder
+F19,Other mental and behavioural disorders associated with cannabinoids
+F12.9,Unspecified mental and behavioural disorders associated with cannabinoids
+F14,Mental and behavioural disorders due to use of cocaine
+F14.0,Cocaine acute intoxication
+F14.1,Harmful use of cocaine
+F14.2,Cocaine dependance syndrome
+F14.3,Cocaine withdrawal state
+F14.4,Cocaine withdrawal state with delirium
+F14.5,Cocaine associated psychotic disorder
+F14.6,Cocaine associated amnesic syndrome
+F14.7,Cocaine associated residual and late-onset psychotic disorder
+F14.8,Other mental and behavioural disorders associated with cocaine
+F14.9,Unspecified mental and behavioural disorders associated with cocaine
+F16,Mental and behavioural disorders due to use of hallucinogens
+F16.0,Hallucinogens acute intoxication
+F16.1,Harmful use of hallucinogens
+F16.2,Hallucinogens dependance syndrome
+F16.3,Hallucinogens withdrawal state
+F16.4,Hallucinogens withdrawal state with delirium
+F16.5,Hallucinogens associated psychotic disorder
+F16.6,Hallucinogens associated amnesic syndrome
+F16.7,Hallucinogens associated residual and late-onset psychotic disorder
+F16.8,Other mental and behavioural disorders associated with hallucinogens
+F16.9,Unspecified mental and behavioural disorders associated with hallucinogens
+F17,Mental and behavioural disorders due to use of tobacco
+F17.0,Tobacco acute intoxication
+F17.1,Harmful use of tobacco
+F17.2,Tobacco dependance syndrome
+F17.3,Tobacco withdrawal state
+F17.4,Tobacco withdrawal state with delirium
+F17.5,Tobacco associated psychotic disorder
+F17.6,Tobacco associated amnesic syndrome
+F17.7,Tobacco associated residual and late-onset psychotic disorder
+F17.8,Other mental and behavioural disorders associated with tobacco
+F17.9,Unspecified mental and behavioural disorders associated with tobacco
+F18,Mental and behavioural disorders due to use of volatile solvents
+F18.0,Volatile solvents acute intoxication
+F18.1,Harmful use of volatile solvents
+F18.2,Volatile solvents dependance syndrome
+F18.3,Volatile solvents withdrawal state
+F18.4,Volatile solvents withdrawal state with delirium
+F18.5,Volatile solvents associated psychotic disorder
+F18.6,Volatile solvents associated amnesic syndrome
+F18.7,Volatile solvents associated residual and late-onset psychotic disorder
+F18.8,Other mental and behavioural disorders associated with volatile solvents
+F18.9,Unspecified mental and behavioural disorders associated with volatile solvents
+F19,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances
+F19.0,Acute intoxication with multiple drug use and use of other psychoactive substances
+F19.1,Harmful use of multiple drug use and use of other psychoactive substances
+F19.2,Multiple drug use and use of other psychoactive substances dependance syndrome
+F19.3,Multiple drug use and use of other psychoactive substances withdrawal state
+F19.4,Multiple drug use and use of other psychoactive substances withdrawal state with delirium
+F19.5,Multiple drug use and use of other psychoactive substances associated psychotic disorder
+F19.6,Multiple drug use and use of other psychoactive substances associated amnesic syndrome
+F19.7,Multiple drug use and use of other psychoactive substances associated residual and late-onset psychotic disorder
+F19.8,Other mental and behavioural disorders associated with multiple drug use and use of other psychoactive substances
+F19.9,Unspecified mental and behavioural disorders associated with multiple drug use and use of other psychoactive substances
+F15,"Mental and behavioural disorders due to use of other stimulants, including caffeine"
+F15.0,"Acute intoxication of other stimulants, including caffeine"
+F15.1,"Harmful use of other stimulants, including caffeine"
+F15.2,"Dependance syndrome with other stimulants, including caffeine"
+F15.3,"Withdrawal state after use of other stimulants, including caffeine"
+F15.4,"Withdrawal state with delirium after use of other stimulants, including caffeine"
+F15.5,"Psychotic disorder associated with other stimulants, including caffeine"
+F15.6,"Amnesic syndrome with use of other stimulants, including caffeine"
+F15.7,"Residual and late-onset psychotic disorder with use of other stimulants, including caffeine"
+F15.8,"Other mental and behavioural disorders associated with use of other stimulants, including caffeine"
+F15.9,"Unspecified mental and behavioural disorders associated with use of other stimulants, including caffeine"
+F55,Abuse of non-dependence-producing substance

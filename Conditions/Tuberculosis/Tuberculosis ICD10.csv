@@ -1,0 +1,53 @@
+ICD10Codes,Description
+P37.0,Congenital tuberculosis
+B20.0,HIV disease resulting in mycobacterial infection
+J65,Pneumoconiosis associated with tuberculosis
+B90,Sequelae of tuberculosis
+B90.0,Sequelae of central nervous system tuberculosis
+B90.1,Sequelae of genitourinary tuberculosis
+B90.2,Sequelae of tuberculosis of bones and joints
+B90.8,Sequelae of tuberculosis of other organs
+B90.9,Sequelae of respiratory and unspecified tuberculosis
+A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed"
+A15.0,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture"
+A15.1,"Tuberculosis of lung, confirmed by culture only"
+A15.2,"Tuberculosis of lung, confirmed histologically"
+A15.3,"Tuberculosis of lung, confirmed by unspecified means"
+A15.4,"Tuberculosis of intrathoracic lymph nodes, confirmed bacteriologically and histologically"
+A15.5,"Tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically and histologically"
+A15.6,"Tuberculous pleurisy, confirmed bacteriologically and histologically"
+A15.7,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically"
+A15.8,"Other respiratory tuberculosis, confirmed bacteriologically and histologically"
+A15.9,"Respiratory tuberculosis unspecified, confirmed bacteriologically and histologically"
+A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically"
+A16.0,"Tuberculosis of lung, bacteriologically and histologically negative"
+A16.1,"Tuberculosis of lung, bacteriological and histological examination not done"
+A16.2,"Tuberculosis of lung, without mention of bacteriological or histological confirmation"
+A16.3,"Tuberculosis of intrathoracic lymph nodes, without mention of bacteriological or histological confirmation"
+A16.4,"Tuberculosis of larynx, trachea and bronchus, without mention of bacteriological or histological confirmation"
+A16.5,"Tuberculous pleurisy, without mention of bacteriological or histological confirmation"
+A16.7,Primary respiratory tuberculosis without mention of bacteriological or histological confirmation
+A16.8,"Other respiratory tuberculosis, without mention of bacteriological or histological confirmation"
+A16.9,"Respiratory tuberculosis unspecified, without mention of bacteriological or histological confirmation"
+A17,Tuberculosis of nervous system
+A17.0,Tuberculous meningitis
+A17.1,Meningeal tuberculoma
+A17.8,Other tuberculosis of nervous system
+A17.9,"Tuberculosis of nervous system, unspecified"
+A18,Tuberculosis of other organs
+A18.0,Tuberculosis of bones and joints
+A18.1,Tuberculosis of genitourinary system
+A18.2,Tuberculous peripheral lymphadenopathy
+A18.3,"Tuberculosis of intestines, peritoneum and mesenteric glands"
+A18.4,Tuberculosis of skin and subcutaneous tissue
+A18.5,Tuberculosis of eye
+A18.6,Tuberculosis of ear
+A18.7,Tuberculosis of adrenal glands
+A18.8,Tuberculosis of other specified organs
+A19,Miliary tuberculosis
+A19.0,Acute miliary tuberculosis of a single specified site
+A19.1,Acute miliary tuberculosis of multiple sites
+A19.2,"Acute miliary tuberculosis, unspecified"
+A19.8,Other miliary tuberculosis
+A19.9,"Miliary tuberculosis, unspecified"
+K67.3,Tuberculous peritonitis

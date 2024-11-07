@@ -1,0 +1,29 @@
+ICD10Codes,Description
+A83,Mosquito-borne viral encephalitis
+A83.0,Japanese encephalitis
+A83.1,Western equine encephalitis
+A83.2,Eastern equine encephalitis
+A83.3,St Louis encephalitis
+A83.4,Australian encephalitis
+A83.5,California encephalitis
+A83.8,Other mosquito-borne viral encephalitis
+A83.9,"Mosquito-borne viral encephalitis, unspecified"
+A84,Tick-borne viral encephalitis
+A84.0,Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis]
+A84.1,Central European tick-borne encephalitis
+A84.8,Other tick-borne viral encephalitis
+A84.9,"Tick-borne viral encephalitis, unspecified"
+A85,"Other viral encephalitis, not elsewhere classified"
+B00.4,Herpesviral encephalitis
+B05.0,Measles complicated by encephalitis
+B26.2,Mumps encephalitis
+B02.0,Zoster encephalitis
+A85.0,Enteroviral encephalitis
+A85.1,Adenoviral encephalitis
+A85.2,"Arthropod-borne viral encephalitis, unspecified"
+A85.8,Other specified viral encephalitis
+A86,Unspecified viral encephalitis
+B01.1,Varicella encephalitis
+G04.0,Acute disseminated encephalitis
+B58.2,Toxoplasma meningoencephalitis
+B94.1,Sequelae of viral encephalitis

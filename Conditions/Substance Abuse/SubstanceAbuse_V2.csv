@@ -1,0 +1,359 @@
+V2Codes,Description
+ZV4KC,[V] Alcohol use
+ZV114,[V] Personal history of psychoactive substuance abuse
+ZV57A,[V]Alcohol rehabilitation
+Eu55.,[X] Abuse of non-dependence provoking substances
+Eu122,[X] Drug addiction - cannabis
+Eu152,[X] Drug addiction - other stimulants
+Eu132,[X] Drug addiction - sedative/hypnotics
+Eu182,[X] Drug addiction - solvent
+Eu192,[X] Drug addiction NOS
+Eu112,[X] Heroin addiction
+U206.,[X] Intentional self poisoning/exposure to hallucinogen
+Eu14.,[X] Men & behav disorder due to cocaine use
+Eu1A.,[X] Men & behav disorder due to crack cocaine use
+Eu16.,[X] Men & behav disorder due to hallucinogen use
+Eu14z,[X] Men & behav disorder due to use cocaine unsp men & behav dis
+Eu140,[X] Men & behav disorder due to use cocaine: acute intox
+Eu146,[X] Men & behav disorder due to use cocaine: amnesic synd
+Eu141,[X] Men & behav disorder due to use cocaine: harmfl use
+Eu14y,[X] Men & behav disorder due to use cocaine: other men & behav dis
+Eu145,[X] Men & behav disorder due to use cocaine: psychotic dis
+Eu147,[X] Men & behav disorder due to use cocaine: resid/late psychotic dis
+Eu142,[X] Men & behav disorder due to use cocaine:dependence synd
+Eu144,[X] Men & behav disorder due to use cocaine:withdr state & delirium
+Eu143,[X] Men & behav disorder due to use cocaine:withdrawal state
+Eu1Az,[X] Men & behav disorder due to use crack cocaine unsp men & behav dis
+Eu1A0,[X] Men & behav disorder due to use crack cocaine: acute intox
+Eu1A6,[X] Men & behav disorder due to use crack cocaine: amnesic synd
+Eu1A1,[X] Men & behav disorder due to use crack cocaine: harmfl use
+Eu1Ay,[X] Men & behav disorder due to use crack cocaine: other men & behav dis
+Eu1A5,[X] Men & behav disorder due to use crack cocaine: psychotic dis
+Eu1A7,[X] Men & behav disorder due to use crack cocaine: resid/late psychotic dis
+Eu1A2,[X] Men & behav disorder due to use crack cocaine:dependence synd
+Eu1A4,[X] Men & behav disorder due to use crack cocaine:withdr state & delirium
+Eu1A3,[X] Men & behav disorder due to use crack cocaine:withdrawal state
+Eu164,[X] Men & behav disorder due to use hallucinogen withdr state & delirium
+Eu160,[X] Men & behav disorder due to use hallucinogen: acute intox
+Eu166,[X] Men & behav disorder due to use hallucinogen: amnesic synd
+Eu161,[X] Men & behav disorder due to use hallucinogen: harmfl use
+Eu16y,[X] Men & behav disorder due to use hallucinogen: other men & behav dis
+Eu165,[X] Men & behav disorder due to use hallucinogen: psychotic dis
+Eu167,[X] Men & behav disorder due to use hallucinogen: resid/late psychotic dis
+Eu162,[X] Men & behav disorder due to use hallucinogen:dependence synd
+Eu163,[X] Men & behav disorder due to use hallucinogen:withdrawal state
+Eu16z,[X] Men & behav disorder due to use hallucinogenunsp men & behav dis
+Eu190,[X] Men & behav disorder multi drug use/psychoactive subs: acute intox
+Eu19.,[X] Men & behav disorder multi drug use/psychoactive subst
+Eu19z,[X] Men & behav disorder multi drug use/psychoactive subst unsp men & behav dis
+Eu196,[X] Men & behav disorder multi drug use/psychoactive subst: amnesic synd
+Eu191,[X] Men & behav disorder multi drug use/psychoactive subst: harmfl use
+Eu19y,[X] Men & behav disorder multi drug use/psychoactive subst: other men & behav dis
+Eu195,[X] Men & behav disorder multi drug use/psychoactive subst: psychotic dis
+Eu197,[X] Men & behav disorder multi drug use/psychoactive subst: resid/late psychotic dis
+Eu194,[X] Men & behav disorder multi drug use/psychoactive subst:withdr state & delirium
+Eu193,[X] Men & behav disorder multi drug use/psychoactive subst:withdrawal state
+U205.,[X] Overdose - heroin
+U730.,[X] Sequl adver effec caus by drug med/bio subs in therap use
+Eu108,[X]Alcohol withdrawal-induced seizure
+Eu105,[X]Alcoholic hallucinosis
+U2060,[X]Int self poison/exposure to hallucinogen at home
+U2061,[X]Int self poison/exposure to hallucinogen at res instit
+U2062,[X]Int self poison/exposure to hallucinogen at school/pub admin area
+U2063,[X]Int self poison/exposure to hallucinogen at sport/athletic area
+U2064,[X]Int self poison/exposure to hallucinogen in street/highway
+U2066,[X]Int self poison/exposure to hallucinogen insdust/construct area
+U2067,[X]Int self poison/exposure to hallucinogen other spec place
+U2065,[X]Int self poison/exposure to hallucinogen trade/service area
+U206y,[X]Int self poison/exposure to hallucinogen unspec place
+U2050,[X]Int self poison/exposure to narcotic drug at home
+U2051,[X]Int self poison/exposure to narcotic drug at res instit
+U2052,[X]Int self poison/exposure to narcotic drug at school/pub admin area
+U2053,[X]Int self poison/exposure to narcotic drug at sport/athletic area
+U2054,[X]Int self poison/exposure to narcotic drug in street/highway
+U2056,[X]Int self poison/exposure to narcotic drug insdust/construct area
+U2057,[X]Int self poison/exposure to narcotic drug other spec place
+U2055,[X]Int self poison/exposure to narcotic drug trade/service area
+U205y,[X]Int self poison/exposure to narcotic drug unspec place
+U209.,[X]Intentional self poisoning by and exposure to alcohol
+U2090,[X]Intentional self poisoning by and exposure to alcohol at home
+U2096,"[X]Intentional self poisoning by and exposure to alcohol, occurrence at industrial and construction area"
+U209y,"[X]Intentional self poisoning by and exposure to alcohol, occurrence at other specified place"
+U2092,"[X]Intentional self poisoning by and exposure to alcohol, occurrence at school, other institution and public administrative area"
+U2093,"[X]Intentional self poisoning by and exposure to alcohol, occurrence at sports and athletics area"
+U2095,"[X]Intentional self poisoning by and exposure to alcohol, occurrence at trade and service area"
+U209z,"[X]Intentional self poisoning by and exposure to alcohol, occurrence at unspecified place"
+U2091,"[X]Intentional self poisoning by and exposure to alcohol, occurrence in residential institution"
+U2097,"[X]Intentional self poisoning by and exposure to alcohol, occurrence on farm"
+U2094,"[X]Intentional self poisoning by and exposure to alcohol, occurrence on street and highway"
+Eu10.,[X]Mental and behavioural disorders due to use of alcohol
+Eu100,[X]Mental and behavioural disorders due to use of alcohol: acute intoxication
+Eu106,[X]Mental and behavioural disorders due to use of alcohol: amnesic syndrome
+Eu102,[X]Mental and behavioural disorders due to use of alcohol: dependence syndrome
+Eu101,[X]Mental and behavioural disorders due to use of alcohol: harmful use
+Eu10y,[X]Mental and behavioural disorders due to use of alcohol: other mental and behavioural disorders
+Eu107,[X]Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder
+Eu10z,[X]Mental and behavioural disorders due to use of alcohol: unspecified mental and behavioural disorder
+Eu103,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state
+Eu104,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium
+T8410,Accidental poisoning by cannabis derivatives
+T800.,Accidental poisoning by heroin
+E230.,Acute alcoholic intoxication in alcoholism
+E230z,Acute alcoholic intoxication in alcoholism NOS
+E2300,"Acute alcoholic intoxication in alcoholism, unspecified"
+E2303,"Acute alcoholic intoxication in remission, in alcoholism"
+8Hq..,Admission to substance misuse detoxification centre
+8H35.,Admitted to alcohol detoxification centre
+66e0.,Alcohol abuse monitoring
+E011.,Alcohol amnestic syndrome
+E011z,Alcohol amnestic syndrome NOS
+E23z.,Alcohol dependence syndrome NOS
+8BA8.,Alcohol detoxification
+66e..,Alcohol disorder monitoring
+1B1c.,Alcohol induced hallucinations
+9k12.,Alcohol misuse - enhanced service completed
+9k1..,Alcohol misuse - enhanced services administration
+E010.,Alcohol withdrawal delirium
+E013.,Alcohol withdrawal hallucinosis
+E01y0,Alcohol withdrawal syndrome
+E015.,Alcoholic paranoia
+E01..,Alcoholic psychoses
+E01z.,Alcoholic psychosis NOS
+E23..,Alcoholism
+E244.,Amphetamine or other psychostimulant dependence
+E244z,Amphetamine or other psychostimulant dependence NOS
+E2441,"Amphetamine or other psychostimulant dependence, continuous"
+E2442,"Amphetamine or other psychostimulant dependence, episodic"
+E2443,"Amphetamine or other psychostimulant dependence, in remission"
+E2440,"Amphetamine or other psychostimulant dependence, unspecified"
+E2431,"Cannabis dependence, continuous"
+E2432,"Cannabis dependence, episodic"
+E2430,"Cannabis dependence, unspecified"
+SL960,Cannabis poisoning
+E243.,Cannabis type drug dependence
+E243z,Cannabis type drug dependence NOS
+E0120,Chronic alcoholic brain syndrome
+E231.,Chronic alcoholism
+E2313,Chronic alcoholism in remission
+E231z,Chronic alcoholism NOS
+E2421,"Cocaine dependence, continuous"
+E2422,"Cocaine dependence, episodic"
+E2423,"Cocaine dependence, in remission"
+E2420,"Cocaine dependence, unspecified"
+E242z,Cocaine drug dependence NOS
+SL850,Cocaine poisoning
+E242.,Cocaine type drug dependence
+E249.,"Combined drug dependence, excluding opioid"
+E2491,"Combined drug dependence, excluding opioid, continuous"
+E2492,"Combined drug dependence, excluding opioid, episodic"
+E2493,"Combined drug dependence, excluding opioid, in remission"
+E249z,"Combined drug dependence, excluding opioid, NOS"
+E2490,"Combined drug dependence, excluding opioid, unspecified"
+E248.,Combined opioid with other drug dependence
+E248z,Combined opioid with other drug dependence NOS
+E2481,"Combined opioid with other drug dependence, continuous"
+E2482,"Combined opioid with other drug dependence, episodic"
+E2483,"Combined opioid with other drug dependence, in remission"
+E2480,"Combined opioid with other drug dependence, unspecified"
+9k10.,Community detoxification registered
+E2301,Continuous acute alcoholic intoxication in alcoholism
+E2311,Continuous chronic alcoholism
+E2411,Continuous hypnotic or anxiolytic dependence
+E2401,Continuous opiod dependence
+8IAJ.,Declined referral to specialist alcohol treatment centre
+9HC8.,Declined to give substance misuse history
+7P221,Delivery of rehabilitation for alcohol addiction
+7P220,Delivery of rehabilitation for drug addiction
+9N4i.,DNA substance misuse clinic
+1TF..,Does not use heroin on top of substitution therapy
+136Y.,Drinks in morning to get rid of hangover
+9G2Z.,Drug addict notif NOS
+9G21.,Drug addict notific CMO
+9G23.,Drug addict re-notific CMO
+9G22.,Drug addict re-notific due
+E24..,Drug addiction
+8B231,Drug addiction maintainance therapy - lofexidine
+8B230,Drug addiction maintainance therapy - naltrexone
+9G2..,Drug addiction notification
+8B23.,Drug addiction therapy
+E24z.,Drug dependence NOS
+E24A.,Ecstacy type drug dependence
+9Nz9.,Emergency department attendance related to personal alcohol consumption
+E2302,Episodic acute alcoholic intoxication in alcoholism
+E2312,Episodic chronic alcoholism
+E2412,Episodic hypnotic or anxiolytic dependence
+E2402,Episodic opioid dependence
+U205z,Failed heroin detoxification
+8G22.,Family intervention for substance misuse
+9HC1.,Follow up substance misuse assessment
+E246.,Glue sniffing dependence
+E246z,Glue sniffing dependence NOS
+E2461,"Glue sniffing dependence, continuous"
+E2462,"Glue sniffing dependence, episodic"
+E2463,"Glue sniffing dependence, in remission"
+E2460,"Glue sniffing dependence, unspecified"
+1T4..,H/O amphetamine misuse
+1TC..,H/O anti-depressant misuse
+1TA..,H/O barbiturate misuse
+1T3..,H/O benzodiazepine misuse
+1T8..,H/O cannabis misuse
+1T5..,H/O cocaine misuse
+1T6..,H/O crack cocaine misuse
+1T40.,H/O daily amphetamine misuse
+1TC0.,H/O daily anti-depressant misuse
+1TA0.,H/O daily barbiturate misuse
+1T30.,H/O daily benzodiazepine misuse
+1T80.,H/O daily cannabis misuse
+1T50.,H/O daily cocaine misuse
+1T60.,H/O daily crack cocaine misuse
+1T20.,H/O daily ecstacy misuse
+1T70.,H/O daily hallucinogen misuse
+1T00.,H/O daily heroin misuse
+1TB0.,H/O daily major tranquilliser misuse
+1T10.,H/O daily methadone misuse
+1TD0.,H/O daily opiate misuse
+1T90.,H/O daily solvent misuse
+1T2..,H/O ecstacy misuse
+1T7..,H/O hallucinogen misuse
+1T0..,H/O Heroin misuse
+1T42.,H/O infrequent amphetamine misuse
+1TC2.,H/O infrequent anti-depressant misuse
+1TA2.,H/O infrequent barbiturate misuse
+1T32.,H/O infrequent benzodiazepine misuse
+1T82.,H/O infrequent cannabis misuse
+1T52.,H/O infrequent cocaine misuse
+1T62.,H/O infrequent crack cocaine misuse
+1T22.,H/O infrequent ecstacy misuse
+1T72.,H/O infrequent hallucinogen misuse
+1T03.,H/O infrequent heroin misuse
+1T12.,H/O infrequent heroin misuse
+1TB2.,H/O infrequent major tranquilliser misuse
+1TD2.,H/O infrequent opiate misuse
+1T92.,H/O infrequent solvent misuse
+1TB..,H/O major tranquilliser misuse
+1T1..,H/O methadone misuse
+1TG..,H/O novel psychoactive substance misuse
+1TD..,H/O opiate misuse
+1T9..,H/O solvent misuse
+1T41.,H/O weekly amphetamine misuse
+1TC1.,H/O weekly anti-depressant misuse
+1TA1.,H/O weekly barbiturate misuse
+1T31.,H/O weekly benzodiazepine misuse
+1T81.,H/O weekly cannabis misuse
+1T51.,H/O weekly cocaine misuse
+1T61.,H/O weekly crack cocaine misuse
+1T21.,H/O weekly ecstacy misuse
+1T71.,H/O weekly hallucinogen misuse
+1T01.,H/O weekly heroin misuse
+1TB1.,H/O weekly major tranquilliser misuse
+1T11.,H/O weekly methadone misuse
+1TD1.,H/O weekly opiate misuse
+1T91.,H/O weekly solvent misuse
+1462.,H/O: alcoholism
+E245.,Hallucinogen dependence
+E2451,"Hallucinogen dependence, continuous"
+E2452,"Hallucinogen dependence, episodic"
+E2433,"Hallucinogen dependence, in remission"
+E2450,"Hallucinogen dependence, unspecified"
+SL96z,Hallucinogen poisoing NOS
+SL96.,Hallucinogen poisoning
+136T.,Harmful alcohol use
+136S.,Hazardous alcohol use
+136P.,Heavy drinker
+SL501,Heroin poisoning
+1T,History of substance misuse
+E241z,Hypnotic or anxiolytic  drug dependence NOS
+E2413,Hypnotic or anxiolytic dependence in remission
+E241.,Hypnotic or anxiolytic drug dependence
+9NJz.,In-house alcohol detoxification
+9NX2.,In-house substance misuse treatment
+9HC0.,Initial substance misuse assessment
+13c1.,Intravenous drug user
+E0110,Korsakov's alcoholic psychosis
+E0111,Korsakov's alcoholic psychosis with peripheral neuritis
+SL961,LSD poisoning
+SL962,Marihuana poisoning
+E250.,Nondependent alcohol abuse
+E2503,Nondependent alcohol abuse in remission
+E250z,Nondependent alcohol abuse NOS
+E2501,"Nondependent alcohol abuse, continuous"
+E2502,"Nondependent alcohol abuse, episodic"
+E2500,"Nondependent alcohol abuse, unspecified"
+E252.,Nondependent cannabis abuse
+E2522,"Nondependent cannabis abuse , episodic"
+E2521,"Nondependent cannabis abuse, continuous"
+E2523,"Nondependent cannabis abuse, in remission"
+E252z,"Nondependent cannabis abuse, NOS"
+E2520,"Nondependent cannabis abuse, unspecified"
+E256.,Nondependent cocaine abuse
+E2562,"Nondependent cocaine abuse , episodic"
+E2561,"Nondependent cocaine abuse, continuous"
+E2563,"Nondependent cocaine abuse, in remission"
+E256z,"Nondependent cocaine abuse, NOS"
+E2560,"Nondependent cocaine abuse, unspecified"
+E2530,"Nondependent hallucinogen  abuse, unspecified"
+E253.,Nondependent hallucinogen abuse
+E2532,"Nondependent hallucinogen abuse , episodic"
+E2531,"Nondependent hallucinogen abuse, continuous"
+E2533,"Nondependent hallucinogen abuse, in remission"
+E253z,"Nondependent hallucinogen abuse, NOS"
+13cM0,Novel psychoactive substance misuse
+9HCC.,On substance misuse programme
+13cM1,Opiod analgesic dependence
+E240.,Opiod type drug dependence
+E2403,Opioid dependence in remission
+E240z,Opioid drug dependence NOS
+E012.,Other alcoholic dementia
+E01y.,Other alcoholic psychosis
+E01yz,Other alcoholic psychosis NOS
+E247.,Other specified drug dependence
+E247z,Other specified drug dependence NOS
+E2471,"Other specified drug dependence, continuous"
+E2472,"Other specified drug dependence, episodic"
+E2473,"Other specified drug dependence, in remission"
+E2470,"Other specified drug dependence, unspecified"
+E014.,Pathological alcohol intoxication
+13cH.,Persistant substance misuse
+13cF.,Preoccupied with substance misuse
+1T83.,Previous history cannabis misuse
+1T43.,Previous history of amphetamine misuse
+1TC3.,Previous history of anti-depressant misuse
+1TA3.,Previous history of barbiturate misuse
+1T33.,Previous history of benzodiazepine misuse
+1T53.,Previous history of cocaine misuse
+1T63.,Previous history of crack cocaine misuse
+1T23.,Previous history of ecstacy misuse
+1T73.,Previous history of hallucinogen abuse
+1T02.,Previous history of heroin misuse
+1TB3.,Previous history of major tranquilliser misuse
+1T13.,Previous history of methadone misuse
+1TD3.,Previous history of opiate misuse
+1T93.,Previous history of solvent misuse
+13cE.,Prolonged high dose use of cannabis
+8H7p.,Referral to community alcohol team
+8IEA.,Referral to community alcohol team declined
+8HHe.,Referral to community drug and alcohol team
+9No5.,Seen in substance misuse clinic
+13cM.,Substance misuse
+9HCA.,Substance misuse 6 month review
+38C3.,Substance misuse assessment
+9HC2.,Substance misuse clinical management plan agreed
+9HC3.,Substance misuse clinical management plan reviewed
+13c6.,Substance misuse decreased
+13c5.,Substance misuse increased
+8BAc.,Substance misuse management stopped - self withdrawal
+9HC..,Substance misuse monitoring
+9HC5.,Substance misuse programme complete
+9HC6.,Substance misuse treatment declined
+9HC7.,Substance misuse treatment not available
+9HC9.,Substance misuse treatment programme delivered by other healthcare professionals
+9HC4.,Substance misuse treatment withdrawn
+9HCB.,Susbtance misuse annual review
+8IE7.,Susbtance misuse assessment declined
+9NN2.,Under care of community alcohol team
+E2310,Unspecified chronic alcoholism
+E2410,Unspecified hypnotic or anxiolytic dependence
+E2400,Unspecified opioid dependence
+1TE..,Uses heroin on top of substitution therapy
+136Q.,Very heavy drinker
+E0112,Wernicke-Korsakov syndrome

@@ -1,0 +1,59 @@
+ICD10Codes,Description
+P39.4,Neonatal skin infection
+L00,Staphylococcal scalded skin syndrome
+L01,Impetigo
+L01.0,Impetigo [any organism] [any site]
+L01.1,Impetiginization of other dermatoses
+L02,"Cutaneous abscess, furuncle and carbuncle"
+L02.0,"Cutaneous abscess, furuncle and carbuncle of face"
+L02.1,"Cutaneous abscess, furuncle and carbuncle of neck"
+L02.2,"Cutaneous abscess, furuncle and carbuncle of trunk"
+L02.3,"Cutaneous abscess, furuncle and carbuncle of buttock"
+L02.4,"Cutaneous abscess, furuncle and carbuncle of limb"
+L02.8,"Cutaneous abscess, furuncle and carbuncle of other sites"
+L02.9,"Cutaneous abscess, furuncle and carbuncle, unspecified"
+L03,Cellulitis
+L03.0,Cellulitis of finger and toe
+L03.1,Cellulitis of other parts of limb
+L03.2,Cellulitis of face
+L03.8,Cellulitis of other sites
+L03.9,"Cellulitis, unspecified"
+L05.0,Pilonidal cyst with abscess
+L08,Other local infections of skin and subcutaneous tissue
+L08.1,Erythrasma
+L08.8,Other specified local infections of skin and subcutaneous tissue
+L08.9,"Local infection of skin and subcutaneous tissue, unspecified"
+H00.0,Hordeolum and other deep inflammation of eyelid
+L30.3,Infective dermatitis
+A46,Erysipelas
+A26.0,Cutaneous erysipeloid
+A26.8,Other forms of erysipeloid
+A26.9,"Erysipeloid, unspecified"
+B35,Dermatophytosis
+B35.0,Tinea barbae and tinea capitis
+B35.2,Tinea manuum
+B35.3,Tinea pedis
+B35.4,Tinea corporis
+B35.5,Tinea imbricata
+B35.6,Tinea inguinalis [Tinea cruris]
+B35.8,Other dermatophytoses
+B35.9,"Dermatophytosis, unspecified"
+B36,Other superficial mycoses
+B36.0,Pityriasis versicolor
+B36.1,Tinea nigra
+B36.2,White piedra
+B36.3,Black piedra
+B36.8,Other specified superficial mycoses
+B36.9,"Superficial mycosis, unspecified"
+B38.3,Cutaneous coccidioidomycosis
+B40.3,Cutaneous blastomycosis
+B42.1,Lymphocutaneous sporotrichosis
+B43.0,Cutaneous chromomycosis
+B43.2,Subcutaneous phaeomycotic abscess and cyst
+B46.3,Cutaneous mucormycosis
+B47.0,Eumycetoma
+B48.0,Lobomycosis
+B07,Viral warts
+N76.4,Abscess of vulva
+H60.1,Cellulitis of external ear
+H62.0,Otitis externa in bacterial diseases classified elsewhere

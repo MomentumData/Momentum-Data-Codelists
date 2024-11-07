@@ -1,0 +1,34 @@
+ICD10Codes,Description
+B15,Acute hepatitis A
+B15.0,Hepatitis A with hepatic coma
+B15.9,Hepatitis A without hepatic coma
+B16,Acute hepatitis B
+B16.0,Acute hepatitis B with delta-agent (coinfection) with hepatic coma
+B16.1,Acute hepatitis B with delta-agent (coinfection) without hepatic coma
+B16.2,Acute hepatitis B without delta-agent with hepatic coma
+B16.9,Acute hepatitis B without delta-agent and without hepatic coma
+B17,Other acute viral hepatitis
+B17.0,Acute delta-(super)infection in chronic hepatitis B
+B17.1,Acute hepatitis C
+B17.2,Acute hepatitis E
+B17.8,Other specified acute viral hepatitis
+B17.9,"Acute viral hepatitis, unspecified"
+B18,Chronic viral hepatitis
+B18.0,Chronic viral hepatitis B with delta-agent
+B18.00,Chronic viral hepatitis B with delta-agent : immune-tolerant phase
+B18.09,Chronic viral hepatitis B with delta-agent : other and unspecified phase 
+B18.1,Chronic viral hepatitis B without delta-agent
+B18.10,Chronic viral hepatitis B without delta-agent : immune-tolerant phase  
+B18.19,Chronic viral hepatitis B without delta-agent : other and unspecified phase 
+B18.2,Chronic viral hepatitis C
+B18.20,Chronic viral hepatitis C: immune-tolerant phase
+B18.29,Chronic viral hepatitis C: other and unspecified phase
+B18.8,Other chronic viral hepatitis
+B18.80,Other chronic viral hepatitis: immune-tolerant phase
+B18.89,Other chronic viral hepatitis: other and unspecified phase
+B18.9,"Chronic viral hepatitis, unspecified"
+B18.90,"Chronic viral hepatitis, unspecified: immune-tolerant phase"
+B18.99,"Chronic viral hepatitis, unspecified: other and unspecified phase"
+B19,Unspecified viral hepatitis
+B19.0,Unspecified viral hepatitis with hepatic coma
+B19.9,Unspecified viral hepatitis without hepatic coma

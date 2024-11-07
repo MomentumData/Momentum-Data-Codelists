@@ -1,0 +1,23 @@
+ICD10Codes,Description
+D03,Melanoma in situ
+D03.0,Melanoma in situ of lip
+D03.1,"Melanoma in situ of eyelid, including canthus"
+D03.2,Melanoma in situ of ear and external auricular canal
+D03.3,Melanoma in situ of other and unspecified parts of face
+D03.4,Melanoma in situ of scalp and neck
+D03.5,Melanoma in situ of trunk
+D03.6,"Melanoma in situ of upper limb, including shoulder"
+D03.7,"Melanoma in situ of lower limb, including shoulder"
+D03.8,Melanoma in situ of other sites
+D03.9,"Melanoma in situ, unspecified"
+C43,Malignant melanoma of skin
+C43.0,Malignant melanoma of lip
+C43.1,"Malignant melanoma of eyelid, including canthus"
+C43.2,Malignant melanoma of ear and external auricular canal
+C43.3,Malignant melanoma of other and unspecified parts of face
+C43.4,Malignant melanoma of scalp and neck
+C43.5,Malignant melanoma of trunk
+C43.6,"Malignant melanoma of upper limb, including shoulder"
+C43.7,"Malignant melanoma of lower limb, including hip"
+C43.8,Overlapping malignant melanoma of skin
+C43.9,"Malignant melanoma of skin, unspecified"

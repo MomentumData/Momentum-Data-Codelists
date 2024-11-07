@@ -1,0 +1,56 @@
+ICD10Codes,Description
+C81,Hodgkin lymphoma
+C81.0,Nodular sclerosis (classical) Hodgkin lymphoma
+C81.1,Nodular sclerosis (classical) Hodgkin lymphoma
+C81.2,Mixed cellularity (classical) Hodgkin lymphoma
+C81.3,Lymphocyte depleted (classical) Hodgkin lymphoma
+C81.4,Lymphocyte-rich (classical) Hodgkin lymphoma
+C81.7,Other (classical) Hodgkin lymphoma
+C81.9,"Hodgkin lymphoma, unspecified"
+C82,Follicular lymphoma
+C82.0,Follicular lymphoma grade I
+C82.1,Follicular lymphoma grade II
+C82.2,"Follicular lymphoma grade III, unspecified"
+C82.3,Follicular lymphoma grade IIIa
+C82.4,Follicular lymphoma grade IIIb
+C82.5,Diffuse follicle centre lymphoma
+C82.6,Cutaneous follicle centre lymphoma
+C82.7,Other types of follicular lymphoma
+C82.9,"Follicular lymphoma, unspecified"
+C83,Non-follicular lymphoma
+C83.0,Small cell B-cell lymphoma
+C83.1,Mantle cell lymphoma
+C83.3,Diffuse large B-cell lymphoma
+C83.5,Lymphoblastic (diffuse) lymphoma
+C83.7,Burkitt lymphoma
+C83.8,Other non-follicular lymphoma
+C83.9,"Non-follicular (diffuse) lymphoma, unspecified"
+C84,Mature T/NK-cell lymphomas
+C84.0,Mycosis fungoides
+C84.1,Szary disease
+C84.4,"Peripheral T-cell lymphoma, not elsewhere classified"
+C84.5,Other mature T/NK-cell lymphomas
+C84.6,"Anaplastic large cell lymphoma, ALK-positive"
+C84.7,"Anaplastic large cell lymphoma, ALK-negative"
+C84.8,"Cutaneous T-cell lymphoma, unspecified"
+C84.9,"Mature T/NK-cell lymphoma, unspecified"
+C85,Other and unspecified types of non-Hodgkin lymphoma
+C85.1,"B-cell lymphoma, unspecified"
+C85.2,Mediastinal (thymic) large B-cell lymphoma
+C85.7,Other specified types of non-Hodgkin lymphoma
+C85.9,"Non-Hodgkin lymphoma, unspecified"
+C86,Other specified types of T/NK-cell lymphoma
+C86.0,"Extranodal NK/T-cell lymphoma, nasal type"
+C86.1,Hepatosplenic T-cell lymphoma
+C86.2,Enteropathy-type (intestinal) T-cell lymphoma
+C86.3,Subcutaneous panniculitis-like T-cell lymphoma
+C86.4,Blastic NK-cell lymphoma
+C86.5,Angioimmunoblastic T-cell lymphoma
+C86.6,Primary cutaneous CD30-positive T-cell proliferations
+C88.0,Waldenstrm macroglobulinaemia
+C88.2,Other heavy chain disease
+C88.3,Immunoproliferative small intestinal disease
+C88.4,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lyphoma]
+B21.1,HIV disease resulting in Burkitt lymphoma
+B21.2,"
+HIV disease resulting in other types of non-Hodgkin lymphoma"

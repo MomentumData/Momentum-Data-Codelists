@@ -1,0 +1,8 @@
+ICD10Codes,Description
+I01.1,Acute rheumatic endocarditis
+I33,Acute and subacute endocarditis
+I33.0,Acute and subacute infective endocarditis
+I33.9,"Acute endocarditis, unspecified"
+I38,"Endocarditis, valve unspecified"
+I39.8,"Endocarditis, valve unspecified, in diseases classified elsewhere"
+B37.6,Candidal endocarditis

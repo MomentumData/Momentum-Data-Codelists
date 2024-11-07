@@ -1,0 +1,102 @@
+V2Codes,Description
+BBE1.,[M] Melanoma NOS
+BBE10,"[M] Malignant melanoma, regressing"
+BBE11,"[M] Desmoplastic melanoma, malignant"
+7G03J,Excision of melanoma
+BBE4.,[M] Balloon cell melanoma
+BBEA.,[M] Amelanotic melanoma
+BBEC.,[M] Malignant melanoma in junctional naevus
+BBED.,[M] Precancerous melanosis NOS
+BBEE.,[M] Malignant melanoma in precancerous melanosis
+BBEF.,[M] Hutchinson's melanotic freckle
+BBEG.,[M] Malignant melanoma in Hutchinson's melanotic freckle
+BBEG0,"[M]Acral lentingous melanoma, malignant"
+BBEH.,[M] Superficial spreading melanoma
+BBEM.,[M] Malignant melanoma in giant pigmented naevus
+BBEP.,[M] Epitheliod cell melanoma
+BBEQ.,"[M] Spindle cell melanoma, NOS"
+BBER.,"[M] Spindle cell melanoma, type A"
+BBES.,"[M] Spindle cell melanoma, type B"
+BBET.,[M] Mixed epitheliod and spindle melanoma
+BBEX.,[M] Melanoma in situ
+BBEz.,"[M] Naevi or melanoma, NOS"
+14250,H/O Malignant Melanoma
+B828.,Melanoma in situ of skin
+B8280,Melanoma in situ of lip
+B8281,"Melanoma in situ of eyelid, including canthus"
+B8282,Melanoma in situ of ear and external auricular canal
+B8283,Melanoma in situ of scalp and neck
+B8284,Melanoma in situ of trunk
+B8285,"Melanoma in situ of upper limb, including shoulder"
+B8286,"Melanoma in situ of lower limb, including hip"
+B8287,Melanoma in situ of scalp
+B8288,Melanoma in situ of back of hand
+B8289,Melanoma in situ of back
+B828W,"Melanoma in situ, unspecified"
+B828X,Melanoma in situ of other and unspecified parts of face
+B509.,Malignant melanoma of eye
+B32..,Malignant melanoma of skin
+B321.,"Malignant melanoma of eyelid, including canthus"
+B322.,Malignant melanoma of ear and external auricular canal
+B320.,Malignant melanoma of lip
+B3220,Malignant melanoma of auricle (ear)
+B3221,Malignant melanoma of external auditory meatus
+B322z,Malignant melanoma of ear and external auricular canal NOS
+B323.,Malignant melanoma of other and unspecified parts of face
+B3230,Malignant melanoma of external surface of cheek
+B3231,Malignant melanoma of chin
+B3232,Malignant melanoma of eyebrow
+B3233,Malignant melanoma of forehead
+B3234,Malignant melanoma of external surface of nose
+B3235,Malignant melanoma of temple
+B323z,Malignant melanoma of face NOS
+B324.,Malignant melanoma of scalp and neck
+B3240,Malignant melanoma of scalp
+B3241,Malignant melanoma of neck
+B324z,Malignant melanoma of scalp and neck NOS
+B325.,Malignant melanoma of trunk excluding scrotum
+B3250,Malignant melanoma of axilla
+B3251,Malignant melanoma of breast
+B3252,Malignant melanoma of buttock
+B3253,Malignant melanoma of groin
+B3254,Malignant melanoma of perianal skin
+B3255,Malignant melanoma of perineum
+B3256,Malignant melanoma of umbilicus
+B3257,Malignant melanoma of back
+B3258,Malignant melanoma of chest wall
+B325z,Malignant melanoma of trunk excluding scrotum NOS
+B326.,Malignant melanoma of upper limb and shoulder
+B3260,Malignant melanoma of shoulder
+B3261,Malignant melanoma of upper arm
+B3262,Malignant melanoma of forearm
+B3263,Malignant melanoma of hand
+B3264,Malignant melanoma of finger
+B3265,Malignant melanoma of thumb
+B326z,Malignant melanoma of upper limb and shoulder NOS
+B327.,Malignant melanoma of lower limb and hip
+B3270,Malignant melanoma of hip
+B3271,Malignant melanoma of thigh
+B3272,Malignant melanoma of knee
+B3273,Malignant melanoma of popliteal fossa area
+B3274,Malignant melanoma of lower leg
+B3275,Malignant melanoma of ankle
+B3276,Malignant melanoma of heel
+B3277,Malignant melanoma of foot
+B3278,Malignant melanoma of toe
+B3279,Malignant melanoma of great toe
+B327z,Malignant melanoma of lower limb and hip NOS
+B328.,Malignant melanoma stage IA
+B329.,Malignant melanoma stage IB
+B32A.,Malignant melanoma stage IIA
+B32B.,Malignant melanoma stage IIB
+B32C.,Malignant melanoma stage IIC
+B32D.,Malignant melanoma stage IIIA
+B32E.,Malignant melanoma stage IIIB
+B32F.,Malignant melanoma stage IIIC
+B32G.,Malignant melanoma stage IV M1a
+B32H.,Malignant melanoma stage IV M1b
+B32J.,Malignant melanoma stage IV M1c
+B32y.,Malignant melanoma of other specified skin site
+B32y0,Overlapping malignant melanoma of skin
+B32z.,Malignant melanoma of skin NOS
+4M3..,Breslow depth for staging for melanoma

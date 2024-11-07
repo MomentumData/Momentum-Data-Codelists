@@ -1,0 +1,33 @@
+V2Codes,Description
+C0A..,Congenital iodine deficiency syndrome
+C0A0.,"Congenital iodine-deficiency syndrome, neurological type"
+C0A1.,"Congenital iodine-deficiency syndrome, myxoedematous type"
+C0A2.,"Congenital iodine-deficiency syndrome, mixed type"
+C0A3.,Iodine-deficiency-related diffuse (endemic) goitre
+C0A4.,Iodine-deficiency-related multinodular (endemic) goitre
+C0A5.,Subclinical iodine-deficiency hypothyroidism
+C0AX.,"Iodine-deficiency-related (endemic) goitre, unspecified"
+C03..,Congenital hypothyroidism
+C030.,Pendred's syndrome
+C031.,Goitrous cretin
+C03y.,Other specified congenital hypothyroidism
+C03y0,Congenital hypothyroidism with diffuse goitre
+C03y1,Congenital hypothyroidism without goitre
+C03z.,Congenital hypothyroidism NOS
+C040.,Postsurgical hypothyroidism
+C041.,Other postablative hypothyroidism
+C0410,Irradiation hypothyroidism
+C041z,Postablative hypothyroidism NOS
+C042.,Iodine hypothyroidism
+C043.,Other iatrogenic hypothyroidism
+C0430,Hypothyroidism resulting from para-aminosalicylic acid
+C0431,Hypothyroidism resulting from phenylbutazone
+C0432,Hypothyroidism resulting from resorcinol
+C043z,Iatrogenic hypothyroidism NOS
+C044.,Postinfectious hypothyroidism
+71100,Total thyroidectomy
+71101,Subtotal thyroidectomy
+5A11.,Thyroid gland ablat - irradiat
+5A12.,Thyroid tumour/metast irradiat
+C1343,TSH - thyroid-stimulating hormone deficiency
+Q4337,Neonatal jaunduce with congenital hypothyroidism

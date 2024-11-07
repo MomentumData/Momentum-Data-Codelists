@@ -1,0 +1,19 @@
+ICD10Codes,Description
+E00,Congenital iodine-deficiency syndrome
+E00.0,"Congenital iodine-deficiency syndrome, neurological type"
+E00.1,"Congenital iodine-deficiency syndrome, myxoedematous type"
+E00.2,"Congenital iodine-deficiency syndrome, mixed type"
+E00.9,"Congenital iodine-deficiency syndrome, unspecified"
+E01,Iodine-deficiency-related thyroid disorders and allied conditions
+E01.8,Other iodine-deficiency-related thyroid disorders and allied conditions
+E02,Subclinical iodine-deficiency hypothyroidism
+E03.0,Congenital hypothyroidism with diffuse goitre
+E03.1,Congenital hypothyroidism without goitre
+E03.2,Hypothyroidism due to medicaments and other exogenous substances
+E03.3,Postinfectious hypothyroidism
+E03.4,Atrophy of thyroid (acquired)
+O90.5,Postpartum thyroiditis
+E89.0,Postprocedural hypothyroidism
+E06.0,Acute thyroiditis
+E06.1,Subacute thyroiditis
+E06.4,Drug-induced thyroiditis

@@ -1,0 +1,127 @@
+ICD10Codes,Description
+A31.0,Pulmonary mycobacterial infection
+A31.8,Other mycobacterial infections
+A36,Diphtheria
+A36.0,Pharyngeal diphtheria
+A36.1,Nasoharyngeal diphtheria
+A36.2,Laryngeal diphtheria
+A36.9,"Diphtheria, unspecified"
+A37,Whooping cough
+A37.0,Whooping cough due to Bordetella pertussis
+A37.1,Whooping cough due to Bordetella parapertussis
+A37.8,Whooping cough due to other Bordetella species
+A37.9,"Whooping cough, unspecified"
+A40.3,Sepsis due to Streptococcus pneumoniae
+A42.0,Pulmonary actinomycosis
+A48.1,Legionnaires disease
+A48.2,Nonpneumonic Legionnaires disease [Pontiac fever]
+B01.2,Varicella pneumonia
+B05.2,Measles complicated by pneumonia
+B34.0,"Adenovirus infection, unspecified site"
+B34.2,"Coronavirus infection, unspecified site"
+B37.1,Pulmonary candidiasis
+B38.0,Acute pulmonary coccidioidomycosis
+B38.1,Chronic pulmonary coccidioidomycosis
+B38.2,"Pulmonary coccidioidomycosis, unspecified"
+B39.0,Acute pulmonary histoplasmosis capsulati
+B39.1,Chronic pulmonary histoplasmosis capsulati
+B39.2,"Pulmonary histoplasmosis capsulati, unspecified"
+B40.0,Acute pulmonary blastomycosis
+B40.1,Chronic pulmonary blastomycosis
+B40.2,"Pulmonary blastomycosis, unspecified"
+B41.0,Pulmonary paracoccidioidomycosis
+B42.0,Pulmonary sporotrichosis
+B44.0,Invasive pulmonary aspergillosis
+B44.1,Other pulmonary aspergillosis
+B45.0,Pulmonary cryptococcosis
+B46.0,Pulmonary mucormycosis
+B67.1,Echinococcus granulosus infection of lung
+C96.6,Unifocal Langerhans-cell histiocytosis
+J00,Acute nasopharyngitis [common cold]
+J01,Acute sinusitis
+J01.0,Acute maxillary sinusitis
+J01.1,Acute frontal sinusitis
+J01.2,Acute ethmoidal sinusitis
+J01.3,Acute sphenoidal sinusitis
+J01.4,Acute pansinusitis
+J01.8,Other acute sinusitis
+J01.9,"Acute sinusitis, unspecified"
+J02,Acute pharyngitis
+J02.0,Streptococcal pharyngitis
+J02.8,Acute pharyngitis due to other specified organisms
+J02.9,"Acute pharyngitis, unspecified"
+J03,Acute tonsillitis
+J03.0,Streptococcal tonsillitis
+J03.8,Acute tonsillitis due to other specified organisms
+J03.9,"Acute tonsillitis, unspecified"
+J04,Acute laryngitis and tracheitis
+J04.0,Acute laryngitis
+J04.1,Acute tracheitis
+J04.2,Acute laryngotracheitis
+J05,Acute obstructive laryngitis [croup] and epiglottitis
+J05.0,Acute obstructive laryngitis [croup]
+J05.1,Acute epiglottitis
+J06,Acute upper respiratory infections of multiple and unspecified sites
+J06.0,Acute laryngopharyngitis
+J06.8,Other acute upper respiratory infections of multiple sites
+J06.9,"Acute upper respiratory infection, unspecified"
+J09,Influenza due to identified zoonotic or pandemic influenza virus
+J10.0,"Influenza with pneumonia, seasonal influenza virus identified"
+J10.1,"Influenza with other respiratory manifestations, seasonal influenza virus identified"
+J11,"Influenza, virus not identified"
+J11.0,"Influenza with pneumonia, virus not identified"
+J11.1,"Influenza with other respiratory manifestations, virus not identified"
+J12,"Viral pneumonia, not elsewhere classified"
+J12.0,Adenoviral pneumonia
+J12.1,Respiratory syncytial virus pneumonia
+J12.2,Parainfluenza virus pneumonia
+J12.3,Human metapneumovirus pneumonia
+J12.8,Other viral pneumonia
+J12.9,"Viral pneumonia, unspecified"
+J13,Pneumonia due to Streptococcus pneumoniae
+J14,Pneumonia due to Haemophilus influenzae
+J15,"Bacterial pneumonia, not elsewhere classified"
+J15.0,Pneumonia due to Klebsiella pneumoniae
+J15.1,Pneumonia due to Pseudomonas
+J15.2,Pneumonia due to staphylococcus
+J15.3,"Pneumonia due to streptococcus, group B"
+J15.4,Pneumonia due to other streptococci
+J15.5,Pneumonia due to Escherichia coli
+J15.6,Pneumonia due to other Gram-negative bacteria
+J15.7,Pneumonia due to Mycoplasma pneumoniae
+J15.8,Other bacterial pneumonia
+J15.9,"Bacterial pneumonia, unspecified"
+J16,"Pneumonia due to other infectious organisms, not elsewhere classified"
+J16.0,Chlamydial pneumonia
+J16.8,Pneumonia due to other specified infectious organisms
+J18.0,"Bronchopneumonia, unspecified"
+J18.1,"Lobar pneumonia, unspecified"
+J18.2,"Hypostatic pneumonia, unspecified"
+J18.8,"Other pneumonia, organism unspecified"
+J18.9,"Pneumonia, unspecified"
+J20,Acute bronchitis
+J20.0,Acute bronchitis due to Mycoplasma pneumoniae
+J20.1,Acute bronchitis due to Haemophilus influenzae
+J20.2,Acute bronchitis due to streptococcus
+J20.3,Acute bronchitis due to coxsackievirus
+J20.4,Acute bronchitis due to parainfluenza virus
+J20.5,Acute bronchitis due to respiratory syncytial virus
+J20.6,Acute bronchitis due to rhinovirus
+J20.7,Acute bronchitis due to echovirus
+J20.8,Acute bronchitis due to other specified organisms
+J20.9,"Acute bronchitis, unspecified"
+J21,Acute bronchiolitis
+J21.0,Acute bronchiolitis due to respiratory syncytial virus
+J21.1,Acute bronchiolitis due to human metapneumovirus
+J21.8,Acute bronchiolitis due to other specified organisms
+J21.9,"Acute bronchiolitis, unspecified"
+J22,Unspecified acute lower respiratory infection
+J39.8,Other specified diseases of upper respiratory tract
+J44.0,Chronic obstructive pulmonary disease with acute lower respiratory infection
+J85,Abscess of lung and mediastinum
+J85.1,Abscess of lung with pneumonia
+J86,Pyothorax
+J86.0,Pyothorax with fistula
+J86.9,Pyothorax without fistula
+J98.7,"Respiratory infections, not elsewhere classified"
+U07.1,"COVID-19, virus identified"
