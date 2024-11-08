@@ -1,0 +1,54 @@
+V2Codes,Description
+E21..,Personality disorders
+E210.,Paranoid personality disorder
+E211.,Affective personality disorder
+E2110,Unspecified affective personality disorder
+E2111,Hypomanic personality disorder
+E2112,Depressive personality disorder
+E2113,Cyclothymic personality disorder
+E211z,Affective personality disorder NOS
+E212.,Schizoid personality disorder
+E2120,Unspecified schizoid personality disorder
+E2122,Schizotypal personality
+E212z,Schizoid personality disorder NOS
+E213.,Explosive personality disorder
+E214.,Compulsive personality disorders
+E2140,Anankastic personality
+E2141,Obsessional personality
+E214z,Compulsive personality disorder NOS
+E215.,Histrionic personality disorders
+E2150,Unspecified histrionic personality disorder
+E2152,Emotionally unstable personality
+E2153,Psychoinfantile personality
+E215z,Histrionic personality disorder NOS
+E216.,Inadequate personality disorder
+E217.,Antisocial or sociopathic personality disorder
+E21y.,Other personality disorders
+E21y0,Narcissistic personality disorder
+E21y1,Avoidant personality disorder
+E21y2,Borderline personality disorder
+E21y3,Passive-aggressive personality disorder
+E21y4,Eccentric personality disorder
+E21y5,Immature personality disorder
+E21y6,Masochistic personality disorder
+E21y7,Psychoneurotic personality disorder
+E21yz,Other personality disorder NOS
+E21z.,Personality disorder NOS
+E02y4,Drug-induced personality disorder
+Eu340,[X]Affective personality disorder
+Eu341,[X]Depressive personality disorder
+Eu21.,[X]Schizotypal personality disorder
+Eu60.,[X]Specific personality disorders
+Eu600,[X]Paranoid personality disorder
+Eu601,[X]Schizoid personality disorder
+Eu602,[X]Dissocial personality disorder
+Eu603,[X]Emotionally unstable personality disorder
+Eu604,[X]Histrionic personality disorder
+Eu605,[X]Anankastic personality disorder
+Eu606,[X]Anxious [avoidant] personality disorder
+Eu607,[X]Dependent personality disorder
+Eu608,[X]Addictive personality
+Eu60y,[X]Other specific personality disorders
+Eu60z,"[X]Personality disorder, unspecified"
+Eu61.,[X]Mixed and other personality disorders
+Eu060,[X]Organic personality disorder

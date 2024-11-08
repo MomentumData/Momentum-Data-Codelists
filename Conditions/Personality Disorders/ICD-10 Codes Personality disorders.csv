@@ -1,0 +1,18 @@
+ICD10Codes,Description
+F60.0,Paranoid personality disorder
+F60.1,Schizoid personality disorder
+F60.2,Dissocial personality disorder
+F60.3,Emotionally unstable personality disorder
+F60.4,Histrionic personality disorder
+F60.5,Anankastic personality disorder
+F60.6,Anxious [avoidant] personality disorder
+F60.7,Dependent personality disorder
+F60.8,Other specific personality disorders
+F60.9,"Personality disorder, unspecified"
+F61,Mixed and other personality disorders
+F62.0,Enduring personality change after catastrophic experience
+F62.1,Enduring personality change after psychiatric illness
+F62.8,Other enduring personality changes
+F62.9,"Enduring personality change, unspecified"
+F68.8,Other specified disorders of adult personality and behaviour
+F21,Schizotypal disorder

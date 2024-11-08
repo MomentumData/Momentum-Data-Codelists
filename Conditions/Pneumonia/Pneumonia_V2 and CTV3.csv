@@ -1,0 +1,110 @@
+V2Codes,Description
+H20..,Viral pneumonia (& chest infection)
+H200.,Adenoviral pneumonia
+H201.,Pneumonia due to respiratory syncytial virus
+H202.,Parainfluenzal pneumonia
+H203.,NULL
+H20y.,Viral pneumonia NEC
+H20y0,NULL
+H20z.,Viral pneumonia NOS
+H21..,Pneumococcal pneumonia (& lobar)
+H22..,Other bacterial pneumonia
+H220.,Pneumonia due to Klebsiella pneumoniae
+H221.,Pseudomonal pneumonia
+H222.,Haemophilus influenzae pneumonia
+H223.,Streptococcal pneumonia
+H2230,Group B streptococcal pneumonia
+H224.,Staphylococcal pneumonia
+H22y.,Pneumonia due to other specified bacteria
+H22y0,Escherichia coli pneumonia
+H22y1,Proteus pneumonia
+H22y2,Legionella pneumonia
+H22y3,NULL
+H22yX,NULL
+H22yz,Pneumonia due to bacteria NOS
+H22z.,Bacterial pneumonia NOS
+H23..,Pneumonia due to other specified organisms
+H230.,NULL
+H231.,NULL
+H232.,Pneumonia due to pleuropneumonia-like organism
+H233.,NULL
+H23z.,Pneumonia due to specified organism NOS
+H24..,(Pneumonia) or (chest infection) with infectious diseases EC
+H240.,Measles pneumonia
+H241.,Cytomegalovirus pneumonia
+H242.,Ornithosis with pneumonia
+H243.,Pertussis pneumonia
+H244.,Tularaemia pneumonia
+H245.,Anthrax pneumonia
+H246.,Pneumonia with aspergillosis
+H247.,Pneumonia with other systemic mycoses
+H2470,Candidal pneumonia
+H2471,Pneumonia with coccidioidomycosis
+H2472,Pneumonia with histoplasmosis
+H247z,Pneumonia with systemic mycosis NOS
+H24y.,Pneumonia with other infectious diseases EC
+H24y0,Actinomycotic pneumonia
+H24y1,Nocardial pneumonia
+H24y2,Pneumocystis carinii pneumonia
+H24y3,Q fever pneumonia
+H24y4,NULL
+H24y5,Toxoplasma pneumonia
+H24y6,Typhoid pneumonia
+H24y7,Chickenpox pneumonia
+H24yz,Pneumonia with other infectious diseases EC NOS
+H24z.,Pneumonia with infectious diseases EC NOS
+H25..,Bronchopneumonia: [unspecified organism] or [chest infection - unspecified]
+H26..,Pneumonia due to unspecified organism
+H260.,Lobar pneumonia due to unspecified organism
+H2600,NULL
+H261.,NULL
+H262.,NULL
+H263.,NULL
+H28..,NULL
+X100h,Giant cell pneumonia
+XaBE9,Basal pneumonia due to unspecified organism
+XaDtl,Legionnaire's disease
+XE0YJ,Bronchopneumonia due to unspecified organism
+H20..,Viral pneumonia
+H200.,Pneumonia due to adenovirus
+H202.,Pneumonia due to parainfluenza virus
+H203.,Pneumonia due to human metapneumovirus
+H20y0,Severe acute respiratory syndrome
+H21..,Lobar (pneumococcal) pneumonia
+H220.,Pneumonia due to klebsiella pneumoniae
+H221.,Pneumonia due to pseudomonas
+H222.,Pneumonia due to haemophilus influenzae
+H223.,Pneumonia due to streptococcus
+H2230,"Pneumonia due to streptococcus, group B"
+H224.,Pneumonia due to staphylococcus
+H22y0,Pneumonia due to escherichia coli
+H22y1,Pneumonia due to proteus
+H22y2,Pneumonia - Legionella
+H22y3,Pneumonia due to Gram negative bacteria
+H22yX,Pneumonia due to other aerobic gram-negative bacteria
+H230.,Pneumonia due to Eaton's agent
+H231.,Pneumonia due to mycoplasma pneumoniae
+H232.,Pneumonia due to pleuropneumonia like organisms
+H233.,Chlamydial pneumonia
+H24..,Pneumonia with infectious diseases EC
+H240.,Pneumonia with measles
+H241.,Pneumonia with cytomegalic inclusion disease
+H242.,Pneumonia with ornithosis
+H243.,Pneumonia with whooping cough
+H244.,Pneumonia with tularaemia
+H245.,Pneumonia with anthrax
+H2470,Pneumonia with candidiasis
+H24y0,Pneumonia with actinomycosis
+H24y1,Pneumonia with nocardiasis
+H24y2,Pneumonia with pneumocystis carinii
+H24y3,Pneumonia with Q-fever
+H24y4,Pneumonia with salmonellosis
+H24y5,Pneumonia with toxoplasmosis
+H24y6,Pneumonia with typhoid fever
+H24y7,Pneumonia with varicella
+H25..,Bronchopneumonia due to unspecified organism
+H2600,Lung consolidation
+H261.,Basal pneumonia due to unspecified organism
+H262.,Postoperative pneumonia
+H263.,"Pneumonitis, unspecified"
+H28..,Atypical pneumonia

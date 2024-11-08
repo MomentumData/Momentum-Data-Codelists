@@ -1,0 +1,8 @@
+ICD10Codes,Description
+Q81,Epidermolysis bullosa
+Q81.0,Epidermolysis bullosa simplex
+Q81.1,Epidermolysis bullosa letalis
+Q81.2,Epidermolysis bullosa dystrophica
+Q81.8,Other epidermolysis bullosa
+Q81.9,"Epidermolysis bullosa, unspecified"
+L12.3,Acquired epidermolysis bullosa
