@@ -1,0 +1,13 @@
+ICD10Codes,Description
+I74,Arterial embolism and thrombosis
+I74.0,Embolism and thrombosis of abdominal aorta
+I74.1,Embolism and thrombosis of other and unspecified parts of aorta
+I74.2,Embolism and thrombosis of arteries of upper extremities
+I74.3,Embolism and thrombosis of arteries of lower extremities
+I74.4,"Embolism and thrombosis of arteries of extremities, unspecified"
+I74.5,Embolism and thrombosis of iliac artery
+I74.8,Embolism and thrombosis of other arteries
+I74.9,Embolism and thrombosis of unspecified artery
+I63.0,Cerebral infarction due to thrombosis of precerebral arteries
+I63.3,Cerebral infarction due to thrombosis of cerebral arteries
+I63.4,Cerebral infarction due to embolism of cerebral arteries

@@ -1,0 +1,347 @@
+MedCodeID,Description
+2664851000006115,Right main coronary artery thrombosis
+4196371000006116,Arterial thrombosis of spinal cord
+4214701000006118,Thrombectomy with catheter of aortoiliac artery by leg incision
+2737311000006119,Multiple AND bilateral precerebral artery thrombosis
+2737751000006117,Thrombectomy of arterial graft
+2737941000006116,Thromboendarterectomy with graft of carotid artery by neck incision
+2751451000006115,Thromboendarterectomy with graft of femoral and popliteal arteries
+12126091000006116,Thrombosis of left iliac artery
+12126101000006110,Left iliac artery thrombosis
+12126111000006113,Thrombosis of right iliac artery
+12126121000006117,Right iliac artery thrombosis
+12126141000006112,Bilateral iliac artery thrombosis
+12126131000006119,Thrombosis of bilateral iliac arteries
+12126161000006111,Splenic artery thrombosis
+12126151000006114,Thrombosis of splenic artery
+3511086012,Thrombosis of right vertebral artery
+3511084010,Thrombosis of left vertebral artery
+3508962013,Stroke due to thrombus of right middle cerebral artery
+3508961018,Cerebrovascular accident due to thrombus of right middle cerebral artery
+3508964014,Cerebrovascular accident due to thrombus of left middle cerebral artery
+3508965010,Stroke due to thrombus of left middle cerebral artery
+12126491000006111,Thrombosis of artery of right upper limb
+12126481000006113,Thrombosis of artery of right upper extremity
+12126501000006115,Thrombosis of artery of left upper extremity
+12126511000006117,Thrombosis of artery of left upper limb
+12126731000006118,Thrombosis of left popliteal artery
+12126741000006111,Left popliteal artery thrombosis
+12126761000006110,Right popliteal artery thrombosis
+12126751000006113,Thrombosis of right popliteal artery
+12126771000006115,Thrombosis of left femoral artery
+12126781000006117,Left femoral artery thrombosis
+12126801000006118,Right femoral artery thrombosis
+12126791000006119,Thrombosis of right femoral artery
+12126821000006111,Right common femoral artery thrombosis
+12126811000006115,Thrombosis of right common femoral artery
+12126831000006114,Thrombosis of left common femoral artery
+12126841000006116,Left common femoral artery thrombosis
+12127291000006114,Thrombosis of aorta
+2768391000006119,"Thromboendarterectomy with graft, combined aortoiliofemoral"
+299742017,Coronary thrombosis not resulting in myocardial infarction
+300533017,Embolism and thrombosis of the thoracic aorta
+300535012,Embolism and thrombosis of the brachial artery
+300536013,Embolism and thrombosis of the radial artery
+300537016,Embolism and thrombosis of the ulnar artery
+300539018,Embolism and thrombosis of the femoral artery
+300540016,Embolism and thrombosis of the popliteal artery
+300541017,Embolism and thrombosis of the anterior tibial artery
+300542012,Embolism and thrombosis of the dorsalis pedis artery
+300543019,Embolism and thrombosis of the posterior tibial artery
+300557017,Embolism and thrombosis of the subclavian artery
+300558010,Embolism and thrombosis of the splenic artery
+300559019,Embolism and thrombosis of the axillary artery
+300561011,Embolism and thrombosis of the coeliac artery
+4778981000006116,Embolism and thrombosis of the celiac artery
+300562016,Embolism and thrombosis of the hepatic artery
+4778991000006118,Embolism and thrombosis of hepatic artery
+100811000006112,Superior mesenteric artery thrombosis
+2825701000006114,Thrombectomy with catheter of femoropopliteal artery by leg incision
+2845491000006113,Intracranial thrombectomy
+2845481000006110,Removal of thrombus from intracranial artery
+2845501000006117,Thrombectomy of intracranial artery
+2847411000006114,Thrombectomy with catheter of mesenteric artery by abdominal incision
+345723011,Anterior spinal artery thrombosis
+5014421000006115,Percutaneous thrombolysis of intracranial artery
+238601000006119,Percut translum inject therap subst to coronary artery NEC
+5040351000006116,Percutaneous thrombolysis of coronary artery
+5049421000006111,Thrombolysis of artery
+5049441000006116,CIA - Thrombolysis of the common iliac artery
+5049431000006114,Percutaneous thrombolysis of common iliac artery
+5049451000006119,Percutaneous thrombolysis of external iliac artery
+5049461000006117,EIA - Thrombolysis of the external iliac artery
+5049471000006112,Percutaneous thrombolysis of common femoral artery
+5049481000006110,CFA - Thrombolysis of the common femoral artery
+5049501000006117,SFA - Thrombolysis of the superficial femoral artery
+5049491000006113,Percutaneous thrombolysis of superficial femoral artery
+5049511000006119,Percutaneous thrombolysis of profunda femoris
+5049521000006110,PFA - Thrombolysis of the profunda femoris artery
+5049541000006115,AK - Thrombolysis of the above knee popliteal artery
+5049531000006113,Percutaneous thrombolysis of popliteal artery
+5049551000006118,Percutaneous thrombolysis of crural artery
+5049581000006114,Thrombolysis of crural artery
+5049571000006111,Thrombolysis of the infrapopliteal artery
+5049561000006116,Thrombolysis of infrapopliteal artery
+5049591000006112,Percutaneous thrombolysis of arterial graft
+5058331000006110,Aortic bifurcation thrombosis
+2879011000006113,Removal of thrombus of ascending aorta
+2879001000006110,Thrombectomy of ascending aorta
+5132081000006119,Arterial thrombosis of flap
+5153851000006112,Percutaneous thrombolysis of subclavian artery
+5153861000006114,Percutaneous thrombolysis of brachial artery
+5153881000006116,Percutaneous thrombolysis of celiac artery
+5153871000006119,Percutaneous thrombolysis of coeliac artery
+5153891000006118,Percutaneous thrombolysis of superior mesenteric artery
+5153901000006119,Percutaneous thrombolysis of renal artery
+5153911000006116,Percutaneous thrombolysis of hepatic artery
+5153921000006112,Percutaneous thrombolysis of internal iliac artery
+2887161000006114,Thrombectomy with catheter of radial artery by arm incision
+5186711000006118,Thrombosis of mesenteric artery
+2888631000006112,Open coronary artery endarterectomy
+2888601000006116,Thromboendarterectomy of coronary artery by open chest approach
+2888611000006118,Endarterectomy of coronary artery by open chest approach
+2888621000006114,Removal of coronary artery obstruction by open chest approach
+2908801000006110,Removal of thrombus from thoracic artery
+2908811000006113,Thrombectomy of thoracic artery
+2917171000006114,Thromboendarterectomy of thoracic artery
+2919601000006117,Thrombosis of retinal artery
+395795012,Arterial embolus and thrombosis
+300964011,[X]Embolism and thrombosis of other arteries
+300552011,Embolism and thrombosis of other specified artery
+300556014,Embolism and thrombosis of the iliac artery unspecified
+300564015,Arterial embolism and thrombosis NOS
+300563014,Embolism and thrombosis of other arteries NOS
+884631000006118,Arterial embolism/thrombosis
+395794011,Arterial embolic and thrombotic occlusion
+491241000006118,Arterial embolism and thrombosis
+395796013,Embolism and thrombosis of the abdominal aorta
+884641000006111,Embolus/thrombosis abd. aorta
+638871000006114,Embolism and thrombosis of other and unspec parts aorta
+5560171000006116,Aortic thromboembolism
+5593331000006113,Percutaneous thrombolysis of artery
+2953391000006113,Left anterior descending coronary artery thrombosis
+5836801000006110,Brachial artery thrombosis
+5836821000006117,Coeliac artery thrombosis
+5836831000006119,Celiac artery thrombosis
+5836841000006112,Common femoral artery thrombosis
+5836851000006114,CFA - Common femoral artery thrombosis
+5836871000006116,CIA - Common iliac artery thrombosis
+5836861000006111,Common iliac artery thrombosis
+5836911000006118,Profunda femoris artery thrombosis
+5836921000006114,Subclavian artery thrombosis
+5836931000006112,Superficial femoral artery thrombosis
+5837021000006113,Crural artery thrombosis
+5886741000006110,Digital arterial thrombosis
+238621000006112,Percutaneous transluminal thrombolysis of femoral graft using streptokinase
+8100341000006113,Thrombolysis aortofemoral
+8100331000006115,Fluoroscopy guided percutaneous thrombolysis of aorta and femoral artery
+6018611000006116,Head and neck arterial thrombosis
+3007901000006117,Thrombosis of arteries of upper extremity
+3007911000006119,Upper limb arterial thrombosis
+6057161000006118,Percutaneous thrombolysis of lower limb artery
+6057171000006113,Percutaneous thrombolysis of iliac artery
+3029901000006118,Thrombolysis of coronary artery by intravenous infusion
+3508955016,Cerebrovascular accident due to thrombus of basilar artery
+3508956015,Stroke due to basilar artery thrombus
+3508959010,Stroke due to thrombus of right carotid artery
+3508958019,Cerebrovascular accident due to thrombus of right carotid artery
+3508952018,Cerebrovascular accident due to thrombus of left carotid artery
+3508953011,Stroke due to thrombus of left carotid artery
+3040431000006114,Thrombosis of arteries of the extremities
+6348291000006115,Thrombotic stroke
+3104031000006114,Thrombectomy of abdominal artery
+3104041000006116,Removal of thrombus from abdominal artery
+2558931000006110,Thrombectomy with catheter of subclavian artery by neck incision
+3116221000006113,Thromboendarterectomy of abdominal artery
+6581001000006117,Thrombectomy of artery
+1786197015,Coronary thrombosis
+6601131000006115,CT - Coronary thrombosis
+6601121000006118,Coronary artery thrombosis
+1786198013,Thrombosis - coronary
+3141921000006117,Thrombectomy with catheter of carotid artery by neck incision
+6712731000006119,Thrombolysis of artery of lower extremity
+6712721000006117,Thrombolysis of lower limb artery
+6712741000006112,Thrombolysis of iliac artery
+6712751000006114,Thrombolysis of aorta
+6712761000006111,Thrombolysis of upper limb artery
+6712841000006117,Thrombolysis of lower limb artery via brachial artery catheter
+6713251000006110,Thrombectomy of tibioperoneal artery
+6713261000006112,Thrombectomy of tibio-peroneal artery
+6715951000006118,Thrombolysis of iliac artery via femoral artery catheter
+6765361000006119,Pontine artery thrombosis
+6916861000006111,Fluoroscopic angiography and thrombolysis of femoral artery
+6916871000006116,Fluoroscopy and thrombolysis of femoral artery
+6921591000006115,Fluoroscopy and thrombolysis of lower limb artery
+6921581000006118,Fluoroscopic angiography and thrombolysis of lower limb artery
+6922171000006115,Fluoroscopic angiography and thrombolysis of intracranial artery
+6922181000006117,Fluoroscopy and thrombolysis of intracranial artery
+6937301000006112,Fluoroscopic angiography and thrombolysis of upper limb artery
+6937311000006110,Fluoroscopy and thrombolysis of upper limb
+6969941000006114,Coronary artery stent thrombosis
+3184851000006114,Thrombectomy with catheter of popliteal-tibio-peroneal artery by leg incision
+7044101000006112,Internal carotid artery thrombosis
+7044111000006110,Thrombosis internal carotid artery
+7044091000006118,Thrombosis of internal carotid artery
+3186651000006115,Removal of thrombus of aorta
+3186641000006117,Thrombectomy of aorta
+7051581000006114,Thrombosis of posterior communicating artery
+2675878019,Percutaneous transluminal thrombolysis of artery
+7070221000006116,Ulnar artery thrombosis
+7070211000006112,Thrombosis of ulnar artery
+1548401000006112,Percutaneous transluminal thrombolysis and reconstruction of artery
+3191301000006116,Thrombosis of thoracic aorta
+7134071000006111,Percutaneous mechanical thrombectomy of artery of upper limb using fluoroscopic guidance
+7134061000006116,Fluoroscopy guided percutaneous mechanical thrombectomy of artery of upper limb
+7134081000006114,Fluoroscopic guidance for percutaneous mechanical thrombectomy of artery of upper limb
+7134831000006119,Fluoroscopic guidance for percutaneous thrombolysis of renal artery
+7134811000006113,Fluoroscopy guided percutaneous thrombolysis of renal artery
+7134821000006117,Percutaneous thrombolysis of renal artery using fluoroscopic guidance
+7140121000006116,Fluoroscopy guided percutaneous aspiration thrombectomy of artery of upper limb
+7140141000006111,Fluoroscopic guidance for percutaneous aspiration thrombectomy of artery of upper limb
+7140131000006118,Percutaneous aspiration thrombectomy of artery of upper limb using fluoroscopy guidance
+7145171000006112,Fluoroscopy guided percutaneous mechanical thrombectomy of mesenteric artery
+7145191000006113,Fluoroscopic guidance for percutaneous mechanical thrombectomy of mesenteric artery
+7145181000006110,Percutaneous mechanical thrombectomy of mesenteric artery using fluoroscopic guidance
+7149411000006112,Fluoroscopy guided percutaneous aspiration thrombectomy of artery of lower limb
+7149431000006118,Fluoroscopic guidance for percutaneous aspiration thrombectomy of artery of lower limb
+7149421000006116,Percutaneous aspiration thrombectomy of artery of lower limb using fluoroscopy guidance
+7151921000006110,Percutaneous aspiration thrombectomy of mesenteric artery using fluoroscopy guidance
+7151931000006113,Fluoroscopic guidance for percutaneous aspiration thrombectomy of mesenteric artery
+7151911000006119,Fluoroscopy guided percutaneous aspiration thrombectomy of mesenteric artery
+7170941000006114,Percutaneous mechanical thrombectomy of artery of lower limb using fluoroscopic guidance
+7170951000006111,Fluoroscopic guidance for percutaneous mechanical thrombectomy of artery of lower limb
+7170931000006116,Fluoroscopy guided percutaneous mechanical thrombectomy of artery of lower limb
+7174051000006115,Percutaneous thrombolysis of mesenteric artery using fluoroscopic guidance
+7174061000006118,Fluoroscopic guidance for percutaneous thrombolysis of mesenteric artery
+7174041000006117,Fluoroscopy guided percutaneous thrombolysis of mesenteric artery
+7176691000006111,Fluoroscopic guidance for percutaneous thrombolysis of pulmonary artery
+7176681000006113,Percutaneous thrombolysis of pulmonary artery using fluoroscopic guidance
+7176671000006110,Fluoroscopy guided percutaneous thrombolysis of pulmonary artery
+7182701000006116,Fluoroscopy guided percutaneous thrombolysis of transplanted renal artery
+7182721000006114,Fluoroscopic guidance for percutaneous thrombolysis of transplanted renal artery
+7182711000006118,Percutaneous thrombolysis of transplanted renal artery using fluoroscopic guidance
+7218581000006115,Fluoroscopy guided percutaneous thrombolysis of spinal artery
+7218571000006118,Percutaneous thrombolysis of spinal artery using fluoroscopic guidance
+7224521000006115,Percutaneous thrombectomy of cerebral artery using fluoroscopic guidance
+7224531000006117,Fluoroscopy guided percutaneous thrombectomy of cerebral artery
+7234311000006119,Fluoroscopy guided percutaneous thrombolysis of cerebral artery
+7234301000006117,Percutaneous thrombolysis of cerebral artery using fluoroscopic guidance
+7328621000006119,Thromboembolus of precerebral artery
+7376051000006118,Atherosclerotic plaque disruption with thrombosis of artery
+3239381000006119,Thrombectomy with catheter of axillary artery by arm incision
+3279831000006110,Thrombectomy with catheter of innominate artery by thoracic incision
+3286461000006118,Thrombosis of precerebral artery
+3288041000006112,Thrombectomy with catheter of aortoiliac artery by abdominal incision
+3311131000006119,Thrombectomy with catheter of renal artery by abdominal incision
+2582321000006116,Thromboendarterectomy with graft of renal artery
+3342951000006110,"Thromboendarterectomy with graft, combined aortoiliac"
+3345371000006113,Femoral artery thrombosis
+3414421000006116,Left main coronary artery thrombosis
+3439701000006113,Pulmonary artery thrombosis
+3439711000006111,Pulmonary arterial thrombosis
+3480671000006110,Thrombectomy with catheter of ulnar artery by arm incision
+3490941000006110,Thromboembolism of renal arteries
+3533981000006112,Thrombectomy with catheter of coeliac artery by abdominal incision
+3533991000006110,Thrombectomy with catheter of celiac artery by abdominal incision
+3553621000006119,Vertebral artery thrombosis
+3553801000006113,Thrombectomy and repair of arterial graft
+3556281000006114,Thromboendarterectomy with graft of iliac artery
+218541000000116,Arterial thrombosis
+3572891000006110,Removal of thrombus of head and neck artery
+3572881000006112,Thrombectomy of head and neck artery
+3595841000006115,Thrombectomy of lower limb artery
+3595851000006118,Removal of thrombus of lower limb artery
+3611741000006118,"Thromboendarterectomy with graft of femoral, popliteal and tibioperoneal arteries"
+3630261000006111,Thromboendarterectomy with graft of subclavian artery by neck incision
+7507911000006112,Postoperative thromboembolism of precerebral artery
+7507921000006116,Postoperative thromboembolus of precerebral artery
+7598991000006116,Thrombosis of middle cerebral artery
+7617181000006110,Chronic pulmonary thromboembolism
+7617191000006113,Chronic pulmonary thromboembolism without pulmonary hypertension
+7617201000006111,Acute pulmonary thromboembolism
+2509761000006117,Thromboendarterectomy with graft of mesenteric artery
+3658041000006117,Aorto-iliac endarterectomy
+3658031000006110,Aorto-iliac thromboendarterectomy
+3662311000006113,Thrombosis of cerebral arteries
+3662321000006117,Cerebral arterial thrombosis
+3674161000006111,Thrombectomy with catheter of innominate artery by neck incision
+7848681000006119,Acute occlusion of aortoiliac artery co-occurrent and due to thromboembolus
+7848691000006116,Acute thromboembolic aortoiliac occlusion
+7848701000006116,Acute occlusion of artery of lower limb co-occurrent and due to thromboembolus
+7848711000006118,Acute thromboembolic occlusion of artery of lower limb
+7848721000006114,Acute occlusion of aortoiliac artery due to thrombosis
+7848741000006119,Acute thrombotic aortoiliac occlusion
+7848731000006112,Acute occlusion of aortoiliac artery with thrombus
+7848771000006110,Acute thrombotic lower limb arterial occlusion
+7848751000006117,Acute occlusion of artery of lower limb due to thrombosis
+7848761000006115,Acute occlusion of artery of lower limb with thrombosis
+7848791000006111,Thrombotic cardiac embolism
+7848781000006113,Arterial obstruction due to thrombotic embolism from mural thrombus of heart
+7848821000006119,Arterial obstruction due to thrombotic embolism from aneurysm of artery
+7848831000006116,Thrombotic aneurysmal embolism
+3677401000006110,Thromboendarterectomy of upper limb artery
+3681781000006114,Thromboendarterectomy with graft of iliofemoral artery
+7954161000006119,Acute thromboembolic occlusion of artery of upper limb
+7954151000006116,Acute occlusion of artery of upper limb caused by thromboembolus
+7954181000006112,Acute thrombotic occlusion of artery of upper limb
+7954171000006114,Acute occlusion of artery of upper limb caused by thrombus
+3692821000006110,Thrombectomy with catheter of brachial artery by arm incision
+3503835018,Thromboembolus of internal iliac artery
+3503839012,Thromboembolus of external iliac artery
+3511961017,Thrombosis of left carotid artery
+3505702019,Left carotid artery thrombosis
+3511957011,Thrombosis of right carotid artery
+3505842015,Right carotid artery thrombosis
+3511959014,Thrombosis of left middle cerebral artery
+3505883017,Left middle cerebral artery thrombosis
+3505881015,Right middle cerebral artery thrombosis
+3511955015,Thrombosis of right middle cerebral artery
+3721861000006111,Thromboendarterectomy with graft of innominate artery by thoracic incision
+3747121000006115,Thrombectomy with catheter of innominate artery by arm incision
+3759861000006111,Thromboendarterectomy with graft of common femoral artery
+129661016,Thrombotic thrombocytopenic purpura
+3785251000006115,Thrombectomy of aortic arch
+3785261000006118,Removal of thrombus of aortic arch
+7988051000006116,Anterior choroidal artery thrombosis
+3840671000006114,Thrombectomy with catheter of subclavian artery by thoracic incision
+3841221000006118,Iliac artery thrombosis
+3841211000006114,Thrombosis of iliac artery
+3841501000006113,Thromboendarterectomy of lower limb artery
+3861241000006119,Thromboendarterectomy with graft of subclavian artery by thoracic incision
+3865591000006112,Hepatic artery thrombosis
+1848121000006110,Thrombosis of stent of renal artery
+3869401000006116,Removal of thrombus of descending aorta
+3869391000006118,Thrombectomy of descending aorta
+3870991000006119,Abdominal aorta thrombosis
+3870981000006117,Thrombosis of abdominal aorta
+3888971000006112,Thromboendarterectomy with graft of vertebral artery by neck incision
+3892651000006113,Thromboendarterectomy with graft of coeliac artery
+3892661000006110,Thromboendarterectomy with graft of celiac artery
+100771000006112,Carotid artery thrombosis
+2234541000000115,Thrombosis of artery of transplanted kidney
+8302211000006113,Fluoroscopy guided percutaneous mechanical thrombectomy of renal artery
+3918361000006110,Popliteal artery thrombosis
+2639751000006118,Thrombectomy with catheter of subclavian artery by arm incision
+3932731000006114,Basilar artery thrombosis
+2640931000006117,Removal of coronary artery thrombus
+3948791000006110,Thromboarteritis
+3970581000006119,Thromboendarterectomy with graft of deep profunda femoral artery
+3970811000006111,Thromboendarterectomy with graft of axillary-brachial artery
+3978101000006118,Thrombosis of arteries of lower extremity
+3978111000006115,Lower limb arterial thrombosis
+8325701000006119,Fluoroscopy guided percutaneous thrombolysis of hepatic artery
+8325691000006119,Percutaneous thrombolysis of hepatic artery using fluoroscopic guidance
+8325711000006116,Fluoroscopy guided percutaneous thrombolysis of transplanted hepatic artery
+4057071000006119,Cerebellar artery thrombosis
+272032018,Open thrombectomy of femoral artery
+272034017,Open thrombectomy of popliteal artery
+297138017,Myelopathy due to arterial thrombosis of spinal cord
+300534011,Embolism and thrombosis of an arm or leg artery
+300538014,Embolism and thrombosis of an arm artery NOS
+300547018,Embolism and thrombosis of a leg artery NOS
+300550015,Peripheral arterial embolism and thrombosis NOS
+884671000006115,Embolus/thrombus artery NOS
+158317012,Renal artery thrombosis
+1786197015,Coronary thrombosis
+300321011,Cerebral infarction due to thrombosis of cerebral arteries
+449993015,Thrombosis of renal artery bypass graft
