@@ -1,0 +1,345 @@
+MedCodeID,Description
+251636018,H/O: attempted suicide
+4540081000006117,History of attempted suicide
+4911901000006116,Suicide and selfinflicted poisoning by solid and liquid substances
+4911911000006118,"Suicide and selfinflicted poisoning by analgesics, antipyretics and anti-rheumatics"
+119591000006114,Suicide + selfinflicted poisoning by analgesic/antipyretic
+4911931000006112,Suicide and self inflicted injury by amylobarbital
+4911951000006117,Suicide and self inflicted injury by amobarbital
+4911941000006119,Suicide and self inflicted injury by amylobarbitone
+4911961000006115,Suicide and self inflicted injury by Barbitone
+4911971000006110,Suicide and self inflicted injury by Butabarbitone
+4911981000006113,Suicide and self inflicted injury by Pentabarbitone
+4911991000006111,Suicide and self inflicted injury by phenobarbital
+4912001000006113,Suicide and self inflicted injury by phenobarbitone
+4912011000006111,Suicide and self inflicted injury by Quinalbarbitone
+4912021000006115,Suicide and self inflicted injury by secobarbital
+4912031000006117,Suicide and self inflicted injury by barbiturates
+119621000006111,Suicide + selfinflicted poisoning by corrosive/caustic subst
+4912041000006110,Self poisoning by corrosive or caustic substance
+119601000006118,Suicide + selfinflicted poisoning by arsenic + its compounds
+4912061000006114,Self poisoning caused by arsenic or its compounds
+4912051000006112,Self poisoning by arsenic or its compounds
+4912071000006119,Suicide and selfinflicted poisoning by gases in domestic use
+331542015,Suicide and selfinflicted poisoning by other utility gas
+119631000006114,Suicide + selfinflicted poisoning by domestic gases NOS
+902551000006113,Suicide - domestic gas
+119671000006112,Suicide + selfinflicted poisoning by gases in domestic use
+119651000006119,Suicide and selfinflicted poisoning by gas distributed by pipeline
+119681000006110,Suicide and selfinflicted poisoning by liquefied petroleum gas distributed in mobile containers
+119691000006113,Suicide + selfinflicted poisoning by motor veh exhaust gas
+4912111000006110,Self poisoning caused by motor vehicle exhaust gas
+4912101000006112,Self poisoning by motor vehicle exhaust gas
+902571000006115,Suicide - car exhaust
+4912131000006116,"Suicide and selfinflicted injury by hanging, strangulation and suffocation"
+902631000006119,Suicide - drowning
+4912151000006111,Suicide and selfinflicted injury by drowning
+4912161000006113,Suicide or selfinflicted injury by firearms and explosives
+902651000006114,Suicide - firearms
+119901000006111,Suicide and selfinflicted injury by cutting and stabbing
+902671000006116,Suicide - cut/stab
+4912221000006112,Suicide or selfinflicted injury by cutting and stabbing
+4912271000006113,Suicide and selfinflicted injury by jumping from residential premises
+4912281000006111,Suicide and selfinflicted injury by jumping from natural sites
+4912291000006114,Suicide and selfinflicted injury by jumping or lying before moving object
+4912301000006110,Suicide and selfinflicted injury by jumping before moving object
+4912311000006113,Suicide and selfinflicted injury by lying before moving object
+4912331000006119,Suicide or self injury by scalding
+4912381000006118,"Suicide and selfinflicted injury by caustic substances, excluding poisoning"
+388731000006117,"[X]Hanging, strangulation and suffocation, undetermined intent, occurrence at unspecified place"
+388631000006114,"[X]Hanging, strangulation and suffocation, undetermined intent, occurrence at school, other institution and public administrative area"
+388681000006110,"[X]Hanging, strangulation and suffocation, undetermined intent, occurrence at sports and athletics area"
+388721000006115,"[X]Hanging, strangulation and suffocation, undetermined intent, occurrence at other specified place"
+388691000006113,"[X]Hanging, strangulation and suffocation, undetermined intent, occurrence at trade and service area"
+388711000006111,"[X]Hanging, strangulation and suffocation, undetermined intent, occurrence on street and highway"
+388661000006117,"[X]Hanging, strangulation and suffocation undetermined intent"
+388641000006116,"[X]Hanging, strangulation and suffocation, undetermined intent, occurrence at home"
+388671000006112,"[X]Hanging, strangulation and suffocation, undetermined intent, occurrence in residential institution"
+388701000006113,"[X]Hanging, strangulation and suffocation, undetermined intent, occurrence at industrial and construction area"
+4913221000006119,"Hanging, strangulation or suffocation of unknown intent"
+776371000006110,"Injury ?accidental, hanging, strangulation and suffocation"
+388651000006119,"[X]Hanging, strangulation and suffocation, undetermined intent, occurrence on farm"
+4913231000006116,Hanging of unknown intent
+776361000006115,"Injury ?accidental, hanging"
+746941000006116,"Injury ?accidental, suffocation by plastic bag"
+4913241000006114,Suffocation of unknown intent by plastic bag
+379101000006111,"[X]Drowning and submersion, undetermined intent, occurrence at trade and service area"
+379081000006115,"[X]Drowning and submersion, undetermined intent, occurrence on street and highway"
+378741000006118,"[X]Drowning and submersion, undetermined intent, occurrence at school, other institution and public administrative area"
+379061000006113,"[X]Drowning and submersion, undetermined intent, occurrence at industrial and construction area"
+4913251000006111,Drowning or immersion of unknown intent
+379091000006117,"[X]Drowning and submersion, undetermined intent, occurrence at sports and athletics area"
+335437015,"[X]Drowning and submersion, undetermined intent"
+379071000006118,"[X]Drowning and submersion, undetermined intent, occurrence in residential institution"
+776301000006116,"Injury ?accidental, drowning"
+379241000006116,"[X]Drowning and submersion, undetermined intent, occurrence at unspecified place"
+379231000006114,"[X]Drowning and submersion, undetermined intent, occurrence at other specified place"
+379121000006118,"[X]Drowning and submersion, undetermined intent, occurrence on farm"
+379111000006114,"[X]Drowning and submersion, undetermined intent, occurrence at home"
+776111000006116,"Injury ?accidental, by cutting or stabbing instrument NOS"
+737011000006115,"Injury ?accidental, by cutting and stabbing instruments"
+4913321000006114,Injury of unknown intent by sharp instrument
+4934361000006110,Shooting self
+4934381000006117,Jumping in front of vehicle
+4934371000006115,Throwing self in front of vehicle
+392771000006116,"[X]Intentional self harm by jumping or lying before moving object, occurrence at home"
+391261000006111,"[X]Intentional self harm by jumping or lying before moving object, occurrence at industrial and construction area"
+392761000006111,"[X]Intentional self harm by jumping or lying before moving object, occurrence on farm"
+391221000006117,"[X]Intentional self harm by jumping or lying before moving object, occurrence at trade and service area"
+391231000006119,"[X]Intentional self harm by jumping or lying before moving object, occurrence at school, other institution and public administrative area"
+391271000006116,"[X]Intentional self harm by jumping or lying before moving object, occurrence in residential institution"
+391211000006113,"[X]Intentional self harm by jumping or lying before moving object, occurrence at sports and athletics area"
+391241000006112,"[X]Intentional self harm by jumping or lying before moving object, occurrence at other specified place"
+391251000006114,"[X]Intentional self harm by jumping or lying before moving object, occurrence at unspecified place"
+391281000006118,"[X]Intentional self harm by jumping or lying before moving object, occurrence on street and highway"
+4934391000006119,Throwing self in front of train
+4934401000006117,Jumping under train
+4934411000006119,Jumping from cliff
+4935641000006119,Cutting own throat
+4935651000006117,Jumping from bridge
+4935661000006115,Jumping from building
+4935671000006110,Jumping from height
+4935681000006113,Hanging self
+4935691000006111,Drowning self
+2870481000006117,Previous known suicide attempt
+119741000006110,Suicide + selfinflicted poisoning by solid/liquid subst NOS
+119751000006112,Self poisoning by non-drug solid or liquid agents
+5179341000006117,Self poisoning by paraquat
+425881000006118,[X]Self poisoning with paraquat
+5179351000006115,Self poisoning by plants or parts of plants
+119721000006115,Suicide + selfinflicted poisoning by other gases and vapours
+119661000006117,Suicide + selfinflicted poisoning by gases and vapours NOS
+5179361000006118,Self poisoning by gas
+119731000006117,Suicide + selfinflicted poisoning by other gases and vapours
+5179381000006111,Self poisoning caused by carbon monoxide
+5179371000006113,Self poisoning by carbon monoxide
+5179401000006111,Self poisoning caused by coal gas
+5179391000006114,Self poisoning by coal gas
+5513141000006117,Suicide and self harm
+902521000006116,Suicide - successful
+991091000006116,Suicide - NOS
+5513131000006110,Suicide and selfinflicted injury
+5513151000006115,Suicide and selfinflicted injury by suffocation by plastic bag
+5513161000006118,Suicide or attempted suicide by suffocation with plastic bag
+902611000006113,Suicide - suffocate
+902581000006117,Attempt suicide - car exhaust
+5513511000006112,Attempt suicide - car exhaust
+391791000006113,[X]Int self poison other gas/vapour in sport/athletic area
+392121000006118,[X]Int self poison/exposure to other/unspec drug/medicament
+392081000006115,[X]Int self poison/exposure to oth/unsp drug/medic on farm
+391931000006111,[X]Int self poison unspecif chemical school/pub admin area
+393971000006110,[X]Intent self poison/exposure to unspecif chemical
+391801000006114,[X]Int self poison other gas/vapour other spec place
+391781000006110,[X]Int self poison oth/unsp drug/medic other spec place
+393501000006113,[X]Intent self pois other gas/vapour trade/service area
+393881000006118,[X]Intentional self poisoning by and exposure to antiparkinson drugs
+392091000006117,[X]Int self poison/exposure to oth/unsp drug/medicam home
+5532271000006119,Self-administered intentional poisoning
+394291000006118,[X]Intentional self poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours
+391771000006112,[X]Int self poison oth/uns drug/med school/pub admin area
+393871000006116,[X]Intentional self poisoning by and exposure to antiepileptics
+391491000006116,[X]Int self pois unspecif chemical indust/construct area
+393891000006115,[X]Intentional self poisoning by and exposure to hallucinogens
+391811000006112,[X]Int self poison other gas/vapour school/pub admin area
+391921000006113,[X]Int self poison unspecif chemical other spec place
+392201000006118,[X]Int self poison/exposure to unspecif chemical on farm
+393921000006114,[X]Intentional self poisoning by and exposure to other autonomic drugs
+393841000006112,[X]Intent self poison unspecif chemical at res institut
+393951000006117,[X]Intentional self poisoning by and exposure to psychotropic drugs
+391441000006113,[X]Int self pois oth/unsp drug/medic indust/construct area
+393861000006111,[X]Intentional self poisoning by and exposure to alcohol
+393571000006119,[X]Intent self pois unspecif chemical in street/highway
+391451000006110,[X]Int self pois other gas/vapour indust/construct area
+392111000006114,[X]Int self poison/exposure to other gas/vapour on farm
+392101000006111,[X]Int self poison/exposure to other gas/vapour at home
+391761000006117,[X]Int self poison oth/uns drug/med in sport/athletic area
+119641000006116,Intentional self poisoning
+393761000006118,[X]Intent self poison other gas/vapour at res institut
+220641000006117,Deliberate self poisoning
+393851000006114,[X]Intent self poison unspecif chemical unspecif place
+393471000006118,[X]Intent self pois oth/unsp drug/medic in street/highway
+393961000006115,[X]Intentional self poisoning by and exposure to sedative hypnotics
+391911000006117,[X]Int self poison unspecif chemical in sport/athletic area
+393491000006117,[X]Intent self pois other gas/vapour in street/highway
+425831000006119,[X]Self carbon monoxide poisoning
+393581000006116,[X]Intent self pois unspecif chemical trade/service area
+392191000006116,[X]Int self poison/exposure to unspecif chemical at home
+393481000006115,[X]Intent self pois oth/unsp drug/medic trade/service area
+393751000006115,[X]Intent self poison oth/unsp drug/medicam res institut
+334743014,[X]Self poisoning from glue solvent
+331546017,Suicide and selfinflicted poisoning by other carbon monoxide
+392151000006110,"[X]Intentional self poisoning by and exposure to psychotropic drugs, occurrence at home"
+393931000006112,[X]Intent self poison/exposure to other gas/vapour
+393741000006117,[X]Intent self poison oth/unsp drug/medic unspecif place
+393771000006113,[X]Intent self poison other gas/vapour unspecif place
+776421000006115,"Injury ?accidental, poisoning by agricultural chemicals"
+119581000006111,Suicide + selfinflicted poisoning by agricultural chemical
+5567621000006111,Self poisoning by agricultural chemical
+410813016,[X]Self poisoning with weedkiller
+5567641000006116,Self poisoning with weedkiller
+392941000006110,"[X]Intentional self harm by smoke, fire and flames, occurrence at trade and service area"
+392991000006118,"[X]Intentional self harm by smoke, fire and flames, occurrence at unspecified place"
+392971000006119,"[X]Intentional self harm by smoke, fire and flames, occurrence on street and highway"
+392921000006115,"[X]Intentional self harm by smoke, fire and flames, occurrence at industrial and construction area"
+392961000006114,"[X]Intentional self harm by smoke, fire and flames, occurrence in residential institution"
+392981000006116,"[X]Intentional self harm by smoke, fire and flames, occurrence at school, other institution and public administrative area"
+5692031000006111,Burning self
+392951000006112,"[X]Intentional self harm by smoke, fire and flames, occurrence at other specified place"
+394091000006114,"[X]Intentional self harm by smoke, fire and flames, occurrence on farm"
+392931000006117,"[X]Intentional self harm by smoke, fire and flames, occurrence at sports and athletics area"
+5692201000006114,Stabbing self
+902601000006110,Attempt suicide - hanging
+119991000006116,Attempted suicide - hanging
+902621000006117,Attempt suicide - suffocate
+5722791000006114,Attempted suicide - suffocation
+902641000006112,Attempt suicide - drowning
+5722801000006110,Attempted suicide - drowning
+331555019,Suicide and selfinflicted injury by drowning
+119971000006117,Suicide and selfinflicted injury by firearms/explosives NOS
+120021000006116,Suicide and selfinflicted injury by military firearms
+5722811000006113,Attempted suicide - firearms
+902661000006111,Attempt suicide - firearms
+119981000006119,Suicide and selfinflicted injury by handgun
+120081000006117,Suicide and selfinflicted injury by shotgun
+120001000006114,Suicide and selfinflicted injury by hunting rifle
+331561016,Suicide and selfinflicted injury by other firearm
+119961000006112,Suicide and selfinflicted injury by firearms and explosives
+5722821000006117,Attempted suicide - cut/stab
+902681000006118,Attempt suicide - cut/stab
+392791000006115,"[X]Intentional self harm by jumping from a high place, occurrence at home"
+391121000006110,"[X]Intentional self harm by jumping from a high place, occurrence at industrial and construction area"
+391201000006110,"[X]Intentional self harm by jumping from a high place, occurrence at school, other institution and public administrative area"
+392731000006119,"[X]Intentional self harm by jumping from a high place, occurrence on street and highway"
+120191000006118,Suicide+selfinflicted injury-jump from residential premises
+392801000006119,"[X]Intentional self harm by jumping from a high place, occurrence on farm"
+120011000006112,Suicide and selfinflicted injury by jumping from high place
+391131000006113,"[X]Intentional self harm by jumping from a high place, occurrence at other specified place"
+334908015,Attempted suicide - jumping from a high place
+392741000006112,"[X]Intentional self harm by jumping from a high place, occurrence at sports and athletics area"
+120171000006119,Suicide+selfinflicted injury-jump from natural sites
+392751000006114,"[X]Intentional self harm by jumping from a high place, occurrence at trade and service area"
+120161000006114,Suicide+selfinflicted injury-jump from high place NOS
+902701000006115,Attempt suicide-jump from high
+120181000006116,Suicide+selfinflicted injury-jump from oth manmade structure
+392721000006117,"[X]Intentional self harm by jumping from a high place, occurrence in residential institution"
+5722831000006119,Attempted suicide - jumping from a high place
+902561000006110,Attempt suicide - domestic gas
+5731481000006113,Attempt suicide - domestic gas
+5970041000006112,Cutting own wrists
+3082621000006116,First known suicide attempt
+6242251000006119,Self-administered poisoning
+6346321000006113,"Patient suicide, or attempted suicide resulting in serious disability, whilst being cared for in a healthcare facility"
+6346331000006111,"Patient suicide, or attempted suicide resulting in serious disability, while being cared for in a healthcare facility"
+6926551000006116,"Exposure to potentially harmful entity, undetermined intent"
+7088351000006110,Found hanging self
+3373211000006113,Suicide attempt by adequate means
+3402121000006116,Unsuccessful suicide attempt
+3402101000006114,Suicide attempt by inadequate means
+3402111000006112,Suicide gesture
+3402131000006118,Parasuicide
+991081000006119,Attempt suicide - NOS
+366461000006115,[X]Attempted suicide
+498561000006113,Suicide attempt
+119531000006110,Suicide + selfinflicted injury by hang/strangulate/suffocate
+902591000006119,Suicide - hanging
+119511000006116,Suicide + selfinflicted inj oth mean hang/strangle/suffocate
+119501000006119,Suicide + selfinflicted inj by hang/strangle/suffocate NOS
+119941000006113,Suicide and selfinflicted injury by explosives
+119891000006112,Suicide and selfinflicted injury by cutting
+120091000006119,Suicide and selfinflicted injury by stabbing
+119911000006114,Suicide and selfinflicted injury by cutting and stabbing NOS
+902691000006115,Suicide - jump from high
+331574010,Suicide and selfinflicted injury by other means
+119551000006115,Suicide + selfinflicted injury-jump/lie before moving object
+119561000006118,Suicide + selfinflicted injury-jumping before moving object
+119571000006113,Suicide + selfinflicted injury-lying before moving object
+119521000006112,Suicide + selfinflicted inj-jump/lie before moving obj NOS
+119861000006116,Suicide and selfinflicted injury by burns or fire
+120071000006115,Suicide and selfinflicted injury by scald
+119951000006110,Suicide and selfinflicted injury by extremes of cold
+119931000006115,Suicide and selfinflicted injury by electrocution
+119871000006111,Suicide and selfinflicted injury by crashing motor vehicle
+119881000006114,Suicide and selfinflicted injury by crashing of aircraft
+120101000006113,"Suicide and selfinflicted injury caustic subst, excl poison"
+331586013,Suicide and selfinflicted injury by other specified means
+331587016,Suicide and selfinflicted injury by other means NOS
+331589018,Suicide and selfinflicted injury NOS
+902721000006113,Attempt suicide - NOS
+902711000006117,Suicide - NOS
+392671000006114,Self-destructive behavior
+392661000006119,[X]Intent self harm by hanging strangulat/suffocat occ home
+392701000006110,[X]Intent self harm by hangng strangult/suffoct resid instit
+392261000006117,[X]Inten slf harm hang strang/suffc sch oth ins/pub adm area
+392631000006111,[X]Intent self harm by hang strangl/suffc sport/athlet area
+392711000006113,[X]Intent self harm by hangng strangult/suffoct street/h'way
+392641000006118,[X]Intent self harm by hang strangl/suffc trade/service area
+392621000006113,[X]Intent self harm by hang strangl/suffc indust/constr area
+392651000006116,[X]Intent self harm by hanging strangulat/suffocat occ farm
+392681000006112,[X]Intent self harm by hangng strangul/suffoct oth spec plce
+392691000006110,[X]Intent self harm by hangng strangul/suffoct unspecif plce
+334805018,[X]Intentional self harm by drowning and submersion
+392451000006118,"[X]Intentional self harm by drowning and submersion, occurrence at home"
+392471000006111,"[X]Intentional self harm by drowning and submersion, occurrence in residential institution"
+393131000006114,"[X]Intentional self harm by drowning and submersion, occurrence at school, other institution and public administrative area"
+392421000006110,"[X]Intentional self harm by drowning and submersion, occurrence at sports and athletics area"
+392481000006114,"[X]Intentional self harm by drowning and submersion, occurrence on street and highway"
+392431000006113,"[X]Intentional self harm by drowning and submersion, occurrence at trade and service area"
+392401000006117,"[X]Intentional self harm by drowning and submersion, occurrence at industrial and construction area"
+392461000006116,"[X]Intentional self harm by drowning and submersion, occurrence on farm"
+392411000006119,"[X]Intentional self harm by drowning and submersion, occurrence at other specified place"
+392441000006115,"[X]Intentional self harm by drowning and submersion, occurrence at unspecified place"
+334817016,[X]Intentional self harm by handgun discharge
+394041000006117,"[X]Intentional self harm by handgun discharge, occurrence at home"
+392571000006110,"[X]Intentional self harm by handgun discharge, occurrence in residential institution"
+393141000006116,"[X]Intentional self harm by handgun discharge, occurrence at school, other institution and public administrative area"
+392601000006115,"[X]Intentional self harm by handgun discharge, occurrence at sports and athletics area"
+392591000006111,"[X]Intentional self harm by handgun discharge, occurrence on street and highway"
+392611000006117,"[X]Intentional self harm by handgun discharge, occurrence at trade and service area"
+392581000006113,"[X]Intentional self harm by handgun discharge, occurrence at industrial and construction area"
+394051000006115,"[X]Intentional self harm by handgun discharge, occurrence on farm"
+392551000006117,"[X]Intentional self harm by handgun discharge, occurrence at other specified place"
+392561000006115,"[X]Intentional self harm by handgun discharge, occurrence at unspecified place"
+392871000006113,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge"
+393261000006112,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at home"
+391291000006115,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence in residential institution"
+392211000006115,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at school, other institution and public administrative area"
+391331000006110,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at sports and athletics area"
+391301000006119,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence on street and highway"
+391341000006117,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at trade and service area"
+392221000006111,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at industrial and construction area"
+393251000006110,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence on farm"
+391321000006112,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at other specified place"
+391311000006116,"[X]Intentional self harm by rifle, shotgun and larger firearm discharge, occurrence at unspecified place"
+392861000006118,[X]Intentional self harm by other and unspecified firearm discharge
+393231000006115,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at home"
+393191000006113,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence in residential institution"
+392231000006114,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at school, other institution and public administrative area"
+392251000006119,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at sports and athletics area"
+393201000006111,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence on street and highway"
+393181000006110,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at trade and service area"
+392241000006116,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at industrial and construction area"
+393241000006113,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence on farm"
+393221000006118,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at other specified place"
+393211000006114,"[X]Intentional self harm by other and unspecified firearm discharge, occurrence at unspecified place"
+404266014,Suicide and self harm
+413175018,Injury - self-inflicted
+250291000006113,Parasuicide
+404265013,Suicide and selfinflicted injury
+539941000006110,Intentional drug overdose
+119611000006115,Suicide + selfinflicted poisoning by barbiturates
+345851000000113,Suicide and self inflicted injury by amobarbital
+331522012,Suicide and self inflicted injury by Amylobarbitone
+331523019,Suicide and self inflicted injury by Barbitone
+331524013,Suicide and self inflicted injury by Butabarbitone
+331525014,Suicide and self inflicted injury by Pentabarbitone
+2475831012,Suicide and self inflicted injury by Phenobarbital
+331526010,Suicide and self inflicted injury by Phenobarbitone
+2475832017,Suicide and self inflicted injury by secobarbital
+331527018,Suicide and self inflicted injury by Quinalbarbitone
+331528011,Suicide and self inflicted injury by barbiturates
+119701000006113,Suicide + selfinflicted poisoning by oth sedatives/hypnotics
+119761000006114,Suicide + selfinflicted poisoning tranquilliser/psychotropic
+119711000006111,Intentional poisoning by drug
+902541000006111,Attempt suicide -drug overdose
+902531000006118,Suicide - drug overdose
+119541000006117,Suicide + selfinflicted injury by suffocation by plastic bag
