@@ -1,0 +1,54 @@
+CTV3Codes,Description
+XaDyH,Endocarditis
+X200h,Infective endocarditis
+Xa7tF,Bacterial endocarditis
+G5100,Acute bacterial endocarditis
+G5112,Gonococcal endocarditis
+G5113,Meningococcal endocarditis
+G5114,Endocarditis - typhoid
+G5101,Subacute bacterial endocarditis
+G5102,Chronic bacterial endocarditis
+G5116,Endocarditis - Q fever
+XE0Rp,Syphilitic endocarditis
+A9320,Syphilitic endocarditis of unspecified valve
+A9321,Syphilitic endocarditis of mitral valve
+A9323,Syphilitic endocarditis of tricuspid valve
+A9324,Syphilitic endocarditis of pulmonary valve
+A932z,Syphilitic endocarditis of heart valve NOS
+XE0Us,Acute and subacute bacterial endocarditis
+G510z,Acute and subacute bacterial endocarditis NOS
+Xa0kU,Syphilitic endocarditis of aortic valve
+AB2y0,Candidal endocarditis
+X200i,Rickettsial endocarditis
+X200j,Fungal endocarditis
+G5110,Endocarditis - monilial
+G5115,Endocarditis - blastomycosis
+AB404,Histoplasma capsulatum with endocarditis
+X200m,Prosthetic valve endocarditis
+A2704,Listerial endocarditis
+A7422,Coxsackie endocarditis
+G511.,Acute and subacute infective endocarditis in diseases EC
+G511z,"Infective endocarditis in diseases EC, NOS"
+X200l,Non-bacterial thrombotic endocarditis
+X200k,Culture-negative endocarditis
+Xa3fP,Rheumatic endocarditis
+G011.,Acute rheumatic endocarditis
+XE0Ua,Rheumatic endocarditis NOS
+G51..,Acute and subacute endocarditis
+G51z.,Acute and subacute endocarditis unspecified
+G51z0,Acute endocarditis NOS
+G51z1,Acute myoendocarditis NOS
+G51z2,Acute periendocarditis NOS
+G51z3,Subacute endocarditis NOS
+G51z4,Subacute myoendocarditis NOS
+G51z5,Subacute periendocarditis NOS
+G51zz,"Acute and subacute endocarditis unspecified, NOS"
+G54z.,"Endocarditis, valve unspecified"
+G54z3,"Endocarditis, valve unspecified, OS"
+G54z4,Endocarditis in disease EC
+G54zz,"Endocarditis, valve unspecified, NOS"
+Gyu5E,"[X]Endocarditis, valve unspecified, in diseases classified elsewhere"
+Xa3fU,Non-rheumatic endocarditis NOS
+AB4z4,Histoplasmosis with endocarditis
+AB414,Histoplasma duboisii with endocarditis
+N0001,Libman-Sacks disease

@@ -1,0 +1,44 @@
+V2Codes,Description
+AB2y0,Candidal endocarditis
+A7422,Coxsackie endocarditis
+A2704,Listerial endocarditis
+A932.,Syphilitic endocarditis
+A9320,Syphilitic endocarditis of unspecified valve
+A9321,Syphilitic endocarditis of mitral valve
+A9322,Syphilitic endocarditis of aortic valve
+A9323,Syphilitic endocarditis of tricuspid valve
+A9324,Syphilitic endocarditis of pulmonary valve
+A932z,Syphilitic endocarditis of heart valve NOS
+A98y3,Gonococcal endocarditis
+A3642,Meningococcal endocarditis
+G011.,Acute rheumatic endocarditis
+G51..,Acute and subacute endocarditis
+G510.,Acute and subacute bacterial endocarditis
+G5100,Acute bacterial endocarditis
+G5101,Subacute bacterial endocarditis - SBE
+G5102,Chronic bacterial endocarditis
+G510z,Acute and subacute bacterial endocarditis NOS
+G511.,Acute and subacute infective endocarditis in diseases EC
+G5110,Endocarditis - monilial
+G5111,Endocarditis - coxsackie
+G5112,Endocarditis - gonococcal
+G5113,Endocarditis - meningococcal
+G5114,Endocarditis - typhoid
+G5115,Endocarditis - blastomycosis
+G5116,Endocarditis - Q fever
+G511z,"Infective endocarditis in diseases EC, NOS"
+G51z.,Acute and subacute endocarditis unspecified
+G51z0,Acute endocarditis NOS
+G51z1,Acute myoendocarditis NOS
+G51z2,Acute periendocarditis NOS
+G51z3,Subacute endocarditis NOS
+G51z4,Subacute myoendocarditis NOS
+G51z5,Subacute periendocarditis NOS
+G51zz,"Acute and subacute endocarditis unspecified, NOS"
+AB414,Histoplasma duboisii with endocarditis
+AB404,Histoplasma capsulatum with endocarditis
+G54z.,"Endocarditis, valve unspecified"
+G54z3,"Endocarditis, valve unspecified, NOS"
+G54z4,Endocarditis in disease EC
+G54zz,"Endocarditis, valve unspecified, NOS"
+N0001,Libman-Sacks disease
