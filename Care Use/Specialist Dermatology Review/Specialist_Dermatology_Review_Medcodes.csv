@@ -1,0 +1,63 @@
+MedCodeID,Description
+2740191000000118,Dermatology shared care monitoring
+2740211000000119,Dermatology shared care specialist review
+2740231000000110,Dermatology shared care GP review
+283598012,Dermatological referral
+4724201000006112,Referral to dermatology service
+283852019,Dermatology self-referral
+4725981000006113,Dermatology domiciliary visit requested
+283867015,Dermatology D.V. requested
+4726581000006113,Dermatology domiciliary visit done
+283927017,Dermatology D.V. done
+4727161000006114,Listed for Dermatology admission
+12488071000006114,Listed for Dermatology admissn
+283963017,Listed for Dermatology admission
+284110017,Private referral to dermatologist
+285477011,Dermatology outreach clinic
+285485019,In-house dermatology
+307361000000115,In-house dermatology first appointment
+307391000000114,In-house dermatology follow-up appointment
+2845231000006110,Free-standing dermatology clinic
+1561621000006116,Referral to dermatology special interest general practitioner
+2899761000006119,"Dermatology consultation and report, comprehensive"
+405040010,Seen in dermatology clinic
+2984101000006112,"Dermatology consultation and report, brief"
+5938301000006113,Admission by dermatologist
+447915018,Under care of dermatologist
+5943541000006113,Seen by dermatologist
+5945431000006115,Seen by dermatology service
+5948101000006111,Referral from dermatologist
+5948091000006117,Referral by dermatologist
+5953351000006117,Referral for dermatology DV
+5953341000006119,Referral for dermatology domiciliary visit
+5956101000006113,Discharge by dermatologist
+5958121000006116,Discharge from dermatology service
+451825013,Referral to dermatologist
+1681031000006115,Seen by general practitioner with special interest in dermatology
+1680461000006112,Dermatology management plan given - enhanced services administration
+680801000000119,Dermatology management plan given
+3104821000006118,Hospital-based outpatient dermatology clinic
+754341000000119,Seen in fast track suspected skin cancer clinic
+2533379011,Referral to dermatology nurse specialist
+6886981000006117,Referral to pediatric dermatology service
+2548477010,Referral to paediatric dermatology service
+6890051000006114,Referral to paediatric service for acne
+6890061000006111,Referral to pediatric service for acne
+1120171000000114,Referral to dermatology clinical assessment service
+1137101000000119,Referral to eczema clinic
+7532541000006111,Dermatology service
+7567331000006115,Dermatology clinic
+7567961000006111,Paediatric dermatology clinic
+7567971000006116,Pediatric dermatology clinic
+3687641000006115,Dermatology consultation and report
+1757131000000116,Referral to community dermatology service
+2171371000000116,Referral to teledermatology service
+307421000000115,Discharge from in-house dermatology
+2222281000000116,Dermatology assessment
+2254351000000110,On dermatology care pathway
+8304371000006117,Dermatology care pathway
+2297371000000119,Internal practice dermatology referral
+8314211000006115,Paediatric dermatology service
+2444741000000112,Paediatric dermatology care plan
+586951000006112,Non-urgent dermatology admission
+411632015,Wart clinic
