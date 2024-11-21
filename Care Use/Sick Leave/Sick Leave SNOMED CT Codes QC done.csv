@@ -1,0 +1,8 @@
+SNOMEDCTCodes,Description
+224453000,Requesting sick leave (finding)
+276076006,Excess sick leave (finding)
+224459001,On sick leave from work (finding)
+1421000000108,Forces sickness on leave certificate (record artifact)
+307906008,Forces sickness on leave certification status (finding)
+184752002,Forces sickness on leave certification - fee not paid (finding)
+184753007,Forces sickness on leave certification - receipt given (finding)
