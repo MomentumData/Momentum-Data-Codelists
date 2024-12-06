@@ -1,0 +1,63 @@
+V2Codes,Description
+F5615,Benign paroxysmal positional vertigo
+F5611,Benign paroxysmal positional vertigo or nystagmus
+F560.,Meniere's disease
+F5600,Unspecified Meniere's disease
+F5601,Active cochleovestibular Meniere's disease
+F5602,Active cochlear Meniere's disease
+F5603,Active vestibular Meniere's disease
+F560z,Meniere's disease NOS
+1491.,H/O: Meniere's disease
+F5612,Acute vestibular neuronitis
+F561.,Other and unspecified peripheral vertigo
+F5610,Unspecified peripheral vertigo
+F5613,Recurrent vestibular neuronitis
+F5614,Otogenic vertigo
+F561z,Other peripheral vertigo NOS
+F563.,Labyrinthitis
+F5631,Serous labyrinthitis
+F5630,Unspecified labyrinthitis
+F5632,Circumscribed labyrinthitis
+F5633,Suppurative labyrinthitis
+F5634,Ototoxicity - labyrinthine
+F5635,Viral labyrinthitis
+F563z,Labyrinthitis NOS
+F564.,Labyrinthine fistula
+F5640,Unspecified labyrinthine fistula
+F5641,Labyrinthine round window fistula
+F5642,Labyrinthine oval window fistula
+F5643,Semicircular canal fistula
+F564y,Labyrinthine fistula of combined sites
+F564z,Labyrinthine fistula NOS
+F565.,Labyrinthine dysfunction
+F5650,Unspecified labyrinthine dysfunction
+F5652,Hyperactive bilateral labyrinthine dysfunction
+F5651,Hyperactive unilateral labyrinthine dysfunction
+F5654,Hypoactive bilateral labyrinthine dysfunction
+F5653,Hypoactive unilateral labyrinthine dysfunction
+F5655,Labyrinthine unilateral reactive loss
+F5656,Labyrinthine bilateral reactive loss
+F565z,Labyrinthine dysfunction NOS
+F553.,Cholesteatoma and aural polyp
+F5530,Unspecified cholesteatoma
+F5531,Cholesteatoma of attic
+F5532,Cholesteatoma of middle ear
+F5533,Cholesteatoma of middle ear and mastoid
+F5534,Diffuse cholesteatosis
+F553z,Cholesteatoma of middle ear and mastoid NOS
+F5020,External ear cholesteatoma
+F5332,Recurrent cholesteatoma postmastoidectomy
+F5915,Ototoxicity - deafness
+SN30.,"Barotrauma, otitic"
+A5311,Ramsay - Hunt syndrome
+F5811,Acoustic explosive ear trauma
+F51y0,Eustachian tube dysfunction
+F57..,Otosclerosis
+F570.,Otosclerosis - nonobliterative
+F571.,Otosclerosis - obliterative
+F572.,Cochlear otosclerosis
+F57y.,Other otosclerosis
+F57z.,Otosclerosis NOS
+B7F10,Acoustic neuroma
+BBe5.,[M]Acoustic neuroma
+F4A51,Cogan's syndrome

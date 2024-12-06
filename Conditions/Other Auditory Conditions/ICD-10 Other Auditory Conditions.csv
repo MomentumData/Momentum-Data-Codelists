@@ -1,0 +1,16 @@
+ICD10Codes,Description
+H80.2,Cochlear otosclerosis
+H81.0,Ménière disease
+H81.1,Benign paroxysmal vertigo
+H81.2,Vestibular neuronitis
+H81.3,Other peripheral vertigo
+H83.0,Labyrinthitis
+H83.1,Labyrinthine fistula
+H83.2,Labyrinthine dysfunction
+H83.3,Noise effects on inner ear
+H83.8,Other specified diseases of inner ear
+H83.9,"Disease of inner ear, unspecified"
+H71,Cholesteatoma of middle ear
+H60.4,Cholesteatoma of external ear
+H95.0,Recurrent cholesteatoma of postmastoidectomy cavity
+S04.6,Injury of acoustic nerve

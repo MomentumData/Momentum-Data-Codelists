@@ -1,0 +1,78 @@
+CTV3Codes,Description
+X00ik,Otitis media
+X00ip,Acute otitis media
+F520.,Acute suppurative otitis media
+F5200,Acute suppurative otitis media - tympanic membrane intact
+F5201,Acute suppurative otitis media - tympanic membrane ruptured
+X00iq,Recurrent acute suppurative otitis media
+F5203,Acute suppurative otitis media due to disease EC
+F520z,Acute suppurative otitis media NOS
+F510.,Acute non-suppurative otitis media
+F5102,Acute non-suppurative otitis media - mucoid
+F5105,Acute allergic mucoid otitis media
+F5101,Acute non-suppurative otitis media - serous
+F5104,Acute allergic serous otitis media
+F5103,Acute non-suppurative otitis media - sanguinous
+F5106,Acute allergic sanguinous otitis media
+F510z,Acute non-suppurative otitis media NOS
+FyuP0,[X]Other acute non-suppurative otitis media
+F525.,Recurrent acute otitis media
+X00ir,Recurrent acute non-suppurative otitis media
+F526.,Acute left otitis media
+F527.,Acute right otitis media
+XE2QD,Acute otitis media with effusion
+F528.,Acute bilateral otitis media
+X00is,Chronic otitis media
+X00it,Chronic suppurative otitis media
+F521.,Chronic suppurative otitis media - tubotympanic
+F522.,Chronic suppurative otitis media - atticoantral
+F523.,Chronic suppurative otitis media NOS
+FyuP2,[X]Other chronic suppurative otitis media
+X00iu,Chronic non-suppurative otitis media
+X00iv,Otitis media with effusion
+Xa9Bl,Otitis media with effusion - mucoid
+XE17C,Chronic non-suppurative otitis media with effusion - mucoid
+Xa9Bk,Otitis media with effusion - serous
+F5112,Bilateral chronic serous otitis
+F5113,Unilateral chronic serous otitis
+X00iw,Otitis media with effusion - sanguinous
+Xa9Bm,Otitis media with effusion - purulent
+F5110,Chronic tubotympanic catarrh
+F5111,Serosanguineous chronic otitis media
+F511z,Chronic serous otitis media NOS
+F5120,"Glue ear, unspecified"
+F5121,Mucosanguinous chronic otitis media
+F512z,Chronic mucoid otitis media NOS
+F513.,"Chronic otitis media with effusion, other"
+F518.,"Chronic otitis media with effusion, unspecified"
+X00ix,Chronic non-suppurative otitis media without effusion
+F551.,Adhesive otitis media
+F5511,Adhesion of tympanic membrane to incus
+F5512,Adhesion of tympanic membrane to stapes
+F5513,Adhesion of tympanic membrane to promontory
+X00iz,Tympanic atelectasis
+F5510,Unspecified adhesive middle ear disease
+F551z,Adhesive middle ear disease NOS
+F5130,Chronic allergic otitis media
+F513z,Other chronic non-suppurative otitis media NOS
+FyuP1,[X]Other chronic non-suppurative otitis media
+XE19z,Chronic non-suppurative otitis media NOS
+XE1A3,Chronic atticoantral disease
+XaDmU,Infective otitis media
+F514.,Unspecified non-suppurative otitis media
+F5140,Allergic otitis media NOS
+F5141,Serous otitis media NOS
+F5142,Catarrhal otitis media NOS
+F5143,Mucoid otitis media NOS
+F514z,Non-suppurative otitis media NOS
+F52..,Suppurative and unspecified otitis media
+F524.,Purulent otitis media NOS
+F5240,Bilateral suppurative otitis media
+FyuP3,[X]Otitis media in bacterial diseases classified elsewhere
+FyuP4,[X]Otitis media in viral diseases classified elsewhere
+FyuP5,[X]Otitis media in other diseases classified elsewhere
+XE17D,Otitis media NOS
+XM1QF,Non-suppurative otitis media
+FyuN1,[X]Other otitis externa
+A552.,Postmeasles otitis media
+F51..,Non-suppurative otitis media with eustachian tube disorders

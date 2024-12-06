@@ -1,0 +1,32 @@
+ICD10Codes,Description
+F81.3,Mixed Disorder of Scholastic Skills
+F70,Mild mental retardation
+F70.0,"Mild mental retardation with no or minimal, impairment of behaviour"
+F70.1,Mild mental retardation with significant impairment of behaviour requiring attention or treatment
+F70.8,Mild mental retardation with other impairments of behaviour
+F70.9,Mild mental retardation without mention of impairment of behaviour
+F71,Moderate mental retardation
+F71.0,Mild mental retardation with significant impairment of behaviour requiring attention or treatment
+F71.1,Moderate mental retardation with significant impairment of behaviour requiring attention or treatment
+F71.8,Moderate mental retardation with other impairments of behaviour
+F71.9,Moderate mental retardation without mention of impairment of behaviour
+F72,Severe mental retardation
+F72.0,"Severe mental retardation with no, or minimal, impairment of behaviour"
+F72.1,Severe mental retardation with significant impairment of behaviour requiring attention or treatment
+F72.8,Severe mental retardation  with other impairments of behaviour
+F72.9,Severe mental retardation without mention of impairment of behaviour
+F73,Profound mental retardation
+F73.0,"Profound mental retardation with no, or minimal, impairment of behaviour"
+F73.1,Profound mental retardation with Significant impairment of behaviour requiring attention or treatment
+F73.8,Profound mental retardation with Other impairments of behaviour
+F73.9,Profound mental retardation Without mention of impairment of behaviour
+F78,Other mental retardation
+F78.0,"Other mental retardation with no, or minimal, impairment of behaviour"
+F78.1,Other mental retardation with Significant impairment of behaviour requiring attention or treatment
+F78.8,Other mental retardation with Other impairments of behaviour
+F78.9,Other mental retardation Without mention of impairment of behaviour
+F79,Unspecified mental retardation
+F79.0,"Unspecified mental retardation with no, or minimal, impairment of behaviour"
+F79.1,Unspecified mental retardation with Significant impairment of behaviour requiring attention or treatment
+F79.8,Unspecified mental retardation with Other impairments of behaviour
+F79.9,Unspecified mental retardation

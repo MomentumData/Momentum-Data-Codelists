@@ -1,0 +1,90 @@
+V2Codes,Description
+F5801,Presbyacusis
+F5802,Transient ischaemic deafness
+F581.,Noise effects on inner ear
+F5812,Noise-induced hearing loss
+F582.,Unspecified sudden hearing loss
+F59..,Hearing loss
+F590.,Conductive hearing loss
+F5900,Unspecified conductive hearing loss
+F5901,Conductive hearing loss due to disorder of external ear
+F5902,Conductive hearing loss due to disorder of tympanic membrane
+F5903,Conductive hearing loss due to disorder of middle ear
+F5904,Conductive hearing loss due to disorder of inner ear
+F5905,"Conductive hearing loss, bilateral"
+F5906,"Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side"
+F590y,Combined conductive hearing loss
+F590z,Conductive hearing loss NOS
+F591.,Sensorineural hearing loss
+F5910,Unspecified perceptive hearing loss
+F5911,Sensory hearing loss
+F5912,Neural hearing loss
+F5913,Central hearing loss
+F5914,Congenital sensorineural deafness
+F5915,Ototoxicity - deafness
+F5916,"Sensorineural hearing loss, bilateral"
+F5917,"Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side"
+F5918,Congenital prelingual deafness
+F5919,Bilateral profound sensorineural hearing loss
+F591A,Bilateral congenital sensorineural hearing loss
+F591B,Profound sensorineural hearing loss
+F591C,Moderate sensorineural hearing loss
+F591D,Mild sensorineural hearing loss
+F591E,Severe sensorineural hearing loss
+F591y,Combined perceptive hearing loss
+F591z,Perceptive hearing loss NOS
+F592.,Mixed conductive and sensorineural deafness
+F5920,"Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side"
+F5921,"Mixed conductive and sensorineural hearing loss, bilateral"
+F593.,"Deaf mutism, NEC"
+F594.,High frequency deafness
+F595.,Low frequency deafness
+F596.,Maternally inherited deafness
+F597.,Mild acquired hearing loss
+F598.,Moderate acquired hearing loss
+F599.,Severe acquired hearing loss
+F59A.,Profound acquired hearing loss
+F59y.,Other specified forms of hearing loss
+F59z.,Deafness NOS
+F5A..,Hearing impairment
+F59A.,Deafened
+2BL..,O/E - deaf
+2BL2.,O/E - slightly deaf
+2BL3.,O/E - significantly deaf
+2BL4.,O/E - very deaf
+2BL5.,O/E - completely deaf
+2BL6.,O/E - patient noted to be lip reading
+1C13.,Deafness symptom
+1C131,Unilateral deafness
+1C132,Partial deafness
+1C133,Bilateral deafness
+A5602,Rubella deafness
+1J2..,Suspected deafness
+Eu446,[X]Psychogenic deafness
+13o8J,Uses deafblind intervener
+2BM2.,O/E - conductive deafness
+2BM3.,O/E - perceptive deafness
+SJ15.,Deafness - traumatic - NOS
+Fy1..,Dual sensory impairment - deafblind
+9NfB.,Requires deafblind communicator guide
+P40z.,Deafness due to congenital anomaly NEC
+P40z0,Congenital absence of ear NOS
+P40zz,Ear anomaly with hearing impaired NOS
+9Nfb.,Requires deafblind block alphabet interpreter
+9Nfa.,Requires deafblind manual alphabet interpreter
+9Nfc.,Requires deafblind haptic communication interpreter
+8E3..,Deafness remedial therapy
+8E31.,Lip reading training
+8E32.,Finger reading training
+8E3Z.,Deafness remedial therapy NOS
+2DG..,Hearing aid worn
+ZV45G,[V]Presence of external hearing-aid
+ZV45N,[V]Bone anchored hearing aid in situ
+7311A,Insertion of bone anchors for subcutaneous bone anchored hearing aid
+8D25.,Physiolog. hearing assistance
+8D2..,Hearing aid provision
+8D21.,Provide head worn hearing aid
+8D22.,Provide body worn hearing aid
+8D23.,Ear fitting hearing aid
+8D24.,Replace hearing aid battery
+8D26.,Provision of replacement hearing aid

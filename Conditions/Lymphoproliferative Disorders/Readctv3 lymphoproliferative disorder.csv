@@ -1,0 +1,360 @@
+CTV3Codes,Description
+Xa0QI,Lymphoproliferative disorder
+B641.,Chronic lymphoid leukaemia
+Xa0SC,Lymphoma with spill
+C3330,Waldenstrom's macroglobulinaemia
+C333z,Macroglobulinaemia NOS
+X78FF,Post-transplant lymphoproliferative disorder
+M1625,Pityriasis lichenoides
+M1623,Pityriasis lichenoides chronica
+X50BR,Lymphomatoid papulosis
+M1621,PLEVA - Pityriasis lichenoides et varioliformis acuta
+R0562,[D] Castleman's disease
+X20E9,Langerhans' cell histiocytosis
+C37y5,Histiocytosis X syndrome
+C37y6,"Histiocytosis X , unspecified"
+C37y7,"Histiocytosis, unspecified"
+C37y0,Schuller-Christian syndrome
+Xa0Sy,B-cell lymphoma
+XaYin,Cutaneous follicle centre lymphoma
+XaYgm,Primary mediastinal (thymic) large B-cell lymphoma
+XaPQD,Mantle cell lymphoma
+Xa0T1,Low grade B-cell lymphoma
+Xa0T2,Diffuse low grade B-cell lymphoma
+XaYii,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue
+Xa99l,Malignant lymphoma - small lymphocytic
+XaBBN,Malignant lymphoma - lymphoplasmacytic
+B6274,Malignant lymphoma - small cleaved cell
+XM1FM,"Malignant lymphoma - lymphocytic, intermediate differentiation"
+XaBBP,Malignant lymphoma - centrocytic
+B6275,Malignant lymphoma - mixed small and large cell
+XaBBO,Diffuse malignant lymphoma - centroblastic-centrocytic
+Xa0T7,Malignant lymphomatous polyposis
+Xa0T8,Mucosa-associated lymphoma
+Xa0T9,Monocytoid B-cell lymphoma
+Xa0T4,Follicular low grade B-cell lymphoma
+Xa0TA,Follicular malignant lymphoma - mixed cell type
+XaBBd,"Malignant lymphoma, mixed lymphocytic-histiocytic, nodular"
+XaBBf,"Malignant lymphoma, centroblastic-centrocytic, follicular"
+B6271,Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma
+Xa99w,"Nodular malignant lymphoma, lymphocytic - well differentiated"
+Xa99z,"Nodular malignant lymphoma, lymphocytic - intermediate differentiation"
+Xa0TD,Follicular malignant lymphoma - small cleaved cell
+Xa3En,Intermediate grade B-cell lymphoma
+Xa0T3,High grade B-cell lymphoma
+Xa0TE,Diffuse high grade B-cell lymphoma
+XaZdn,Diffuse large B-cell lymphoma
+Xa0TG,Diffuse malignant lymphoma - large cell
+Xa0TH,Diffuse malignant lymphoma - large cleaved cell
+Xa0TI,Diffuse malignant lymphoma - large non-cleaved cell
+Xa99n,Diffuse malignant lymphoma - centroblastic
+Xa0TM,Diffuse malignant lymphoma - centroblastic polymorphic
+XE2bV,Malignant lymphoma - immunoblastic
+B6276,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma
+B6273,Diffuse malignant lymphoma - small non-cleaved cell
+Xa0TP,Malignant lymphoma - lymphoblastic
+B6277,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma
+B602.,Burkitt's lymphoma - disorder
+B6020,Burkitt's lymphoma of unspecified site
+B6021,"Burkitt's lymphoma of lymph nodes of head, face and neck"
+B6022,Burkitt's lymphoma of intrathoracic lymph nodes
+B6023,Burkitt's lymphoma of intra-abdominal lymph nodes
+B6024,Burkitt's lymphoma of lymph nodes of axilla and upper limb
+B6025,Burkitt's lymphoma of lymph nodes of inguinal region and lower limb
+B6026,Burkitt's lymphoma of intrapelvic lymph nodes
+B6027,Burkitt's lymphoma of spleen
+B6028,Burkitt's lymphoma of lymph nodes of multiple sites
+B602z,Burkitt's lymphoma NOS
+Xa0TS,Large cell anaplastic lymphoma
+XaYiL,Anaplastic lymphoma kinase positive anaplastic large cell lymphoma
+B6278,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse)
+Xa0TF,Nodular high grade B-cell lymphoma
+XaBBo,"Malignant lymphoma, lymphocytic, poorly differentiated, nodular"
+XaBBp,"Malignant lymphoma, centroblastic type, follicular"
+Xa0TX,Follicular malignant lymphoma - large cell
+ByuDE,[X]Unspecified B-cell non-Hodgkin's lymphoma
+Xa8Jb,T-cell lymphoma
+XaYiN,Hepatosplenic T-cell lymphoma
+Xa0Sz,Cutaneous/peripheral T-cell lymphoma
+XaYjf,Subcutaneous panniculitic T-cell lymphoma
+XaYje,"Extranodal natural killer/T-cell lymphoma, nasal type"
+Xa0TY,Low grade T-cell lymphoma
+Xa0Th,Peripheral T-cell lymphoma
+XaYjI,Primary cutaneous CD30 antigen positive large T-cell lymphoma
+Xa0Tj,Lymphoepithelioid lymphoma
+B621.,Mycosis fungoides
+XaQbT,Poikiloderma vasculare atrophicans
+X78hm,Mycosis fungoides of skin
+B6210,Mycosis fungoides of unspecified site
+B6211,"Mycosis fungoides of the lymph nodes of head, face and neck"
+B6212,Mycosis fungoides of intrathoracic lymph nodes
+B6213,Mycosis fungoides of intra-abdominal lymph nodes
+B6214,Mycosis fungoides of lymph nodes of axilla and upper limb
+B6215,Mycosis fungoides of lymph nodes of inguinal region and lower limb
+B6216,Mycosis fungoides of intrapelvic lymph nodes
+B6217,Mycosis fungoides of spleen
+B6218,Mycosis fungoides of lymph nodes of multiple sites
+B621z,Mycosis fungoides NOS
+B622.,Sezary's disease
+X78hn,Sezary's disease of skin
+B6220,Sezary's disease of unspecified site
+B6221,"Sezary's disease of lymph nodes of head, face and neck"
+B6222,Sezary's disease of intrathoracic lymph nodes
+B6223,Sezary's disease of intra-abdominal lymph nodes
+B6224,Sezary's disease of lymph nodes of axilla and upper limb
+B6225,Sezary's disease of lymph nodes of inguinal region and lower limb
+B6227,Sezary's disease of spleen
+B6226,Sezary's disease of intrapelvic lymph nodes
+B6228,Sezary's disease of lymph nodes of multiple sites
+B622z,Sezary's disease NOS
+Xa0Tk,Angioimmunoblastic lymphadenopathy with dysproteinaemia
+Xa0To,Angiocentric T-cell lymphoma
+G753.,Lethal midline granuloma
+Xa0TZ,High grade T-cell lymphoma
+Xa0Tr,Peripheral T-cell lymphoma - pleomorphic small cell
+Xa0Tt,Peripheral T-cell lymphoma - pleomorphic medium and large cell
+Xa0Tu,Enteropathy-associated T-cell lymphoma
+B601.,Lymphosarcoma
+XaBBM,Prolymphocytic lymphosarcoma
+B6010,Lymphosarcoma of unspecified site
+B6011,"Lymphosarcoma of lymph nodes of head, face and neck"
+B6012,Lymphosarcoma of intrathoracic lymph nodes
+B6013,Lymphosarcoma of intra-abdominal lymph nodes
+B6014,Lymphosarcoma of lymph nodes of axilla and upper limb
+B6016,Lymphosarcoma of intrapelvic lymph nodes
+B6015,Lymphosarcoma of lymph nodes of inguinal region and lower limb
+B6017,Lymphosarcoma of spleen
+B6018,Lymphosarcoma of lymph nodes of multiple sites
+B601z,Lymphosarcoma NOS
+B600.,Reticulosarcoma
+B6000,Reticulosarcoma of unspecified site
+B6001,"Reticulosarcoma of lymph nodes of head, face and neck"
+B6002,Reticulosarcoma of intrathoracic lymph nodes
+B6003,Reticulosarcoma of intra-abdominal lymph nodes
+B6004,Reticulosarcoma of lymph nodes of axilla and upper limb
+B6005,Reticulosarcoma of lymph nodes of inguinal region and lower limb
+B6006,Reticulosarcoma of intrapelvic lymph nodes
+B6007,Reticulosarcoma of spleen
+B6008,Reticulosarcoma of lymph nodes of multiple sites
+B600z,Reticulosarcoma NOS
+ByuDD,[X]Other and unspecified peripheral and cutaneous T-cell lymphomas
+Xa0DX,Gastric lymphoma
+XE1vp,Nodular lymphoma
+B6200,Nodular lymphoma of unspecified site
+B6201,"Nodular lymphoma of lymph nodes of head, face and neck"
+B6202,Nodular lymphoma of intrathoracic lymph nodes
+B6203,Nodular lymphoma of intra-abdominal lymph nodes
+B6204,Nodular lymphoma of lymph nodes of axilla and upper limb
+B6205,Nodular lymphoma of lymph nodes of inguinal region and lower limb
+B6206,Nodular lymphoma of intrapelvic lymph nodes
+B6207,Nodular lymphoma of spleen
+B6208,Nodular lymphoma of lymph nodes of multiple sites
+B620z,Nodular lymphoma NOS
+XaImp,Lymphoma stage I
+XaImq,Lymphoma stage II
+XaIms,Lymphoma stage IV
+X00eT,Lymphoma of retina
+X78hl,Cutaneous lymphoma
+Xa99k,Malignant lymphoma
+B615.,"Hodgkin's disease, mixed cellularity"
+B6150,"Hodgkin's disease, mixed cellularity of unspecified site"
+B6151,"Hodgkin's disease, mixed cellularity of lymph nodes of head, face and neck"
+B6152,"Hodgkin's disease, mixed cellularity of intrathoracic lymph nodes"
+B6153,"Hodgkin's disease, mixed cellularity of intra-abdominal lymph nodes"
+B6154,"Hodgkin's disease, mixed cellularity of lymph nodes of axilla and upper limb"
+B6155,"Hodgkin's disease, mixed cellularity of lymph nodes of inguinal region and lower limb"
+B6156,"Hodgkin's disease, mixed cellularity of intrapelvic lymph nodes"
+B6157,"Hodgkin's disease, mixed cellularity of spleen"
+B6158,"Hodgkin's disease, mixed cellularity of lymph nodes of multiple sites"
+B615z,"Hodgkin's disease, mixed cellularity NOS"
+B616.,"Hodgkin's disease, lymphocytic depletion"
+XaBBZ,"Hodgkin's disease, lymphocytic depletion, diffuse fibrosis"
+XaBBb,"Hodgkin's disease, lymphocytic depletion, reticular type"
+B6160,Hodgkin's lymphocytic depletion of unspecified site
+B6161,"Hodgkin's disease, lymphocytic depletion of lymph nodes of head, face and neck"
+B6162,"Hodgkin's disease, lymphocytic depletion of intrathoracic lymph nodes"
+B6163,"Hodgkin's disease, lymphocytic depletion of intra-abdominal lymph nodes"
+B6164,"Hodgkin's disease, lymphocytic depletion of lymph nodes of axilla and upper limb"
+B6165,"Hodgkin's disease, lymphocytic depletion of lymph nodes of inguinal region and lower limb"
+B6166,"Hodgkin's disease, lymphocytic depletion of intrapelvic lymph nodes"
+B6167,"Hodgkin's disease, lymphocytic depletion of spleen"
+B6168,"Hodgkin's disease, lymphocytic depletion of lymph nodes of multiple sites"
+B616z,"Hodgkin's disease, lymphocytic depletion NOS"
+B613.,Lymphocyte-rich classical Hodgkin lymphoma
+Xa0St,"Hodgkin's disease, lymphocytic predominance - nodular"
+Xa0Su,"Hodgkin's disease, lymphocytic predominance - diffuse"
+B6130,"Hodgkin's disease, lymphocytic-histiocytic predominance of unspecified site"
+B6131,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of head, face and neck"
+B6132,"Hodgkin's disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes"
+B6133,"Hodgkin's disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes"
+B6134,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of axilla and upper limb"
+B6135,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region and lower limb"
+B6136,"Hodgkin's disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes"
+B6137,"Hodgkin's, lymphocytic-histiocytic predominance of spleen"
+B6138,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites"
+B613z,"Hodgkin's, lymphocytic-histiocytic predominance NOS"
+B610.,Hodgkin's paragranuloma
+B6100,Hodgkin's paragranuloma of unspecified site
+B6101,"Hodgkin's paragranuloma of lymph nodes of head, face, and neck"
+B6102,Hodgkin's paragranuloma of intrathoracic lymph nodes
+B6103,Hodgkin's paragranuloma of intra-abdominal lymph nodes
+B6104,Hodgkin's paragranuloma of lymph nodes of axilla and upper limb
+B6105,Hodgkin's paragranuloma of lymph nodes of inguinal region and lower limb
+B6106,Hodgkin's paragranuloma of intrapelvic lymph nodes
+B6107,Hodgkin's paragranuloma of spleen
+B6108,Hodgkin's paragranuloma of lymph nodes of multiple sites
+B610z,Hodgkin's paragranuloma NOS
+B611.,Hodgkin's granuloma
+B6110,Hodgkin's granuloma of unspecified site
+B6111,"Hodgkin's granuloma of lymph nodes of head, face and neck"
+B6112,Hodgkin's granuloma of intrathoracic lymph nodes
+B6113,Hodgkin's granuloma of intra-abdominal lymph nodes
+B6114,Hodgkin's granuloma of lymph nodes of axilla and upper limb
+B6115,Hodgkin's granuloma of lymph nodes of inguinal region and lower limb
+B6116,Hodgkin's granuloma of intrapelvic lymph nodes
+B6117,Hodgkin's granuloma of spleen
+B6118,Hodgkin's granuloma of lymph nodes of multiple sites
+B611z,Hodgkin's granuloma NOS
+B612.,Hodgkin's sarcoma
+B6120,Hodgkin's sarcoma of unspecified site
+B6121,"Hodgkin's sarcoma of lymph nodes of head, face and neck"
+B6122,Hodgkin's sarcoma of intrathoracic lymph nodes
+B6123,Hodgkin's sarcoma of intra-abdominal lymph nodes
+B6124,Hodgkin's sarcoma of lymph nodes of axilla and upper limb
+B6125,Hodgkin's sarcoma of lymph nodes of inguinal region and lower limb
+B6126,Hodgkin's sarcoma of intrapelvic lymph nodes
+B6127,Hodgkin's sarcoma of spleen
+B6128,Hodgkin's sarcoma of lymph nodes of multiple sites
+B612z,Hodgkin's sarcoma NOS
+B614.,"Hodgkin's disease, nodular sclerosis"
+XaBBc,"Hodgkin's disease, nodular sclerosis - cellular phase"
+Xa0Sv,"Hodgkin's disease, nodular sclerosis - lymphocytic predominance"
+Xa0Sw,"Hodgkin's disease, nodular sclerosis - mixed cellularity"
+Xa0Sx,"Hodgkin's disease, nodular sclerosis - lymphocytic depletion"
+B6140,"Hodgkin's disease, nodular sclerosis of unspecified site"
+B6141,"Hodgkin's disease, nodular sclerosis of lymph nodes of head, face and neck"
+B6142,"Hodgkin's disease, nodular sclerosis of intrathoracic lymph nodes"
+B6143,"Hodgkin's disease, nodular sclerosis of intra-abdominal lymph nodes"
+B6144,"Hodgkin's disease, nodular sclerosis of lymph nodes of axilla and upper limb"
+B6145,"Hodgkin's disease, nodular sclerosis of lymph nodes of inguinal region and lower limb"
+B6146,"Hodgkin's disease, nodular sclerosis of intrapelvic lymph nodes"
+B6147,"Hodgkin's disease, nodular sclerosis of spleen"
+B6148,"Hodgkin's disease, nodular sclerosis of lymph nodes of multiple sites"
+B614z,"Hodgkin's disease, nodular sclerosis NOS"
+B61z.,Hodgkin's disease NOS
+B61z0,"Hodgkin's disease NOS, unspecified site"
+ByuD0,[X]Other Hodgkin's disease
+B627.,Non-Hodgkin's lymphoma - disorder
+B62x.,Malignant lymphoma otherwise specified
+Xa9EH,"Malignant lymphoma, convoluted cell type"
+Xa9FC,"Malignant lymphoma, follicular centre cell"
+XE2t9,"[X]Non-Hodgkin's lymphoma, unspecified type"
+ByuDC,"[X]Diffuse non-Hodgkin's lymphoma, unspecified"
+B61z1,"Hodgkin's disease NOS of lymph nodes of head, face and neck"
+B61z2,Hodgkin's disease NOS of intrathoracic lymph nodes
+B61z3,Hodgkin's disease NOS of intra-abdominal lymph nodes
+B61z4,Hodgkin's disease NOS of lymph nodes of axilla and upper limb
+B61z5,Hodgkin's disease NOS of lymph nodes of inguinal region and lower limb
+B61z6,Hodgkin's disease NOS of intrapelvic lymph nodes
+B61z7,Hodgkin's disease NOS of spleen
+B61z8,Hodgkin's disease NOS of lymph nodes of multiple sites
+B627B,Other types of follicular non-Hodgkin's lymphoma
+XaBLw,Follicular non-Hodgkin's lymphoma
+XaYij,Follicular lymphoma grade 1
+XaZdF,Follicular lymphoma grade 2
+XaZdD,Follicular lymphoma grade 3
+B60..,Lymphosarcoma and reticulosarcoma
+B60y.,Other specified reticulosarcoma or lymphosarcoma
+B60z.,Reticulosarcoma or lymphosarcoma NOS
+ByuD1,[X]Other types of follicular non-Hodgkin's lymphoma
+ByuD2,[X]Other types of diffuse non-Hodgkin's lymphoma
+ByuD3,[X]Other specified types of non-Hodgkin's lymphoma
+Xa9FD,"Malignant lymphoma, follicular centre cell, cleaved"
+Xa9FE,"Malignant lymphoma, follicular centre cell, non-cleaved"
+XaImr,Lymphoma stage III
+Xa0Dd,Intestinal lymphoma
+X40Ha,Struma lymphomatosis
+XaBBr,Primary CNS lymphoma
+B62y.,Malignant lymphoma NOS
+B62y0,Malignant lymphoma NOS of unspecified site
+B62y1,"Malignant lymphoma NOS of lymph nodes of head, face and neck"
+B62y2,Malignant lymphoma NOS of intrathoracic lymph nodes
+B62y3,Malignant lymphoma NOS of intra-abdominal lymph nodes
+B62y4,Malignant lymphoma NOS of lymph nodes of axilla and upper limb
+B62y5,Malignant lymphoma NOS of lymph nodes of inguinal region and lower limb
+B62y6,Malignant lymphoma NOS of intrapelvic lymph nodes
+B62y7,Malignant lymphoma NOS of spleen
+B62y8,Malignant lymphoma NOS of lymph nodes of multiple sites
+B62z.,Malignant neoplasms of lymphoid and histiocytic tissue NOS
+B62z0,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of unspecified site
+B62z1,"Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of head, face and neck"
+B62z2,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of intrathoracic lymph nodes
+B62z3,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of intra-abdominal lymph nodes
+B62z4,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of axilla and upper limb
+B62z5,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of inguinal region and lower limb
+B62z6,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of intrapelvic lymph nodes
+B62z7,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of spleen
+B62z8,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of multiple sites
+XE1vq,Lymphoid and histiocytic malignancy NOS
+Xa0E1,Primary cerebral lymphoma
+X70LK,African Burkitt's lymphoma
+XaYim,Follicular lymphoma grade 3b
+X705o,Lymphomatoid granulomatosis
+X78hp,Intravascular lymphomatosis
+Xa0bS,Malignant lymphoma of breast
+B61..,Malignant Hodgkin's lymphoma
+Xa0U5,Malignant lymphoma of testis
+X30L8,Lymphomatous infiltrate of kidney
+X00Ar,Neuropathy in reticulosis/lymphoma
+X78QR,Lymphomatoid granulomatosis of lung
+Xa0bR,Malignant lymphoma of thyroid gland
+X70SY,Splenic schistosomal giant cell lymphoma
+A7896,HIV disease resulting in Burkitt lymphoma
+Xa0Rp,Splenic lymphoma with villous lymphocytes
+A7897,HIV disease resulting in other types of non-Hodgkin's lymphoma
+Xa9AO,Chronic leukaemia
+B64..,Lymphoid leukaemia
+XaZfR,Adult T-cell leukaemia/lymphoma
+B64yz,Other lymphoid leukaemia NOS
+B64y.,Other lymphoid leukaemia
+B64y2,Adult T-cell leukaemia
+B64z.,Lymphoid leukaemia NOS
+ByuD5,[X]Other lymphoid leukaemia
+Xa0SD,Burkitt's leukaemia
+B624.,Hairy cell leukaemia
+XaB47,Atypical hairy cell leukaemia
+B6240,Leukaemic reticuloendotheliosis of unspecified sites
+B6241,"Leukaemic reticuloendotheliosis of lymph nodes of head, face and neck"
+B6242,Leukaemic reticuloendotheliosis of intrathoracic lymph nodes
+B6244,Leukaemic reticuloendotheliosis of lymph nodes of axilla and upper limb
+B6243,Leukaemic reticuloendotheliosis of intra-abdominal lymph nodes
+B6245,Leukaemic reticuloendotheliosis of lymph nodes of inguinal region and lower limb
+B6246,Leukaemic reticuloendotheliosis of intrapelvic lymph nodes
+B6247,Leukaemic reticuloendotheliosis of spleen
+B6248,Leukaemic reticuloendotheliosis of lymph nodes of multiple sites
+B624z,Leukaemic reticuloendotheliosis NOS
+B681.,Chronic leukaemia NOS
+XaBB3,Plasma cell leukaemia
+Xa0Sf,Smouldering leukaemia
+B672.,Thrombocytic leukaemia
+B640.,Acute lymphoid leukaemia
+Xa0T5,B-cell prolymphocytic leukaemia
+Xa0S9,T-cell prolymphocytic leukaemia
+Xaa1P,Clinical stage C chronic lymphocytic leukaemia
+Xaa1O,Clinical stage B chronic lymphocytic leukaemia
+Xaa1N,Clinical stage A chronic lymphocytic leukaemia
+Xa0QP,B-cell chronic lymphocytic leukaemia
+Xa0QQ,B-cell chronic lymphocytic leukaemia variant
+Xa0Rk,T-cell chronic lymphocytic leukaemia
+Xa0Rn,Chronic lymphocytic prolymphocytic leukaemia syndrome
+Xa0Ro,Richter's syndrome
+Xa0SA,Hairy cell leukaemia variant
+Xa0SB,Large granular lymphocytic leukaemia
+B67y0,Lymphosarcoma cell leukaemia
+X20Ik,X-linked lymphoproliferative syndrome
+X102x,LIP - Lymphoid interstitial pneumonitis
+A7899,HIV disease resulting in lymphoid interstitial pneumonitis
+X78Oo,Nodular lymphoid hyperplasia of intestine
+X76aU,Lymphoid follicles on posterior wall of pharynx
+XE1vo,Malignant tumour of lymphoid haemopoietic and related tissue
+XaE68,Ocular lymphoma

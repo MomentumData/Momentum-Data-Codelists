@@ -1,0 +1,21 @@
+ICD10Codes,Description
+I42,Cardiomyopathy
+I42.0,Dilated cardiomyopathy
+I42.1,Obstructive hypertrophic cardiomyopathy
+I42.2,Other hypertrophic cardiomyopathy
+I42.3,Endomyocardial (eosinophilic) disease
+I42.4,Endocardial fibroelastosis
+I42.5,Other restrictive cardiomyopathy
+I42.6,Alcoholic cardiomyopathy
+I42.7,Cardiomyopathy due to drugs and other external agents
+I42.8,Other cardiomyopathies
+I42.9,"Cardiomyopathy, unspecified"
+I43*,Cardiomyopathy in diseases classified elsewhere
+I43.0*,Cardiomyopathy in infectious and parasitic diseases classified elsewhere
+I43.1*,Cardiomyopathy in metabolic diseases
+I43.2*,Cardiomyopathy in nutritional diseases
+I43.8*,Cardiomyopathy in other diseases classified elsewhere
+I25.5,Ischaemic cardiomyopathy
+O90.3,Cardiomyopathy in the puerperium
+I09.0,Rheumatic myocarditis
+B57.2,Chagas disease (chronic) with heart involvement

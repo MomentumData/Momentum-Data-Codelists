@@ -1,0 +1,20 @@
+ICD10Codes,Description
+H65,Nonsuppurative otitis media
+H65.0,Acute serous otitis media
+H65.1,Other acute nonsuppurative otitis media
+H65.2,Chronic serous otitis media
+H65.3,Chronic mucoid otitis media
+H65.4,Other chronic nonsuppurative otitis media
+H65.9,"Nonsuppurative otitis media, unspecified"
+H66,Suppurative and unspecified otitis media
+H66.0,Acute suppurative otitis media
+H66.1,Chronic tubotympanic suppurative otitis media
+H66.2,Chronic atticoantral suppurative otitis media
+H66.3,Other chronic suppurative otitis media
+H66.4,"Suppurative otitis media, unspecified"
+H66.9,"Otitis media, unspecified"
+H67*,Otitis media in diseases classified elsewhere
+H67.0*,Otitis media in bacterial diseases classified elsewhere
+H67.1*,Otitis media in viral diseases classified elsewhere
+H67.8*,Otitis media in other diseases classified elsewhere
+B05.3†,Measles complicated by otitis media

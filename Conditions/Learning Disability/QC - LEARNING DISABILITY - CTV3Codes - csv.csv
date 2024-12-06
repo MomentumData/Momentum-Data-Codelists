@@ -1,0 +1,58 @@
+CTV3Codes,Description
+XaREt,Mild learning disability
+XaQZ4,Severe learning disability
+E3...,General learning disability
+XE2a3,"Mild mental retardation, IQ in range 50-70"
+Eu700,"[X]Mild mental retardation with the statement of no, or minimal, impairment of behaviour"
+Eu701,"[X]Mild mental retardation, significant impairment of behaviour requiring attention or treatment"
+Eu70y,"[X]Mild mental retardation, other impairments of behaviour"
+Eu70z,[X]Mild mental retardation without mention of impairment of behaviour
+E310.,"Moderate mental retardation, IQ in range 35-49"
+Eu710,"[X]Moderate mental retardation with the statement of no, or minimal, impairment of behaviour"
+Eu711,"[X]Moderate mental retardation, significant impairment of behaviour requiring attention or treatment"
+Eu71y,[X]Mod retard oth behav impair
+Eu71z,[X]Moderate mental retardation without mention of impairment of behaviour
+E311.,"Severe mental retardation, IQ in range 20-34"
+Eu720,"[X]Severe mental retardation with the statement of no, or minimal, impairment of behaviour"
+Eu721,"[X]Severe mental retardation, significant impairment of behaviour requiring attention or treatment"
+Eu72y,"[X]Severe mental retardation, other impairments of behaviour"
+Eu72z,[X]Severe mental retardation without mention of impairment of behaviour
+E312.,Profound mental retardation with IQ less than 20
+Eu730,"[X]Profound mental retardation with the statement of no, or minimal, impairment of behaviour"
+Eu731,"[X]Profound mental retardation, significant impairment of behaviour requiring attention or treatment"
+Eu73y,"[X]Profound mental retardation, other impairments of behaviour"
+Eu73z,[X]Profound mental retardation without mention of impairment of behaviour
+Xa0ER,Educationally subnormal
+Xa3HI,Severely educationally subnormal
+E31..,Other specified mental retardation
+E31z.,Other specified mental retardation NOS
+Eu7y0,"[X]Other mental retardation with the statement of no, or minimal, impairment of behaviour"
+Eu7y1,"[X]Other mental retardation, significant impairment of behaviour requiring attention or treatment"
+Eu7yy,"[X]Other mental retardation, other impairments of behaviour"
+Eu7yz,[X]Other mental retardation without mention of impairment of behaviour
+E3z..,Mental retardation NOS
+Eu7y.,[X]Other mental retardation
+Eu7z0,"[X]Unspecified mental retardation with the statement of no, or minimal, impairment of behaviour"
+Eu7z1,"[X]Unspecified mental retardation, significant impairment of behaviour requiring attention or treatment"
+Eu7zy,"[X]Unspecified mental retardation, other impairments of behaviour"
+Eu7zz,[X]Unspecified mental retardation without mention of impairment of behaviour
+XE1a2,[X]Unspecified mental retardation
+Xa1aW,Borderline learning disability
+XaKYb,On learning disability register
+Xabk1,Significant learning disability
+XaREu,[X]Profound learning disability
+Xac3V,Died in learning disability unit
+XaaCP,Under care of community learning disability team
+XaR7S,Learning disability annual health check invitation
+XagLX,Learning disability annual health check invitation SMS (short message service) text message
+XaR8N,Learning disability annual health check letter invitation
+XaW0W,Learning disability annual health check invitation third letter
+XaW0V,Learning disability annual health check invitation second letter
+XaW0U,Learning disability annual health check invitation first letter
+XagLa,Learning disability annual health check invitation email
+XaR7T,Learning disability annual health check verbal invitation
+XaR7U,Learning disability annual health check telephone invitation
+XaPjP,Excluded from diabetic retinopathy screening as learning disability
+Ub0ih,Intellectual functioning disability
+XacF6,Intellectual development disorder of unknown aetiology
+13Z4E,Learning difficulties
