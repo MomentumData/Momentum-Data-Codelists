@@ -1,0 +1,173 @@
+CTV3Codes,Description
+x01J8,Aminoquinoline antimalarial
+ej1..,Amodiaquine
+ej12.,Amodiaquine 200mg tablet
+ej11.,Camoquin 200mg tablet
+x02M2,Chloroquine
+ej26.,Chloroquine phosphate 250mg tablet
+ej2w.,Chloroquine phosphate 80mg/5mL syrup
+ej22.,Malarivon 80mg/5mL syrup
+x02I5,Chloroquine sulphate 200mg tablet
+ej23.,Nivaquine 200mg tablet
+ej2x.,Chloroquine 200mg tablet
+x02I6,Chloroquine sulphate 68mg/5mL syrup
+ej24.,Nivaquine 68mg/5mL syrup
+ej2y.,Chloroquine 68mg/5mL syrup
+ej2z.,Chloroquine 200mg/5mL injection
+ej25.,Nivaquine 200mg/5mL injection
+ej2..,Chloroquine [anti-malarial]
+x01J9,Hydroxychloroquine
+j54z.,Hydroxychloroquine sulphate 200mg tablet
+j541.,Plaquenil 200mg tablet
+ej3..,Hydroxychloroquine sulphate [anti malarial]
+ej41.,Primaquine 7.5mg tablet
+ejC..,Proguanil hydrochloride+chloroquine phosphate
+ejC1.,Proguanil hydrochloride tablet+chloroquine phosphate tablet 100mg/250mg pack
+ejC2.,Paludrine tablet+Avloclor tablet 100mg/250mg anti-malarial travel pack
+x05dD,Artemisinin antimalarial
+ejD..,Artemether+lumefantrine
+ejD1.,Artemether+lumefantrine 20mg/120mg tablet
+ejD2.,Riamet 20mg/120mg tablet
+x01JA,Biguanide antimalarial
+ejB3.,Atovaquone+proguanil hyrdochloride 62.5mg/25mg tablet
+ejB..,Atovaquone+proguanil hydrochloride
+ejB4.,Malarone Paediatric tablet
+ejB1.,Atovaquone+proguanil hydrochloride 250mg/100mg tablet
+ejB2.,Malarone tablet
+ejB5.,REPRAPOG 250mg/100mg tablets
+ejB6.,REPRAPOG 62.5mg/25mg tablets
+x01JB,Proguanil
+ej5z.,Proguanil hydrochloride 100mg tablet
+ej51.,Paludrine 100mg tablet
+ej5..,Proguanil hydrochloride
+x01JC,Cinchona antimalarial
+ej74.,Quinine sulphate 125mg tablet
+ej75.,Quinine sulphate 200mg tablet
+ej76.,Quinine sulphate 300mg tablet
+ej71.,Quinine bisulphate 300mg tablet
+ej73.,Quinine hydrochloride 300mg tablet
+ej72.,Quinine dihydrochloride 300mg tablet
+ej77.,Quinine dihydrochloride 300mg/1mL intravenous infusion
+ej78.,Quinine dihydrochloride 600mg/2mL intravenous infusion
+x01JD,Halofantrine
+ej91.,Halofantrine hydrochloride 250mg tablet
+ej92.,Halfan 250mg tablet
+ej9..,Halofantrine HCl
+ej8..,Mefloquine product
+ej81.,Mefloquine 250mg tablet
+ej82.,Lariam 250mg tablet
+x01JE,Mepacrine
+ejA1.,Mepacrine hydrochloride 100mg tablet
+ejA..,Mepacrine hydrochloride
+ej6..,Pyrimethamine product
+ej6z.,Pyrimethamine 12.5mg tablet
+ej6y.,Pyrimethamine 25mg tablet
+ej61.,Daraprim 25mg tablet
+ej6x.,Pyrimethamine+sulfadoxine 25mg/500mg tablet
+ej62.,Fansidar tablet
+ej6w.,Pyrimethamine+dapsone 12.5mg/100mg tablet
+ej63.,Maloprim tablet
+ejE..,PIPERAQUINE+DIHYDROARTEMISININ
+ejE1.,EURARTESIM 320mg/40mg tablets
+ejE2.,PIPERAQUINE TETRAPHOSPH+DIHYDROARTEMISININ 320mg/40mg tablet
+x01Hu,Oral metronidazole
+ef11.,Metronidazole 200mg tablet
+ef1c.,Flagyl 200mg tablet
+ef1l.,Metrolyl 200mg tablet
+ef1r.,Nidazol 200mg tablet
+ef1s.,Vaginyl 200mg tablet
+ef1u.,Zadstat 200mg tablet
+ef12.,Metronidazole 400mg tablet
+ef1d.,Flagyl 400mg tablet
+ef1m.,Metrolyl 400mg tablet
+ef1t.,Vaginyl 400mg tablet
+ef1D.,Metronidazole 500mg tablet
+ef1A.,Metronidazole 200mg/5mL suspension
+x025m,Flagyl S 200mg/5mL suspension
+ef1g.,FLAGYL S suspension 100mL
+ef1j.,Flagyl S suspension 50mL
+x00eV,Norzol 200mg/5mL suspension
+ef13.,Metronidazole 100mg/20mL infusion
+ef1e.,Flagyl 100mg/20mL infusion
+ef1f.,Flagyl bottle 0.5g/100mL intravenous infusion
+ef16.,Metronidazole 500mg/100mL infusion bag
+ef19.,Elyzol 500mg/100mL intravenous infusion
+ef1y.,Flagyl 500mg/100mL infusion
+ef1o.,Metrolyl 500mg/100mL intravenous infusion bag
+ef1C.,Metrovex 500mg/100mL infusion bag
+ef1z.,Metrozol 500mg/100mL infusion
+ef1v.,Zadstat 500mg/100mL infusion
+ef15.,Metronidazole 500mg/100mL infusion
+ef14.,Metronidazole 500mg/500mL intravenous infusion
+ef1n.,Metrolyl 500mg/100mL intravenous infusion amp
+ef2..,Tinidazole
+ef2x.,Tinidazole 500mg tablet
+ef21.,Fasigyn 500mg tablet
+ef2y.,Tinidazole 800mg/400mL intravenous infusion
+ef22.,Fasigyn 800mg/400mL intravenous infusion
+ef2z.,Tinidazole 1.6g/800mL intravenous infusion
+ef23.,Fasigyn 1.6g/800mL intravenous infusion
+ef,Metronidazole and tinidazole
+x01JH,Pentamidine
+ey11.,Pentamidine isethionate 300mg injection (pdr for recon)
+ey12.,Pentacarinat 300mg injection (pdr for recon)
+ey1..,Pentamidine isethionate
+en1..,Sodium stibogluconate
+en11.,Pentostam 10g/100mL injection
+en1z.,Sodium stibogluconate 10g/100mL injection
+e931.,Azithromycin 250mg capsule
+e933.,Zithromax 250mg capsule
+e937.,Azithromycin 500mg tablet
+e938.,Zithromax 500mg tablet
+e932.,Azithromycin 200mg/5mL oral suspension
+x00Y1,Zithromax 200mg/5mL oral suspension
+e934.,Zithromax 40mg/mL suspension 15mL
+e935.,Zithromax 40mg/mL suspension 22.5mL
+e936.,Zithromax 40mg/mL suspension 30mL
+e939.,CLAMELLE AZITHROMYCIN 500mg tablets
+e93C.,ZEDBAC 500mg powder for solution for infusion
+e93D.,AZITHROMYCIN 500mg powder for solution for injection
+x01IS,Oral amphotericin
+lc1y.,Amphotericin 10mg lozenge
+lc11.,Fungilin 10mg lozenge
+eh1x.,Amphotericin 100mg tablet
+eh11.,Fungilin 100mg tablet
+eh1y.,Amphotericin 100mg/mL s/f suspension
+eh12.,Fungilin 100mg/mL s/f suspension
+lc12.,Fungilin 100mg/mL suspension 12mL
+lc1z.,Amphotericin 100mg/mL suspension
+eh1z.,Amphotericin 50mg i-v infusion (pdr for recon)
+eh15.,Amphocil 50mg i-v infusion (pdr for recon)
+eh13.,Fungizone 50mg i-v infusion (pdr for recon)
+x00Q3,Amphotericin (liposomal) 50mg i-v infusion (pdr for recon)
+eh14.,AmBisome 50mg infusion (pdr for recon)
+eh1w.,Amphotericin 100mg intravenous infusion
+eh16.,Amphocil 100mg intravenous infusion
+eh1u.,Amphotericin 50mg/10mL intravenous infusion
+eh18.,Abelcet 50mg/10mL intravenous infusion
+eh1v.,Amphotericin 100mg/20mL intravenous infusion concentrate
+ek1..,Diloxanide furoate
+x002w,Diloxanide+metronidazole
+ek13.,Diloxanide furoate+metronidazole 250mg/200mg tablet
+ek1y.,Diloxanide furoate 500mg tablet
+ek11.,Furamide 500mg tablet
+ek1z.,Diloxanide furoate 250mg tablet
+e94..,Spiramycin
+e943.,Spiramycin 125mg/5mL syrup
+e944.,Rovamycine 125mg/5mL syrup
+e941.,Spiramycin 250mg tablet
+e942.,Rovamycine 250mg tablet
+es2..,Albendazole
+es22.,Albendazole 400mg tablet
+es21.,Eskazole 400mg tablet
+ec6..,Sulfadiazine
+ec61.,Sulfadiazine 500mg tablet
+ec64.,Sulphatriad tablet
+ec63.,Streptotriad tablet
+ec62.,Sulfadiazine 1g/4mL injection
+ey2..,Atovaquone
+ey21.,Atovaquone 250mg tablet
+ey22.,Wellvone 250mg tablet
+ey23.,Atovaquone 750mg/5mL s/f suspension
+x01JI,Dichloroacetamide antiprotozoal
+x01JJ,Diloxanide
