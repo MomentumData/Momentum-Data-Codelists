@@ -1,0 +1,247 @@
+SNOMEDCTCodes,Description
+214031005,Motor vehicle traffic accident (event)
+242099000,Accident due to loss of control of motor vehicle on road (event)
+242103005,Accident due to driver of motor vehicle on road falling asleep (event)
+214378004,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway (event)"
+214379007,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, driver of motor vehicle injured (event)"
+214381009,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, motor cyclist injured (event)"
+214380005,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, passenger of motor vehicle injured (event)"
+242102000,Accident due to inattention of driver of motor vehicle on road (event)
+214389006,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway (event)"
+214390002,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, driver of motor vehicle injured (event)"
+214392005,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, motor cyclist injured (event)"
+214391003,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, passenger of motor vehicle injured (event)"
+214393000,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, passenger on motor cycle injured (event)"
+214396008,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, pedal cyclist injured (event)"
+214397004,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, pedestrian injured (event)"
+214395007,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, rider of animal or occupant of animal-drawn vehicle injured (event)"
+242106002,Accident due to mechanical failure in motor vehicle on road (event)
+214412007,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway (event)"
+214413002,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, driver of motor vehicle injured (event)"
+214415009,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, motor cyclist injured (event)"
+214414008,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, passenger of motor vehicle injured (event)"
+214416005,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, passenger on motor cycle injured (event)"
+242100008,Accident due to motor vehicle on road failing to negotiate curve (event)
+214345006,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway (event)"
+214346007,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, driver of motor vehicle injured (event)"
+214348008,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, motor cyclist injured (event)"
+214347003,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, passenger of motor vehicle injured (event)"
+214349000,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, passenger on motor cycle injured (event)"
+242101007,Accident due to motor vehicle on road traveling at excessive speed (event)
+214400008,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway (event)"
+214401007,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, driver of motor vehicle injured (event)"
+214403005,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, motor cyclist injured (event)"
+214402000,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, passenger of motor vehicle injured (event)"
+214405003,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, passenger on motor cycle injured (event)"
+242104004,Accident due to sudden illness of driver of motor vehicle on road (event)
+242105003,Accident to motor vehicle on road due to tire burst (event)
+214356006,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway (event)"
+214357002,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, driver of motor vehicle injured (event)"
+214359004,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, motor cyclist injured (event)"
+214358007,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, passenger of motor vehicle injured (event)"
+214360009,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, passenger on motor cycle injured (event)"
+214344005,Motor vehicle traffic accident due to loss of control without collision on the road (event)
+242116005,"Accident to motor vehicle on road, not involving collision (event)"
+214515007,Accident due to breakage of any part of moving motor vehicle on road (event)
+214526001,Accident due to explosion in moving motor vehicle on road (event)
+214548007,Accident due to jumping from moving motor vehicle on road (event)
+214604006,Accident due to object falling in or on moving motor vehicle on road (event)
+242117001,Accidental poisoning from exhaust gas of moving motor vehicle on road (event)
+214559003,Accidentally pushed from moving motor vehicle on road (event)
+214537000,Fall from moving motor vehicle on road (event)
+214581008,Hit by object thrown into or on moving motor vehicle on road (event)
+214592009,Injured by being thrown against moving motor vehicle on road (event)
+274913009,Motor vehicle on road in collision with another motor vehicle (event)
+214126006,Motor vehicle on road in collision with abandoned motor vehicle (event)
+214127002,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, driver of motor vehicle injured (event)"
+214129004,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, motor cyclist injured (event)"
+214131008,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, occupant of tram injured (event)"
+214128007,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, passenger of motor vehicle injured (event)"
+214134000,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, pedestrian injured (event)"
+214132001,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, rider of animal or occupant of animal-drawn vehicle injured (event)"
+214115000,Motor vehicle on road in collision with disabled motor vehicle (event)
+214116004,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, driver of motor vehicle injured (event)"
+214118003,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, motor cyclist injured (event)"
+214120000,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, occupant of tram injured (event)"
+214119006,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, passenger on motor cycle injured (event)"
+214123003,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, pedestrian injured (event)"
+214121001,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, rider of animal or occupant of animal-drawn vehicle injured (event)"
+241441000000100,Motor vehicle on road in collision with van (event)
+214056004,Motor vehicle traffic accident involving re-entrant collision with another motor vehicle (event)
+242091002,Motor vehicle on road in collision with motorcycle (event)
+214085005,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, passenger on motor cycle injured (event)"
+214108008,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, passenger on motor cycle injured (event)"
+214096002,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, passenger on motor cycle injured (event)"
+214080000,Motor vehicle on road in collision with parked motor vehicle (event)
+214081001,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, driver of motor vehicle injured (event)"
+214082008,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, passenger of motor vehicle injured (event)"
+214089004,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, pedestrian injured (event)"
+214092000,Motor vehicle on road in collision with stopped motor vehicle (event)
+214095003,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, motor cyclist injured (event)"
+214100001,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, pedal cyclist injured (event)"
+214101002,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, pedestrian injured (event)"
+214104005,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled (event)"
+214111009,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, pedal cyclist injured (event)"
+214112002,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, pedestrian injured (event)"
+274915002,Motor vehicle on road in collision with fallen object (event)
+214276003,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole (event)"
+214277007,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, driver of motor vehicle injured (event)"
+214279005,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, motor cyclist injured (event)"
+214278002,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, passenger of motor vehicle injured (event)"
+214280008,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, passenger on motor cycle injured (event)"
+214311004,Motor vehicle on road in collision with landslide (event)
+214312006,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, driver of motor vehicle injured (event)"
+214314007,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, motor cyclist injured (event)"
+214313001,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, passenger of motor vehicle injured (event)"
+214315008,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, passenger on motor cycle injured (event)"
+271579008,Motor vehicle on road in collision with nonmotor vehicle (event)
+214160004,Motor vehicle on road in collision with animal-drawn vehicle (event)
+214161000,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, driver of motor vehicle injured (event)"
+214162007,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, passenger of motor vehicle injured (event)"
+214164008,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, passenger on motor cycle injured (event)"
+214166005,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, rider of animal or occupant of animal-drawn vehicle injured (event)"
+214171003,Motor vehicle on road in collision with pedal cycle (event)
+214172005,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, driver of motor vehicle injured (event)"
+214175007,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, motor cyclist injured (event)"
+214174006,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, passenger of motor vehicle injured (event)"
+214176008,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, passenger on motor cycle injured (event)"
+214179001,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, pedal cyclist injured (event)"
+214265002,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal (event)"
+214149008,Motor vehicle on road in collision with ridden animal (event)
+214150008,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, driver of motor vehicle injured (event)"
+214151007,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, passenger of motor vehicle injured (event)"
+214206004,Motor vehicle on road in collision with pedestrian (event)
+214207008,Pedestrian dragged by motor vehicle (event)
+214209006,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, passenger of motor vehicle injured (event)"
+214211002,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, passenger on motor cycle injured (event)"
+214215006,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, pedestrian injured (event)"
+214218008,Pedestrian hit by motor vehicle (event)
+214219000,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, driver of motor vehicle injured (event)"
+214221005,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, motor cyclist injured (event)"
+214220006,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, passenger of motor vehicle injured (event)"
+214222003,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, passenger on motor cycle injured (event)"
+214227009,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, pedestrian injured (event)"
+214230002,Pedestrian run over by motor vehicle (event)
+214231003,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, driver of motor vehicle injured (event)"
+214232005,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, passenger of motor vehicle injured (event)"
+242092009,Pedestrian trapped under motor vehicle wheel (event)
+242094005,Motor vehicle on road in collision with road-side fixed object (event)
+214253001,Motor vehicle on road in collision between motor vehicle and bridge (event)
+214254007,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, driver of motor vehicle injured (event)"
+214256009,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, motor cyclist injured (event)"
+214255008,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, passenger of motor vehicle injured (event)"
+214257000,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, passenger on motor cycle injured (event)"
+277136005,Motor vehicle on road in collision with bollard (event)
+242098008,Motor vehicle on road in collision with building (event)
+242095006,Motor vehicle on road in collision with lamp post (event)
+277135009,Motor vehicle on road in collision with road sign (event)
+214322000,Motor vehicle on road in collision with safety island (event)
+214323005,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, driver of motor vehicle injured (event)"
+214325003,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, motor cyclist injured (event)"
+214324004,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, passenger of motor vehicle injured (event)"
+214326002,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, passenger on motor cycle injured (event)"
+242096007,Motor vehicle on road in collision with tree (event)
+242097003,Motor vehicle on road in collision with wall (event)
+214299004,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence (event)"
+214300007,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, driver of motor vehicle injured (event)"
+214301006,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, passenger of motor vehicle injured (event)"
+214304003,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, passenger on motor cycle injured (event)"
+214287006,Motor vehicle on road in collision with thrown object (event)
+214288001,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, driver of motor vehicle injured (event)"
+214291001,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, motor cyclist injured (event)"
+214289009,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, passenger of motor vehicle injured (event)"
+214292008,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, passenger on motor cycle injured (event)"
+274914003,Motor vehicle on road in collision with unridden animal (event)
+214266001,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, driver of motor vehicle injured (event)"
+214267005,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, passenger of motor vehicle injured (event)"
+214269008,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, passenger on motor cycle injured (event)"
+242090001,Motor vehicle on road in collision with vehicle running on rails (event)
+214032003,Motor vehicle on road in collision with train (event)
+214183001,Motor vehicle on road in collision with tram (event)
+214184007,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, driver of motor vehicle injured (event)"
+214188005,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, occupant of tram injured (event)"
+214185008,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, passenger of motor vehicle injured (event)"
+214458008,Noncollision motor vehicle traffic accident involving injury by moving part of the vehicle while boarding or alighting (event)
+214459000,"Noncollision motor vehicle traffic accident involving injury by moving part of the vehicle while boarding or alighting, driver of motor vehicle injured (event)"
+214460005,"Noncollision motor vehicle traffic accident involving injury by moving part of the vehicle while boarding or alighting, passenger of motor vehicle injured (event)"
+214462002,"Noncollision motor vehicle traffic accident involving injury by moving part of the vehicle while boarding or alighting, passenger on motor cycle injured (event)"
+297187004,Bus accident (event)
+219218005,Assault by cutting and stabbing instruments (event)
+242872001,Assault by cutting (event)
+242878002,Assault by cutting with axe (event)
+242873006,Assault by cutting with knife (event)
+242874000,Assault by cutting with craft knife (event)
+242876003,Assault with broken glass or bottle (event)
+242886002,Assault by puncture wound (event)
+274230000,War injury (disorder)
+1089261000000101,Major injury involving multiple body regions (disorder)
+314662007,Major head injury (disorder)
+19921004,Crushing injury (morphologic abnormality)
+708534003,Closed crush injury (morphologic abnormality)
+308498009,Crush - wound (morphologic abnormality)
+708535002,Open crush injury (morphologic abnormality)
+78011002,Flail chest (disorder)
+311408004,Closed flail chest (disorder)
+311409007,Open flail chest (disorder)
+429482004,Fall from high place (event)
+240881000000102,Fall through height of more than five metres (event)
+262595009,Traumatic amputation (disorder)
+735793005,Traumatic amputation of abdomen (disorder)
+735789004,Traumatic amputation of part of abdomen (disorder)
+722663005,Traumatic amputation of breast (disorder)
+723168009,Traumatic amputation of entire breast (disorder)
+723167004,Traumatic amputation of part of breast (disorder)
+211548006,Traumatic amputation of external genital organs (disorder)
+733390007,Traumatic amputation of entire scrotum (disorder)
+733393009,Traumatic amputation of entire vulva (disorder)
+733392004,Traumatic amputation of part of scrotum (disorder)
+733394003,Traumatic amputation of part of vulva (disorder)
+283952004,Traumatic amputation of penis (disorder)
+733387001,Traumatic amputation of entire penis (disorder)
+733388006,Traumatic amputation of part of penis (disorder)
+11812981000119103,Traumatic amputation of female genital organ (disorder)
+11813021000119108,Traumatic partial amputation of female genital organ (disorder)
+210771000,Traumatic amputation of limb (disorder)
+95860004,Traumatic amputation of lower extremity (disorder)
+824061000000104,Traumatic amputation above knee (disorder)
+699875007,Traumatic amputation at level between knee and ankle (disorder)
+1010309009,Traumatic amputation of left lower limb at level between knee and ankle (disorder)
+1010312007,Traumatic amputation of right lower limb at level between knee and ankle (disorder)
+11863921000119106,Traumatic partial amputation of right lower limb at level between knee and ankle (disorder)
+1268382002,Traumatic partial amputation of lower limb at level between knee and ankle (disorder)
+11863961000119101,Traumatic partial amputation of left lower limb at level between knee and ankle (disorder)
+812431000000103,Traumatic amputation below knee (disorder)
+1010210002,Traumatic amputation of left lower limb (disorder)
+445498009,Bilateral traumatic amputation of lower limbs (disorder)
+73600009,Bilateral traumatic amputation of legs at any level without complication (disorder)
+210767003,Traumatic bilateral amputation of leg with complication (disorder)
+13093003,Bilateral traumatic amputation of legs at any level with complication (disorder)
+733288008,Traumatic amputation at left hip joint (disorder)
+735668000,Traumatic amputation of bilateral legs through hip joints (disorder)
+1055305002,Traumatic amputation of left lower limb through knee (disorder)
+1010683003,Traumatic amputation of left lower limb through thigh (disorder)
+1010211003,Traumatic amputation of right lower limb (disorder)
+733287003,Traumatic amputation at right hip joint (disorder)
+1055306001,Traumatic amputation of right lower limb through knee (disorder)
+735794004,Traumatic amputation of lower back (disorder)
+735790008,Traumatic amputation of part of lower back (disorder)
+722635008,Traumatic amputation of part of head (disorder)
+210305005,Traumatic amputation of ear (disorder)
+721334002,Complete traumatic amputation of external ear (disorder)
+11843831000119108,Traumatic amputation of left ear (disorder)
+11843911000119109,Traumatic partial amputation of left external ear (disorder)
+11843791000119102,Traumatic amputation of right ear (disorder)
+11843871000119106,Traumatic partial amputation of right external ear (disorder)
+721335001,Traumatic partial amputation of external ear (disorder)
+762608003,Traumatic amputation of lip (disorder)
+722704008,Traumatic amputation of nose (disorder)
+721336000,Complete traumatic amputation of nose (disorder)
+721337009,Traumatic partial amputation of nose (disorder)
+813131000000104,Traumatic amputation of tongue (disorder)
+211547001,Traumatic amputation of part of thorax (disorder)
+735795003,Traumatic amputation of pelvis (disorder)
+735791007,Traumatic amputation of part of pelvis (disorder)
+262923000,Traumatic amputation of testis (disorder)
+733389003,Traumatic amputation of entire testis (disorder)
+733391006,Traumatic amputation of part of testes (disorder)
+213376006,Traumatic amputations involving multiple body regions (disorder)

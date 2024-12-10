@@ -1,0 +1,1732 @@
+V2Codes,Description
+S124.,Flail chest
+S1240,Closed flail chest
+S1241,Open flail chest
+SK04.,Traumatic shock
+22Q9.,Traumatic wound
+S822.,Traumatic amputation of ear
+SA8..,Traumatic amputation of limb
+SA6..,Traumatic amputation of foot
+SA60.,Traumatic unilateral amputation of foot without mention of complication
+SA600,"Traumatic amputation, foot"
+SA61.,Traumatic unilateral amputation of foot with complication
+SA62.,Traumatic bilateral amputation of foot without mention of complication
+SA63.,Traumatic bilateral amputation of foot with complication
+SA6z.,Traumatic amputation of foot NOS
+S95..,Traumatic amputation of thumb
+S950.,Traumatic amputation of thumb without mention of complication
+S9500,"Traumatic amputation, thumb, through metacarpal"
+S9501,"Traumatic amputation, thumb, through metacarpophalangeal joint"
+S9502,"Traumatic amputation, thumb, proximal phalanx"
+S9503,"Traumatic amputation, thumb, through interphalangeal joint"
+S9504,"Traumatic amputation, thumb tip"
+S9505,"Traumatic amputation thumb tip, type 1 (pulp only involved)"
+S9506,"Traumatic amputation thumb tip, type 2 (pulp and nail loss)"
+S9507,"Traumatic amputation thumb tip, type 3 (partial loss of terminal phalanx with corresponding loss of pulp and nail but not involving lunula)"
+S9508,"Traumatic amputation thumb tip, type 4 (partial loss of terminal phalanx, pulp and nail including lunula)"
+S951.,Traumatic amputation of thumb with complication
+S95z.,Traumatic amputation of thumb NOS
+SA5..,Traumatic amputation of toe(s)
+SA50.,Traumatic amputation of toe(s) without mention of complication
+SA500,"Traumatic amputation, lesser toe"
+SA501,"Traumatic amputation, greater toe"
+SA502,"Traumatic amputation, multiple toes"
+SA51.,Traumatic amputation of toe(s) with complication
+SA5z.,Traumatic amputation of toe(s) NOS
+SA7..,Traumatic amputation of leg(s)
+SA70.,"Traumatic unilateral amputation, below knee, without mention of complication"
+SA701,"Traumatic amputation, leg"
+SA702,"Traumatic amputation, through ankle"
+SA71.,"Traumatic unilateral amputation, below knee, with complication"
+SA72.,"Traumatic unilateral amputation, above knee, without mention of complication"
+SA720,"Traumatic amputation, through knee"
+SA721,"Traumatic amputation, through thigh"
+SA722,"Traumatic amputation, through hip"
+SA73.,"Traumatic unilateral amputation, above knee, with complication"
+SA74.,"Traumatic unilateral amputation of leg unspecified, without mention of complication"
+SA75.,"Traumatic unilateral amputation of leg unspecified, with complication"
+SA76.,"Traumatic bilateral amputation of leg, without mention of complication"
+SA78.,Traumatic amputation at level between hip and knee
+SA7X.,"Traumatic amputation of lower leg, level unspecified"
+SA7z.,Traumatic amputation of leg NOS
+S96..,Traumatic amputation of finger(s)
+S960.,Traumatic amputation of finger without mention of complication
+S9600,"Traumatic amputation, finger, through metacarpophalangeal joint"
+S9601,"Traumatic amputation, finger, proximal phalanx"
+S9602,"Traumatic amputation, finger, through proximal interphalangeal joint"
+S9603,"Traumatic amputation, finger, middle phalanx"
+S9604,"Traumatic amputation, finger, through distal interphalangeal joint"
+S9605,"Traumatic amputation, finger, multiple"
+S9606,"Traumatic amputation, finger tip"
+S9607,"Traumatic amputation finger tip, type 1 (pulp only involved)"
+S9608,"Traumatic amputation finger tip, type 2 (pulp and nail loss)"
+S9609,"Traumatic amputation finger tip, type 3 (partial loss of terminal phalanx with corresponding loss of pulp and nail but not involving lunula)"
+S960A,"Traumatic amputation finger tip, type 4 (partial loss of terminal phalanx, pulp and nail including lunula)"
+S961.,Traumatic amputation of finger with complication
+S96X.,Combined traumatic amputation of (part of) finger(s) with other parts of wrist and hand
+S96z.,Traumatic amputation of finger NOS
+S84x2,Traumatic amputation at neck level
+SC09.,Late effect of traumatic amputation
+S97..,Traumatic amputation of arm and hand
+S970.,"Traumatic unilateral amputation, below elbow, without mention of complication"
+S9700,"Traumatic amputation, through elbow"
+S9701,"Traumatic amputation, below elbow"
+S9702,"Traumatic amputation, through wrist"
+S9703,"Traumatic amputation, hand, through metacarpals"
+S970X,"Traumatic amputation of wrist and hand, level unspecified"
+S971.,"Traumatic unilateral amputation, below elbow, with complication"
+S972.,"Traumatic unilateral amputation, above elbow, without mention of complication"
+S9720,"Traumatic amputation, forequarter"
+S9721,"Traumatic amputation, through shoulder"
+S9722,"Traumatic amputation, above elbow"
+S973.,"Traumatic unilateral amputation, above elbow, with complication"
+S974.,"Traumatic unilateral amputation of arm, unspecified level, without mention of complication"
+S975.,"Traumatic unilateral amputation of arm, unspecified level, with complication"
+S976.,"Traumatic bilateral amputation of arm, unspecified level, without mention of complication"
+S977.,"Traumatic bilateral amputation of arm, unspecified level, with complication"
+S97X.,"Traumatic amputation of forearm, level unspecified"
+S97z.,Traumatic amputation of arm and hand NOS
+SF12.,Traumatic amputation of part of thorax
+S906.,Traumatic amputation at shoulder joint
+SF13.,Traumatic amputation of external genital organs
+S896.,"Traumatic amputation of trunk, level unspecified"
+S8X..,Traumatic amputation of unspecified part of head
+SR4..,Traumatic amputations involving multiple body regions
+SR40.,Traumatic amputation of both hands
+SR41.,Traumatic amputation of both feet
+SR42.,"Traumatic amputation of one hand and other arm [any level, except hand]"
+SR43.,"Traumatic amputation of one foot and other leg [any level, except foot]"
+SR44.,"Traumatic amputation of upper and lower limbs, any combination [any level]"
+SC3C3,Sequelae of crushing injury and traumatic amputation of upper limb
+SC3D3,Sequelae of crushing injury and traumatic amputation of lower limb
+SR3..,Crushing injuries involving multiple body regions
+SR30.,Crushing injuries involving head with neck
+SR31.,Crushing injuries involving multiple regions of upper limb(s) with lower limb(s)
+SR32.,"Crushing injuries of thorax with abdomen, lower back and pelvis with limb(s)"
+TC1..,Fall on or from ladders or scaffolding
+TC10.,Fall from ladder
+TC11.,Fall from scaffolding
+TC1z.,Fall from ladder or scaffolding NOS
+TC2..,Fall from or out of building or other structure
+TC20.,Fall from balcony
+TC21.,Fall from bridge
+TC22.,Fall from building
+TC23.,Fall from flagpole
+TC24.,Fall from tower
+TC25.,Fall from turret
+TC26.,Fall from viaduct
+TC27.,Fall from wall
+TC28.,Fall from window
+TC29.,Fall through roof
+TC2z.,Fall from or out of building or other structure NOS
+TC3..,Fall into hole or other opening in surface
+TC32.,Accidental fall into manhole
+TC320,"Accidental fall into manhole, unspecified"
+TC321,Accidental fall into storm drain
+TC32z,Accidental fall into manhole NOS
+TC3y.,Fall into other hole or other opening in surface
+TC3y0,"Fall into cavity, unspecified"
+TC3y1,Fall into dock
+TC3y2,Fall into hole
+TC3y3,Fall into pit
+TC3y4,Fall into quarry
+TC3y5,Fall into shaft
+TC3y6,Fall into tank
+TC3yz,"Fall into other hole, unspecified"
+TD17.,Accident due to fall from other burning structure or building
+TD170,Accident due to fall from burning barn
+TD171,Accident due to fall from burning church
+TD172,Accident due to fall from burning convalescent home
+TD173,Accident due to fall from other burning residential home
+TD174,Accident due to fall from burning dormitory of educational institution
+TD175,Accident due to fall from burning factory
+TD176,Accident due to fall from burning farm outbuilding
+TD177,Accident due to fall from burning hospital
+TD178,Accident due to fall from burning hotel
+TD179,Accident due to fall from burning school
+TD17A,Accident due to fall from burning store
+TD17B,Accident due to fall from burning theatre
+TD17z,Accident due to fall from burning structure or building NOS
+TP...,Injury resulting operations of war
+TP0..,War injuries due to fires and conflagrations
+TP00.,War injury due to fire or conflagration from petrol bomb
+TP0z.,War injury due to fire or conflagration from source NOS
+TP1..,War injuries due to bullets and fragments
+TP10.,War injury due to rubber bullets
+TP11.,War injury due to rifle pellets
+TP12.,War injury due to other bullets
+TP120,War injury due to carbine bullet
+TP121,War injury due to machine gun bullet
+TP122,War injury due to pistol bullet
+TP123,War injury due to rifle bullet
+TP124,War injury due to shotgun bullet
+TP12z,War injury due to bullet NOS
+TP13.,War injury due to fragments from antipersonnel bomb
+TP1z.,War injury due to other and unspecified fragments
+TP1z0,War injury due to fragments from artillery shell
+TP1z1,War injury due to fragments from bomb NEC
+TP1z2,War injury due to fragments from grenade
+TP1z3,War injury due to fragments from guided missile
+TP1z4,War injury due to fragments from land mine
+TP1z5,War injury due to fragments from rocket
+TP1z6,War injury due to fragments from shell
+TP1z7,War injury due to fragments from shrapnel
+TP1zz,War injury due to fragments NOS
+TP2..,War injuries due to explosion of marine weapons
+TP20.,War injury due to explosion of depth charge explosion
+TP21.,War injury due to explosion of marine mine
+TP22.,War injury due to explosion of sea-based artillery shell
+TP23.,War injury due to explosion of torpedo
+TP24.,War injury due to underwater blast
+TP2z.,War injury due to explosion of marine weapons NOS
+TP3..,War injury due to other explosions
+TP30.,War injury due to accidental explosion of munitions being used in war
+TP31.,War injury due to accidental explosion of own weapons
+TP32.,War injury due to explosion of artillery shell
+TP33.,War injury due to explosion of breech block
+TP34.,War injury due to explosion of cannon block
+TP35.,War injury due to explosion of mortar bomb
+TP36.,War injury due to air blast NOS
+TP3z.,War injury due to explosion NOS
+TP4..,War injury due to destruction of aircraft
+TP40.,War injury due to aeroplane burned
+TP41.,War injury due to aeroplane exploded
+TP42.,War injury due to aeroplane shot down
+TP43.,War injury due to crushing by falling aeroplane
+TP4z.,War injury due to destruction of aircraft NOS
+TP5..,War injury due to other forms of conventional warfare
+TP50.,War injury due to bayonet
+TP51.,War injury due to battle wound NOS
+TP52.,"War injury, drowned in war operations"
+TP5z.,War injury due to conventional warfare NOS
+TP6..,War injury due to nuclear weapons
+TP60.,War injury due to blast effects of nuclear weapon
+TP61.,War injury due to exposure to ionizing radiation from nuclear weapon
+TP62.,War injury due to fireball effects of nuclear weapon
+TP63.,War injury due to heat from nuclear weapon
+TP6z.,War injury due to nuclear weapons NOS
+TP7..,War injury due to other forms of unconventional warfare
+TP70.,War injury due to lasers
+TP71.,War injury due to biological warfare
+TP72.,"War injury due to gases, fumes and chemicals"
+TP720,War injury due to gas
+TP721,War injury due to fumes
+TP722,War injury due to chemicals
+TP72z,"War injury due to gases, fumes or chemicals NOS"
+TP7y.,War injury due to other forms of unconventional warfare
+TP7z.,War injury due to unconventional forms of warfare NOS
+TP8..,Injury due to war operations but occurring after cessation of hostilities
+TPz..,War injuries NOS
+U38..,[X]Assault by handgun discharge
+U380.,"[X]Assault by handgun discharge, occurrence at home"
+U381.,"[X]Assault by handgun discharge, occurrence in residential institution"
+U382.,"[X]Assault by handgun discharge, occurrence at school, other institution and public administrative area"
+U383.,"[X]Assault by handgun discharge, occurrence at sports and athletics area"
+U384.,"[X]Assault by handgun discharge, occurrence on street and highway"
+U385.,"[X]Assault by handgun discharge, occurrence at trade and service area"
+U386.,"[X]Assault by handgun discharge, occurrence at industrial and construction area"
+U387.,"[X]Assault by handgun discharge, occurrence on farm"
+U38y.,"[X]Assault by handgun discharge, occurrence at other specified place"
+U38z.,"[X]Assault by handgun discharge, occurrence at unspecified place"
+U39..,"[X]Assault by rifle, shotgun and larger firearm discharge"
+U390.,"[X]Assault by rifle, shotgun and larger firearm discharge, occurrence at home"
+U391.,"[X]Assault by rifle, shotgun and larger firearm discharge, occurrence in residential institution"
+U392.,"[X]Assault by rifle, shotgun and larger firearm discharge, occurrence at school, other institution and public administrative area"
+U393.,"[X]Assault by rifle, shotgun and larger firearm discharge, occurrence at sports and athletics area"
+U394.,"[X]Assault by rifle, shotgun and larger firearm discharge, occurrence on street and highway"
+U395.,"[X]Assault by rifle, shotgun and larger firearm discharge, occurrence at trade and service area"
+U396.,"[X]Assault by rifle shotgun and larger firearm discharge, occurrence at industrial and construction area"
+U397.,"[X]Assault by rifle shotgun and larger firearm discharge, occurrence on farm"
+U39y.,"[X]Assault by rifle shotgun and larger firearm discharge, occurrence at other specified place"
+U39z.,"[X]Assault by rifle shotgun and larger firearm discharge, occurrence at unspecified place"
+U3E..,[X]Assault by sharp object
+U3E0.,"[X]Assault by sharp object, occurrence at home"
+U3E1.,"[X]Assault by sharp object, occurrence in residential institution"
+U3E2.,"[X]Assault by sharp object, occurrence at school, other institution and public administrative area"
+U3E3.,"[X]Assault by sharp object, occurrence at sports and athletics area"
+U3E5.,"[X]Assault by sharp object, occurrence at trade and service area"
+U3E6.,"[X]Assault by sharp object, occurrence at industrial and construction area"
+U3E7.,"[X]Assault by sharp object, occurrence on farm"
+U3Ey.,"[X]Assault by sharp object, occurrence at other specified place"
+U3Ez.,"[X]Assault by sharp object, occurrence at unspecified place"
+U3F..,[X]Assault by blunt object
+U3F0.,"[X]Assault by blunt object, occurrence at home"
+U3F1.,"[X]Assault by blunt object, occurrence in residential institution"
+U3F2.,"[X]Assault by blunt object, occurrence at school, other institution and public administrative area"
+U3F3.,"[X]Assault by blunt object, occurrence at sports and athletics area"
+U3F4.,"[X]Assault by blunt object, occurrence on street and highway"
+U3F5.,"[X]Assault by blunt object, occurrence at trade and service area"
+U3F6.,"[X]Assault by blunt object, occurrence at industrial and construction area"
+U3F7.,"[X]Assault by blunt object, occurrence on farm"
+U3Fy.,"[X]Assault by blunt object, occurrence at other specified place"
+U3Fz.,"[X]Assault by blunt object, occurrence at unspecified place"
+U3G..,[X]Assault by pushing from high place
+U3G0.,"[X]Assault by pushing from high place, occurrence at home"
+U3G1.,"[X]Assault by pushing from high place, occurrence in residential institution"
+U3G2.,"[X]Assault by pushing from high place, occurrence at school, other institution and public administrative area"
+U3G3.,"[X]Assault by pushing from high place, occurrence at sports and athletics area"
+U3G4.,"[X]Assault by pushing from high place, occurrence on street and highway"
+U3G5.,"[X]Assault by pushing from high place, occurrence at trade and service area"
+U3G6.,"[X]Assault by pushing from high place, occurrence at industrial and construction area"
+U3G7.,"[X]Assault by pushing from high place, occurrence on farm"
+U3Gy.,"[X]Assault by pushing from high place, occurrence at other specified place"
+U3Gz.,"[X]Assault by pushing from high place, occurrence at unspecified place"
+U3J..,[X]Assault by crashing of motor vehicle
+U3J0.,"[X]Assault by crashing of motor vehicle, occurrence at home"
+U3J1.,"[X]Assault by crashing of motor vehicle, occurrence in residential institution"
+U3J2.,"[X]Assault by crashing of motor vehicle, occurrence at school, other institution and public administrative area"
+U3J3.,"[X]Assault by crashing of motor vehicle, occurrence at sports and athletics area"
+U3J4.,"[X]Assault by crashing of motor vehicle, occurrence on street and highway"
+U3J5.,"[X]Assault by crashing of motor vehicle, occurrence at trade and service area"
+U3J6.,"[X]Assault by crashing of motor vehicle, occurrence at industrial and construction area"
+U3J7.,"[X]Assault by crashing of motor vehicle, occurrence on farm"
+U3Jy.,"[X]Assault by crashing of motor vehicle, occurrence at other specified place"
+U3Jz.,"[X]Assault by crashing of motor vehicle, occurrence at unspecified place"
+U3K..,[X]Assault by bodily force
+U3K0.,"[X]Assault by bodily force, occurrence at home"
+U3K1.,"[X]Assault by bodily force, occurrence in residential institution"
+U3K2.,"[X]Assault by bodily force, occurrence at school, other institution and public administrative area"
+U3K3.,"[X]Assault by bodily force, occurrence at sports and athletics area"
+U3K4.,"[X]Assault by bodily force, occurrence on street and highway"
+U3K5.,"[X]Assault by bodily force, occurrence at trade and service area"
+U3K6.,"[X]Assault by bodily force, occurrence at industrial and construction area"
+U3K7.,"[X]Assault by bodily force, occurrence on farm"
+U3Ky.,"[X]Assault by bodily force, occurrence at other specified place"
+U3Kz.,"[X]Assault by bodily force, occurrence at unspecified place"
+S7...,Blast injury to internal organs
+S70..,Traumatic pneumothorax and haemothorax
+S700.,Closed traumatic pneumothorax
+S701.,Open traumatic pneumothorax
+S702.,Closed traumatic haemothorax
+S703.,Open traumatic haemothorax
+S704.,Closed traumatic haemopneumothorax
+S705.,Open traumatic haemopneumothorax
+S706.,Traumatic pneumothorax
+S707.,Traumatic haemothorax
+S708.,Traumatic haemopneumothorax
+S70z.,Traumatic pneumothorax and haemothorax NOS
+S71..,Injury to heart and lung
+S710.,"Heart injury, closed"
+S7100,"Heart injury without mention of open wound into thorax, unspecified"
+S7101,Heart contusion without mention of open wound into thorax
+S7102,"Heart laceration without mention of open wound into thorax, without penetration of heart chambers"
+S7103,"Heart laceration without mention of open wound into thorax, with penetration of heart chambers"
+S710y,[X]Other closed injuries of heart
+S710z,"Heart injury without mention of open wound into thorax, NOS"
+S7110,"Heart injury with open wound into thorax, unspecified"
+S711.,"Heart injury, open"
+S7111,"Heart contusion, with open wound into thorax"
+S7112,"Heart laceration with open wound into thorax, without penetration of heart chambers"
+S7113,"Heart laceration with open wound into thorax, with penetration of heart chambers"
+S711y,[X]Other open injuries of heart
+S711z,Heart injury with open wound into thorax NOS
+S712.,Closed injury of lung
+S7120,"Lung injury without mention of open wound into thorax, unspecified"
+S7121,Lung contusion without mention of open wound into thorax
+S7122,Lung laceration without mention of open wound into thorax
+S712z,Lung injury without mention of open wound into thorax NOS
+S713.,Open injury of lung
+S7130,"Lung injury with open wound into thorax, unspecified"
+S7131,Lung contusion with open wound into thorax
+S7132,Lung laceration with open wound into thorax
+S713z,"Lung injury with open wound into thorax, NOS"
+S714.,Injury of heart with haemopericardium
+S7140,Closed heart injury with haemopericardium
+S7141,Open heart injury with haemopericardium
+S715.,Traumatic pneumopericardium
+S71z.,Heart and lung injury NOS
+S72..,Other and unspecified intrathoracic organ injury
+S720.,Closed injury of diaphragm
+S721.,Open injury of diaphragm
+S722.,Closed injury other intra-thoracic structure
+S7220,Closed injury of bronchus
+S7221,Closed injury of oesophagus
+S7222,Closed injury of pleura
+S7223,Closed injury of thymus
+S7224,Closed injury of thoracic duct
+S722z,Closed injury other intra-thoracic structure not otherwise specified
+S723.,Open injury other intra-thoracic structure
+S7230,Open injury of bronchus
+S7231,Open injury of oesophagus
+S7232,Open injury of pleura
+S7233,Open injury of thymus
+S7234,Open injury of thoracic duct
+S723z,Open injury other intra-thoracic structure not otherwise specified
+S724.,Injury of bronchus
+S725.,Injury of thoracic trachea
+S7250,Closed injury of thoracic trachea
+S7251,Open injury of thoracic trachea
+S726.,Injury of pleura
+S727.,Multiple injuries of intrathoracic organs
+S72x.,Multiple intrathoracic organ injury without mention of open wound into cavity
+S72y.,Multiple intrathoracic organ injury with open wound into cavity
+S72z.,Intrathoracic organ injury NOS
+S73..,Gastrointestinal tract injury
+S730.,Stomach injury without mention of open wound into cavity
+S731.,Stomach injury with open wound into cavity
+S732.,Small intestine injury without mention of open wound into cavity
+S7320,"Small intestine injury without mention of open wound into cavity, unspecified"
+S7321,Duodenum injury without mention of open wound into cavity
+S732z,"Small intestine injury without mention of open wound into cavity, NOS"
+S733.,Small intestine injury with open wound into cavity
+S7330,"Small intestine injury with open wound into cavity, unspecified"
+S7331,Duodenum injury with open wound into cavity
+S733z,"Small intestine injury with open wound into cavity, NOS"
+S734.,Colon or rectum injury without mention of open wound into cavity
+S7340,Colon injury without mention of open wound into cavity
+S7341,Ascending colon injury without mention of open wound into cavity
+S7342,Transverse colon injury without mention of open wound into cavity
+S7343,Descending colon injury without mention of open wound into cavity
+S7344,Sigmoid colon injury without mention of open wound into cavity
+S7345,Rectum injury without mention of open wound into cavity
+S734x,Multiple injuries to colon or rectum without mention of open wound into cavity
+S734y,Other colon or rectum injury without mention of open wound into cavity
+S734z,"Colon or rectum injury without mention of open wound into cavity, NOS"
+S735.,Colon or rectum injury with open wound into cavity
+S7350,"Colon injury with open wound into cavity, unspecified"
+S7351,Ascending colon injury with open wound into cavity
+S7352,Transverse colon injury with open wound into cavity
+S7353,Descending colon injury with open wound into cavity
+S7354,Sigmoid colon injury with open wound into cavity
+S7355,Rectum injury with open wound into cavity
+S735x,Multiple injuries to colon or rectum with open wound into cavity
+S735y,Other colon or rectum injury with open wound into cavity
+S735z,"Colon or rectum injury with open wound into cavity, NOS"
+S73x.,Other closed injury of gastrointestinal tract
+S73x0,"Other gastrointestinal tract injury without mention of open wound into cavity, unspecified"
+S73x1,Pancreas head injury without mention of open wound into cavity
+S73x2,Pancreas body injury without mention of open wound into cavity
+S73x3,Pancreas tail injury without mention of open wound into cavity
+S73x4,Pancreas multiple or unspecified site injury without mention of open wound into cavity
+S73x5,Appendix injury without mention of open wound into cavity
+S73x6,Closed injury of pancreas
+S73xy,Other gastrointestinal tract injury without mention of open wound into cavity
+S73xz,"Gastrointestinal tract injury without mention of open wound into cavity, NOS"
+S73y.,Other open injury of gastrointestinal tract
+S73y0,"Gastrointestinal tract injury with open wound into cavity, unspecified"
+S73y1,Pancreas head injury with open wound into cavity
+S73y2,Pancreas body injury with open wound into cavity
+S73y3,Pancreas tail injury with open wound into cavity
+S73y4,Pancreas multiple or unspecified site injury with open wound into cavity
+S73y5,Appendix injury with open wound into cavity
+S73y6,Open injury of pancreas
+S73yy,Other gastrointestinal tract injury with open wound into cavity
+S73yz,"Gastrointestinal tract injury with open wound into cavity, NOS"
+S73z.,"Injury to gastrointestinal tract, NOS"
+S74..,Injury to liver
+S740.,Closed injury of liver
+S7400,"Liver injury without mention of open wound into cavity, unspecified"
+S7401,Liver haematoma and contusion without mention of open wound into cavity
+S7402,Liver minor laceration without mention of open wound into cavity
+S7403,Liver moderate laceration without mention of open wound into cavity
+S7404,Liver major laceration without mention of open wound into cavity
+S740y,Other liver laceration without mention of open wound into cavity
+S740z,"Liver injuries without mention of open wound into cavity, NOS"
+S741.,Open injury of liver
+S7410,"Liver injury with open wound into cavity, unspecified"
+S7411,Liver haematoma and contusion with open wound into cavity
+S7412,Liver minor laceration with open wound into cavity
+S7413,Liver moderate laceration with open wound into cavity
+S7414,Liver major laceration with open wound into cavity
+S741y,Other liver injury with open wound into cavity
+S741z,"Liver injury with open wound into cavity, NOS"
+S74z.,"Injury to liver, NOS"
+S75..,Injury to spleen
+S750.,Closed injury of spleen
+S7500,"Spleen injury without mention of open wound into cavity, unspecified"
+S7501,"Spleen haematoma without rupture of capsule, without mention of open wound into cavity"
+S7502,"Spleen capsular tear without major disruption of parenchyma, without mention of open wound into cavity"
+S7503,Spleen laceration extending into parenchyma without mention of open wound into cavity
+S7504,Spleen massive parenchymal disruption without mention of open wound into cavity
+S750y,Other spleen injury without mention of open wound into cavity
+S750z,Spleen injury without mention of open wound into cavity NOS
+S751.,Open injury of spleen
+S7510,"Spleen injury with open wound into cavity, unspecified"
+S7511,"Spleen injury with haematoma without rupture of capsule, with open wound into cavity"
+S7512,"Spleen capsular tear without major disruption of parenchyma, with open wound into cavity"
+S7513,Spleen laceration extending into parenchyma with open wound into cavity
+S7514,Spleen massive parenchymal disruption with open wound into cavity
+S751y,Other spleen injury with open wound into cavity
+S751z,"Spleen injury with open wound into cavity, NOS"
+S75z.,Injury to spleen NOS
+S76..,Injury to kidney
+S760.,Closed injury of kidney
+S7600,"Kidney injury without mention of open wound into cavity, unspecified"
+S7601,"Kidney haematoma without rupture of capsule, without mention of open wound into cavity"
+S7602,Kidney laceration without mention of open wound into cavity
+S7603,Complete disruption of kidney parenchyma without mention of open wound into cavity
+S760z,Kidney injury without mention of open wound into cavity NOS
+S761.,Open injury of kidney
+S7610,"Kidney injury with open wound into cavity, unspecified"
+S7611,"Kidney haematoma without rupture of capsule, with open wound into cavity"
+S7612,Kidney laceration with open wound into cavity
+S7613,Complete disruption of kidney parenchyma with open wound into cavity
+S761z,Kidney injury with open wound into cavity NOS
+S76z.,Injury to kidney NOS
+S791.,Internal injury with open wound into cavity NOS
+S79z.,Internal injury NOS
+S7B..,Injury of intra-abdominal organ(s) with pelvic organ(s)
+S7z..,"Internal injury of chest, abdomen or pelvis NOS"
+U0...,[X]RTA - Road traffic and other transport accidents
+T13..,Motor vehicle traffic accident involving collision with other vehicle
+T14..,Motor vehicle on road in collision with pedestrian
+T140.,Pedestrian dragged by motor vehicle
+T1400,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, driver of motor vehicle injured"
+T1401,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, passenger of motor vehicle injured"
+T1402,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, motor cyclist injured"
+T1403,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, passenger on motor cycle injured"
+T1404,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, occupant of tram injured"
+T1405,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, rider of animal or occupant of animal-drawn vehicle injured"
+T1406,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, pedal cyclist injured"
+T1407,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, pedestrian injured"
+T140y,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, other specified person injured"
+T140z,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, unspecified person injured"
+T141.,Pedestrian hit by motor vehicle
+T1410,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, driver of motor vehicle injured"
+T1411,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, passenger of motor vehicle injured"
+T1412,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, motor cyclist injured"
+T1413,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, passenger on motor cycle injured"
+T1414,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, occupant of tram injured"
+T1415,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, rider of animal or occupant of animal-drawn vehicle injured"
+T1416,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, pedal cyclist injured"
+T1417,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, pedestrian injured"
+T141y,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, other specified person injured"
+T141z,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, unspecified person injured"
+T142.,Pedestrian run over by motor vehicle
+T1420,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, driver of motor vehicle injured"
+T1421,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, passenger of motor vehicle injured"
+T1422,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, motor cyclist injured"
+T1423,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, passenger on motor cycle injured"
+T1424,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, occupant of tram injured"
+T1425,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, rider of animal or occupant of animal-drawn vehicle injured"
+T1426,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, pedal cyclist injured"
+T1427,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, pedestrian injured"
+T142y,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, other specified person injured"
+T142z,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, unspecified person injured"
+T14z.,"Motor vehicle traffic accident involving collision between motor vehicle and pedestrian, NOS"
+T14z0,"Motor vehicle traffic accident involving collision between motor vehicle and pedestrian, NOS, driver of motor vehicle injured"
+T14z1,"Motor vehicle traffic accident involving collision between motor vehicle and pedestrian, NOS, passenger of motor vehicle injured"
+T14z2,"Motor vehicle traffic accident involving collision between motor vehicle and pedestrian, NOS, motor cyclist injured"
+T14z3,"Motor vehicle traffic accident involving collision between motor vehicle and pedestrian, NOS, passenger on motor cycle injured"
+T14z4,"Motor vehicle traffic accident involving collision between motor vehicle and pedestrian, NOS, occupant of tram injured"
+T14z5,"Motor vehicle traffic accident involving collision between motor vehicle and pedestrian, NOS, rider of animal or occupant of animal-drawn vehicle injured"
+T14z6,"Motor vehicle traffic accident involving collision between motor vehicle and pedestrian, NOS, pedal cyclist injured"
+T14z7,"Motor vehicle traffic accident involving collision between motor vehicle and pedestrian, NOS, pedestrian injured"
+T14zy,"Motor vehicle traffic accident involving collision between motor vehicle and pedestrian, NOS, other specified person injured"
+T14zz,"Motor vehicle traffic accident involving collision between motor vehicle and pedestrian, NOS, unspecified person injured"
+X70yv,Pedestrian trapped under motor vehicle wheel
+T15..,Other motor vehicle traffic accident involving collision on the highway
+T3...,Other road vehicle accidents
+T331.,Hit by object in road vehicle NEC
+T3310,"Accident involving being hit by object in road vehicle NEC, pedestrian injured"
+T3311,"Accident involving being hit by object in road vehicle NEC, occupant of tram injured"
+T331y,"Accident involving being hit by object in road vehicle NEC, other specified person injured"
+T331z,"Accident involving being hit by object in road vehicle NEC, unspecified person injured"
+T332.,Accident involving breakage of part of road vehicle NEC
+T3320,"Accident involving breakage of any part of road vehicle NEC, pedestrian injured"
+T3321,"Accident involving breakage of any part of road vehicle NEC, occupant of tram injured"
+T332y,"Accident involving breakage of any part of road vehicle NEC, other specified person injured"
+T332z,"Accident involving breakage of any part of road vehicle NEC, unspecified person injured"
+T334.,Derailment of road vehicle NEC
+T3340,"Accident involving derailment of road vehicle NEC, pedestrian injured"
+T3341,"Accident involving derailment of road vehicle NEC, occupant of tram injured"
+T334y,"Accident involving derailment of road vehicle NEC, other specified person injured"
+T334z,"Accident involving derailment of road vehicle NEC, unspecified person injured"
+T337.,Fall from road vehicle NEC
+T3370,"Accident involving fall from road vehicle NEC, pedestrian injured"
+T3371,"Accident involving fall from road vehicle NEC, occupant of tram injured"
+T337y,"Accident involving fall from road vehicle NEC, other specified person injured"
+T337z,"Accident involving fall from road vehicle NEC, unspecified person injured"
+T339.,Accident involving collision between road vehicle NEC and animal
+T3390,"Accident involving collision between road vehicle NEC and animal, pedestrian injured"
+T3391,"Accident involving collision between road vehicle NEC and animal, occupant of tram injured"
+T339y,"Accident involving collision between road vehicle NEC and animal, other specified person injured"
+T339z,"Accident involving collision between road vehicle NEC and animal, unspecified person injured"
+T33A.,Accident involving collision between road vehicle NEC and another nonmotor road vehicle NEC
+T33A0,"Accident involving collision between road vehicle NEC and another nonmotor road vehicle NEC, pedestrian injured"
+T33A1,"Accident involving collision between road vehicle NEC and another nonmotor road vehicle NEC, occupant of tram injured"
+T33Ay,"Accident involving collision between road vehicle NEC and another nonmotor road vehicle NEC, other specified person injured"
+T33Az,"Accident involving collision between road vehicle NEC and another nonmotor road vehicle NEC, unspecified person injured"
+T33B.,Accident involving collision between road vehicle NEC and pedestrian
+T33B0,"Accident involving collision between road vehicle NEC and pedestrian, pedestrian injured"
+T33B1,"Accident involving collision between road vehicle NEC and pedestrian, occupant of tram injured"
+T33By,"Accident involving collision between road vehicle NEC and pedestrian, other specified person injured"
+T33Bz,"Accident involving collision between road vehicle NEC and pedestrian, unspecified person injured"
+T33C.,"Accident involving collision between road vehicle NEC and other object, fixed, movable or moving, not set in motion by motor vehicle, railway train or aircraft"
+T33C0,"Accident involving collision between road vehicle NEC and other object, pedestrian injured"
+T33C1,"Accident involving collision between road vehicle NEC and other object, occupant of tram injured"
+T33Cy,"Accident involving collision between road vehicle NEC and other object, other specified person injured"
+T33Cz,"Accident involving collision between road vehicle NEC and other object, unspecified person injured"
+T33x.,Nonmotor road vehicle accident NOS
+T33x0,Nonmotor road vehicle acc NOS - pedestrian injured
+T33x1,Nonmotor road vehicle acc NOS - occupant of tram injured
+T33xy,"Nonmotor road vehicle accident NOS, other specified person injured"
+T33xz,"Nonmotor road vehicle accident NOS, unspecified person injured"
+T33y.,Tram accident NOS
+T33y0,Tram accident NOS - pedestrian injured
+T33y1,Tram accident NOS - occupant of tram injured
+T33yy,Tram accident NOS - other specified person injured
+T33yz,Tram accident NOS - unspecified person injured
+T33z.,Other road vehicle accident NOS
+T33z0,Other road vehicle accid NOS - pedestrian injured
+T33z1,Other road vehicle accid NOS - occupant of tram injured
+T33zy,"Other road vehicle accident NOS, other specified person injured"
+T33zz,Other road vehicle accid NOS - unspecified person injured
+T3z..,Road vehicle accident NOS
+X70yt,Motor vehicle on road in collision with vehicle running on rails
+T10..,Motor vehicle on road in collision with train
+T100.,"Motor vehicle traffic accident involving collision with train, unspecified"
+T1000,"Motor vehicle traffic accident involving collision with train, unspecified, driver of motor vehicle injured"
+T1001,"Motor vehicle traffic accident involving collision with train, unspecified, passenger of motor vehicle injured"
+T1002,"Motor vehicle traffic accident involving collision with train, unspecified, motor cyclist injured"
+T1003,"Motor vehicle traffic accident involving collision with train, unspecified, passenger on motor cycle injured"
+T1004,"Motor vehicle traffic accident involving collision with train, unspecified, occupant of tram injured"
+T1005,"Motor vehicle traffic accident involving collision with train, unspecified, rider of animal or occupant of animal-drawn vehicle injured"
+T1006,"Motor vehicle traffic accident involving collision with train, unspecified, pedal cyclist injured"
+T1007,"Motor vehicle traffic accident involving collision with train, unspecified, pedestrian injured"
+T100y,"Motor vehicle traffic accident involving collision with train, unspecified, other specified person injured"
+T100z,"Motor vehicle traffic accident involving collision with train, unspecified, unspecified person injured"
+T10z.,"Motor vehicle traffic accident involving collision with train, NOS"
+T10z0,"Motor vehicle traffic accident involving collision with train, NOS, driver of motor vehicle injured"
+T10z1,"Motor vehicle traffic accident involving collision with train, NOS, passenger of motor vehicle injured"
+T10z2,"Motor vehicle traffic accident involving collision with train, NOS, motor cyclist injured"
+T10z3,"Motor vehicle traffic accident involving collision with train, NOS, passenger on motor cycle injured"
+T10z4,"Motor vehicle traffic accident involving collision with train, NOS, occupant of tram injured"
+T10z5,"Motor vehicle traffic accident involving collision with train, NOS, rider of animal or occupant of animal-drawn vehicle injured"
+T10z6,"Motor vehicle traffic accident involving collision with train, NOS, pedal cyclist injured"
+T10z7,"Motor vehicle traffic accident involving collision with train, NOS, pedestrian injured"
+T10zy,"Motor vehicle traffic accident involving collision with train, NOS, other specified person injured"
+T10zz,"Motor vehicle traffic accident involving collision with train NOS, unspecified person injured"
+T133.,Motor vehicle on road in collision with tram
+T1330,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, driver of motor vehicle injured"
+T1331,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, passenger of motor vehicle injured"
+T1332,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, motor cyclist injured"
+T1333,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, passenger on motor cycle injured"
+T1334,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, occupant of tram injured"
+T1335,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, rider of animal or occupant of animal-drawn vehicle injured"
+T1336,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, pedal cyclist injured"
+T1337,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, pedestrian injured"
+T133y,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, other specified person injured"
+T133z,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, unspecified person injured"
+X70yw,Motor vehicle on road in collision with object other than vehicle
+T151.,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal"
+T153.,Motor vehicle on road in collision with thrown object
+T1530,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, driver of motor vehicle injured"
+T1531,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, passenger of motor vehicle injured"
+T1532,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, motor cyclist injured"
+T1533,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, passenger on motor cycle injured"
+T1534,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, occupant of tram injured"
+T1535,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, rider of animal or occupant of animal-drawn vehicle injured"
+T1536,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, pedal cyclist injured"
+T1537,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, pedestrian injured"
+T153y,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, other specified person injured"
+T153z,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, unspecified person injured"
+T155.,Motor vehicle on road in collision with landslide
+T1550,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, driver of motor vehicle injured"
+T1551,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, passenger of motor vehicle injured"
+T1552,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, motor cyclist injured"
+T1553,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, passenger on motor cycle injured"
+T1554,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, occupant of tram injured"
+T1555,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, rider of animal or occupant of animal-drawn vehicle injured"
+T1556,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, pedal cyclist injured"
+T1557,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, pedestrian injured"
+T155y,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, other specified person injured"
+T155z,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, unspecified person injured"
+T156.,Motor vehicle on road in collision with safety island
+T1560,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, driver of motor vehicle injured"
+T1561,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, passenger of motor vehicle injured"
+T1562,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, motor cyclist injured"
+T1563,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, passenger on motor cycle injured"
+T1564,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, occupant of tram injured"
+T1565,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, rider of animal or occupant of animal-drawn vehicle injured"
+T1566,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, pedal cyclist injured"
+T1567,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, pedestrian injured"
+T156y,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, other specified person injured"
+T15z.,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object NOS"
+T15z0,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object NOS, driver of motor vehicle injured"
+T15z1,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object NOS, passenger of motor vehicle injured"
+T15z2,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object NOS, motor cyclist injured"
+T15z3,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object NOS, passenger on motor cycle injured"
+T15z4,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object NOS, occupant of tram injured"
+T15z5,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object NOS, rider of animal or occupant of animal-drawn vehicle injured"
+T15z6,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object NOS, pedal cyclist injured"
+T15z7,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object NOS, pedestrian injured"
+T15zy,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object NOS, other specified person injured"
+T15zz,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object NOS, unspecified person injured"
+X70yx,Motor vehicle on road in collision with road-side fixed object
+T150.,Motor vehicle on road in collision between motor vehicle and bridge
+T1500,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, driver of motor vehicle injured"
+T1501,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, passenger of motor vehicle injured"
+T1502,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, motor cyclist injured"
+T1503,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, passenger on motor cycle injured"
+T1504,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, occupant of tram injured"
+T1505,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, rider of animal or occupant of animal-drawn vehicle injured"
+T1506,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, pedal cyclist injured"
+T1507,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, pedestrian injured"
+T150y,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, other specified person injured"
+T150z,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, unspecified person injured"
+T154.,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence"
+T1540,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, driver of motor vehicle injured"
+T1541,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, passenger of motor vehicle injured"
+T1542,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, motor cyclist injured"
+T1543,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, passenger on motor cycle injured"
+T1544,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, occupant of tram injured"
+T1545,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, rider of animal or occupant of animal-drawn vehicle injured"
+T1546,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, pedal cyclist injured"
+T1547,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, pedestrian injured"
+T154y,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, other specified person injured"
+T154z,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, unspecified person injured"
+X70yy,Motor vehicle on road in collision with lamp post
+X70yz,Motor vehicle on road in collision with tree
+X70z0,Motor vehicle on road in collision with wall
+X70z1,Motor vehicle on road in collision with building
+Xa0Jo,Motor vehicle on road in collision with road sign
+Xa0Jp,Motor vehicle on road in collision with bollard
+XM1Fa,Motor vehicle on road in collision with unridden animal
+T1510,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, driver of motor vehicle injured"
+T1511,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, passenger of motor vehicle injured"
+T1512,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, motor cyclist injured"
+T1513,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, passenger on motor cycle injured"
+T1514,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, occupant of tram injured"
+T1515,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, rider of animal or occupant of animal-drawn vehicle injured"
+T1516,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, pedal cyclist injured"
+T1517,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, pedestrian injured"
+T151y,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, other specified person injured"
+T151z,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, unspecified person injured"
+XM1Fb,Motor vehicle on road in collision with fallen object
+T152.,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole"
+T1520,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, driver of motor vehicle injured"
+T1521,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, passenger of motor vehicle injured"
+T1522,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, motor cyclist injured"
+T1523,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, passenger on motor cycle injured"
+T1524,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, occupant of tram injured"
+T1525,"Motor vehicle traffic accident involving collision,on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, rider of animal or occupant of animal-drawn vehicle injured"
+T1526,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, pedal cyclist injured"
+T1527,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, pedestrian injured"
+T152y,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, other specified person injured"
+T152z,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, unspecified person injured"
+X70z2,Accident due to loss of control of motor vehicle on road
+T16..,"Motor vehicle traffic accident due to loss of control, without collision on the highway"
+T16z.,"Motor vehicle traffic accident due to loss of control without collision on the highway, NOS"
+T16z0,"Motor vehicle traffic accident due to loss of control without collision on the highway, NOS, driver of motor vehicle injured"
+T16z1,"Motor vehicle traffic accident due to loss of control without collision on the highway, NOS, passenger of motor vehicle injured"
+T16z2,"Motor vehicle traffic accident due to loss of control without collision on the highway, NOS, motor cyclist injured"
+T16z3,"Motor vehicle traffic accident due to loss of control without collision on the highway, NOS, passenger on motor cycle injured"
+T16z4,"Motor vehicle traffic accident due to loss of control without collision on the highway, NOS, occupant of tram injured"
+T16z5,"Motor vehicle traffic accident due to loss of control without collision on the highway, NOS, rider of animal or occupant of animal-drawn vehicle injured"
+T16z6,"Motor vehicle traffic accident due to loss of control without collision on the highway, NOS, pedal cyclist injured"
+T16z7,"Motor vehicle traffic accident due to loss of control without collision on the highway, NOS, pedestrian injured"
+T16zz,"Motor vehicle traffic accident due to loss of control without collision on the highway, NOS, unspecified person injured"
+X70z3,Accident due to motor vehicle on road failing to negotiate curve
+T160.,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway"
+T1600,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, driver of motor vehicle injured"
+T1601,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, passenger of motor vehicle injured"
+T1602,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, motor cyclist injured"
+T1603,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, passenger on motor cycle injured"
+T1604,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, occupant of tram injured"
+T1605,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, rider of animal or occupant of animal-drawn vehicle injured"
+T1606,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, pedal cyclist injured"
+T1607,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, pedestrian injured"
+T160y,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, other specified person injured"
+T160z,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, unspecified person injured"
+X70z4,Accident due to motor vehicle on road travelling at excessive speed
+T165.,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway"
+T1650,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, driver of motor vehicle injured"
+T1651,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, passenger of motor vehicle injured"
+T1652,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, motor cyclist injured"
+T1653,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, passenger on motor cycle injured"
+T1654,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, occupant of tram injured"
+T1656,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, pedal cyclist injured"
+T1657,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, pedestrian injured"
+T165y,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, other specified person injured"
+T165z,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, unspecified person injured"
+X70z5,Accident due to inattention of driver of motor vehicle on road
+T164.,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway"
+T1640,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, driver of motor vehicle injured"
+T1641,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, passenger of motor vehicle injured"
+T1642,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, motor cyclist injured"
+T1643,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, passenger on motor cycle injured"
+T1644,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, occupant of tram injured"
+T1645,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, rider of animal or occupant of animal-drawn vehicle injured"
+T1646,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, pedal cyclist injured"
+T1647,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, pedestrian injured"
+T164y,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, other specified person injured"
+T164z,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, unspecified person injured"
+X70z6,Accident due to driver of motor vehicle on road falling asleep
+T163.,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway"
+T1630,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, driver of motor vehicle injured"
+T1631,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, passenger of motor vehicle injured"
+T1632,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, motor cyclist injured"
+T1633,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, passenger on motor cycle injured"
+T1634,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, occupant of tram injured"
+T1635,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, rider of animal or occupant of animal-drawn vehicle injured"
+T1636,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, pedal cyclist injured"
+T1637,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, pedestrian injured"
+T163y,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, other specified person injured"
+T163z,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, unspecified person injured"
+X70z7,Accident due to sudden illness of driver of motor vehicle on road
+X70z8,Accident to motor vehicle on road due to tyre burst
+T161.,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway"
+T1610,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, driver of motor vehicle injured"
+T1611,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, passenger of motor vehicle injured"
+T1612,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, motor cyclist injured"
+T1613,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, passenger on motor cycle injured"
+T1614,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, occupant of tram injured"
+T1615,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, rider of animal or occupant of animal-drawn vehicle injured"
+T1617,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, pedestrian injured"
+T161y,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, other specified person injured"
+T161z,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, unspecified person injured"
+T162.,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway"
+T1620,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, driver of motor vehicle injured"
+T1621,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, passenger of motor vehicle injured"
+T1622,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, motor cyclist injured"
+T1623,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, passenger on motor cycle injured"
+T1624,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, occupant of tram injured"
+T1625,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, rider of animal or occupant of animal-drawn vehicle injured"
+T1626,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, pedal cyclist injured"
+T1627,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, pedestrian injured"
+T162y,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, other specified person injured"
+T162z,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, unspecified person injured"
+X70z9,Accident due to mechanical failure in motor vehicle on road
+T166.,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway"
+T1660,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, driver of motor vehicle injured"
+T1661,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, passenger of motor vehicle injured"
+T1662,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, motor cyclist injured"
+T1663,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, passenger on motor cycle injured"
+T1664,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, occupant of tram injured"
+T1665,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on highway, rider of animal or occupant of animal-drawn vehicle injured"
+T1666,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, pedal cyclist injured"
+T1667,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, pedestrian injured"
+T166y,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, other specified person injured"
+T166z,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, unspecified person injured"
+XM00c,Motor vehicle on road in collision with nonmotor vehicle
+T130.,Motor vehicle on road in collision with ridden animal
+T1300,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, driver of motor vehicle injured"
+T1301,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, passenger of motor vehicle injured"
+T1302,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, motor cyclist injured"
+T1303,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, passenger on motor cycle injured"
+T1304,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, occupant of tram injured"
+T1305,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, rider of animal or occupant of animal-drawn vehicle injured"
+T1306,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, pedal cyclist injured"
+T1307,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, pedestrian injured"
+T130y,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, other specified person injured"
+T130z,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, unspecified person injured"
+T131.,Motor vehicle on road in collision with animal-drawn vehicle
+T1310,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, driver of motor vehicle injured"
+T1311,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, passenger of motor vehicle injured"
+T1312,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, motor cyclist injured"
+T1313,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, passenger on motor cycle injured"
+T1314,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, occupant of tram injured"
+T1315,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, rider of animal or occupant of animal-drawn vehicle injured"
+T1316,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, pedal cyclist injured"
+T1317,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, pedestrian injured"
+T131y,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, other specified person injured"
+T131z,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, unspecified person injured"
+T132.,Motor vehicle on road in collision with pedal cycle
+T1320,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, driver of motor vehicle injured"
+T1321,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, passenger of motor vehicle injured"
+T1322,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, motor cyclist injured"
+T1323,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, passenger on motor cycle injured"
+T1324,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, occupant of tram injured"
+T1325,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, rider of animal or occupant of animal-drawn vehicle injured"
+T1326,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, pedal cyclist injured"
+T1327,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, pedestrian injured"
+T132y,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, other specified person injured"
+T132z,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, unspecified person injured"
+XM1FZ,Motor vehicle on road in collision with another motor vehicle
+T11..,Motor vehicle traffic accident involving re-entrant collision with another motor vehicle
+T110.,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, unspecified"
+T1100,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, unspecified, driver of motor vehicle injured"
+T1101,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, unspecified, passenger of motor vehicle injured"
+T1102,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, unspecified, motor cyclist injured"
+T1103,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, unspecified, passenger on motor cycle injured"
+T1104,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, unspecified, occupant of tram injured"
+T1105,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, unspecified, rider of animal or occupant of animal-drawn vehicle injured"
+T1106,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, unspecified, pedal cyclist injured"
+T1107,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, unspecified, pedestrian injured"
+T110y,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, unspecified, other specified person injured"
+T110z,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, unspecified, unspecified person injured"
+T11z.,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, NOS"
+T11z0,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, NOS, driver of motor vehicle injured"
+T11z1,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, NOS, passenger of motor vehicle injured"
+T11z2,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, NOS, motor cyclist injured"
+T11z3,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, NOS, passenger on motor cycle injured"
+T11z4,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, NOS, occupant of tram injured"
+T11z5,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, NOS, rider of animal or occupant of animal-drawn vehicle injured"
+T11z6,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, NOS, pedal cyclist injured"
+T11z7,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, NOS, pedestrian injured"
+T11zy,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, NOS, other specified person injured"
+T11zz,"Motor vehicle traffic accident involving re-entrant collision with another motor vehicle, NOS, unspecified person injured"
+T120.,Motor vehicle on road in collision with parked motor vehicle
+T1200,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, driver of motor vehicle injured"
+T1201,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, passenger of motor vehicle injured"
+T1202,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, motor cyclist injured"
+T1203,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, passenger on motor cycle injured"
+T1204,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, occupant of tram injured"
+T1205,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, rider of animal or occupant of animal-drawn vehicle injured"
+T1206,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, pedal cyclist injured"
+T1207,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, pedestrian injured"
+T120y,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, other specified person injured"
+T120z,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, unspecified person injured"
+T121.,Motor vehicle on road in collision with stopped motor vehicle
+T1210,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, driver of motor vehicle injured"
+T1211,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, passenger of motor vehicle injured"
+T1212,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, motor cyclist injured"
+T1213,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, passenger on motor cycle injured"
+T1214,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, occupant of tram injured"
+T1215,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, rider of animal or occupant of animal-drawn vehicle injured"
+T1216,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, pedal cyclist injured"
+T1217,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, pedestrian injured"
+T121y,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, other specified person injured"
+T121z,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, unspecified person injured"
+T122.,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled"
+T1220,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, driver of motor vehicle injured"
+T1221,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, passenger of motor vehicle injured"
+T1222,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, motor cyclist injured"
+T1223,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, passenger on motor cycle injured"
+T1224,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, occupant of tram injured"
+T1225,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, rider of animal or occupant of animal-drawn vehicle injured"
+T1226,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, pedal cyclist injured"
+T1227,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, pedestrian injured"
+T122y,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, other specified person injured"
+T122z,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, unspecified person injured"
+T123.,Motor vehicle on road in collision with disabled motor vehicle
+T1230,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, driver of motor vehicle injured"
+T1231,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, passenger of motor vehicle injured"
+T1232,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, motor cyclist injured"
+T1233,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, passenger on motor cycle injured"
+T1234,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, occupant of tram injured"
+T1235,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, rider of animal or occupant of animal-drawn vehicle injured"
+T1236,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, pedal cyclist injured"
+T1237,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, pedestrian injured"
+T123y,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, other specified person injured"
+T123z,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, unspecified person injured"
+T124.,Motor vehicle on road in collision with abandoned motor vehicle
+T1240,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, driver of motor vehicle injured"
+T1241,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, passenger of motor vehicle injured"
+T1242,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, motor cyclist injured"
+T1243,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, passenger on motor cycle injured"
+T1244,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, occupant of tram injured"
+T1245,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, rider of animal or occupant of animal-drawn vehicle injured"
+T1246,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, pedal cyclist injured"
+T1247,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, pedestrian injured"
+T124y,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, other specified person injured"
+T124z,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, unspecified person injured"
+T13z.,Motor vehicle traffic accident involving collision with other vehicle NOS
+T13z0,"Motor vehicle traffic accident involving collision with other vehicle NOS, driver of motor vehicle injured"
+T13z1,"Motor vehicle traffic accident involving collision with other vehicle NOS, passenger of motor vehicle injured"
+T13z2,"Motor vehicle traffic accident involving collision with other vehicle NOS, motor cyclist injured"
+T13z3,"Motor vehicle traffic accident involving collision with other vehicle NOS, passenger on motor cycle injured"
+T13z4,"Motor vehicle traffic accident involving collision with other vehicle NOS, occupant of tram injured"
+T13z5,"Motor vehicle traffic accident involving collision with other vehicle NOS, rider of animal or occupant of animal-drawn vehicle injured"
+T13z6,"Motor vehicle traffic accident involving collision with other vehicle NOS, pedal cyclist injured"
+T13z7,"Motor vehicle traffic accident involving collision with other vehicle NOS, pedestrian injured"
+T13zy,"Motor vehicle traffic accident involving collision with other vehicle NOS, other specified person injured"
+T13zz,"Motor vehicle traffic accident involving collision with other vehicle NOS, unspecified person injured"
+X70yu,Motor vehicle on road in collision with motor cycle
+Xa6ZX,Motorcycle accident
+Xa6ZY,Bus accident
+XaLox,History of road traffic accident
+6927.,Road traffic accident injury examination
+U00..,[X]Pedestrian injured in transport accident
+U001.,[X]Pedestrian injured in collision with two- or three-wheeled motor vehicle
+U0010,"[X]Pedestrian injured in collision with two- or three-wheeled motor vehicle, nontraffic accident"
+U0011,"[X]Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"
+U001z,"[X]Pedestrian injured in collision with two- or three-wheeled motor vehicle, unspecified whether traffic or nontraffic accident"
+U002.,"[X]Pedestrian injured in collision with car, pick-up truck or van"
+U0020,"[X]Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"
+U0021,"[X]Pedestrian injured in collision with car, pick-up truck or van, traffic accident"
+U002z,"[X]Pedestrian injured in collision with car, pick-up truck or van, unspecified whether traffic or nontraffic accident"
+U003.,[X]Pedestrian injured in collision with heavy transport vehicle or bus
+U0030,"[X]Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"
+U0031,"[X]Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"
+U003z,"[X]Pedestrian injured in collision with heavy transport vehicle or bus, unspecified whether traffic or nontraffic accident"
+U004.,[X]Pedestrian injured in collision with railway train or railway vehicle
+U0040,"[X]Pedestrian injured in collision with railway train or railway vehicle, nontraffic accident"
+U0041,"[X]Pedestrian injured in collision with railway train or railway vehicle, traffic accident"
+U004z,"[X]Pedestrian injured in collision with railway train or railway vehicle, unspecified whether traffic or nontraffic accident"
+U005.,[X]Pedestrian injured in collision with other nonmotor vehicle
+U0050,"[X]Pedestrian injured in collision with other nonmotor vehicle, nontraffic accident"
+U0051,"[X]Pedestrian injured in collision with other nonmotor vehicle, traffic accident"
+U005z,"[X]Pedestrian injured in collision with other nonmotor vehicle, unspecified whether traffic or nontraffic accident"
+U00z.,[X]Pedestrian injured in other and unspecified transport accidents
+U00z0,[X]Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles
+U00z1,[X]Pedestrian injured in unspecified nontraffic accident
+U00z2,[X]Pedestrian injured in traffic accident involving other and unspecified motor vehicles
+U00z3,[X]Pedestrian injured in unspecified traffic accident
+U00zz,[X]Pedestrian injured in unspecified transport accident
+U01..,[X]Pedal cyclist injured in transport accident
+U012.,[X]Pedal cyclist injured in collision with two- or three-wheeled motor vehicle
+U0120,"[X]Pedal cyclist injured in collision with two- or three-wheeled motor vehicle, driver injured in nontraffic accident"
+U0121,"[X]Pedal cyclist injured in collision with two- or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+U0122,"[X]Pedal cyclist injured in collision with two- or three-wheeled motor vehicle, unspecified pedal cyclist injured in nontraffic accident"
+U0123,"[X]Pedal cyclist injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+U0124,"[X]Pedal cyclist injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"
+U0125,"[X]Pedal cyclist injured in collision with two- or three-wheeled motor vehicle, passenger injured in traffic accident"
+U012z,"[X]Pedal cyclist injured in collision with two- or three-wheeled motor vehicle, unspecified pedal cyclist injured in traffic accident"
+U013.,"[X]Pedal cyclist injured in collision with car, pick-up truck or van"
+U0130,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+U0131,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+U0132,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in nontraffic accident"
+U0133,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+U0134,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+U0135,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+U013z,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"
+T2026,"Nontraffic accident involving being hit by motor-driven snow vehicle, pedal cyclist injured"
+U014.,[X]Pedal cyclist injured in collision with heavy transport vehicle or bus
+U0140,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+U0141,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+U0142,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, unspecified pedal cyclist injured in nontraffic accident"
+U0143,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+U0144,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+U0145,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+U014z,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, unspecified pedal cyclist injured in traffic accident"
+U015.,[X]Pedal cyclist injured in collision with railway train or railway vehicle
+U0150,"[X]Pedal cyclist injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+U0151,"[X]Pedal cyclist injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+U0152,"[X]Pedal cyclist injured in collision with railway train or railway vehicle, unspecified pedal cyclist injured in nontraffic accident"
+U0153,"[X]Pedal cyclist injured in collision with railway train or railway vehicle, person injured while boarding or alighting"
+U0154,"[X]Pedal cyclist injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+U0155,"[X]Pedal cyclist injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+U015z,"[X]Pedal cyclist injured in collision with railway train or railway vehicle, unspecified pedal cyclist injured in traffic accident"
+U016.,[X]Pedal cyclist injured in collision with other nonmotor vehicle
+U0160,"[X]Pedal cyclist injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+U0161,"[X]Pedal cyclist injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+U0163,"[X]Pedal cyclist injured in collision with other nonmotor vehicle, person injured while boarding or alighting"
+U0164,"[X]Pedal cyclist injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+U0165,"[X]Pedal cyclist injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+U016z,"[X]Pedal cyclist injured in collision with other nonmotor vehicle, unspecified pedal cyclist injured in traffic accident"
+U017.,[X]Pedal cyclist injured in collision with fixed or stationary object
+U0170,"[X]Pedal cyclist injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+U0171,"[X]Pedal cyclist injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+U0172,"[X]Pedal cyclist injured in collision with fixed or stationary object, unspecified pedal cyclist injured in nontraffic accident"
+U0173,"[X]Pedal cyclist injured in collision with fixed or stationary object, person injured while boarding or alighting"
+U0174,"[X]Pedal cyclist injured in collision with fixed or stationary object, driver injured in traffic accident"
+U0175,"[X]Pedal cyclist injured in collision with fixed or stationary object, passenger injured in traffic accident"
+U017z,"[X]Pedal cyclist injured in collision with fixed or stationary object, unspecified pedal cyclist injured in traffic accident"
+U01z.,[X]Pedal cyclist injured in other and unspecified transport accidents
+XE2bz,[X]Driver pedal cycle injured in collision with other and unspecified motor vehicles in nontraffic accident
+XE2c0,[X]Pedal cycle passenger injured in collision with other and unspecified motor vehicles in nontraffic accident
+U01z2,[X]Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in nontraffic accident
+U01z3,[X]Pedal cyclist [any] injured in unspecified nontraffic accident
+XE2c1,[X]Pedal cycle driver injured in collision with other and unspecified motor vehicles in traffic accident
+XE2co,[X]Pedal cycle passenger injured in collision with other and unspecified motor vehicles in traffic accident
+U01z6,[X]Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident
+U01z8,[X]Pedal cyclist [any] injured in other specified transport accidents
+U01zz,[X]Pedal cyclist [any] injured in unspecified traffic accident
+U02..,[X]Motorcycle rider injured in transport accident
+U020.,[X]Motorcycle rider injured in collision with pedestrian or animal
+U0200,"[X]Motorcycle rider injured in collision with pedestrian or animal, driver injured in nontraffic accident"
+U0201,"[X]Motorcycle rider injured in collision with pedestrian or animal, passenger injured in nontraffic accident"
+U0202,"[X]Motorcycle rider injured in collision with pedestrian or animal, unspecified motorcycle rider injured in nontraffic accident"
+U0204,"[X]Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"
+U0203,"[X]Motorcycle rider injured in collision with pedestrian or animal, person injured while boarding or alighting"
+U0205,"[X]Motorcycle rider injured in collision with pedestrian or animal, passenger injured in traffic accident"
+U020z,"[X]Motorcycle rider injured in collision with pedestrian or animal, unspecified motorcycle rider injured in traffic accident"
+U021.,[X]Motorcycle rider injured in collision with pedal cycle
+U0210,"[X]Motorcycle rider injured in collision with pedal cycle, driver injured in nontraffic accident"
+U0211,"[X]Motorcycle rider injured in collision with pedal cycle, passenger injured in nontraffic accident"
+U0212,"[X]Motorcycle rider injured in collision with pedal cycle, unspecified motorcycle rider injured in nontraffic accident"
+U0213,"[X]Motorcycle rider injured in collision with pedal cycle, person injured while boarding or alighting"
+U0214,"[X]Motorcycle rider injured in collision with pedal cycle, driver injured in traffic accident"
+U0215,"[X]Motorcycle rider injured in collision with pedal cycle, passenger injured in traffic accident"
+U021z,"[X]Motorcycle rider injured in collision with pedal cycle, unspecified motorcycle rider injured in traffic accident"
+U022.,[X]Motorcyle rider injured in collision with two- or three-wheeled motor vehicle
+U0220,"[X]Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in nontraffic accident"
+U0221,"[X]Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+U0222,"[X]Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, unspecified motorcycle rider injured in nontraffic accident"
+U0223,"[X]Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+U0224,"[X]Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"
+U0225,"[X]Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, passenger injured in traffic accident"
+U022z,"[X]Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, unspecified motorcycle rider injured in traffic accident"
+U023.,"[X]Motorcycle rider injured in collision with car, pick-up truck or van"
+U0230,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+U0231,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+U0232,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in nontraffic accident"
+U0233,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+U0234,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+U0235,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+U023z,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"
+U024.,[X]Motorcycle rider injured in collision with heavy transport vehicle or bus
+U0240,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+U0241,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+U0242,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, unspecified motorcycle rider injured in nontraffic accident"
+U0243,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+U0244,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+U0245,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+U024z,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, unspecified motorcycle rider injured in traffic accident"
+U025.,[X]Motorcycle rider injured in collision with railway train or railway vehicle
+U0250,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+U0251,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+U0252,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, unspecified motorcycle rider injured in nontraffic accident"
+U0253,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, person injured while boarding or alighting"
+U0254,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+U0255,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+U025z,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, unspecified motorcycle rider injured in traffic accident"
+U026.,[X]Motorcycle rider inj coll with other nonmotor vehicle
+U0260,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+U0261,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+U0262,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, unspecified motorcycle rider injured in nontraffic accident"
+U0263,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, person injured while boarding or alighting"
+U0264,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+U0265,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+U026z,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, unspecified motorcycle rider injured in traffic accident"
+U027.,[X]Motorcycle rider injured in collision with fixed or stationary object
+U0270,"[X]Motorcycle rider injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+U0271,"[X]Motorcycle rider injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+U0272,"[X]Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in nontraffic accident"
+U0273,"[X]Motorcycle rider injured in collision with fixed or stationary object, person injured while boarding or alighting"
+U0274,"[X]Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"
+U0275,"[X]Motorcycle rider injured in collision with fixed or stationary object, passenger injured in traffic accident"
+U027z,"[X]Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"
+U02z.,[X]Motorcycle rider injured in other and unspecified transport accidents
+XE2c2,[X]Motorcycle driver injured in collision with other and unspecified motor vehicles in nontraffic accident
+XE2c3,[X]Motor cycle passenger injured in collision with other and unspecified motor vehicles in nontraffic accident
+U02z2,[X]Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in nontraffic accident
+U02z3,[X]Motorcycle rider [any] injured in unspecified nontraffic accident
+XM1Fv,[X]Motor cycle driver injured in collision with other and unspecified motor vehicles in traffic accident
+U02z6,[X]Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident
+U02z8,[X]Motorcycle rider [any] injured in other specified transport accidents
+U02zz,[X]Motorcycle rider [any] injured in unspecified traffic accident
+XE2c4,[X]Motor cycle rider injured in collision with other and unspecified motor vehicles in traffic accident
+XE2cp,[X]Motor cycle passenger injured in collision with other and unspecified motor vehicles in traffic accident
+U03..,[X]Occupant of three-wheeled motor vehicle injured in transport accident
+U030.,[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal
+U0300,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, driver injured in nontraffic accident"
+U0301,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, passenger injured in nontraffic accident"
+U0302,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, person on outside of vehicle injured in nontraffic accident"
+U0303,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+U0304,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, person injured while boarding or alighting"
+U0305,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, driver injured in traffic accident"
+U0306,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, passenger injured in traffic accident"
+U0307,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, person on outside of vehicle injured in traffic accident"
+U030z,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+U031.,[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle
+U0310,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, driver injured in nontraffic accident"
+U0311,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, passenger injured in nontraffic accident"
+U0312,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, person on outside of vehicle injured in nontraffic accident"
+U0313,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+U0314,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, person injured while boarding or alighting"
+U0315,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, driver injured in traffic accident"
+U0316,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, passenger injured in traffic accident"
+U0317,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, person on outside of vehicle injured in traffic accident"
+U031z,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+U032.,[X]Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle
+U0320,"[X]Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle, driver injured in nontraffic accident"
+U0321,"[X]Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+U0322,"[X]Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle, person on outside of vehicle injured in nontraffic accident"
+U0323,"[X]Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+U0324,"[X]Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+U0325,"[X]Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"
+U0326,"[X]Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle, passenger injured in traffic accident"
+U0327,"[X]Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle, person on outside of vehicle injured in traffic accident"
+U032z,"[X]Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+U033.,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van"
+U0330,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+U0331,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+U0332,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, person on outside of vehicle injured in nontraffic accident"
+U0333,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+U0334,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+U0335,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+U0336,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+U0337,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, person on outside of vehicle injured in traffic accident"
+U033z,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+U034.,[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus
+U0340,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+U0341,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+U0342,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in nontraffic accident"
+U0343,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+U0344,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+U0345,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+U0346,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+U0347,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in traffic accident"
+U034z,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+U035.,[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle
+U0350,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+U0351,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+U0352,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, person on outside of vehicle injured in nontraffic accident"
+U0353,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+U0354,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, person injured while boarding or alighting"
+U0355,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+U0356,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+U0357,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, person on outside of vehicle injured in traffic accident"
+U035z,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+U036.,[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle
+U0360,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+U0361,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+U0362,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, person on outside of vehicle injured in nontraffic accident"
+U0363,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+U0364,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, person injured while boarding or alighting"
+U0365,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+U0366,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+U0367,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, person on outside of vehicle injured in traffic accident"
+U036z,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+U037.,[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object
+U0370,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+U0371,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+U0372,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, person on outside of vehicle injured in nontraffic accident"
+U0373,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+U0374,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, person injured while boarding or alighting"
+U0375,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"
+U0376,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, passenger injured in traffic accident"
+U0377,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, person on outside of vehicle injured in traffic accident"
+U037z,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+U03z.,[X]Occupant of three-wheeled motor vehicle injured in other and unspecified transport accidents
+XM1Fy,[X]Passenger of three-wheeled motor vehicle injured in collision with other and unspecified motor vehicles in nontraffic accident
+U03z2,[X]Unspecified occupant of three-wheeled motor vehicle injured in collision with other and unspecified motor vehicles in nontraffic accident
+U03z3,[X]Occupant [any] of three-wheeled motor vehicle injured in unspecified nontraffic accident
+XE2c7,[X]Driver of three-wheeled motor vehicle injured in collision with other and unspecified motor vehicles in traffic accident
+XE2cq,[X]Passenger of three-wheeled motor vehicle injured in collision with other and unspecified motor vehicles in traffic accident
+U03z6,[X]Unspecified occupant of three-wheeled motor vehicle injured in collision with other and unspecified motor vehicles in traffic accident
+U03z8,[X]Occupant [any] of three-wheeled motor vehicle injured in other specified transport accidents
+U03zz,[X]Occupant [any] of three-wheeled motor vehicle injured in unspecified traffic accident
+XE2c5,[X]Driver of three-wheeled motor vehicle injured in collision with other and unspecified motor vehicles in nontraffic accident
+XE2c6,[X]Passenger in three-wheeled vehicle injured in collision with other and unspecified motor vehicles in nontraffic accident
+U04..,[X]Car occupant injured in transport accident
+U040.,[X]Car occupant injured in collision with pedestrian or animal
+U0400,"[X]Car occupant injured in collision with pedestrian or animal, driver injured in nontraffic accident"
+U0401,"[X]Car occupant injured in collision with pedestrian or animal, passenger injured in nontraffic accident"
+U0402,"[X]Car occupant injured in collision with pedestrian or animal, person on outside of vehicle injured in nontraffic accident"
+U0403,"[X]Car occupant injured in collision with pedestrian or animal, unspecified car occupant injured in nontraffic accident"
+U0404,"[X]Car occupant injured in collision with pedestrian or animal, person injured while boarding or alighting"
+U0405,"[X]Car occupant injured in collision with pedestrian or animal, driver injured in traffic accident"
+U0406,"[X]Car occupant injured in collision with pedestrian or animal, passenger injured in traffic accident"
+U0407,"[X]Car occupant injured in collision with pedestrian or animal, person on outside of vehicle injured in traffic accident"
+U040z,"[X]Car occupant injured in collision with pedestrian or animal, unspecified car occupant injured in traffic accident"
+U041.,[X]Car occupant injured in collision with pedal cycle
+U0410,"[X]Car occupant injured in collision with pedal cycle, driver injured in nontraffic accident"
+U0411,"[X]Car occupant injured in collision with pedal cycle, passenger injured in nontraffic accident"
+U0412,"[X]Car occupant injured in collision with pedal cycle, person on outside of vehicle injured in nontraffic accident"
+U0413,"[X]Car occupant injured in collision with pedal cycle, unspecified car occupant injured in nontraffic accident"
+U0414,"[X]Car occupant injured in collision with pedal cycle, person injured while boarding or alighting"
+U0415,"[X]Car occupant injured in collision with pedal cycle, driver injured in traffic accident"
+U0416,"[X]Car occupant injured in collision with pedal cycle, passenger injured in traffic accident"
+U0417,"[X]Car occupant injured in collision with pedal cycle, person on outside of vehicle injured in traffic accident"
+U041z,"[X]Car occupant injured in collision with pedal cycle, unspecified car occupant injured in traffic accident"
+U042.,[X]Car occupant injured in collision with two- or three-wheeled motor vehicle
+U0420,"[X]Car occupant injured in collision with two- or three-wheeled motor vehicle, driver injured in nontraffic accident"
+U0421,"[X]Car occupant injured in collision with two- or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+U0422,"[X]Car occupant injured in collision with two- or three-wheeled motor vehicle, person on outside of vehicle injured in nontraffic accident"
+U0423,"[X]Car occupant injured in collision with two- or three-wheeled motor vehicle, unspecified car occupant injured in nontraffic accident"
+U0424,"[X]Car occupant injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+U0425,"[X]Car occupant injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"
+U0426,"[X]Car occupant injured in collision with two- or three-wheeled motor vehicle, passenger injured in traffic accident"
+U0427,"[X]Car occupant injured in collision with two- or three-wheeled motor vehicle, person on outside of vehicle injured in traffic accident"
+U042z,"[X]Car occupant injured in collision with two- or three-wheeled motor vehicle, unspecified car occupant injured in traffic accident"
+U043.,"[X]Car occupant injured in collision with car, pick-up truck or van"
+U0430,"[X]Car occupant injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+U0431,"[X]Car occupant injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+U0432,"[X]Car occupant injured in collision with car, pick-up truck or van, person on outside of vehicle injured in nontraffic accident"
+U0433,"[X]Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in nontraffic accident"
+U0434,"[X]Car occupant injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+U0435,"[X]Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+U0436,"[X]Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+U0437,"[X]Car occupant injured in collision with car, pick-up truck or van, person on outside of vehicle injured in traffic accident"
+U043z,"[X]Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"
+U044.,[X]Car occupant injured in collision with heavy transport vehicle or bus
+U0440,"[X]Car occupant injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+U0441,"[X]Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+U0442,"[X]Car occupant injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in nontraffic accident"
+U0443,"[X]Car occupant injured in collision with heavy transport vehicle or bus, unspecified car occupant injured in nontraffic accident"
+U0444,"[X]Car occupant injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+U0445,"[X]Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+U0446,"[X]Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+U0447,"[X]Car occupant injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in traffic accident"
+U044z,"[X]Car occupant injured in collision with heavy transport vehicle or bus, unspecified car occupant injured in traffic accident"
+U045.,[X]Car occupant injured in collision with railway train or railway vehicle
+U0450,"[X]Car occupant injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+U0451,"[X]Car occupant injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+U0452,"[X]Car occupant injured in collision with railway train or railway vehicle, person on outside of vehicle injured in nontraffic accident"
+U0453,"[X]Car occupant injured in collision with railway train or railway vehicle, unspecified car occupant injured in nontraffic accident"
+U0454,"[X]Car occupant injured in collision with railway train or railway vehicle, person injured while boarding or alighting"
+U0455,"[X]Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+U0456,"[X]Car occupant injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+U0457,"[X]Car occupant injured in collision with railway train or railway vehicle, person on outside of vehicle injured in traffic accident"
+U045z,"[X]Car occupant injured in collision with railway train or railway vehicle, unspecified car occupant injured in traffic accident"
+U046.,[X]Car occupant injured in collision with other nonmotor vehicle
+U0460,"[X]Car occupant injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+U0461,"[X]Car occupant injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+U0462,"[X]Car occupant injured in collision with other nonmotor vehicle, person on outside of vehicle injured in nontraffic accident"
+U0463,"[X]Car occupant injured in collision with other nonmotor vehicle, unspecified car occupant injured in nontraffic accident"
+U0464,"[X]Car occupant injured in collision with other nonmotor vehicle, person injured while boarding or alighting"
+U0465,"[X]Car occupant injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+U0466,"[X]Car occupant injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+U0467,"[X]Car occupant injured in collision with other nonmotor vehicle, person on outside of vehicle injured in traffic accident"
+U046z,"[X]Car occupant injured in collision with other nonmotor vehicle, unspecified car occupant injured in traffic accident"
+U047.,[X]Car occupant injured in collision with fixed or stationary object
+U0470,"[X]Car occupant injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+U0471,"[X]Car occupant injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+U0472,"[X]Car occupant injured in collision with fixed or stationary object, person on outside of vehicle injured in nontraffic accident"
+U0473,"[X]Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in nontraffic accident"
+U0474,"[X]Car occupant injured in collision with fixed or stationary object, person injured while boarding or alighting"
+U0475,"[X]Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"
+U0476,"[X]Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"
+U0477,"[X]Car occupant injured in collision with fixed or stationary object, person on outside of vehicle injured in traffic accident"
+U047z,"[X]Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"
+U04z.,[X]Car occupant injured in other and unspecified transport accidents
+XE2c8,[X]Car driver injured in collision with other and unspecified motor vehicles in nontraffic accident
+XE2c9,[X]Car passenger injured in collision with other and unspecified motor vehicles in nontraffic accident
+U04z2,[X]Unspecified car occupant injured in collision with other and unspecified motor vehicles in nontraffic accident
+U04z3,[X]Car occupant [any] injured in unspecified nontraffic accident
+XE2cA,[X]Car driver injured in collision with other and unspecified motor vehicles in traffic accident
+XE2cr,[X]Car passenger injured in collision with other and unspecified motor vehicles in traffic accident
+U04z6,[X]Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident
+U04z8,[X]Car occupant [any] injured in other specified transport accidents
+U04zz,[X]Car occupant [any] injured in unspecified traffic accident
+U05..,[X]Occupant of pick-up truck or van injured in transport accident
+U050.,[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal
+U0500,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, driver injured in nontraffic accident"
+U0501,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, passenger injured in nontraffic accident"
+U0502,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, person on outside of vehicle injured in nontraffic accident"
+U0503,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+U0504,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, person injured while boarding or alighting"
+U0505,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, driver injured in traffic accident"
+U0506,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, passenger injured in traffic accident"
+U0507,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, person on outside of vehicle injured in traffic accident"
+U050z,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, unspecified occupant of pick-up truck or van injured in traffic accident"
+U051.,[X]Occupant of pick-up truck or van injured in collision with pedal cycle
+U0510,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, driver injured in nontraffic accident"
+U0511,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, passenger injured in nontraffic accident"
+U0512,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, person on outside of vehicle injured in nontraffic accident"
+U0513,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+U0514,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, person injured while boarding or alighting"
+U0515,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, driver injured in traffic accident"
+U0516,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, passenger injured in traffic accident"
+U0517,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, person on outside of vehicle injured in traffic accident"
+U051z,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, unspecified occupant of pick-up truck or van injured in traffic accident"
+U052.,[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle
+U0520,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, driver injured in nontraffic accident"
+U0521,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+U0522,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, person on outside of vehicle injured in nontraffic accident"
+U0523,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+U0524,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+U0525,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"
+U0526,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, passenger injured in traffic accident"
+U0527,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, person on outside of vehicle injured in traffic accident"
+U052z,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, unspecified occupant of pick-up truck or van injured in traffic accident"
+U053.,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van"
+U0530,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+U0531,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+U0532,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, person on outside of vehicle injured in nontraffic accident"
+U0533,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+U0534,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+U0535,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+U0536,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+U0537,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, person on outside of vehicle injured in traffic accident"
+U053z,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, unspecified occupant of pick-up truck or van injured in traffic accident"
+U054.,[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus
+U0540,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+U0542,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in nontraffic accident"
+U0543,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+U0544,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+U0545,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+U0546,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+U0547,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in traffic accident"
+U054z,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, unspecified occupant of pick-up truck or van injured in traffic accident"
+U0541,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+U055.,[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle
+U0550,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+U0551,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+U0552,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, person on outside of vehicle injured in nontraffic accident"
+U0553,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+U0554,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, person injured while boarding or alighting"
+U0555,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+U0556,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+U0557,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, person on outside of vehicle injured in traffic accident"
+U055z,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, unspecified occupant of pick-up truck or van injured in traffic accident"
+U056.,[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle
+U0560,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+U0561,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+U0562,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, person on outside of vehicle injured in nontraffic accident"
+U0563,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+U0564,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, person injured while boarding or alighting"
+U0565,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+U0566,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+U0567,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, person on outside of vehicle injured in traffic accident"
+U056z,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, unspecified occupant of pick-up truck or van injured in traffic accident"
+U057.,[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object
+U0570,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+U0571,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+U0572,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, person on outside of vehicle injured in nontraffic accident"
+U0573,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+U0574,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, person injured while boarding or alighting"
+U0575,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"
+U0576,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"
+U0577,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, person on outside of vehicle injured in traffic accident"
+U057z,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, unspecified occupant of pick-up truck or van injured in traffic accident"
+U05z.,[X]Occupant of pick-up truck or van injured in other and unspecified transport accidents
+XE2cB,[X]Driver pick-up truck or van injured in collision with other and unspecified motor vehicles in nontraffic accident
+XE2cC,[X]Passenger of pick-up truck or van injured in collision with other and unspecified motor vehicles in nontraffic accident
+U05z2,[X]Unspecified occupant of pick-up truck or van injured in collision with other and unspecified motor vehicles in nontraffic accident
+U05z3,[X]Occupant of pick-up truck or van [any] injured in unspecified nontraffic accident
+XE2cD,[X]Driver of pick-up truck or van injured in collision with other and unspecified motor vehicles in traffic accident
+XE2cs,[X]Passenger of pick-up truck or van injured in collision with other and unspecified motor vehicles in traffic accident
+U05z6,[X]Unspecified occupant of pick-up truck or van injured in collision with other and unspecified motor vehicles in traffic accident
+U05z8,[X]Occupant of pick-up truck or van [any] injured in other specified transport accident
+U05zz,[X]Occupant of pick-up truck or van [any] injured in unspecified traffic accident
+U06..,[X]Occupant of heavy transport vehicle injured in transport accident
+U060.,[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal
+U0600,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, driver injured in nontraffic accident"
+U0601,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, passenger injured in nontraffic accident"
+U0602,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, person on outside of vehicle injured in nontraffic accident"
+U0603,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+U0604,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, person injured while boarding or alighting"
+U0605,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, driver injured in traffic accident"
+U0606,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, passenger injured in traffic accident"
+U0607,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, person on outside of vehicle injured in traffic accident"
+U060z,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, unspecified occupant of heavy transport vehicle injured in traffic accident"
+U061.,[X]Occupant of heavy transport vehicle injured in collision with pedal cycle
+U0610,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, driver injured in nontraffic accident"
+U0611,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, passenger injured in nontraffic accident"
+U0612,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, person on outside of vehicle injured in nontraffic accident"
+U0613,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+U0614,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, person injured while boarding or alighting"
+U0615,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, driver injured in traffic accident"
+U0616,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, passenger injured in traffic accident"
+U0617,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, person on outside of vehicle injured in traffic accident"
+U061z,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, unspecified occupant of heavy transport vehicle injured in traffic accident"
+U062.,[X]Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle
+U0620,"[X]Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle, driver injured in nontraffic accident"
+U0621,"[X]Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+U0622,"[X]Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle, person on outside of vehicle injured in nontraffic accident"
+U0623,"[X]Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+U0624,"[X]Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+U0625,"[X]Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"
+U0626,"[X]Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle, passenger injured in traffic accident"
+U0627,"[X]Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle, person on outside of vehicle injured in traffic accident"
+U062z,"[X]Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle, unspecified occupant of heavy transport vehicle injured in traffic accident"
+U063.,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van"
+U0630,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+U0631,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+U0632,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, person on outside of vehicle injured in nontraffic accident"
+U0633,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+U0634,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+U0635,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+U0636,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+U0637,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, person on outside of vehicle injured in traffic accident"
+U063z,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, unspecified occupant of heavy transport vehicle injured in traffic accident"
+U064.,[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus
+U0640,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+U0641,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+U0642,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in nontraffic accident"
+U0643,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+U0644,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+U0645,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+U0646,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+U0647,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in traffic accident"
+U064z,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, unspecified occupant of heavy transport vehicle injured in traffic accident"
+U065.,[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle
+U0650,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+U0651,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+U0652,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, person on outside of vehicle injured in nontraffic accident"
+U0653,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+U0654,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, person injured while boarding or alighting"
+U0655,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+U0656,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+U0657,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, person on outside of vehicle injured in traffic accident"
+U065z,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, unspecified occupant of heavy transport vehicle injured in traffic accident"
+U066.,[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle
+U0660,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+U0661,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+U0662,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, person on outside of vehicle injured in nontraffic accident"
+U0663,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+U0664,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, person injured while boarding or alighting"
+U0665,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+U0666,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+U0667,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, person on outside of vehicle injured in traffic accident"
+U066z,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, unspecified occupant of heavy transport vehicle injured in traffic accident"
+U067.,[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object
+U0670,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+U0671,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+U0672,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, person on outside of vehicle injured in nontraffic accident"
+U0673,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+U0674,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, person injured while boarding or alighting"
+U0675,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"
+U0676,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, passenger injured in traffic accident"
+U0677,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, person on outside of vehicle injured in traffic accident"
+U067z,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, unspecified occupant of heavy transport vehicle injured in traffic accident"
+U06z.,[X]Occupant of heavy transport vehicle injured in other and unspecified transport accidents
+XE2cE,[X]Heavy goods vehicle driver injured in collision with other and unspecified motor vehicles in nontraffic accident
+XE2cF,[X]Passenger of heavy transport vehicle injured in collision with other and unspecified motor vehicles in nontraffic accident
+U06z2,[X]Unspecified occupant of heavy transport vehicle injured in collision with other and unspecified motor vehicles in nontraffic accident
+U06z3,[X]Occupant [any] of heavy transport vehicle injured in unspecified nontraffic accident
+XE2cG,[X]Driver of heavy transport vehicle injured in collision with other and unspecified motor vehicles in traffic accident
+XE2ct,[X]Passenger of heavy goods vehicle injured in collision with other and unspecified motor vehicles in traffic accident
+U06z6,[X]Unspecified occupant of heavy transport vehicle injured in collision with other and unspecified motor vehicles in traffic accident
+U06z8,[X]Occupant of heavy transport vehicle [any] injured in other specified transport accidents
+U06zz,[X]Occupant of heavy transport vehicle [any] injured in unspecified traffic accident
+U07..,[X]Bus occupant injured in transport accident
+U070.,[X]Bus occupant injured in collision with pedestrian or animal
+U0700,"[X]Bus occupant injured in collision with pedestrian or animal, driver injured in nontraffic accident"
+U0701,"[X]Bus occupant injured in collision with pedestrian or animal, passenger injured in nontraffic accident"
+U0702,"[X]Bus occupant injured in collision with pedestrian or animal, person on outside of vehicle injured in nontraffic accident"
+U0703,"[X]Bus occupant injured in collision with pedestrian or animal, unspecified bus occupant injured in nontraffic accident"
+U0704,"[X]Bus occupant injured in collision with pedestrian or animal, person injured while boarding or alighting"
+U0705,"[X]Bus occupant injured in collision with pedestrian or animal, driver injured in traffic accident"
+U0706,"[X]Bus occupant injured in collision with pedestrian or animal, passenger injured in traffic accident"
+U0707,"[X]Bus occupant injured in collision with pedestrian or animal, person on outside of vehicle injured in traffic accident"
+U070z,"[X]Bus occupant injured in collision with pedestrian or animal, unspecified bus occupant injured in traffic accident"
+U071.,[X]Bus occupant injured in collision with pedal cycle
+U0710,"[X]Bus occupant injured in collision with pedal cycle, driver injured in nontraffic accident"
+U0711,"[X]Bus occupant injured in collision with pedal cycle, passenger injured in nontraffic accident"
+U0712,"[X]Bus occupant injured in collision with pedal cycle, person on outside of vehicle injured in nontraffic accident"
+U0713,"[X]Bus occupant injured in collision with pedal cycle, unspecified bus occupant injured in nontraffic accident"
+U0714,"[X]Bus occupant injured in collision with pedal cycle, person injured while boarding or alighting"
+U0715,"[X]Bus occupant injured in collision with pedal cycle, driver injured in traffic accident"
+U0716,"[X]Bus occupant injured in collision with pedal cycle, passenger injured in traffic accident"
+U0717,"[X]Bus occupant injured in collision with pedal cycle, person on outside of vehicle injured in traffic accident"
+U071z,"[X]Bus occupant injured in collision with pedal cycle, unspecified bus occupant injured in traffic accident"
+U072.,[X]Bus occupant injured in collision with two- or three-wheeled motor vehicle
+U0720,"[X]Bus occupant injured in collision with two- or three-wheeled motor vehicle, driver injured in nontraffic accident"
+U0721,"[X]Bus occupant injured in collision with two- or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+U0722,"[X]Bus occupant injured in collision with two- or three-wheeled motor vehicle, person on outside of vehicle injured in nontraffic accident"
+U0723,"[X]Bus occupant injured in collision with two- or three-wheeled motor vehicle, unspecified bus occupant injured in nontraffic accident"
+U0724,"[X]Bus occupant injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+U0725,"[X]Bus occupant injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"
+U0726,"[X]Bus occupant injured in collision with two- or three-wheeled motor vehicle, passenger injured in traffic accident"
+U0727,"[X]Bus occupant injured in collision with two- or three-wheeled motor vehicle, person on outside of vehicle injured in traffic accident"
+U072z,"[X]Bus occupant injured in collision with two- or three-wheeled motor vehicle, unspecified bus occupant injured in traffic accident"
+U073.,"[X]Bus occupant injured in collision with car, pick-up truck or van"
+U0730,"[X]Bus occupant injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+U0731,"[X]Bus occupant injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+U0732,"[X]Bus occupant injured in collision with car, pick-up truck or van, person on outside of vehicle injured in nontraffic accident"
+U0733,"[X]Bus occupant injured in collision with car, pick-up truck or van, unspecified bus occupant injured in nontraffic accident"
+U0734,"[X]Bus occupant injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+U0735,"[X]Bus occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+U0736,"[X]Bus occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+U0737,"[X]Bus occupant injured in collision with car, pick-up truck or van, person on outside of vehicle injured in traffic accident"
+U073z,"[X]Bus occupant injured in collision with car, pick-up truck or van, unspecified bus occupant injured in traffic accident"
+U074.,[X]Bus occupant injured in collision with heavy transport vehicle or bus
+U0740,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+U0741,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+U0742,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in nontraffic accident"
+U0743,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, unspecified bus occupant injured in nontraffic accident"
+U0744,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+U0745,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+U0746,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+U0747,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in traffic accident"
+U074z,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, unspecified bus occupant injured in traffic accident"
+U075.,[X]Bus occupant injured in collision with railway train or railway vehicle
+U0750,"[X]Bus occupant injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+U0751,"[X]Bus occupant injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+U0752,"[X]Bus occupant injured in collision with railway train or railway vehicle, person on outside of vehicle injured in nontraffic accident"
+U0753,"[X]Bus occupant injured in collision with railway train or railway vehicle, unspecified bus occupant injured in nontraffic accident"
+U0754,"[X]Bus occupant injured in collision with railway train or railway vehicle, person injured while boarding or alighting"
+U0755,"[X]Bus occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+U0756,"[X]Bus occupant injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+U0757,"[X]Bus occupant injured in collision with railway train or railway vehicle, person on outside of vehicle injured in traffic accident"
+U075z,"[X]Bus occupant injured in collision with railway train or railway vehicle, unspecified bus occupant injured in traffic accident"
+U076.,[X]Bus occupant injured in collision with other nonmotor vehicle
+U0760,"[X]Bus occupant injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+U0761,"[X]Bus occupant injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+U0762,"[X]Bus occupant injured in collision with other nonmotor vehicle, person on outside of vehicle injured in nontraffic accident"
+U0763,"[X]Bus occupant injured in collision with other nonmotor vehicle, unspecified bus occupant injured in nontraffic accident"
+U0764,"[X]Bus occupant injured in collision with other nonmotor vehicle, person injured while boarding or alighting"
+U0765,"[X]Bus occupant injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+U0766,"[X]Bus occupant injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+U0767,"[X]Bus occupant injured in collision with other nonmotor vehicle, person on outside of vehicle injured in traffic accident"
+U076z,"[X]Bus occupant injured in collision with other nonmotor vehicle, unspecified bus occupant injured in traffic accident"
+U077.,[X]Bus occupant injured in collision with fixed or stationary object
+U0770,"[X]Bus occupant injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+U0771,"[X]Bus occupant injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+U0772,"[X]Bus occupant injured in collision with fixed or stationary object, person on outside of vehicle injured in nontraffic accident"
+U0773,"[X]Bus occupant injured in collision with fixed or stationary object, unspecified bus occupant injured in nontraffic accident"
+U0774,"[X]Bus occupant injured in collision with fixed or stationary object, person injured while boarding or alighting"
+U0775,"[X]Bus occupant injured in collision with fixed or stationary object, driver injured in traffic accident"
+U0776,"[X]Bus occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"
+U0777,"[X]Bus occupant injured in collision with fixed or stationary object, person on outside of vehicle injured in traffic accident"
+U077z,"[X]Bus occupant injured in collision with fixed or stationary object, unspecified bus occupant injured in traffic accident"
+U07z.,[X]Bus occupant injured in other and unspecified transport accidents
+XE2cH,[X]Bus driver injured in collision with other and unspecified motor vehicles in nontraffic accident
+XE2cI,[X]Bus passenger injured in collision with other and unspecified motor vehicles in nontraffic accident
+U07z2,[X]Unspecified bus occupant injured in collision with other and unspecified motor vehicles in nontraffic accident
+U07z3,[X]Bus occupant [any] injured in unspecified nontraffic accident
+XE2cJ,[X]Bus driver injured in collision with other and unspecified motor vehicles in traffic accident
+XE2r5,[X]Bus passenger injured in collision with other and unspecified motor vehicles in traffic accident
+U07z6,[X]Unspecified bus occupant injured in collision with other and unspecified motor vehicles in traffic accident
+U07z8,[X]Bus occupant [any] injured in other specified transport accidents
+U07zz,[X]Bus occupant [any] injured in unspecified traffic accident
+U08..,[X]Other land transport accidents
+U080.,[X]Animal-rider or occupant of animal-drawn vehicle injured in transport accident
+U0800,[X]Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident
+U0801,[X]Rider or occupant injured in collision with pedestrian or animal
+U0802,[X]Rider or occupant injured in collision with pedal cycle
+U0803,[X]Rider or occupant injured in collision with two- or three-wheeled motor vehicle
+U0804,"[X]Rider or occupant injured in collision with car, pick-up truck, van, heavy transport vehicle or bus"
+U0805,[X]Rider or occupant injured in collision with other specified motor vehicle
+U0806,[X]Rider or occupant injured in collision with railway train or railway vehicle
+U0807,[X]Rider or occupant injured in collision with other nonmotor vehicle
+U0808,[X]Rider or occupant injured in collision with fixed or stationary object
+U080z,[X]Rider or occupant injured in other and unspecified transport accidents
+U081.,[X]Occupant of railway train or railway vehicle injured in transport accident
+U0810,[X]Occupant of railway train or railway vehicle injured in collision with motor vehicle in nontraffic accident
+U0811,[X]Occupant of railway train or railway vehicle injured in collision with motor vehicle in traffic accident
+U0812,[X]Occupant or railway train or railway vehicle injured in collision with or hit by rolling stock
+U0813,[X]Occupant or railway train or railway vehicle injured in collision with other object
+U0814,[X]Person injuree while boarding or alighting from railway train or railway vehicle
+U0815,[X]Occupant of railway train or railway vehicle injured by fall in railway train or railway vehicle
+U0816,[X]Occupant of railway train or railway vehicle injured by fall from railway train or railway vehicle
+U0817,[X]Occupant of railway train or railway vehicle injured in derailment without antecedent collision
+U0818,[X]Occupant of railway train or railway vehicle injured in other specified railway accidents
+U081z,[X]Occupant of railway train or railway vehicle injured in unspecified railway accident
+U082.,[X]Occupant of streetcar injured in transport accident
+U0820,[X]Occupant of streetcar injured in collision with motor vehicle in nontraffic accident
+U0821,[X]Occupant of streetcar injured in collision with motor vehicle in traffic acc
+U0822,[X]Occupant of streetcar injured in collision with or hit by rolling stock
+U0823,[X]Occupant of streetcar injured in collision with other object
+U0824,[X]Person injured while boarding or alighting from streetcar
+U0825,[X]Occupant of streetcar injured by fall in streetcar
+U0826,[X]Occupant of streetcar injured by fall from streetcar
+U0827,[X]Occupant of streetcar injured in derailment without antecedent collision
+U0828,[X]Occupant of streetcar injured in other specified transport accidents
+U082z,[X]Occupant of streetcar injured in unspecified traffic accident
+U083.,[X]Occupant of special vehicle mainly used on industrial premises injured in transport accident
+U0830,[X]Driver of special industrial vehicle injured in traffic accident
+U0831,[X]Passenger of special industrial vehicle injured in traffic accident
+U0832,[X]Person on outside of special industrial vehicle injured in traffic accident
+U0833,[X]Unspecified occupant of special industrial vehicle injured in traffic accident
+U0834,[X]Person injured while boarding or alighting from special industrial vehicle
+U0835,[X]Driver of special industrial vehicle injured in nontraffic accident
+U0836,[X]Passenger of special industrial vehicle injured in nontraffic accident
+U0837,[X]Person on outside of special industrial vehicle injured in nontraffic accident
+U083z,[X]Unspecified occupant of special industrial vehicle injured in nontraffic accident
+U084.,[X]Occupant of special vehicle mainly used in agriculture injured in transport accident
+U0840,[X]Driver of special agricultural vehicle injured in traffic accident
+U0841,[X]Passenger of special agricultural vehicle injured in traffic accident
+U0842,[X]Person on outside of special agricultural vehicle injured in traffic accident
+U0843,[X]Unspecified occupant of special agricultural vehicle injured in traffic accident
+U0844,[X]Person injured while boarding or alighting from special agricultural vehicle
+U0845,[X]Driver of special agricultural vehicle injured in nontraffic accident
+U0846,[X]Passenger of special agricultural vehicle injured in nontraffic accident
+U0847,[X]Person on outside of special agricultural vehicle injured in nontraffic accident
+U084z,[X]Unspecified occupant of special agricultural vehicle injured in nontraffic accident
+U085.,[X]Occupant of special construction vehicle injured in transport accident
+U0850,[X]Driver of special construction vehicle injured in traffic accident
+U0851,[X]Passenger of special construction vehicle injured in traffic accident
+U0852,[X]Person on outside of special construction vehicle injured in traffic accident
+U0853,[X]Unspecified occupant of special construction vehicle injured in traffic accident
+U0854,[X]Person injured while boarding or alighting from special construction vehicle
+U0855,[X]Driver of special construction vehicle injured in nontraffic accident
+U0856,[X]Passenger of special construction vehicle injured in nontraffic accident
+U0857,[X]Person on outside of special construction vehicle injured in nontraffic accident
+U085z,[X]Unspecified occupant of special construction vehicle injured in nontraffic accident
+U086.,"[X]Occupant of special all-terrain or other motor vehicle designed primarily for off-road use, injured in transport accident"
+U0860,[X]Driver of all-terrain or other off-road motor vehicle injured in traffic accident
+U0861,[X]Passenger of all-terrain or other off-road motor vehicle injured in traffic accident
+U0862,[X]Person on outside of all-terrain or other off-road motor vehicle injured in traffic accident
+U0863,[X]Unspecified occupant of all-terrain or off-road motor vehicle injured in traffic accident
+U0864,[X]Person injured while boarding or alighting from all-terrain or other off-road motor vehicle
+U0865,[X]Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident
+U0866,[X]Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident
+U0867,[X]Person on outside of all-terrain or other off-road motor vehicle injured in nontraffic accident
+U086z,[X]Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident
+U087.,[X]Traffic accident of specified type but victim's mode of transport unknown
+U0870,[X]Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)
+U0871,[X]Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)
+U0872,[X]Person injured in collision between car and pick-up truck or van (traffic)
+U0873,[X]Person injured in collision between car and bus (traffic)
+U0874,[X]Person injured in collision between car and heavy transport vehicle (traffic)
+U0875,[X]Person injured in collision between heavy transport vehicle and bus (traffic)
+U0876,[X]Person injured in collision between railway train or railway vehicle and car (traffic)
+U0877,[X]Person injured in collision between other specified motor vehicles (traffic)
+U087z,[X]Person injured in other specified (collision) (noncollision) transport accidents involving nonmotor vehicle (traffic)
+U088.,[X]Nontraffic accident of specified type but victim's mode of transport unknown
+U0880,"[X]Person injured in collision between car and two- or three-wheeled motor vehicle, nontraffic"
+U0881,"[X]Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle, nontraffic"
+U0882,"[X]Person injured in collision between car and pick-up truck or van, nontraffic"
+U0883,"[X]Person injured in collision between car and bus, nontraffic"
+U0884,"[X]Person injured in collision between car and heavy transport vehicle, nontraffic"
+U0885,"[X]Person injured in collision between heavy transport vehicle and bus, nontraffic"
+U0886,"[X]Person injured in collision between railway train or railway vehicle and car, nontraffic"
+U0887,"[X]Person injured in collision between other specified motor vehicles, nontraffic"
+U088z,"[X]Person injured in other specified (collision)(noncollision) transport accidents involving nonmotor vehicle, nontraffic"
+U08z.,"[X]Motor- or nonmotor-vehicle accident, type of vehicle unspecified"
+U08z0,"[X]Person injured in unspecified motor-vehicle accident, nontraffic"
+U08z1,"[X]Person injured in unspecified nonmotor-vehicle accident, nontraffic"
+U08z2,"[X]Person injured in unspecified motor-vehicle accident, traffic"
+U08z3,"[X]Person injured in unspecified nonmotor-vehicle accident, traffic"
+U08zz,[X]Person injured in unspecified vehicle accident
+U09..,[X]Water transport accidents
+U090.,[X]Accident to watercraft causing drowning and submersion
+U0900,"[X]Accident to watercraft causing drowning and submersion, merchant ship"
+U0901,"[X]Accident to watercraft causing drowning and submersion, passenger ship"
+U0902,"[X]Accident to watercraft causing drowning and submersion, fishing boat"
+U0903,"[X]Accident to watercraft causing drowning and submersion, other powered watercraft"
+U0904,"[X]Accident to watercraft causing drowning and submersion, sailboat"
+U0905,"[X]Accident to watercraft causing drowning and submersion, canoe or kayak"
+U0906,"[X]Accident to watercraft causing drowning and submersion, inflatable craft (nonpowered)"
+U0907,"[X]Accident to watercraft causing drowning and submersion, water-skis"
+U0908,"[X]Accident to watercraft causing drowning and submersion, other unpowered watercraft"
+U090z,"[X]Accident to watercraft causing drowning and submersion, unspecified watercraft"
+U091.,[X]Accident to watercraft causing other injury
+U0910,"[X]Accident to watercraft causing other injury, merchant ship"
+U0911,"[X]Accident to watercraft causing other injury, passenger ship"
+U0912,"[X]Accident to watercraft causing other injury, fishing boat"
+U0913,"[X]Accident to watercraft causing other injury, other powered watercraft"
+U0914,"[X]Accident to watercraft causing other injury, sailboat"
+U0915,"[X]Accident to watercraft causing other injury, canoe/kayak"
+U0916,"[X]Accident to watercraft causing other injury, inflatable craft (nonpowered)"
+U0917,"[X]Accident to watercraft causing other injury, water-skis"
+U0918,"[X]Accident to watercraft causing other injury, other unpowered watercraft"
+U091z,"[X]Accident to watercraft causing other injury, unspecified watercraft"
+U092.,[X]Water-transport-related drowning and submersion without accident to watercraft
+U0920,"[X]Water-transport-related drowning and submersion without accident to watercraft, merchant ship"
+U0921,"[X]Water-transport-related drowning and submersion without accident to watercraft, passenger ship"
+U0922,"[X]Water-transport-related drowning and submersion without accident to watercraft, fishing boat"
+U0923,"[X]Water-transport-related drowning and submersion without accident to watercraft, other powered watercraft"
+U0924,"[X]Water-transport-related drowning and submersion without accident to watercraft, sailboat"
+U0925,"[X]Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"
+U0926,"[X]Water-transport-related drowning and submersion without accident to watercraft, inflatable craft (nonpowered)"
+U0927,"[X]Water-transport-related drowning and submersion without accident to watercraft, water-skis"
+U0928,"[X]Water-transport-related drowning and submersion without accident to watercraft, other unpowered watercraft"
+U092z,"[X]Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft"
+U093.,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion"
+U0930,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, merchant ship"
+U0931,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, passenger ship"
+U0932,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, fishing boat"
+U0933,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, other powered watercraft"
+U0934,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, sailboat"
+U0935,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, canoe or kayak"
+U0936,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, inflatable craft (nonpowered)"
+U0937,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, water-skis"
+U0938,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, other unpowered watercraft"
+U093z,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, unspecified watercraft"
+U09z.,[X]Other and unspecified water transport accidents
+U09z0,"[X]Other and unspecified water transport accidents, merchant ship"
+U09z1,"[X]Other and unspecified water transport accidents, passenger ship"
+U09z2,"[X]Other and unspecified water transport accidents, fishing boat"
+U09z3,"[X]Other and unspecified water transport accidents, other powered watercraft"
+U09z4,"[X]Other and unspecified water transport accidents, sailboat"
+U09z5,"[X]Other and unspecified water transport accidents, canoe or kayak"
+U09z6,"[X]Other and unspecified water transport accidents, inflatable craft (nonpowered)"
+U09z7,"[X]Other and unspecified water transport accidents, water-skis"
+U09z8,"[X]Other and unspecified water transport accidents, other unpowered watercraft"
+U09zz,"[X]Other and unspecified water transport accidents, unspecified watercraft"
+U0A..,[X]Air and space transport accidents
+U0A0.,[X]Accident to powered aircraft causing injury to occupant
+U0A00,[X]Helicopter accident injuring occupant
+U0A01,"[X]Microlight, ultralight or powered glider accident injuring occupant"
+U0A02,"[X]Accident to other private fixed-wing aircraft, injuring occupant"
+U0A03,"[X]Accident to commercial fixed-wing aircraft, injuring occupant"
+U0A04,[X]Spacecraft accident injuring occupant
+U0A0y,[X]Other nonpowered-aircraft accidents injuring occupant
+U0A0z,[X]Unspecified aircraft accident injuring occupant
+U0A1.,[X]Accident to nonpowered aircraft causing injury to occupant
+U0A10,[X]Balloon accident injuring occupant
+U0A11,[X]Hang glider accident injuring occupant
+U0A12,[X]Glider (nonpowered) accident injuring occupant
+U0A1y,[X]Other nonpowered aircraft accidents injuring occupant
+U0A1z,[X]Unspecified nonpowered aircraft accident injuring occupant
+U0Ay.,[X]Other specified air transport accidents
+U0Ay0,[X]Occupant of aircraft injured in other specified air transport accidents
+U0Ay1,[X]Person injured while boarding or alighting from aircraft
+U0Ay2,[X]Parachutist injured in air transport accident
+U0Ay3,[X]Person on ground injured in air transport accident
+U0Ayy,"[X]Other air transport accidents, not elsewhere classified"
+U0z..,[X]Other and unspecified transport accidents
+U0zy.,[X]Other specified transport accidents
+XaBI4,[X]Driver injured in collision with other and unspecified motor vehicles in nontraffic accident
+XaBI7,[X]Driver injured in collision with other and unspecified motor vehicles in traffic accident
+XaBIJ,[X]Passenger injured in collision with other and unspecified motor vehicles in nontraffic accident
+XaBIK,[X]Passenger injured in collision with other and unspecified motor vehicles in traffic accident
+U0zz.,[X]Unspecified transport accident

@@ -1,0 +1,2043 @@
+MedCodeID,Description
+2729221000000115,Major injury involving multiple body areas
+2729231000000118,Major injury involving multiple body regions
+2729211000000114,Major trauma involving multiple body regions
+2707681000006112,Bilateral traumatic amputation of legs at any level with complication
+2816321000006119,Crushing injury (morphology)
+2816351000006111,Pressure injury
+2816331000006116,Compression injury
+2816341000006114,Crush injury
+2816361000006113,Crushing injury
+321263012,Traumatic amputation of ear
+321804011,Traumatic bilateral amputation of leg with complication
+321808014,Traumatic amputation of limb
+322881019,Traumatic amputation of part of thorax
+322882014,Traumatic amputation of external genital organs
+92571000006113,"Traumatic amputation/one hand+other arm [any level,exc hnd]"
+325494018,"[X]Multiple traumatic amputations, unspecified"
+92561000006118,"Traumatic amputation/1 foot and other leg [any lev,exc foot]"
+92221000006114,Traumatic amputation of upper and lower limbs
+325273019,Traumatic amputations involving multiple body regions
+684121000006119,MVTA-unspecified - occ animal-drawn vehicle/rider injured
+326615015,"Motor vehicle traffic accident, unspecified"
+664711000006112,Fall in road vehicle NEC - pedestrian injured
+697901000006117,Motor vehicle collision NOS - motor vehicle passenger inj
+614211000006118,Derailment of road veh NEC - pedestrian injured
+614191000006119,Derailment of road veh NEC - occupant of tram injured
+900331000006113,Motor vehicle accident
+326099011,Motor vehicle collision NOS - motor vehicle driver injured
+4874581000006118,MVTA - Motor vehicle traffic accident
+326626014,Motor vehicle traffic accident NOS
+326103018,Motor vehicle collision NOS - occupant of tram injured
+326614016,Motor vehicle traffic accident of unspecified nature
+539851000006115,Caught in door of road veh NEC - pedestrian injured
+665341000006111,Fall on road vehicle NEC - pedestrian injured
+664401000006116,Fall from road vehicle NEC - pedestrian injured
+440321000006117,Acc board/alight road veh NEC - occupant of tram injured
+420121000006116,"[X]Person injured in unspecified motor-vehicle accident, traffic"
+326105013,Motor vehicle collision NOS - pedal cyclist injured
+684101000006112,MVTA-unspecified - motor vehicle driver injured
+664691000006114,Fall in road vehicle NEC - occupant of tram injured
+326101016,Motor vehicle collision NOS - motor cyclist injured
+326107017,Motor vehicle collision NOS - other specified person inj
+684171000006118,MVTA-unspecified - unspecified person injured
+684141000006114,MVTA-unspecified - other specified person injured
+696971000006113,Motor vehicle collision NOS - occ animal-drawn veh/rider inj
+665321000006116,Fall on road vehicle NEC - occupant of tram injured
+684131000006116,MVTA-unspecified - occupant of tram injured
+326108010,Motor vehicle collision NOS - unspecified person injured
+25361000006114,Other noncollision MVTA involving motor vehicle in motion
+825491000006110,Hit by object in road veh NEC - occupant of tram injured
+440341000006112,Acc board/alight road veh NEC - pedestrian injured
+440391000006115,Acc-breakage of part of RV NEC - pedestrian injured
+697741000006118,Motor vehicle collision NOS - motor cycle passenger injured
+684111000006110,MVTA-unspecified - motor vehicle passenger injured
+664381000006116,Fall from road vehicle NEC - occupant of tram injured
+684151000006111,MVTA-unspecified - pedal cyclist injured
+684091000006118,MVTA-unspecified - motor cyclist injured
+697351000006117,Motor vehicle traffic accident
+4874571000006116,MVA - Motor vehicle accident
+676261000006119,MVTA-inj by veh moving part - motor cyclist injured
+684081000006116,MVTA-unspecified - motor cycle passenger injured
+685151000006112,MVTA+train collision unspec - occupant of tram injured
+685171000006119,MVTA+train collision unspec - pedal cyclist injured
+4874591000006115,Motor vehicle on road in collision with train
+685141000006110,MVTA+train collision unspec - occ animal-drawn veh/rider inj
+688191000006114,"MVTA involving collision with train, unspecified"
+281301000006111,MVTA+train collision NOS - pedestrian injured
+685081000006117,MVTA+train collision NOS - occ animal-drawn veh/rider inj
+685101000006113,MVTA+train collision NOS - other specified person injured
+685071000006115,MVTA+train collision NOS - motor vehicle passenger injured
+688171000006113,MVTA involving collision with train
+685111000006111,MVTA+train collision NOS - pedal cyclist injured
+685191000006118,MVTA+train collision unspec - unspecified person injured
+686121000006113,MVTA+train collision unspec - motor cycle passenger injured
+685061000006110,MVTA+train collision NOS - motor vehicle driver injured
+685051000006113,MVTA+train collision NOS - motor cyclist injured
+685121000006115,MVTA+train collision unspec - motor vehicle driver injured
+685041000006111,MVTA+train collision NOS - motor cycle passenger injured
+686131000006111,MVTA+train collision unspec - motor cyclist injured
+688181000006111,MVTA involving collision with train NOS
+685181000006116,MVTA+train collision unspec - pedestrian injured
+686111000006117,MVTA+train collision NOS - unspecified person injured
+685091000006119,MVTA+train collision NOS - occupant of tram injured
+685131000006117,MVTA+train collision unspec - motor vehicle passenger inj
+685161000006114,MVTA+train collision unspec - other specified person injured
+688921000006110,Motor vehicle traffic accident involving re-entrant collision with another motor vehicle
+687291000006116,MVTA+collision+parked MV - pedal cyclist injured
+4874621000006118,Motor vehicle on road in collision with parked motor vehicle
+688151000006115,MVTA involving collision with parked motor vehicle
+687311000006117,MVTA+collision+parked MV - unspecified person injured
+687281000006119,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, other specified person injured"
+687261000006112,MVTA+collision+parked MV - occ animal-drawn veh/rider inj
+687271000006117,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, occupant of tram injured"
+687231000006115,MVTA+collision+parked MV - motor cyclist injured
+687241000006113,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, driver of motor vehicle injured"
+687251000006110,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, passenger of motor vehicle injured"
+687221000006118,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, passenger on motor cycle injured"
+687301000006115,"Motor vehicle traffic accident involving collision with another motor vehicle, parked, pedestrian injured"
+686341000006115,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, rider of animal or occupant of animal-drawn vehicle injured"
+686361000006116,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, other specified person injured"
+688161000006118,MVTA involving collision with stopped motor vehicle
+687031000006113,Motor vehicle on road in collision with stopped motor vehicle
+686391000006112,MVTA+collision+stopped MV - unspecified person injured
+687041000006115,MVTA+collision+stopped MV - motor vehicle passenger inj
+686971000006112,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, other specified person injured"
+686351000006118,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, occupant of tram injured"
+687021000006110,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, motor cyclist injured"
+687011000006119,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, passenger on motor cycle injured"
+686371000006111,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, pedal cyclist injured"
+686381000006114,"Motor vehicle traffic accident involving collision with another motor vehicle, stopped, pedestrian injured"
+687001000006117,MVTA+collision+stalled MV - unspecified person injured
+688251000006111,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled"
+686961000006117,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, occupant of tram injured"
+686931000006114,MVTA+collision+stalled MV - motor vehicle driver injured
+686951000006119,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, rider of animal or occupant of animal-drawn vehicle injured"
+4874801000006112,Motor vehicle on road in collision with stalled motor vehicle
+4874811000006110,Motor vehicle on road in collision with broken down motor vehicle
+686911000006115,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, passenger on motor cycle injured"
+686981000006110,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, pedal cyclist injured"
+686991000006113,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, pedestrian injured"
+687601000006114,Motor vehicle on road in collision with disabled motor vehicle
+687631000006118,MVTA+collision+disabled MV - unspecified person injured
+4874901000006118,Motor vehicle on road in collision with disabled motor vehicle
+688851000006110,MVTA involving collision with disabled motor vehicle
+687611000006112,MVTA+collision+disabled MV - pedal cyclist injured
+687571000006119,MVTA+collision+disabled MV - motor vehicle passenger inj
+687561000006114,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, driver of motor vehicle injured"
+687551000006112,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, motor cyclist injured"
+687541000006110,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, passenger on motor cycle injured"
+687591000006118,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, occupant of tram injured"
+687581000006116,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, rider of animal or occupant of animal-drawn vehicle injured"
+687621000006116,"Motor vehicle traffic accident involving collision with another motor vehicle, disabled, pedestrian injured"
+687931000006112,MVTA+collision+abandoned MV - pedal cyclist injured
+688831000006115,MVTA involving collision with abandoned motor vehicle
+687831000006119,MVTA+collision+abandoned MV - motor cycle passenger injured
+687921000006114,Motor vehicle on road in collision with abandoned motor vehicle
+4874981000006110,Motor vehicle on road in collision with abandoned motor vehicle
+687951000006117,MVTA+collision+abandoned MV - unspecified person injured
+687851000006114,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, driver of motor vehicle injured"
+687891000006115,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, passenger of motor vehicle injured"
+687841000006112,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, motor cyclist injured"
+687911000006118,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, occupant of tram injured"
+687901000006116,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, rider of animal or occupant of animal-drawn vehicle injured"
+687941000006119,"Motor vehicle traffic accident involving collision with another motor vehicle, abandoned on highway, pedestrian injured"
+688071000006112,MVTA+collision+animal+rider - motor cyclist injured
+687821000006117,MVTA+collision with animal carrying a person
+688121000006112,MVTA+collision+animal+rider - other person injured
+687431000006116,MVTA+collision+animal+rider - unspecified person injured
+687421000006119,MVTA+collision+animal+rider - pedestrian injured
+4875061000006117,Motor vehicle on road in collision with ridden animal
+688061000006117,MVTA+collision+animal+rider - motor cycle passenger injured
+688081000006110,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, driver of motor vehicle injured"
+688091000006113,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, passenger of motor vehicle injured"
+688371000006110,MVTA+coll+anim-drawn vehicle - unspecified person injured
+688351000006117,MVTA+coll+anim-drawn vehicle - pedal cyclist injured
+688341000006119,MVTA+coll+anim-drawn vehicle - other person injured
+688841000006113,MVTA involving collision with animal-drawn vehicle
+688291000006117,MVTA+coll+anim-drawn vehicle - motor cyclist injured
+4875121000006112,Motor vehicle on road in collision with animal-drawn vehicle
+688301000006116,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, driver of motor vehicle injured"
+688311000006118,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, passenger of motor vehicle injured"
+688281000006115,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, passenger on motor cycle injured"
+688321000006114,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, rider of animal or occupant of animal-drawn vehicle injured"
+686701000006116,MVTA+collision+pedal cycle - unspecified person injured
+4875191000006114,Motor vehicle on road in collision with pedal cycle
+687381000006112,MVTA+collision+pedal cycle - other specified person injured
+688221000006119,MVTA involving collision with pedal cycle
+687361000006119,MVTA+collision+pedal cycle - occ animal-drawn veh/rider inj
+687341000006118,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, driver of motor vehicle injured"
+687351000006116,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, passenger of motor vehicle injured"
+396021000006115,"[X]Motorcycle rider injured in collision with pedal cycle, passenger injured in nontraffic accident"
+332015012,[X]Motorcycle rider injured in collision with pedal cycle
+395871000006117,"[X]Motorcycle rider injured in collision with pedal cycle, person injured while boarding or alighting"
+396031000006117,"[X]Motorcycle rider injured in collision with pedal cycle, driver injured in traffic accident"
+396041000006110,"[X]Motorcycle rider injured in collision with pedal cycle, passenger injured in traffic accident"
+687331000006111,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, motor cyclist injured"
+396011000006111,"[X]Motorcycle rider injured in collision with pedal cycle, driver injured in nontraffic accident"
+395921000006110,"[X]Motorcycle rider injured in collision with pedal cycle, unspecified motorcycle rider injured in traffic accident"
+395911000006119,"[X]Motorcycle rider injured in collision with pedal cycle, unspecified motorcycle rider injured in nontraffic accident"
+687321000006113,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, passenger on motor cycle injured"
+687391000006110,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, pedal cyclist injured"
+686511000006113,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, motor cyclist injured"
+688201000006112,MVTA involving collision with tramcar
+4875281000006115,Motor vehicle on road in collision with tram
+686571000006116,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, pedal cyclist injured"
+686561000006111,MVTA+collision+tramcar - other specified person injured
+686591000006115,MVTA+collision+tramcar - unspecified person injured
+686501000006110,MVTA+collision+tramcar - motor cycle passenger injured
+686521000006117,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, driver of motor vehicle injured"
+4875321000006114,Motor vehicle on road in collision with tramcar
+686531000006119,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, passenger of motor vehicle injured"
+4875311000006118,Motor vehicle on road in collision with streetcar
+686551000006114,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, occupant of tram injured"
+572941000006115,Motor vehicle on road in collision with pedestrian
+688231000006116,MVTA involving collision with pedestrian
+4875401000006113,Pedestrian dragged by motor vehicle
+686621000006118,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, driver of motor vehicle injured"
+688211000006110,MVTA involving pedestrian dragged by motor vehicle
+686661000006112,MVTA+pedestrian dragged - other specified person injured
+686611000006114,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, motor cyclist injured"
+686691000006116,MVTA+pedestrian dragged - unspecified person injured
+686671000006117,MVTA+pedestrian dragged - pedal cyclist injured
+686631000006115,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, passenger of motor vehicle injured"
+686601000006111,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, passenger on motor cycle injured"
+686681000006119,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, pedestrian injured"
+688261000006113,Pedestrian hit by motor vehicle
+686171000006114,MVTA+pedestrian hit by MV - unspecified person injured
+326106014,Motor vehicle collision NOS - pedestrian injured
+686141000006118,MVTA+pedestrian hit by MV - other specified person injured
+686151000006116,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, pedal cyclist injured"
+281351000006110,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, driver of motor vehicle injured"
+281361000006112,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, passenger of motor vehicle injured"
+281341000006113,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, motor cyclist injured"
+281331000006115,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, passenger on motor cycle injured"
+573341000006112,Collision-RV NEC+pedestrian - pedestrian injured
+684161000006113,MVTA-unspecified - pedestrian injured
+573301000006110,Motor vehicle on road in collision with nonmotor vehicle
+686161000006119,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, pedestrian injured"
+688271000006118,MVTA involving pedestrian run over by motor vehicle
+686181000006112,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, passenger on motor cycle injured"
+687811000006113,MVTA+collis+pedestrian NOS - unspecified person injured
+686231000006117,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, occupant of tram injured"
+688481000006116,MVTA+collis+pedestrian NOS - motor cycle passenger injured
+686191000006110,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, motor cyclist injured"
+688491000006118,MVTA+collis+pedestrian NOS - motor cyclist injured
+687781000006111,MVTA+collis+pedestrian NOS - motor vehicle passenger injured
+686241000006110,MVTA+pedestrian run over-MV - other specified person injured
+4875571000006115,Pedestrian run over by motor vehicle
+281401000006119,MVTA+pedestrian run over-MV - pedestrian injured
+686221000006115,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, rider of animal or occupant of animal-drawn vehicle injured"
+687771000006113,MVTA+collis+pedestrian NOS - motor vehicle driver injured
+687871000006116,MVTA+collis+pedestrian NOS - other specified person injured
+688241000006114,"MVTA involving collision with pedestrian, NOS"
+687791000006114,MVTA+collis+pedestrian NOS - occ animal-drawn veh/rider inj
+687881000006118,MVTA+collis+pedestrian NOS - pedal cyclist injured
+687861000006111,MVTA+collis+pedestrian NOS - occupant of tram injured
+687801000006110,MVTA+collis+pedestrian NOS - pedestrian injured
+281411000006116,MVTA+pedestrian run over-MV - unspecified person injured
+686201000006113,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, driver of motor vehicle injured"
+686211000006111,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, passenger of motor vehicle injured"
+4875651000006114,Motor vehicle on road in collision between motor vehicle and bridge
+687481000006115,MVTA+collision+bridge - other specified person injured
+687531000006117,MVTA+collision+bridge - unspecified person injured
+688791000006110,MVTA involving collision between motor vehicle and bridge
+687501000006113,MVTA+collision+bridge - pedestrian injured
+687511000006111,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, driver of motor vehicle injured"
+687521000006115,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, passenger of motor vehicle injured"
+687451000006111,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, motor cyclist injured"
+687441000006114,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, passenger on motor cycle injured"
+688781000006112,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal"
+687981000006113,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, driver of motor vehicle injured"
+687991000006111,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, passenger of motor vehicle injured"
+687961000006115,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, passenger on motor cycle injured"
+688801000006111,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole"
+687661000006110,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, driver of motor vehicle injured"
+687671000006115,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, passenger of motor vehicle injured"
+687651000006113,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, motor cyclist injured"
+687641000006111,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, passenger on motor cycle injured"
+688821000006118,MVTA involving collision between motor vehicle+thrown object
+4875921000006110,Motor vehicle on road in collision with thrown object
+686491000006119,MVTA+collision+thrown object - unspecified person injured
+686461000006110,MVTA+collision+thrown object - other specified person inj
+686421000006116,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, driver of motor vehicle injured"
+686431000006118,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, passenger of motor vehicle injured"
+686411000006112,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, motor cyclist injured"
+686401000006114,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, passenger on motor cycle injured"
+686721000006114,MVTA+collision+road boundary - motor cyclist injured
+4876041000006110,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and guard rail"
+686771000006110,MVTA+collision+road boundary - other specified person inj
+4876051000006112,Motor vehicle on road in collision with crash barrier
+688751000006116,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence"
+686801000006112,MVTA+collision+road boundary - unspecified person injured
+686731000006112,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, driver of motor vehicle injured"
+686741000006119,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, passenger of motor vehicle injured"
+686711000006118,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, passenger on motor cycle injured"
+687171000006112,MVTA+collision+landslide - unspecified person injured
+4876141000006114,Motor vehicle on road in collision with landslide
+688761000006119,MVTA involving collision between motor vehicle + landslide
+687081000006114,MVTA+collision+landslide - other specified person injured
+687761000006118,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, driver of motor vehicle injured"
+687051000006118,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, passenger of motor vehicle injured"
+687751000006115,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, motor cyclist injured"
+687741000006117,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, passenger on motor cycle injured"
+686871000006118,MVTA+collision+safety island - other specified person inj
+688811000006114,MVTA involving collision between motor vehicle+safety island
+686901000006118,MVTA+collision+safety island - unspecified person injured
+4876231000006110,Motor vehicle on road in collision with safety island
+686831000006116,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, driver of motor vehicle injured"
+686841000006114,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, passenger of motor vehicle injured"
+686821000006119,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, motor cyclist injured"
+686811000006110,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, passenger on motor cycle injured"
+688731000006111,"Motor vehicle traffic accident due to loss of control, without collision on the highway"
+685731000006116,MVTA-fail to make curve - other specified person injured
+685711000006110,MVTA-fail to make curve - occ animal-drawn vehicle/rider inj
+688741000006118,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway"
+685761000006113,MVTA-fail to make curve - unspecified person injured
+685691000006112,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, driver of motor vehicle injured"
+685701000006112,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, passenger of motor vehicle injured"
+685681000006114,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, motor cyclist injured"
+685671000006111,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, passenger on motor cycle injured"
+688511000006112,MVTA due to blowout - unspecified person injured
+689201000006118,MVTA due to blowout - other specified person injured
+689091000006117,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway"
+689161000006112,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, driver of motor vehicle injured"
+689171000006117,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, passenger of motor vehicle injured"
+689151000006110,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, motor cyclist injured"
+689141000006113,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, passenger on motor cycle injured"
+686071000006113,MVTA-driver fell asleep - motor cycle passenger injured
+689061000006113,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway"
+685441000006117,MVTA-driver fell asleep - other specified person injured
+685471000006113,MVTA-driver fell asleep - unspecified person injured
+685431000006110,MVTA-driver fell asleep - occupant of tram injured
+686091000006114,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, driver of motor vehicle injured"
+686101000006115,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, passenger of motor vehicle injured"
+686081000006111,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, motor cyclist injured"
+689071000006118,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway"
+685541000006116,MVTA-driver inattention - other specified person injured
+685571000006112,MVTA-driver inattention - unspecified person injured
+685501000006118,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, driver of motor vehicle injured"
+685511000006115,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, passenger of motor vehicle injured"
+685491000006114,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, motor cyclist injured"
+685481000006111,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, passenger on motor cycle injured"
+685521000006111,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, rider of animal or occupant of animal-drawn vehicle injured"
+685551000006119,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, pedal cyclist injured"
+685561000006117,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, pedestrian injured"
+685661000006116,MVTA-due to excessive speed - unspecified person injured
+689111000006114,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway"
+685631000006113,MVTA-due to excessive speed - other specified person injured
+684961000006110,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, driver of motor vehicle injured"
+685601000006117,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, passenger of motor vehicle injured"
+685591000006113,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, motor cyclist injured"
+685581000006110,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, passenger on motor cycle injured"
+689081000006115,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway"
+684281000006111,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, pedal cyclist injured"
+684271000006113,MVTA-mechanical failure - other specified person injured
+684301000006110,MVTA-mechanical failure - unspecified person injured
+684601000006116,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, driver of motor vehicle injured"
+684241000006117,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, passenger of motor vehicle injured"
+685401000006119,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, motor cyclist injured"
+685391000006116,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, passenger on motor cycle injured"
+676301000006111,MVTA-inj by veh moving part - occupant of tram injured
+4877401000006115,Noncollision motor vehicle traffic accident involving injury by moving part of the vehicle whilst boarding or alighting
+689031000006116,Noncollision motor vehicle traffic accident involving injury by moving part of the vehicle while boarding or alighting
+676311000006114,MVTA-inj by veh moving part - other specified person injured
+676341000006113,MVTA-inj by veh moving part - unspecified person injured
+676321000006118,"Noncollision motor vehicle traffic accident involving injury by moving part of the vehicle while boarding or alighting, pedal cyclist injured"
+676271000006114,"Noncollision motor vehicle traffic accident involving injury by moving part of the vehicle while boarding or alighting, driver of motor vehicle injured"
+4877421000006113,"Noncollision motor vehicle traffic accident involving injury by moving part of the vehicle whilst boarding or alighting, driver of motor vehicle injured"
+4877441000006118,"Noncollision motor vehicle traffic accident involving injury by moving part of the vehicle whilst boarding or alighting, passenger of motor vehicle injured"
+676281000006112,"Noncollision motor vehicle traffic accident involving injury by moving part of the vehicle while boarding or alighting, passenger of motor vehicle injured"
+676251000006116,"Noncollision motor vehicle traffic accident involving injury by moving part of the vehicle while boarding or alighting, passenger on motor cycle injured"
+4877461000006119,"Noncollision motor vehicle traffic accident involving injury by moving part of the vehicle whilst boarding or alighting, passenger on motor cycle injured"
+684401000006118,MVTA-moving MV breakage - unspecified person injured
+684311000006113,MVTA-moving MV breakage - motor cycle passenger injured
+684381000006118,MVTA-moving MV breakage - pedal cyclist injured
+688951000006118,MVTA - breakage of any part of moving motor vehicle
+684371000006116,MVTA-moving MV breakage - other specified person injured
+4877891000006112,Accident due to breakage of any part of moving motor vehicle on road
+684491000006113,MVTA-moving MV explosion - unspecified person injured
+684461000006117,MVTA-moving MV explosion - other specified person injured
+4878021000006116,Accident due to explosion in moving motor vehicle on road
+688961000006116,MVTA - explosion of any part of moving motor vehicle
+4878191000006118,Fall from moving motor vehicle on road
+684851000006116,MVTA-fall from moving MV - other specified person injured
+688991000006112,MVTA - fall from motor vehicle while in motion
+684881000006112,MVTA-fall from moving MV - unspecified person injured
+684861000006119,"Noncollision motor vehicle traffic accident involving fall from motor vehicle while in motion, pedal cyclist injured"
+685341000006113,MVTA-jump from moving MV - other specified person injured
+689051000006111,MVTA - jump from motor vehicle while in motion
+4878361000006112,Accident due to jumping from moving motor vehicle on road
+685351000006110,"Noncollision motor vehicle traffic accident involving jump from motor vehicle while in motion, pedal cyclist injured"
+685381000006119,MVTA-jump from moving MV - unspecified person injured
+685321000006118,MVTA-jump from moving MV - occ animal-drawn veh/rider inj
+685871000006110,MVTA-acc pushed from mov MV - unspecified person injured
+685851000006117,"Noncollision motor vehicle traffic accident involving being accidentally pushed from motor vehicle while in motion, pedal cyclist injured"
+685861000006115,MVTA-acc pushed from mov MV - pedestrian injured
+689131000006115,MVTA -accidentally pushed from moving motor vehicle
+685841000006119,MVTA-acc pushed from mov MV - other specified person injured
+4878511000006115,Accidentally pushed from moving motor vehicle on road
+684041000006110,MVTA-thrown obj hit mov MV - other specified person injured
+684071000006119,MVTA-thrown obj hit mov MV - unspecified person injured
+689011000006110,MVTA - hit by object thrown into or on moving motor vehicle
+4878841000006119,Hit by object thrown into or on moving motor vehicle on road
+684011000006111,MVTA-thrown obj hit mov MV - motor vehicle passenger inj
+689021000006119,MVTA - injured by being thrown against moving motor vehicle
+4878991000006115,Injured by being thrown against moving motor vehicle on road
+683941000006113,MVTA-thrown against mov MV - other specified person injured
+683971000006117,MVTA-thrown against mov MV - unspecified person injured
+683871000006111,MVTA-obj falling on mov MV - unspecified person injured
+684571000006111,MVTA-obj falling on mov MV - pedal cyclist injured
+684561000006116,MVTA-obj falling on mov MV - other specified person injured
+4879181000006113,Accident due to object falling in or on moving motor vehicle on road
+689121000006118,MVTA - object falling in or on moving motor vehicle
+902801000006111,Assault: stab/cut
+331638013,Assault by cutting and stabbing instruments
+404294018,[X]Assault by sharp object
+8075681000006115,Fall through height of more than five metres
+8076041000006112,Motor vehicle on road in collision with van
+8076051000006114,"Motor vehicle on road in collision with another motor vehicle, van"
+5171111000006115,Motor vehicle on road in collision with vehicle running on rails
+5171121000006111,Motor vehicle on road in collision with motor cycle
+5171131000006114,Pedestrian trapped under motor vehicle wheel
+5171151000006119,Motor vehicle on road in collision with street furniture
+5171141000006116,Motor vehicle on road in collision with road-side fixed object
+5171161000006117,Motor vehicle on road in collision with lamp post
+5171171000006112,Motor vehicle on road in collision with tree
+5171181000006110,Motor vehicle on road in collision with wall
+5171191000006113,Motor vehicle on road in collision with building
+5171201000006111,Accident due to loss of control of motor vehicle on road
+688701000006115,MVTA due to control loss NOS - pedestrian injured
+688651000006114,MVTA due to control loss NOS - motor vehicle passenger inj
+688571000006115,MVTA due to control loss NOS - motor cycle passenger injured
+688721000006113,MVTA due to loss of control of motor vehicle NOS
+688671000006116,MVTA due to control loss NOS - occupant of tram injured
+688681000006118,MVTA due to control loss NOS - other specified person inj
+688691000006115,MVTA due to control loss NOS - pedal cyclist injured
+688631000006119,MVTA due to control loss NOS - motor cyclist injured
+688711000006117,MVTA due to control loss NOS - unspecified person injured
+688641000006112,MVTA due to control loss NOS - motor vehicle driver injured
+688661000006111,MVTA due to control loss NOS - occ anim-drawn veh/rider inj
+5171211000006114,Accident due to motor vehicle on road failing to negotiate curve
+5171221000006118,Accident due to motor vehicle on road travelling at excessive speed
+5171231000006115,Accident due to inattention of driver of motor vehicle on road
+5171241000006113,Accident due to driver of motor vehicle on road falling asleep
+5171251000006110,Accident due to sudden illness of driver of motor vehicle on road
+5171281000006119,Accident to motor vehicle on road due to tire burst
+5171271000006117,Accident to motor vehicle on road due to blowout
+5171261000006112,Accident to motor vehicle on road due to tyre burst
+5171291000006116,Accident due to mechanical failure in motor vehicle on road
+587471000006113,Non-coll MVTA-MV moving NOS - motor vehicle driver injured
+5171471000006118,"Accident to motor vehicle on road, not involving collision"
+587501000006118,Non-coll MVTA-MV moving NOS - occupant of tram injured
+673251000006111,Non-coll MVTA-MV moving NOS - unspecified person injured
+587461000006118,Non-coll MVTA-MV moving NOS - motor cyclist injured
+587491000006114,Non-coll MVTA-MV moving NOS - occ animal-drawn veh/rider inj
+673241000006114,Non-coll MVTA-MV moving NOS - pedal cyclist injured
+673701000006115,Non-coll MVTA-MV moving NOS - pedestrian injured
+587511000006115,Non-coll MVTA-MV moving NOS - other specified person injured
+587481000006111,Non-coll MVTA-MV moving NOS - motor vehicle passenger inj
+586531000006112,Noncollision MVTA with motor vehicle while in motion NOS
+587451000006115,Non-coll MVTA-MV moving NOS - motor cycle passenger injured
+5171481000006115,Accidental poisoning from exhaust gas of moving motor vehicle on road
+5179751000006119,Assault by cutting
+5179761000006117,Assault by cutting with knife
+5179781000006110,Assault by cutting with Stanley knife
+5179771000006112,Assault by cutting with craft knife
+5179801000006114,Assault with broken glass or bottle
+5179821000006116,Assault by cutting with axe
+5179921000006113,Assault by puncture wound
+5454721000006113,Traumatic amputation
+321472019,"Traumatic amputation of trunk, level unspecified"
+5458871000006114,Traumatic amputation of testis
+11923831000006119,Motor vehicle on road in collision with nonmotor vehicle
+573291000006114,Collision-RV NEC+NMRV NEC - other specified person injured
+331875018,War injury
+688141000006117,MVTA involving collision with other vehicle NOS
+686321000006110,MVTA+re-entrant coll+MV NOS - motor vehicle passenger inj
+688471000006119,MVTA+coll+other vehicle NOS - unspecified person injured
+688391000006111,MVTA+coll+other vehicle NOS - motor cyclist injured
+685021000006116,MVTA+re-entrant coll+MV NOS - pedestrian injured
+281421000006112,MVTA+re-ent coll+MV unspec - motor cycle passenger injured
+688461000006114,MVTA+coll+other vehicle NOS - pedestrian injured
+688451000006112,MVTA+coll+other vehicle NOS - pedal cyclist injured
+688441000006110,MVTA+coll+other vehicle NOS - other specified person inj
+688381000006113,MVTA+coll+other vehicle NOS - motor cycle passenger injured
+688931000006113,MVTA + re-entrant collision with another motor vehicle NOS
+688431000006117,MVTA+coll+other vehicle NOS - occupant of tram injured
+686331000006113,MVTA+re-entrant coll+MV NOS - occ animal-drawn veh/rider inj
+686301000006117,MVTA+re-entrant coll+MV NOS - motor cyclist injured
+281451000006115,MVTA+re-ent coll+MV unspec - motor vehicle passenger injured
+686281000006116,MVTA+re-ent coll+MV unspec - unspecified person injured
+686271000006119,MVTA+re-ent coll+MV unspec - pedestrian injured
+686291000006118,MVTA+re-entrant coll+MV NOS - motor cycle passenger injured
+686251000006112,MVTA+re-ent coll+MV unspec - other specified person injured
+685011000006112,MVTA+re-entrant coll+MV NOS - pedal cyclist injured
+281471000006113,MVTA+re-ent coll+MV unspec - occupant of tram injured
+688911000006119,"MVTA + re-entrant collision + other motor vehicle, unspec"
+25751000006113,Other MVTA involving collision with another motor vehicle
+686311000006119,MVTA+re-entrant coll+MV NOS - motor vehicle driver injured
+688411000006111,MVTA+coll+other vehicle NOS - motor vehicle passenger inj
+688131000006110,Motor vehicle on road in collision with another motor vehicle
+281441000006117,MVTA+re-ent coll+MV unspec - motor vehicle driver injured
+685031000006118,MVTA+re-entrant coll+MV NOS - unspecified person injured
+684991000006119,MVTA+re-entrant coll+MV NOS - occupant of tram injured
+685001000006114,MVTA+re-entrant coll+MV NOS - other specified person injured
+688401000006113,MVTA+coll+other vehicle NOS - motor vehicle driver injured
+281461000006118,MVTA+re-ent coll+MV unspec - occ animal-drawn veh/rider inj
+688421000006115,MVTA+coll+other vehicle NOS - occ animal-drawn veh/rider inj
+281431000006110,MVTA+re-ent coll+MV unspec - motor cyclist injured
+686261000006114,MVTA+re-ent coll+MV unspec - pedal cyclist injured
+688021000006111,MVTA+collision+animal - other specified person injured
+688051000006119,MVTA+collision+animal - unspecified person injured
+5567661000006117,Motor vehicle on road in collision with unridden animal
+687971000006110,MVTA+collision+animal - motor cyclist injured
+687701000006119,MVTA+collision+fallen object - other specified person inj
+687711000006116,MVTA+collision+fallen object - pedal cyclist injured
+5567671000006112,Motor vehicle on road in collision with fallen object
+687731000006110,MVTA+collision+fallen object - unspecified person injured
+5595091000006110,Motor vehicle on road in collision with road sign
+5595101000006116,Motor vehicle on road in collision with bollard
+5681991000006116,Traumatic amputation of penis
+368941000006110,[X]Bus occupant injured in other and unspecified transport accidents
+429931000006114,[X]Unspecified bus occupant injured in collision with other and unspecified motor vehicles in traffic accident
+368361000006110,[X]Bus occupant [any] injured in unspecified traffic accident
+368341000006111,[X]Bus occupant [any] injured in other specified transport accidents
+12703531000006118,Bus accident
+5837361000006117,Bus accident
+368351000006113,[X]Bus occupant [any] injured in unspecified nontraffic accident
+429941000006116,[X]Unspecified bus occupant injured in collision with other and unspecified motor vehicles in nontraffic accident
+5979431000006118,Crush - wound
+454977016,Closed flail chest
+454978014,Open flail chest
+459051012,Major head injury
+385701000006116,"[X]Falling, jumping or pushed from a high place, undetermined intent, occurrence at sports and athletics area"
+386511000006115,"[X]Falling, jumping or pushed from a high place, undetermined intent, occurrence on farm"
+385711000006118,"[X]Falling, jumping or pushed from a high place, undetermined intent, occurrence at trade and service area"
+385671000006117,"[X]Falling, jumping or pushed from a high place, undetermined intent, occurrence at industrial and construction area"
+385681000006119,"[X]Falling, jumping or pushed from a high place, undetermined intent, occurrence at other specified place"
+385661000006112,"[X]Falling, jumping or pushed from a high place, undetermined intent, occurrence on street and highway"
+385651000006110,"[X]Falling, jumping or pushed from a high place, undetermined intent, occurrence in residential institution"
+386491000006114,"[X]Falling, jumping or pushed from a high place, undetermined intent"
+1832821000006119,Fall from height
+386521000006111,"[X]Falling, jumping or pushed from a high place, undetermined intent, occurrence at home"
+385721000006114,"[X]Falling, jumping or pushed from a high place, undetermined intent, occurrence at school, other institution and public administrative area"
+7104011000006114,Fall from high place
+385691000006116,"[X]Falling, jumping or pushed from a high place, undetermined intent, occurrence at unspecified place"
+7309061000006119,Bilateral traumatic amputation of lower extremities
+7309051000006116,Bilateral traumatic amputation of lower limbs
+7528391000006111,Traumatic transtibiofibular amputation
+7528401000006113,Traumatic amputation at level between knee and ankle
+7635721000006110,Closed crush injury
+7635731000006113,Open crush injury
+7815731000006110,Complete traumatic amputation of external ear
+7815751000006115,Traumatic incomplete amputation of external ear
+7815741000006117,Traumatic partial amputation of external ear
+7815761000006118,Complete traumatic amputation of nose
+7815781000006111,Traumatic incomplete amputation of nose
+7815771000006113,Traumatic partial amputation of nose
+325309017,[X]Traumatic amputation of unspecified part of head
+92211000006118,Traumatic amputation of unspecified part of head
+325308013,Traumatic amputation of part of head
+7834961000006112,Traumatic amputation of breast
+7835471000006110,Traumatic amputation of nose
+7841311000006112,Traumatic amputation of part of breast
+7841321000006116,Traumatic amputation of entire breast
+7956281000006111,Traumatic amputation at right hip joint
+7956291000006114,Traumatic amputation at left hip joint
+7957351000006111,Traumatic amputation of entire penis
+7957361000006113,Traumatic amputation of part of penis
+7957371000006118,Traumatic amputation of entire testis
+7957381000006115,Traumatic amputation of entire scrotum
+7957391000006117,Traumatic amputation of part of testes
+7957401000006115,Traumatic amputation of part of scrotum
+7957411000006117,Traumatic amputation of entire vulva
+7957421000006113,Traumatic amputation of part of vulva
+3515141017,Traumatic amputation of both legs through hip joints
+3517140017,Bilateral traumatic amputation of legs through hip joints
+3517139019,Traumatic amputation of bilateral legs through hip joints
+3515142012,Bilateral traumatic amputation through hip
+3515442018,Traumatic amputation of part of abdomen
+3515444017,Traumatic amputation of part of lower back
+3515446015,Traumatic amputation of part of pelvis
+3515450010,Traumatic amputation of abdomen
+3515452019,Traumatic amputation of lower back
+3515454018,Traumatic amputation of pelvis
+92971000006117,Bilateral traumatic amputation of legs at any level without complication
+3636929012,Traumatic amputation of lip
+895391000006113,#Flail chest
+129465015,Flail chest
+8261521000006116,Traumatic amputation below knee
+8262001000006114,Traumatic amputation of tongue
+2144691000000113,Traumatic amputation above knee
+4063421000006111,Traumatic amputation of leg
+325462011,Traumatic amputation of lower extremity
+991441000006119,Traumatic amputation - leg NOS
+92411000006117,"Traumatic amputation, leg"
+92101000006114,"Traumatic amputation of lower leg, level unspecified"
+897321000006116,Trauma - amputation-lower limb
+321807016,Traumatic amputation of leg NOS
+92081000006118,Traumatic amputation of leg(s)
+897311000006112,Traumatic amputation - leg
+265522011,RTA injury examination
+282456019,Plugging of flail chest
+321614017,"Ring avulsion injury, class 1"
+321615016,"Ring avulsion injury, class 2"
+321616015,"Ring avulsion injury, class 3"
+321617012,"Ring avulsion injury, class 4"
+897141000006113,Traumatic amputation - thumb
+321627018,Traumatic amputation of thumb
+92151000006113,Traumatic amputation of thumb without complication
+321629015,"Traumatic amputation, thumb, through metacarpal"
+92541000006117,"Traumatic amputation, thumb, through metacarpophalangeal joint"
+321631012,"Traumatic amputation, thumb, proximal phalanx"
+321632017,"Traumatic amputation, thumb, through interphalangeal joint"
+321633010,"Traumatic amputation, thumb tip"
+321634016,"Traumatic amputation thumb tip, type 1 (pulp only involved)"
+321635015,"Traumatic amputation thumb tip, type 2 (pulp and nail loss)"
+92261000006115,"Traumatic amputation thumb tip, type 3 (partial loss of terminal phalanx with corresponding loss of pulp and nail but not involving lunula)"
+92271000006110,"Traumatic amputation thumb tip, type 4 (partial loss of terminal phalanx, pulp and nail including lunula)"
+321638018,Traumatic amputation of thumb with complication
+321639014,Traumatic amputation of thumb NOS
+92021000006117,Traumatic amputation of finger
+897151000006110,Traumatic amputation - finger
+92011000006113,Traumatic amputation of finger without complication
+92351000006111,"Traumatic amputation, finger, through metacarpophalangeal joint"
+321642015,"Traumatic amputation, finger, proximal phalanx"
+92361000006113,"Traumatic amputation, finger, through proximal interphalangeal joint"
+321644019,"Traumatic amputation, finger, middle phalanx"
+92341000006114,"Traumatic amputation, finger, through distal interphalangeal joint"
+321646017,"Traumatic amputation, finger, multiple"
+91881000006115,"Traumatic amputation finger tip, type 1 (pulp only involved)"
+91891000006117,"Traumatic amputation finger tip, type 2 (pulp and nail loss)"
+91901000006118,"Traumatic amputation finger tip, type 3 (partial loss of terminal phalanx with corresponding loss of pulp and nail but not involving lunula)"
+91911000006115,"Traumatic amputation finger tip, type 4"
+72632019,Traumatic amputation of finger with complication
+321654015,Traumatic amputation of finger NOS
+86371000006115,Traumatic unilat amputation below elbow without complication
+321660015,"Traumatic amputation, through elbow"
+321661016,"Traumatic amputation, below elbow"
+321662011,"Traumatic amputation, through wrist"
+321663018,"Traumatic amputation, hand, through metacarpals"
+86431000006113,"Traumatic unilateral amputation, below elbow, with complication"
+86341000006111,Traumatic unilat amputation above elbow without complication
+321667017,"Traumatic amputation, forequarter"
+321668010,"Traumatic amputation, through shoulder"
+321670018,"Traumatic amputation, above elbow"
+86401000006117,"Traumatic unilateral amputation, above elbow, with complication"
+86361000006110,"Traumatic unilat amputation arm unspec, without complication"
+86351000006113,"Traumatic unilat amputation arm unspec, with complication"
+92931000006115,"Traumatic bilat amputation arm, unspec, without complication"
+92921000006118,"Traumatic bilat amputation arm, unspec, with complication"
+321677015,Traumatic amputation of arm and hand NOS
+897191000006116,Traumatic amputation arm NOS
+92161000006110,Traumatic amputation of toe(s)
+897291000006113,Traumatic amputation - toe
+92191000006119,Traumatic amputation of toe(s) without complication
+321778016,"Traumatic amputation, lesser toe"
+321779012,"Traumatic amputation, greater toe"
+321781014,"Traumatic amputation, multiple toes"
+321782019,Traumatic amputation of toe(s) with complication
+321783012,Traumatic amputation of toe(s) NOS
+86471000006111,Traumatic unilateral amputation of foot without complication
+92371000006118,"Traumatic amputation, foot"
+321786016,Traumatic unilateral amputation of foot with complication
+92951000006110,Traumatic bilateral amputation of foot without complication
+321788015,Bilateral traumatic amputation of feet with complication
+321789011,Traumatic amputation of foot NOS
+86441000006115,"Traumatic unilat amputation, below knee without complication"
+321794011,"Traumatic amputation, through ankle"
+86451000006118,"Traumatic unilateral amputation, below knee, with complication"
+86411000006119,"Traumatic unilat amputation, above knee without complication"
+321797016,"Traumatic amputation, through knee"
+321798014,"Traumatic amputation, through thigh"
+321799018,"Traumatic amputation, through hip"
+86421000006110,"Traumatic unilateral amputation, above knee, with complication"
+86391000006119,"Traumatic unilat amputation leg unspec, without complication"
+86381000006117,"Traumatic unilat amputation leg unspec, with complication"
+321805012,Traumatic amputation at level between hip and knee
+897331000006118,Traumatic amputation - leg NOS
+149311000006116,Sequelae of crushing injury and traumatic amputation of upper limb
+149691000006118,Sequelae of crushing injury and traumatic amputation of lower limb
+322951011,"Crush injury, multiple and unspecified sites"
+322954015,"Crush injury, multiple sites NEC"
+325274013,Traumatic amputation of both hands
+325275014,Traumatic amputation of both feet
+429321000006110,[X]Traum amput two or more finger alone (complete)(partial)
+371211000006119,[X]Comb traum amp of (part of) fing(s) + oth part wrist/hand
+325432017,[X]Traumatic amputation of other parts of wrist and hand
+429401000006114,"[X]Traumatic amputation of wrist & hand, level unspecified"
+325478013,[X]Traumatic amputation of two or more toes
+325479017,[X]Traumatic amputation of other parts of foot
+376001000006119,[X]Crush injury & traum amputation of unspecif body region
+686941000006116,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, passenger of motor vehicle injured"
+686921000006111,"Motor vehicle traffic accident involving collision with another motor vehicle, stalled, motor cyclist injured"
+688111000006116,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, occupant of tram injured"
+688101000006119,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, rider of animal or occupant of animal-drawn vehicle injured"
+687411000006110,"Motor vehicle traffic accident involving collision between motor vehicle and animal carrying a person, pedal cyclist injured"
+688331000006112,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, occupant of tram injured"
+688361000006115,"Motor vehicle traffic accident involving collision between motor vehicle and animal-drawn vehicle, pedestrian injured"
+687371000006114,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, occupant of tram injured"
+687401000006112,"Motor vehicle traffic accident involving collision between motor vehicle and pedal cycle, pedestrian injured"
+686541000006112,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, rider of animal or occupant of animal-drawn vehicle injured"
+686581000006118,"Motor vehicle traffic accident involving collision between motor vehicle and tramcar, pedestrian injured"
+686651000006110,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, occupant of tram injured"
+686641000006113,"Motor vehicle traffic accident involving pedestrian dragged by motor vehicle, rider of animal or occupant of animal-drawn vehicle injured"
+281381000006119,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, occupant of tram injured"
+281371000006117,"Motor vehicle traffic accident involving pedestrian hit by motor vehicle, rider of animal or occupant of animal-drawn vehicle injured"
+281391000006116,"Motor vehicle traffic accident involving pedestrian run over by motor vehicle, pedal cyclist injured"
+26391000006114,Traffic accident on public road
+687471000006118,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, occupant of tram injured"
+687461000006113,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, rider of animal or occupant of animal-drawn vehicle injured"
+687491000006117,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and bridge, pedal cyclist injured"
+688011000006115,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, occupant of tram injured"
+688001000006118,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, rider of animal or occupant of animal-drawn vehicle injured"
+688031000006114,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, pedal cyclist injured"
+688041000006116,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and animal, pedestrian injured"
+687691000006119,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, occupant of tram injured"
+687681000006117,"Motor vehicle traffic accident involving collision,on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, rider of animal or occupant of animal-drawn vehicle injured"
+687721000006112,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and fallen stone, traffic sign, tree or utility pole, pedestrian injured"
+686451000006113,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, occupant of tram injured"
+686441000006111,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, rider of animal or occupant of animal-drawn vehicle injured"
+686471000006115,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, pedal cyclist injured"
+686481000006117,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and object thrown in front of motor vehicle, pedestrian injured"
+686761000006115,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, occupant of tram injured"
+686751000006117,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, rider of animal or occupant of animal-drawn vehicle injured"
+686781000006113,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, pedal cyclist injured"
+686791000006111,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and boundary fence or guard rail, pedestrian injured"
+687071000006111,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, occupant of tram injured"
+687061000006116,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, rider of animal or occupant of animal-drawn vehicle injured"
+687091000006112,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, pedal cyclist injured"
+687161000006117,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and landslide, pedestrian injured"
+686861000006113,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, occupant of tram injured"
+686851000006111,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, rider of animal or occupant of animal-drawn vehicle injured"
+686881000006115,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, pedal cyclist injured"
+686891000006117,"Motor vehicle traffic accident involving collision, on highway, between motor vehicle and safety island, pedestrian injured"
+688771000006114,MVTA involving collision between motor vehicle + object NOS
+687121000006111,MVTA+collision+object NOS - motor vehicle driver injured
+687131000006114,MVTA+collision+object NOS - motor vehicle passenger injured
+687111000006115,MVTA+collision+object NOS - motor cyclist injured
+687101000006118,MVTA+collision+object NOS - motor cycle passenger injured
+687151000006119,MVTA+collision+object NOS - occupant of tram injured
+687141000006116,MVTA+collision+object NOS - occ animal-drawn veh/rider inj
+687191000006113,MVTA+collision+object NOS - pedal cyclist injured
+687201000006111,MVTA+collision+object NOS - pedestrian injured
+687181000006110,MVTA+collision+object NOS - other specified person injured
+687211000006114,MVTA+collision+object NOS - unspecified person injured
+685721000006119,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, occupant of tram injured"
+685741000006114,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, pedal cyclist injured"
+685751000006111,"Motor vehicle traffic accident due to motor vehicle failing to make curve, without collision on the highway, pedestrian injured"
+689191000006116,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, occupant of tram injured"
+689181000006119,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, rider of animal or occupant of animal-drawn vehicle injured"
+688501000006114,"Motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, pedestrian injured"
+689101000006111,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway"
+688601000006110,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, driver of motor vehicle injured"
+688611000006113,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, passenger of motor vehicle injured"
+688591000006119,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, motor cyclist injured"
+688581000006117,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, passenger on motor cycle injured"
+688521000006116,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, occupant of tram injured"
+688621000006117,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, rider of animal or occupant of animal-drawn vehicle injured"
+688541000006111,"Motor vehicle traffic accident due to motor vehicle going out of control due to burst tyre, without collision on the highway, pedal cyclist injured"
+688551000006113,MVTA due to burst tyre - pedestrian injured
+688531000006118,MVTA due to burst tyre - other specified person injured
+688561000006110,MVTA due to burst tyre - unspecified person injured
+684981000006117,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, rider of animal or occupant of animal-drawn vehicle injured"
+685451000006115,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, pedal cyclist injured"
+685461000006118,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver falling asleep, without collision on the highway, pedestrian injured"
+685531000006114,"Motor vehicle traffic accident due to motor vehicle going out of control due to driver inattention, without collision on the highway, occupant of tram injured"
+685621000006110,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, occupant of tram injured"
+685641000006115,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, pedal cyclist injured"
+685651000006118,"Motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway, pedestrian injured"
+684261000006118,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, occupant of tram injured"
+684251000006115,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on highway, rider of animal or occupant of animal-drawn vehicle injured"
+684291000006114,"Motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway, pedestrian injured"
+691241000006116,"Nontraffic accident involving being hit by motor-driven snow vehicle, pedal cyclist injured"
+17051000006111,Motor vehicle accident
+327350014,Accident while boarding or alighting from road vehicle NEC
+440331000006119,Acc board/alight road veh NEC - other specified person inj
+440351000006114,Acc board/alight road veh NEC - unspecified person injured
+327355016,Hit by object in road vehicle NEC
+825511000006116,Hit by object in road veh NEC - pedestrian injured
+825501000006119,Hit by object in road veh NEC - other specified person inj
+825521000006112,Hit by object in road veh NEC - unspecified person injured
+327360017,Accident involving breakage of part of road vehicle NEC
+440371000006116,Acc-breakage of part of RV NEC - occupant of tram injured
+440381000006118,Acc-breakage of part of RV NEC - other specified person inj
+440401000006118,Acc-breakage of part of RV NEC - unspecified person injured
+327365010,Caught in door of road vehicle NEC
+539831000006110,Caught in door of road veh NEC - occupant of tram injured
+539841000006117,Caught in door of road veh NEC - other specified person inj
+539861000006118,Caught in door of road veh NEC - unspecified person injured
+327370015,Derailment of road vehicle NEC
+614201000006116,Derailment of road veh NEC - other specified person injured
+614221000006114,Derailment of road veh NEC - unspecified person injured
+327375013,Fall in road vehicle NEC
+664701000006114,Fall in road vehicle NEC - other specified person injured
+664721000006116,Fall in road vehicle NEC - unspecified person injured
+327380016,Fall on road vehicle NEC
+665331000006118,Fall on road vehicle NEC - other specified person injured
+665351000006113,Fall on road vehicle NEC - unspecified person injured
+327385014,Fall from road vehicle NEC
+664391000006118,Fall from road vehicle NEC - other specified person injured
+664411000006118,Fall from road vehicle NEC - unspecified person injured
+327390012,Fire in road vehicle NEC
+710261000006119,Fire in road vehicle NEC - pedestrian injured
+710241000006118,Fire in road vehicle NEC - occupant of tram injured
+710251000006116,Fire in road vehicle NEC - other specified person injured
+710271000006114,Fire in road vehicle NEC - unspecified person injured
+572911000006119,Collision between road vehicle NEC and animal
+573221000006112,Collision-RV NEC + animal - pedestrian injured
+573201000006119,Collision-RV NEC + animal - occupant of tram injured
+573211000006116,Collision-RV NEC + animal - other specified person injured
+573231000006110,Collision-RV NEC + animal - unspecified person injured
+572921000006110,Collision between road vehicle NEC and nonmotor road veh NEC
+573281000006111,Collision-RV NEC+NMRV NEC - occupant of tram injured
+573311000006113,Collision-RV NEC+NMRV NEC - unspecified person injured
+573321000006117,Collision-RV NEC+pedestrian - occupant of tram injured
+573331000006119,Collision-RV NEC+pedestrian - other specified person injured
+573351000006114,Collision-RV NEC+pedestrian - unspecified person injured
+572931000006113,Collision between road vehicle NEC and other object
+573261000006118,Collision-RV NEC + other object - pedestrian injured
+573241000006117,Collision-RV NEC + other object - occupant of tram injured
+573251000006115,Collision-RV NEC + other object - other specified person inj
+573271000006113,Collision-RV NEC + other object - unspecified person injured
+327415017,Nonmotor road vehicle accident NOS
+327416016,Nonmotor road vehicle acc NOS - pedestrian injured
+327417013,Nonmotor road vehicle acc NOS - occupant of tram injured
+585721000006112,Nonmotor road vehicle acc NOS - other specified person inj
+585741000006117,Nonmotor road vehicle acc NOS - unspecified person injured
+327420017,Tram accident NOS
+327421018,Tram accident NOS - pedestrian injured
+327422013,Tram accident NOS - occupant of tram injured
+327423015,Tram accident NOS - other specified person injured
+327424014,Tram accident NOS - unspecified person injured
+327425010,Other road vehicle accident NOS
+327426011,Other road vehicle accid NOS - pedestrian injured
+327427019,Other road vehicle accid NOS - occupant of tram injured
+17011000006110,Other road vehicle accid NOS - other specified person inj
+327429016,Other road vehicle accid NOS - unspecified person injured
+327430014,Road vehicle accident NOS
+775321000006117,Injury resulting from operations of war
+331795019,War injuries due to fires and conflagrations
+331796018,War injury due to fire or conflagration from petrol bomb
+331798017,War injury due to fire or conflagration from source NOS
+902911000006119,War injury: bullet/fragment
+331799013,War injuries due to bullets and fragments
+331800012,War injury due to rubber bullets
+331801011,War injury due to rifle pellets
+331802016,War injury due to other bullets
+331803014,War injury due to carbine bullet
+331804015,War injury due to machine gun bullet
+331805019,War injury due to pistol bullet
+331806018,War injury due to rifle bullet
+331807010,War injury due to shotgun bullet
+331808017,War injury due to bullet NOS
+331809013,War injury due to fragments from antipersonnel bomb
+331810015,War injury due to other and unspecified fragments
+331811016,War injury due to fragments from artillery shell
+331812011,War injury due to fragments from bomb NEC
+331817017,War injury due to fragments from grenade
+331818010,War injury due to fragments from guided missile
+331819019,War injury due to fragments from land mine
+331820013,War injury due to fragments from rocket
+331821012,War injury due to fragments from shell
+331822017,War injury due to fragments from shrapnel
+331823010,War injury due to fragments NOS
+902921000006110,War injury: marine explosion
+331824016,War injuries due to explosion of marine weapons
+331825015,War injury due to explosion of depth charge explosion
+331826019,War injury due to explosion of marine mine
+331828018,War injury due to explosion of sea-based artillery shell
+331829014,War injury due to explosion of torpedo
+331830016,War injury due to underwater blast
+331831017,War injury due to explosion of marine weapons NOS
+902931000006113,War injury: explosion NOS
+331832012,War injury due to other explosions
+57481000006116,War injury due to accidental explosion of munitions being used in war
+331834013,War injury due to accidental explosion of own weapons
+331835014,War injury due to explosion of artillery shell
+331836010,War injury due to explosion of breech block
+331837018,War injury due to explosion of cannon block
+331838011,War injury due to explosion of mortar bomb
+331839015,War injury due to air blast NOS
+331840018,War injury due to explosion
+331841019,War injury due to destruction of aircraft
+331843016,War injury due to aeroplane burned
+331844010,War injury due to aeroplane exploded
+331847015,War injury due to aeroplane shot down
+331848013,War injury due to crushing by falling aeroplane
+331850017,War injury due to destruction of aircraft NOS
+331851018,War injury due to other forms of conventional warfare
+331852013,War injury due to bayonet
+331853015,War injury due to battle wound NOS
+331854014,"War injury, drowned in war operations"
+331855010,War injury due to conventional warfare NOS
+902941000006115,War injury: nuclear
+331856011,War injury due to nuclear weapons
+331857019,War injury due to blast effects of nuclear weapon
+57931000006113,War injury due to ionizing radiation from nuclear weapon
+331860014,War injury due to fireball effects of nuclear weapon
+331861013,War injury due to heat from nuclear weapon
+331862018,War injury due to nuclear weapons NOS
+331864017,War injury due to lasers
+331865016,War injury due to biological warfare
+331866015,"War injury due to gases, fumes and chemicals"
+331867012,War injury due to gas
+331868019,War injury due to fumes
+331869010,War injury due to chemicals
+331870011,"War injury due to gases, fumes or chemicals NOS"
+331871010,War injury due to other forms of unconventional warfare
+331872015,War injury due to unconventional forms of warfare NOS
+775861000006119,Injury due to war operations but occurring after cessation of hostilities
+331874019,Late effects of injury due to war operations
+902951000006118,War injury: NOS
+902961000006116,War injury: face
+331880010,Accidental event
+331879012,[X]Traffic and other transport accidents
+331878016,[X]Transport accidents
+419561000006119,[X]Pedestrian injured in collision with two- or three-wheeled motor vehicle
+419041000006113,"[X]Pedestrian injured in collision with two- or three-wheeled motor vehicle, nontraffic accident"
+419051000006110,"[X]Pedestrian injured in collision with two- or three-wheeled motor vehicle, traffic accident"
+418981000006113,"[X]Pedestrian injured in collision with two- or three-wheeled motor vehicle, unspecified whether traffic or nontraffic accident"
+419551000006116,Pedestrian collision with automobile
+419101000006110,"[X]Pedestrian injured in collision with car, pick-up truck or van, nontraffic accident"
+419081000006119,"[X]Pedestrian injured in collision with car, pick-up truck or van, traffic accident"
+419021000006118,"[X]Pedestrian injured in collision with car, pick-up truck or van, unspecified whether traffic or nontraffic accident"
+419541000006118,[X]Pedestrian injured in collision with heavy transport vehicle or bus
+419011000006114,"[X]Pedestrian injured in collision with heavy transport vehicle or bus, nontraffic accident"
+419061000006112,"[X]Pedestrian injured in collision with heavy transport vehicle or bus, traffic accident"
+418991000006111,"[X]Pedestrian injured in collision with heavy transport vehicle or bus, unspecified whether traffic or nontraffic accident"
+419571000006114,[X]Pedestrian injured in collision with railway train or railway vehicle
+419091000006116,"[X]Pedestrian injured in collision with railway train or railway vehicle, nontraffic accident"
+419111000006113,"[X]Pedestrian injured in collision with railway train or railway vehicle, traffic accident"
+419031000006115,"[X]Pedestrian injured in collision with railway train or railway vehicle, unspecified whether traffic or nontraffic accident"
+419581000006112,[X]Pedestrian injured in collision with other nonmotor vehicle
+419121000006117,"[X]Pedestrian injured in collision with other nonmotor vehicle, nontraffic accident"
+419131000006119,"[X]Pedestrian injured in collision with other nonmotor vehicle, traffic accident"
+419001000006111,"[X]Pedestrian injured in collision with other nonmotor vehicle, unspecified whether traffic or nontraffic accident"
+419181000006118,[X]Pedestrian injured in other and unspecified transport accidents
+419171000006116,[X]Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles
+331908016,[X]Pedestrian injured in unspecified nontraffic accident
+419141000006112,[X]Pedestrian injured in traffic accident involving other and unspecified motor vehicles
+331910019,"Victim, pedestrian in vehicular AND/OR traffic accident"
+331911015,[X]Pedestrian injured in unspecified transport accident
+331912010,[X]Pedal cyclist injured in transport accident
+418911000006118,Pedal cycle accident involving collision between pedal cycle and motor vehicle
+418771000006113,"[X]Pedal cyclist injured in collision with two or three-wheeled motor vehicle, driver injured in nontraffic accident"
+418601000006114,"[X]Pedal cyclist injured in collision with two or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+418611000006112,"[X]Pedal cyclist injured in collision with two or three-wheeled motor vehicle, unspecified pedal cyclist injured in nontraffic accident"
+418761000006118,"[X]Pedal cyclist injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+418801000006110,"[X]Pedal cyclist injured in collision with two or three-wheeled motor vehicle, driver injured in traffic accident"
+418791000006114,"[X]Pedal cyclist injured in collision with two or three-wheeled motor vehicle, passenger injured in traffic accident"
+418781000006111,"[X]Pedal cyclist injured in collision with two or three-wheeled motor vehicle, unspecified pedal cyclist injured in traffic accident"
+419481000006113,"[X]Pedal cyclist injured in collision with car, pick-up truck or van"
+418661000006110,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+418671000006115,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+418651000006113,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in nontraffic accident"
+418621000006116,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+418631000006118,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+418641000006111,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+418811000006113,"[X]Pedal cyclist injured in collision with car, pick-up truck or van, unspecified pedal cyclist injured in traffic accident"
+418921000006114,[X]Pedal cyclist injured in collision with heavy transport vehicle or bus
+418851000006114,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+418721000006112,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+418731000006110,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, unspecified pedal cyclist injured in nontraffic accident"
+418591000006118,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+419251000006118,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+419211000006119,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+418741000006117,"[X]Pedal cyclist injured in collision with heavy transport vehicle or bus, unspecified pedal cyclist injured in traffic accident"
+419431000006112,[X]Pedal cyclist injured in collision with railway train or railway vehicle
+419301000006113,"[X]Pedal cyclist injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+419321000006115,"[X]Pedal cyclist injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+430221000006111,"[X]Pedal cyclist injured in collision with railway train or railway vehicle, unspecified pedal cyclist injured in nontraffic accident"
+419341000006110,Pedal cycle accident involving collision between pedal cycle and train
+419311000006111,"[X]Pedal cyclist injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+419331000006117,"[X]Pedal cyclist injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+430231000006114,"[X]Pedal cyclist injured in collision with railway train or railway vehicle, unspecified pedal cyclist injured in traffic accident"
+419491000006111,[X]Pedal cyclist injured in collision with other nonmotor vehicle
+418881000006118,"[X]Pedal cyclist injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+419271000006111,"[X]Pedal cyclist injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+418751000006115,Pedal cycle in collision with non-motor road vehicle
+419241000006115,"[X]Pedal cyclist injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+418891000006115,"[X]Pedal cyclist injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+418861000006111,"[X]Pedal cyclist injured in collision with other nonmotor vehicle, unspecified pedal cyclist injured in traffic accident"
+419421000006114,[X]Pedal cyclist injured in collision with fixed or stationary object
+418711000006116,"[X]Pedal cyclist injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+418691000006119,"[X]Pedal cyclist injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+418831000006119,"[X]Pedal cyclist injured in collision with fixed or stationary object, unspecified pedal cyclist injured in nontraffic accident"
+418681000006117,Collision between pedal cycle and fixed object
+418701000006119,"[X]Pedal cyclist injured in collision with fixed or stationary object, driver injured in traffic accident"
+418841000006112,"[X]Pedal cyclist injured in collision with fixed or stationary object, passenger injured in traffic accident"
+418821000006117,"[X]Pedal cyclist injured in collision with fixed or stationary object, unspecified pedal cyclist injured in traffic accident"
+419441000006119,[X]Pedal cyclist injured in other and unspecified transport accidents
+430211000006115,[X]Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident
+419191000006115,[X]Pedal cyclist [any] injured in other specified transport accidents
+419471000006110,[X]Pedal cyclist [any] injured in unspecified traffic accident
+332006017,[X]Motorcycle rider injured in transport accident
+398951000006114,[X]Motorcycle rider injured in collision with pedestrian or animal
+395941000006115,"[X]Motorcycle rider injured in collision with pedestrian or animal, driver injured in nontraffic accident"
+395961000006116,"[X]Motorcycle rider injured in collision with pedestrian or animal, passenger injured in nontraffic accident"
+395891000006116,"[X]Motorcycle rider injured in collision with pedestrian or animal, unspecified motorcycle rider injured in nontraffic accident"
+395881000006119,"[X]Motorcycle rider injured in collision with pedestrian or animal, person injured while boarding or alighting"
+395951000006118,"[X]Motorcycle rider injured in collision with pedestrian or animal, driver injured in traffic accident"
+395971000006111,"[X]Motorcycle rider injured in collision with pedestrian or animal, passenger injured in traffic accident"
+395901000006117,"[X]Motorcycle rider injured in collision with pedestrian or animal, unspecified motorcycle rider injured in traffic accident"
+395931000006113,[X]Motorcycle rider injured in collision with two or three-wheeled motor vehicle
+395991000006112,"[X]Motorcycle rider injured in collision with two or three-wheeled motor vehicle, driver injured in nontraffic accident"
+396001000006113,"[X]Motorcycle rider injured in collision with two or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+395821000006118,"[X]Motorcycle rider injured in collision with two or three-wheeled motor vehicle, unspecified motorcycle rider injured in nontraffic accident"
+395831000006115,"[X]Motorcycle rider injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+395841000006113,"[X]Motorcycle rider injured in collision with two or three-wheeled motor vehicle, driver injured in traffic accident"
+395851000006110,"[X]Motorcycle rider injured in collision with two or three-wheeled motor vehicle, passenger injured in traffic accident"
+395861000006112,"[X]Motorcycle rider injured in collision with two or three-wheeled motor vehicle, unspecified motorcycle rider injured in traffic accident"
+398961000006111,"[X]Motorcycle rider injured in collision with car, pick-up truck or van"
+395421000006115,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+395441000006110,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+395571000006115,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in nontraffic accident"
+395431000006117,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+395811000006114,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+395451000006112,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+395581000006117,"[X]Motorcycle rider injured in collision with car, pick-up truck or van, unspecified motorcycle rider injured in traffic accident"
+395981000006114,[X]Motorcycle rider injured in collision with heavy transport vehicle or bus
+395631000006119,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+395511000006112,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+395521000006116,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, unspecified motorcycle rider injured in nontraffic accident"
+395621000006117,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+395641000006112,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+395501000006114,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+395531000006118,"[X]Motorcycle rider injured in collision with heavy transport vehicle or bus, unspecified motorcycle rider injured in traffic accident"
+398921000006117,[X]Motorcycle rider injured in collision with railway train or railway vehicle
+395671000006116,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+395691000006115,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+430041000006114,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, unspecified motorcycle rider injured in nontraffic accident"
+395711000006117,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, person injured while boarding or alighting"
+395681000006118,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+395701000006115,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+430011000006110,"[X]Motorcycle rider injured in collision with railway train or railway vehicle, unspecified motorcycle rider injured in traffic accident"
+332057018,[X]Motorcycle rider injured in collision with other nonmotor vehicle
+395721000006113,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+395661000006111,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+395541000006111,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, unspecified motorcycle rider injured in nontraffic accident"
+395551000006113,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, person injured while boarding or alighting"
+395561000006110,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+395731000006111,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+395651000006114,"[X]Motorcycle rider injured in collision with other nonmotor vehicle, unspecified motorcycle rider injured in traffic accident"
+398931000006119,[X]Motorcycle rider injured in collision with fixed or stationary object
+395491000006118,"[X]Motorcycle rider injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+395481000006116,"[X]Motorcycle rider injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+395601000006110,"[X]Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in nontraffic accident"
+395461000006114,"[X]Motorcycle rider injured in collision with fixed or stationary object, person injured while boarding or alighting"
+395471000006119,"[X]Motorcycle rider injured in collision with fixed or stationary object, driver injured in traffic accident"
+395611000006113,"[X]Motorcycle rider injured in collision with fixed or stationary object, passenger injured in traffic accident"
+395591000006119,"[X]Motorcycle rider injured in collision with fixed or stationary object, unspecified motorcycle rider injured in traffic accident"
+398971000006116,[X]Motorcycle rider injured in other and unspecified transport accidents
+430031000006116,[X]Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in nontraffic accident
+398901000006110,[X]Motorcycle rider [any] injured in unspecified nontraffic accident
+430021000006119,[X]Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident
+398891000006111,[X]Motorcycle rider [any] injured in other specified transport accidents
+398911000006113,[X]Motorcycle rider [any] injured in unspecified traffic accident
+403381000006116,[X]Occupant of three-wheeled motor vehicle injured in transport accident
+403361000006114,[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal
+400541000006110,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, driver injured in nontraffic accident"
+400561000006114,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, passenger injured in nontraffic accident"
+401571000006110,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, person on outside of vehicle injured in nontraffic accident"
+401431000006113,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+401451000006118,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, person injured while boarding or alighting"
+400551000006112,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, driver injured in traffic accident"
+400571000006119,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, passenger injured in traffic accident"
+401351000006113,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, person on outside of vehicle injured in traffic accident"
+401421000006110,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+403371000006119,[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle
+401541000006119,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, driver injured in nontraffic accident"
+401611000006117,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, passenger injured in nontraffic accident"
+401511000006118,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, person on outside of vehicle injured in nontraffic accident"
+401461000006116,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+401441000006115,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, person injured while boarding or alighting"
+401481000006114,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, driver injured in traffic accident"
+400601000006114,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, passenger injured in traffic accident"
+401601000006115,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, person on outside of vehicle injured in traffic accident"
+401471000006111,"[X]Occupant of three-wheeled motor vehicle injured in collision with pedal cycle, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+401621000006113,[X]Occupant of three-wheeled motor vehicle injured in collision with two or three-wheeled motor vehicle
+400581000006116,"[X]Occupant of three-wheeled motor vehicle injured in collision with two or three-wheeled motor vehicle, driver injured in nontraffic accident"
+400591000006118,"[X]Occupant of three-wheeled motor vehicle injured in collision with two or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+401371000006115,"[X]Occupant of three-wheeled motor vehicle injured in collision with two or three-wheeled motor vehicle, person on outside of vehicle injured in nontraffic accident"
+400521000006115,"[X]Occupant of three-wheeled motor vehicle injured in collision with two or three-wheeled motor vehicle, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+401661000006119,"[X]Occupant of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+401641000006118,"[X]Occupant of three-wheeled motor vehicle injured in collision with two or three-wheeled motor vehicle, driver injured in traffic accident"
+401651000006116,"[X]Occupant of three-wheeled motor vehicle injured in collision with two or three-wheeled motor vehicle, passenger injured in traffic accident"
+401591000006111,"[X]Occupant of three-wheeled motor vehicle injured in collision with two or three-wheeled motor vehicle, person on outside of vehicle injured in traffic accident"
+401491000006112,"[X]Occupant of three-wheeled motor vehicle injured in collision with two or three-wheeled motor vehicle, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+401631000006111,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van"
+401211000006115,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+401401000006117,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+401671000006114,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, person on outside of vehicle injured in nontraffic accident"
+401281000006110,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+401381000006117,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+401501000006116,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+401391000006119,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+401681000006112,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, person on outside of vehicle injured in traffic accident"
+401301000006114,"[X]Occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+401561000006115,[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus
+401251000006119,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+401321000006116,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+401581000006113,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in nontraffic accident"
+401261000006117,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+401241000006116,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+401231000006114,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+401221000006111,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+400441000006114,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in traffic accident"
+401131000006115,"[X]Occupant of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+400671000006115,[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle
+401151000006110,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+401161000006112,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+400651000006113,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, person on outside of vehicle injured in nontraffic accident"
+430171000006117,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+401171000006117,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, person injured while boarding or alighting"
+401141000006113,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+400461000006113,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+400661000006110,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, person on outside of vehicle injured in traffic accident"
+430191000006116,"[X]Occupant of three-wheeled motor vehicle injured in collision with railway train or railway vehicle, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+401521000006114,[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle
+401181000006119,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+400531000006117,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+400631000006118,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, person on outside of vehicle injured in nontraffic accident"
+401331000006118,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+401411000006119,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, person injured while boarding or alighting"
+401271000006112,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+400481000006115,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+400641000006111,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, person on outside of vehicle injured in traffic accident"
+400451000006111,"[X]Occupant of three-wheeled motor vehicle injured in collision with other nonmotor vehicle, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+401531000006112,[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object
+401111000006114,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+401101000006111,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+400611000006112,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, person on outside of vehicle injured in nontraffic accident"
+401121000006118,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, unspecified occupant of three-wheeled motor vehicle injured in nontraffic accident"
+401091000006117,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, person injured while boarding or alighting"
+401311000006112,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"
+401341000006111,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, passenger injured in traffic accident"
+400621000006116,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, person on outside of vehicle injured in traffic accident"
+401291000006113,"[X]Occupant of three-wheeled motor vehicle injured in collision with fixed or stationary object, unspecified occupant of three-wheeled motor vehicle injured in traffic accident"
+403171000006116,[X]Occupant of three-wheeled motor vehicle injured in other and unspecified transport accidents
+430111000006114,[X]Unspecified occupant of three-wheeled motor vehicle injured in collision with other and unspecified motor vehicles in nontraffic accident
+403351000006112,[X]Occupant [any] of three-wheeled motor vehicle injured in unspecified nontraffic accident
+430181000006119,[X]Unspecified occupant of three-wheeled motor vehicle injured in collision with other and unspecified motor vehicles in traffic accident
+401071000006118,[X]Occupant [any] of three-wheeled motor vehicle injured in other specified transport accidents
+403341000006110,[X]Occupant [any] of three-wheeled motor vehicle injured in unspecified traffic accident
+332203019,Victim of vehicular AND/OR traffic accident
+370041000006119,[X]Car occupant injured in collision with pedestrian or animal
+369811000006114,"[X]Car occupant injured in collision with pedestrian or animal, driver injured in nontraffic accident"
+369821000006118,"[X]Car occupant injured in collision with pedestrian or animal, passenger injured in nontraffic accident"
+369561000006110,"[X]Car occupant injured in collision with pedestrian or animal, person on outside of vehicle injured in nontraffic accident"
+369581000006117,"[X]Car occupant injured in collision with pedestrian or animal, unspecified car occupant injured in nontraffic accident"
+369611000006113,"[X]Car occupant injured in collision with pedestrian or animal, person injured while boarding or alighting"
+369291000006117,"[X]Car occupant injured in collision with pedestrian or animal, driver injured in traffic accident"
+369831000006115,"[X]Car occupant injured in collision with pedestrian or animal, passenger injured in traffic accident"
+369771000006114,"[X]Car occupant injured in collision with pedestrian or animal, person on outside of vehicle injured in traffic accident"
+369571000006115,"[X]Car occupant injured in collision with pedestrian or animal, unspecified car occupant injured in traffic accident"
+332214016,[X]Car occupant injured in collision with pedal cycle
+369891000006116,"[X]Car occupant injured in collision with pedal cycle, driver injured in nontraffic accident"
+369781000006112,"[X]Car occupant injured in collision with pedal cycle, passenger injured in nontraffic accident"
+369791000006110,"[X]Car occupant injured in collision with pedal cycle, person on outside of vehicle injured in nontraffic accident"
+369801000006111,"[X]Car occupant injured in collision with pedal cycle, unspecified car occupant injured in nontraffic accident"
+369601000006110,"[X]Car occupant injured in collision with pedal cycle, person injured while boarding or alighting"
+370001000006116,"[X]Car occupant injured in collision with pedal cycle, driver injured in traffic accident"
+370011000006118,"[X]Car occupant injured in collision with pedal cycle, passenger injured in traffic accident"
+369591000006119,"[X]Car occupant injured in collision with pedal cycle, person on outside of vehicle injured in traffic accident"
+369761000006119,"[X]Car occupant injured in collision with pedal cycle, unspecified car occupant injured in traffic accident"
+369871000006117,[X]Car occupant injured in collision with two or three-wheeled motor vehicle
+369211000006110,"[X]Car occupant injured in collision with two or three-wheeled motor vehicle, driver injured in nontraffic accident"
+369671000006116,"[X]Car occupant injured in collision with two or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+369391000006111,"[X]Car occupant injured in collision with two or three-wheeled motor vehicle, person on outside of vehicle injured in nontraffic accident"
+369651000006114,"[X]Car occupant injured in collision with two or three-wheeled motor vehicle, unspecified car occupant injured in nontraffic accident"
+369371000006110,"[X]Car occupant injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+369661000006111,"[X]Car occupant injured in collision with two or three-wheeled motor vehicle, driver injured in traffic accident"
+369681000006118,"[X]Car occupant injured in collision with two or three-wheeled motor vehicle, passenger injured in traffic accident"
+369401000006113,"[X]Car occupant injured in collision with two or three-wheeled motor vehicle, person on outside of vehicle injured in traffic accident"
+369381000006113,"[X]Car occupant injured in collision with two or three-wheeled motor vehicle, unspecified car occupant injured in traffic accident"
+369921000006110,"[X]Car occupant injured in collision with car, pick-up truck or van"
+369411000006111,"[X]Car occupant injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+369461000006114,"[X]Car occupant injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+369161000006118,"[X]Car occupant injured in collision with car, pick-up truck or van, person on outside of vehicle injured in nontraffic accident"
+369221000006119,"[X]Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in nontraffic accident"
+369421000006115,"[X]Car occupant injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+369431000006117,"[X]Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+369441000006110,"[X]Car occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+369451000006112,"[X]Car occupant injured in collision with car, pick-up truck or van, person on outside of vehicle injured in traffic accident"
+369361000006115,"[X]Car occupant injured in collision with car, pick-up truck or van, unspecified car occupant injured in traffic accident"
+369901000006117,[X]Car occupant injured in collision with heavy transport vehicle or bus
+369721000006113,"[X]Car occupant injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+369521000006116,"[X]Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+369251000006111,"[X]Car occupant injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in nontraffic accident"
+369181000006111,"[X]Car occupant injured in collision with heavy transport vehicle or bus, unspecified car occupant injured in nontraffic accident"
+369711000006117,"[X]Car occupant injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+369701000006115,"[X]Car occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+369531000006118,"[X]Car occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+369541000006111,"[X]Car occupant injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in traffic accident"
+369551000006113,"[X]Car occupant injured in collision with heavy transport vehicle or bus, unspecified car occupant injured in traffic accident"
+369641000006112,[X]Car occupant injured in collision with railway train or railway vehicle
+369851000006110,"[X]Car occupant injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+369861000006112,"[X]Car occupant injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+369631000006119,"[X]Car occupant injured in collision with railway train or railway vehicle, person on outside of vehicle injured in nontraffic accident"
+429991000006113,"[X]Car occupant injured in collision with railway train or railway vehicle, unspecified car occupant injured in nontraffic accident"
+369621000006117,"[X]Car occupant injured in collision with railway train or railway vehicle, person injured while boarding or alighting"
+369841000006113,"[X]Car occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+370071000006110,"[X]Car occupant injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+369191000006114,"[X]Car occupant injured in collision with railway train or railway vehicle, person on outside of vehicle injured in traffic accident"
+430001000006112,"[X]Car occupant injured in collision with railway train or railway vehicle, unspecified car occupant injured in traffic accident"
+370021000006114,[X]Car occupant injured in collision with other nonmotor vehicle
+369881000006119,"[X]Car occupant injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+369751000006116,"[X]Car occupant injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+369261000006113,"[X]Car occupant injured in collision with other nonmotor vehicle, person on outside of vehicle injured in nontraffic accident"
+369731000006111,"[X]Car occupant injured in collision with other nonmotor vehicle, unspecified car occupant injured in nontraffic accident"
+369741000006118,"[X]Car occupant injured in collision with other nonmotor vehicle, person injured while boarding or alighting"
+369201000006112,"[X]Car occupant injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+369301000006116,"[X]Car occupant injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+369271000006118,"[X]Car occupant injured in collision with other nonmotor vehicle, person on outside of vehicle injured in traffic accident"
+369281000006115,"[X]Car occupant injured in collision with other nonmotor vehicle, unspecified car occupant injured in traffic accident"
+369911000006119,[X]Car occupant injured in collision with fixed or stationary object
+369501000006114,"[X]Car occupant injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+369491000006118,"[X]Car occupant injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+369231000006116,"[X]Car occupant injured in collision with fixed or stationary object, person on outside of vehicle injured in nontraffic accident"
+369511000006112,"[X]Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in nontraffic accident"
+369471000006119,"[X]Car occupant injured in collision with fixed or stationary object, person injured while boarding or alighting"
+369481000006116,"[X]Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"
+369691000006115,"[X]Car occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"
+369171000006113,"[X]Car occupant injured in collision with fixed or stationary object, person on outside of vehicle injured in traffic accident"
+369241000006114,"[X]Car occupant injured in collision with fixed or stationary object, unspecified car occupant injured in traffic accident"
+369931000006113,[X]Car occupant injured in other and unspecified transport accidents
+429981000006110,[X]Unspecified car occupant injured in collision with other and unspecified motor vehicles in nontraffic accident
+369341000006119,[X]Car occupant [any] injured in unspecified nontraffic accident
+429971000006112,[X]Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident
+369331000006112,[X]Car occupant [any] injured in other specified transport accidents
+369351000006117,[X]Car occupant [any] injured in unspecified traffic accident
+403491000006111,[X]Occupant of pick-up truck or van injured in transport accident
+403061000006112,[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal
+402401000006111,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, driver injured in nontraffic accident"
+402411000006114,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, passenger injured in nontraffic accident"
+403121000006117,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, person on outside of vehicle injured in nontraffic accident"
+401051000006111,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+402651000006112,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, person injured while boarding or alighting"
+402991000006110,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, driver injured in traffic accident"
+403001000006111,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, passenger injured in traffic accident"
+402791000006113,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, person on outside of vehicle injured in traffic accident"
+402631000006117,"[X]Occupant of pick-up truck or van injured in collision with pedestrian or animal, unspecified occupant of pick-up truck or van injured in traffic accident"
+403071000006117,[X]Occupant of pick-up truck or van injured in collision with pedal cycle
+402861000006110,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, driver injured in nontraffic accident"
+402811000006112,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, passenger injured in nontraffic accident"
+402801000006114,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, person on outside of vehicle injured in nontraffic accident"
+402781000006110,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+402641000006110,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, person injured while boarding or alighting"
+402971000006114,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, driver injured in traffic accident"
+402981000006112,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, passenger injured in traffic accident"
+402621000006115,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, person on outside of vehicle injured in traffic accident"
+400891000006115,"[X]Occupant of pick-up truck or van injured in collision with pedal cycle, unspecified occupant of pick-up truck or van injured in traffic accident"
+402841000006111,[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle
+400941000006119,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, driver injured in nontraffic accident"
+402701000006118,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+402461000006112,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, person on outside of vehicle injured in nontraffic accident"
+402681000006116,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+402451000006110,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+402691000006118,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, driver injured in traffic accident"
+402711000006115,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, passenger injured in traffic accident"
+402471000006117,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, person on outside of vehicle injured in traffic accident"
+403011000006114,"[X]Occupant of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle, unspecified occupant of pick-up truck or van injured in traffic accident"
+402891000006119,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van"
+402481000006119,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+402531000006116,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+400901000006116,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, person on outside of vehicle injured in nontraffic accident"
+400911000006118,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+402491000006116,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+402501000006112,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+402511000006110,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+402521000006119,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, person on outside of vehicle injured in traffic accident"
+402441000006113,"[X]Occupant of pick-up truck or van injured in collision with car, pick-up truck or van, unspecified occupant of pick-up truck or van injured in traffic accident"
+402871000006115,[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus
+402751000006119,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+402761000006117,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+400971000006110,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in nontraffic accident"
+400881000006118,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+402741000006116,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+402731000006114,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+402591000006117,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+402601000006113,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in traffic accident"
+402611000006111,"[X]Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus, unspecified occupant of pick-up truck or van injured in traffic accident"
+402671000006119,[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle
+402821000006116,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+402831000006118,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+402661000006114,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, person on outside of vehicle injured in nontraffic accident"
+430161000006112,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+403081000006119,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, person injured while boarding or alighting"
+403041000006113,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+403101000006110,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+400931000006112,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, person on outside of vehicle injured in traffic accident"
+429861000006113,"[X]Occupant of pick-up truck or van injured in collision with railway train or railway vehicle, unspecified occupant of pick-up truck or van injured in traffic accident"
+403051000006110,[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle
+402851000006113,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+401041000006114,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+400981000006113,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, person on outside of vehicle injured in nontraffic accident"
+402771000006112,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+403031000006115,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, person injured while boarding or alighting"
+403091000006116,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+401011000006110,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+401001000006112,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, person on outside of vehicle injured in traffic accident"
+400991000006111,"[X]Occupant of pick-up truck or van injured in collision with other nonmotor vehicle, unspecified occupant of pick-up truck or van injured in traffic accident"
+402881000006117,[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object
+402561000006113,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+402581000006115,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+400951000006117,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, person on outside of vehicle injured in nontraffic accident"
+402571000006118,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, unspecified occupant of pick-up truck or van injured in nontraffic accident"
+402541000006114,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, person injured while boarding or alighting"
+402551000006111,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, driver injured in traffic accident"
+402721000006111,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, passenger injured in traffic accident"
+400921000006114,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, person on outside of vehicle injured in traffic accident"
+400961000006115,"[X]Occupant of pick-up truck or van injured in collision with fixed or stationary object, unspecified occupant of pick-up truck or van injured in traffic accident"
+402901000006115,[X]Occupant of pick-up truck or van injured in other and unspecified transport accidents
+430151000006110,[X]Unspecified occupant of pick-up truck or van injured in collision with other and unspecified motor vehicles in nontraffic accident
+402431000006115,[X]Occupant of pick-up truck or van [any] injured in unspecified nontraffic accident
+430141000006113,[X]Unspecified occupant of pick-up truck or van injured in collision with other and unspecified motor vehicles in traffic accident
+402421000006118,[X]Occupant of pick-up truck or van [any] injured in other specified transport accident
+403021000006118,[X]Occupant of pick-up truck or van [any] injured in unspecified traffic accident
+403391000006118,[X]Occupant of heavy transport vehicle injured in transport accident
+403181000006118,[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal
+402381000006111,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, driver injured in nontraffic accident"
+402391000006114,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, passenger injured in nontraffic accident"
+402291000006115,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, person on outside of vehicle injured in nontraffic accident"
+400871000006116,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+401981000006116,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, person injured while boarding or alighting"
+402321000006112,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, driver injured in traffic accident"
+402331000006110,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, passenger injured in traffic accident"
+402101000006117,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, person on outside of vehicle injured in traffic accident"
+401961000006114,"[X]Occupant of heavy transport vehicle injured in collision with pedestrian or animal, unspecified occupant of heavy transport vehicle injured in traffic accident"
+401691000006110,[X]Occupant of heavy transport vehicle injured in collision with pedal cycle
+402161000006116,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, driver injured in nontraffic accident"
+402121000006110,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, passenger injured in nontraffic accident"
+402111000006119,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, person on outside of vehicle injured in nontraffic accident"
+402091000006111,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+401971000006119,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, person injured while boarding or alighting"
+402251000006114,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, driver injured in traffic accident"
+402261000006111,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, passenger injured in traffic accident"
+401951000006112,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, person on outside of vehicle injured in traffic accident"
+400851000006114,"[X]Occupant of heavy transport vehicle injured in collision with pedal cycle, unspecified occupant of heavy transport vehicle injured in traffic accident"
+402141000006115,[X]Occupant of heavy transport vehicle injured in collision with two or three-wheeled motor vehicle
+400821000006117,"[X]Occupant of heavy transport vehicle injured in collision with two or three-wheeled motor vehicle, driver injured in nontraffic accident"
+402031000006112,"[X]Occupant of heavy transport vehicle injured in collision with two or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+401791000006115,"[X]Occupant of heavy transport vehicle injured in collision with two or three-wheeled motor vehicle, person on outside of vehicle injured in nontraffic accident"
+402011000006118,"[X]Occupant of heavy transport vehicle injured in collision with two or three-wheeled motor vehicle, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+401781000006118,"[X]Occupant of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+402021000006114,"[X]Occupant of heavy transport vehicle injured in collision with two or three-wheeled motor vehicle, driver injured in traffic accident"
+402041000006119,"[X]Occupant of heavy transport vehicle injured in collision with two or three-wheeled motor vehicle, passenger injured in traffic accident"
+401801000006119,"[X]Occupant of heavy transport vehicle injured in collision with two or three-wheeled motor vehicle, person on outside of vehicle injured in traffic accident"
+401711000006113,"[X]Occupant of heavy transport vehicle injured in collision with two or three-wheeled motor vehicle, unspecified occupant of heavy transport vehicle injured in traffic accident"
+402181000006114,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van"
+401811000006116,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+401871000006113,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+400701000006119,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, person on outside of vehicle injured in nontraffic accident"
+400741000006117,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+401821000006112,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+401831000006110,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+401841000006117,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+401861000006118,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, person on outside of vehicle injured in traffic accident"
+401851000006115,"[X]Occupant of heavy transport vehicle injured in collision with car, pick-up truck or van, unspecified occupant of heavy transport vehicle injured in traffic accident"
+401701000006110,[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus
+402071000006110,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+401931000006117,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+400861000006111,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in nontraffic accident"
+400751000006115,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+402061000006115,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+402311000006116,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+402281000006118,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+401941000006110,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in traffic accident"
+401721000006117,"[X]Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus, unspecified occupant of heavy transport vehicle injured in traffic accident"
+402001000006116,[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle
+402131000006113,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+402341000006117,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+401991000006118,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, person on outside of vehicle injured in nontraffic accident"
+430201000006118,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+401741000006112,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, person injured while boarding or alighting"
+401751000006114,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+402351000006115,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+400781000006111,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, person on outside of vehicle injured in traffic accident"
+429851000006111,"[X]Occupant of heavy transport vehicle injured in collision with railway train or railway vehicle, unspecified occupant of heavy transport vehicle injured in traffic accident"
+401761000006111,[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle
+402151000006118,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+400841000006112,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+400711000006116,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, person on outside of vehicle injured in nontraffic accident"
+402081000006113,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+402371000006113,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, person injured while boarding or alighting"
+402301000006119,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+400731000006110,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+400721000006112,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, person on outside of vehicle injured in traffic accident"
+400771000006113,"[X]Occupant of heavy transport vehicle injured in collision with other nonmotor vehicle, unspecified occupant of heavy transport vehicle injured in traffic accident"
+402171000006111,[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object
+401901000006113,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+401921000006115,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+400831000006119,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, person on outside of vehicle injured in nontraffic accident"
+401911000006111,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, unspecified occupant of heavy transport vehicle injured in nontraffic accident"
+401881000006111,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, person injured while boarding or alighting"
+401891000006114,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, driver injured in traffic accident"
+402051000006117,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, passenger injured in traffic accident"
+400761000006118,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, person on outside of vehicle injured in traffic accident"
+400791000006114,"[X]Occupant of heavy transport vehicle injured in collision with fixed or stationary object, unspecified occupant of heavy transport vehicle injured in traffic accident"
+402191000006112,[X]Occupant of heavy transport vehicle injured in other and unspecified transport accidents
+430131000006115,[X]Unspecified occupant of heavy transport vehicle injured in collision with other and unspecified motor vehicles in nontraffic accident
+401081000006115,[X]Occupant [any] of heavy transport vehicle injured in unspecified nontraffic accident
+430121000006118,[X]Unspecified occupant of heavy transport vehicle injured in collision with other and unspecified motor vehicles in traffic accident
+401771000006116,[X]Occupant of heavy transport vehicle [any] injured in other specified transport accidents
+402271000006116,[X]Occupant of heavy transport vehicle [any] injured in unspecified traffic accident
+332532015,[X]Bus occupant injured in transport accident
+369051000006119,[X]Bus occupant injured in collision with pedestrian or animal
+368821000006112,"[X]Bus occupant injured in collision with pedestrian or animal, driver injured in nontraffic accident"
+368831000006110,"[X]Bus occupant injured in collision with pedestrian or animal, passenger injured in nontraffic accident"
+368571000006110,"[X]Bus occupant injured in collision with pedestrian or animal, person on outside of vehicle injured in nontraffic accident"
+368591000006111,"[X]Bus occupant injured in collision with pedestrian or animal, unspecified bus occupant injured in nontraffic accident"
+368621000006113,"[X]Bus occupant injured in collision with pedestrian or animal, person injured while boarding or alighting"
+368301000006114,"[X]Bus occupant injured in collision with pedestrian or animal, driver injured in traffic accident"
+368841000006117,"[X]Bus occupant injured in collision with pedestrian or animal, passenger injured in traffic accident"
+368781000006118,"[X]Bus occupant injured in collision with pedestrian or animal, person on outside of vehicle injured in traffic accident"
+368581000006113,"[X]Bus occupant injured in collision with pedestrian or animal, unspecified bus occupant injured in traffic accident"
+332543011,[X]Bus occupant injured in collision with pedal cycle
+368901000006113,"[X]Bus occupant injured in collision with pedal cycle, driver injured in nontraffic accident"
+368791000006115,"[X]Bus occupant injured in collision with pedal cycle, passenger injured in nontraffic accident"
+368801000006119,"[X]Bus occupant injured in collision with pedal cycle, person on outside of vehicle injured in nontraffic accident"
+368811000006116,"[X]Bus occupant injured in collision with pedal cycle, unspecified bus occupant injured in nontraffic accident"
+368611000006117,"[X]Bus occupant injured in collision with pedal cycle, person injured while boarding or alighting"
+369011000006115,"[X]Bus occupant injured in collision with pedal cycle, driver injured in traffic accident"
+369021000006111,"[X]Bus occupant injured in collision with pedal cycle, passenger injured in traffic accident"
+368601000006115,"[X]Bus occupant injured in collision with pedal cycle, person on outside of vehicle injured in traffic accident"
+368771000006116,"[X]Bus occupant injured in collision with pedal cycle, unspecified bus occupant injured in traffic accident"
+368881000006111,[X]Bus occupant injured in collision with two or three-wheeled motor vehicle
+368221000006111,"[X]Bus occupant injured in collision with two or three-wheeled motor vehicle, driver injured in nontraffic accident"
+368681000006112,"[X]Bus occupant injured in collision with two or three-wheeled motor vehicle, passenger injured in nontraffic accident"
+368401000006117,"[X]Bus occupant injured in collision with two or three-wheeled motor vehicle, person on outside of vehicle injured in nontraffic accident"
+368661000006119,"[X]Bus occupant injured in collision with two or three-wheeled motor vehicle, unspecified bus occupant injured in nontraffic accident"
+368381000006117,"[X]Bus occupant injured in collision with two- or three-wheeled motor vehicle, person injured while boarding or alighting"
+368671000006114,"[X]Bus occupant injured in collision with two or three-wheeled motor vehicle, driver injured in traffic accident"
+368691000006110,"[X]Bus occupant injured in collision with two or three-wheeled motor vehicle, passenger injured in traffic accident"
+368411000006119,"[X]Bus occupant injured in collision with two or three-wheeled motor vehicle, person on outside of vehicle injured in traffic accident"
+368391000006119,"[X]Bus occupant injured in collision with two or three-wheeled motor vehicle, unspecified bus occupant injured in traffic accident"
+368931000006117,"[X]Bus occupant injured in collision with car, pick-up truck or van"
+368421000006110,"[X]Bus occupant injured in collision with car, pick-up truck or van, driver injured in nontraffic accident"
+368471000006111,"[X]Bus occupant injured in collision with car, pick-up truck or van, passenger injured in nontraffic accident"
+368171000006117,"[X]Bus occupant injured in collision with car, pick-up truck or van, person on outside of vehicle injured in nontraffic accident"
+368231000006114,"[X]Bus occupant injured in collision with car, pick-up truck or van, unspecified bus occupant injured in nontraffic accident"
+368431000006113,"[X]Bus occupant injured in collision with car, pick-up truck or van, person injured while boarding or alighting"
+368441000006115,"[X]Bus occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"
+368451000006118,"[X]Bus occupant injured in collision with car, pick-up truck or van, passenger injured in traffic accident"
+368461000006116,"[X]Bus occupant injured in collision with car, pick-up truck or van, person on outside of vehicle injured in traffic accident"
+368371000006115,"[X]Bus occupant injured in collision with car, pick-up truck or van, unspecified bus occupant injured in traffic accident"
+368911000006111,[X]Bus occupant injured in collision with heavy transport vehicle or bus
+368731000006119,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, driver injured in nontraffic accident"
+368531000006112,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, passenger injured in nontraffic accident"
+368261000006117,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in nontraffic accident"
+368191000006116,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, unspecified bus occupant injured in nontraffic accident"
+368721000006117,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, person injured while boarding or alighting"
+368711000006113,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, driver injured in traffic accident"
+368541000006119,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, passenger injured in traffic accident"
+368551000006117,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, person on outside of vehicle injured in traffic accident"
+368561000006115,"[X]Bus occupant injured in collision with heavy transport vehicle or bus, unspecified bus occupant injured in traffic accident"
+368651000006116,[X]Bus occupant injured in collision with railway train or railway vehicle
+368861000006118,"[X]Bus occupant injured in collision with railway train or railway vehicle, driver injured in nontraffic accident"
+368871000006113,"[X]Bus occupant injured in collision with railway train or railway vehicle, passenger injured in nontraffic accident"
+368641000006118,"[X]Bus occupant injured in collision with railway train or railway vehicle, person on outside of vehicle injured in nontraffic accident"
+429951000006119,"[X]Bus occupant injured in collision with railway train or railway vehicle, unspecified bus occupant injured in nontraffic accident"
+368631000006111,"[X]Bus occupant injured in collision with railway train or railway vehicle, person injured while boarding or alighting"
+368851000006115,"[X]Bus occupant injured in collision with railway train or railway vehicle, driver injured in traffic accident"
+369081000006110,"[X]Bus occupant injured in collision with railway train or railway vehicle, passenger injured in traffic accident"
+368201000006118,"[X]Bus occupant injured in collision with railway train or railway vehicle, person on outside of vehicle injured in traffic accident"
+429961000006117,"[X]Bus occupant injured in collision with railway train or railway vehicle, unspecified bus occupant injured in traffic accident"
+369031000006114,[X]Bus occupant injured in collision with other nonmotor vehicle
+368891000006114,"[X]Bus occupant injured in collision with other nonmotor vehicle, driver injured in nontraffic accident"
+368761000006111,"[X]Bus occupant injured in collision with other nonmotor vehicle, passenger injured in nontraffic accident"
+368271000006112,"[X]Bus occupant injured in collision with other nonmotor vehicle, person on outside of vehicle injured in nontraffic accident"
+368741000006112,"[X]Bus occupant injured in collision with other nonmotor vehicle, unspecified bus occupant injured in nontraffic accident"
+368751000006114,"[X]Bus occupant injured in collision with other nonmotor vehicle, person injured while boarding or alighting"
+368211000006115,"[X]Bus occupant injured in collision with other nonmotor vehicle, driver injured in traffic accident"
+368311000006112,"[X]Bus occupant injured in collision with other nonmotor vehicle, passenger injured in traffic accident"
+368281000006110,"[X]Bus occupant injured in collision with other nonmotor vehicle, person on outside of vehicle injured in traffic accident"
+368291000006113,"[X]Bus occupant injured in collision with other nonmotor vehicle, unspecified bus occupant injured in traffic accident"
+368921000006115,[X]Bus occupant injured in collision with fixed or stationary object
+368511000006118,"[X]Bus occupant injured in collision with fixed or stationary object, driver injured in nontraffic accident"
+368501000006116,"[X]Bus occupant injured in collision with fixed or stationary object, passenger injured in nontraffic accident"
+368241000006116,"[X]Bus occupant injured in collision with fixed or stationary object, person on outside of vehicle injured in nontraffic accident"
+368521000006114,"[X]Bus occupant injured in collision with fixed or stationary object, unspecified bus occupant injured in nontraffic accident"
+368481000006114,"[X]Bus occupant injured in collision with fixed or stationary object, person injured while boarding or alighting"
+368491000006112,"[X]Bus occupant injured in collision with fixed or stationary object, driver injured in traffic accident"
+368701000006110,"[X]Bus occupant injured in collision with fixed or stationary object, passenger injured in traffic accident"
+368181000006119,"[X]Bus occupant injured in collision with fixed or stationary object, person on outside of vehicle injured in traffic accident"
+368251000006119,"[X]Bus occupant injured in collision with fixed or stationary object, unspecified bus occupant injured in traffic accident"
+332641019,[X]Other land transport accidents
+363291000006119,[X]Animal-rider or occupant of animal-drawn vehicle injured in transport accident
+425101000006118,[X]Rider or occupant injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident
+425061000006116,[X]Rider or occupant injured in collision with pedestrian or animal
+332645011,[X]Rider or occupant injured in collision with pedal cycle
+425041000006115,[X]Rider or occupant injured in collision with two- or three-wheeled motor vehicle
+424461000006114,"[X]Rider or occupant injured in collision with car, pick-up truck, van, heavy transport vehicle or bus"
+425031000006113,[X]Rider or occupant injured in collision with other specified motor vehicle
+425021000006110,[X]Rider or occupant injured in collision with railway train or railway vehicle
+425071000006111,[X]Rider or occupant injured in collision with other nonmotor vehicle
+425051000006118,[X]Rider or occupant injured in collision with fixed or stationary object
+425081000006114,[X]Rider or occupant injured in other and unspecified transport accidents
+403271000006111,[X]Occupant of railway train or railway vehicle injured in transport accident
+403261000006116,[X]Occupant of railway train or railway vehicle injured in collision with motor vehicle in nontraffic accident
+403281000006114,[X]Occupant of railway train or railway vehicle injured in collision with motor vehicle in traffic accident
+403251000006118,[X]Occupant or railway train or railway vehicle injured in collision with or hit by rolling stock
+403221000006110,[X]Occupant or railway train or railway vehicle injured in collision with other object
+420091000006115,[X]Person injuree while boarding or alighting from railway train or railway vehicle
+403211000006119,[X]Occupant of railway train or railway vehicle injured by fall in railway train or railway vehicle
+403201000006117,[X]Occupant of railway train or railway vehicle injured by fall from railway train or railway vehicle
+403131000006119,[X]Occupant of railway train or railway vehicle injured in derailment without antecedent collision
+403231000006113,[X]Occupant of railway train or railway vehicle injured in other specified railway accidents
+403241000006115,[X]Occupant of railway train or railway vehicle injured in unspecified railway accident
+332664017,[X]Occupant of streetcar injured in transport accident
+403301000006113,[X]Occupant of streetcar injured in collision with motor vehicle in nontraffic accident
+403311000006111,Traffic accident with injury to occupant of tram
+403321000006115,[X]Occupant of streetcar injured in collision with or hit by rolling stock
+403461000006115,[X]Occupant of streetcar injured in collision with other object
+332669010,[X]Person injured while boarding or alighting from streetcar
+332670011,[X]Occupant of streetcar injured by fall in streetcar
+332673013,[X]Occupant of streetcar injured by fall from streetcar
+403331000006117,[X]Occupant of streetcar injured in derailment without antecedent collision
+403191000006115,[X]Occupant of streetcar injured in other specified transport accidents
+403481000006113,[X]Occupant of streetcar injured in unspecified traffic accident
+403291000006112,[X]Occupant of special vehicle mainly used on industrial premises injured in transport accident
+378481000006116,[X]Driver of special industrial vehicle injured in traffic accident
+418521000006115,[X]Passenger of special industrial vehicle injured in traffic accident
+420231000006112,[X]Person on outside of special industrial vehicle injured in traffic accident
+430641000006118,[X]Unspecified occupant of special industrial vehicle injured in traffic accident
+420061000006111,[X]Person injured while boarding or alighting from special industrial vehicle
+378471000006119,[X]Driver of special industrial vehicle injured in nontraffic accident
+418511000006111,[X]Passenger of special industrial vehicle injured in nontraffic accident
+420241000006119,[X]Person on outside of special industrial vehicle injured in nontraffic accident
+430631000006111,[X]Unspecified occupant of special industrial vehicle injured in nontraffic accident
+403141000006112,[X]Occupant of special vehicle mainly used in agriculture injured in transport accident
+378441000006110,[X]Driver of special agricultural vehicle injured in traffic accident
+418481000006115,[X]Passenger of special agricultural vehicle injured in traffic accident
+420211000006118,[X]Person on outside of special agricultural vehicle injured in traffic accident
+430651000006116,[X]Unspecified occupant of special agricultural vehicle injured in traffic accident
+420081000006118,[X]Person injured while boarding or alighting from special agricultural vehicle
+378431000006117,[X]Driver of special agricultural vehicle injured in nontraffic accident
+418471000006118,[X]Passenger of special agricultural vehicle injured in nontraffic accident
+420251000006117,[X]Person on outside of special agricultural vehicle injured in nontraffic accident
+430351000006113,[X]Unspecified occupant of special agricultural vehicle injured in nontraffic accident
+403431000006112,[X]Occupant of special construction vehicle injured in transport accident
+378461000006114,[X]Driver of special construction vehicle injured in traffic accident
+418501000006113,[X]Passenger of special construction vehicle injured in traffic accident
+420221000006114,[X]Person on outside of special construction vehicle injured in traffic accident
+430661000006119,[X]Unspecified occupant of special construction vehicle injured in traffic accident
+420071000006116,[X]Person injured while boarding or alighting from special construction vehicle
+378451000006112,[X]Driver of special construction vehicle injured in nontraffic accident
+418491000006117,[X]Passenger of special construction vehicle injured in nontraffic accident
+420271000006110,[X]Person on outside of special construction vehicle injured in nontraffic accident
+430361000006110,[X]Unspecified occupant of special construction vehicle injured in nontraffic accident
+401061000006113,"[X]Occupant of special all-terrain or other motor vehicle designed primarily for off-road use, injured in transport accident"
+378301000006116,[X]Driver of all-terrain or other off-road motor vehicle injured in traffic accident
+418461000006113,[X]Passenger of all-terrain or other off-road motor vehicle injured in traffic accident
+420201000006116,[X]Person on outside of all-terrain or other off-road motor vehicle injured in traffic accident
+430611000006117,[X]Unspecified occupant of all-terrain or off-road motor vehicle injured in traffic accident
+419911000006110,Accident involving off-road land motor vehicle
+378421000006115,[X]Driver of all-terrain or other off-road motor vehicle injured in nontraffic accident
+423761000006117,[X]Passenger of all-terrain or other off-road motor vehicle injured in nontraffic accident
+420261000006115,[X]Person on outside of all-terrain or other off-road motor vehicle injured in nontraffic accident
+430621000006113,[X]Unspecified occupant of all-terrain or other off-road motor vehicle injured in nontraffic accident
+429181000006112,[X]Traffic accident of specified type but victim's mode of transport unknown
+420041000006112,[X]Person injured in collision between car and two- or three-wheeled motor vehicle (traffic)
+419981000006115,[X]Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)
+419961000006113,[X]Person injured in collision between car and pick-up truck or van (traffic)
+332723019,[X]Person injured in collision between car and bus (traffic)
+420001000006110,[X]Person injured in collision between car and heavy transport vehicle (traffic)
+420021000006117,[X]Person injured in collision between heavy transport vehicle and bus (traffic)
+419991000006117,[X]Person injured in collision between railway train or railway vehicle and car (traffic)
+420031000006119,[X]Person injured in collision between other specified motor vehicles (traffic)
+419791000006119,Accident to unpowered road vehicle or conveyance
+400181000006110,[X]Nontraffic accident of specified type but victim's mode of transport unknown
+419921000006119,"[X]Person injured in collision between car and two- or three-wheeled motor vehicle, nontraffic"
+419971000006118,"[X]Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle, nontraffic"
+420011000006113,"[X]Person injured in collision between car and pick-up truck or van, nontraffic"
+420111000006112,"[X]Person injured in collision between car and bus, nontraffic"
+419931000006116,"[X]Person injured in collision between car and heavy transport vehicle, nontraffic"
+419941000006114,"[X]Person injured in collision between heavy transport vehicle and bus, nontraffic"
+419781000006117,"[X]Person injured in collision between railway train or railway vehicle and car, nontraffic"
+419951000006111,"[X]Person injured in collision between other specified motor vehicles, nontraffic"
+419801000006118,"[X]Person injured in other specified (collision)(non-collision) transport accidents involving non-motor vehicle, nontraffic"
+398881000006113,"[X]Motor or non-motor vehicle accident, type of vehicle unspecified"
+420131000006118,"[X]Person injured in unspecified motor-vehicle accident, nontraffic"
+420141000006111,"[X]Person injured in unspecified nonmotor-vehicle accident, nontraffic"
+420151000006113,"[X]Person injured in unspecified nonmotor-vehicle accident, traffic"
+332746017,[X]Person injured in unspecified vehicle accident
+332806016,[X]Air and space transport accidents
+332807013,[X]Accident to powered aircraft causing injury to occupant
+332808015,[X]Helicopter accident injuring occupant
+398341000006113,"[X]Microlight, ultralight or powered glider accident injuring occupant"
+361671000006117,"[X]Accident to other private fixed-wing aircraft, injuring occupant"
+361651000006110,"[X]Accident to commercial fixed-wing aircraft, injuring occupant"
+332812014,[X]Spacecraft accident injuring occupant
+332813016,[X]Other nonpowered-aircraft accidents injuring occupant
+332814010,[X]Unspecified aircraft accident injuring occupant
+361661000006112,[X]Accident to nonpowered aircraft causing injury to occupant
+332816012,[X]Balloon accident injuring occupant
+332817015,[X]Hang glider accident injuring occupant
+332818013,[X]Glider (nonpowered) accident injuring occupant
+332819017,[X]Other nonpowered aircraft accidents injuring occupant
+431301000006115,[X]Unspecified nonpowered aircraft accident injuring occupant
+332821010,[X]Other specified air transport accidents
+403401000006116,[X]Occupant of aircraft injured in other specified air transport accidents
+332823013,[X]Person injured while boarding or alighting from aircraft
+332824019,[X]Parachutist injured in air transport accident
+496771018,[X]Person on ground injured in air transport accident
+332825018,"[X]Other air transport accidents, not elsewhere classified"
+332826017,[X]Other and unspecified transport accidents
+332827014,[X]Other specified transport accidents
+332828016,[X]Unspecified transport accident
+386181000006116,[X]Fall on/from ladder
+332952010,"[X]Fall on and from ladder, occurrence at home"
+385831000006116,[X]Fall on + from ladder occurrn in residential institution
+385851000006111,"[X]Fall on + from ladder, occ sch oth inst/pub admin area"
+385841000006114,[X]Fall on + from ladder occurrnce at sports/athletics area
+332956013,[X]Fall on and from ladder occurrence on street and highway
+385971000006112,[X]Fall on and from ladder occurrence at trade/service area
+385821000006119,[X]Fall on + from ladder occurrn at industr/constructn area
+332959018,"[X]Fall on and from ladder, occurrence on farm"
+386131000006117,"[X]Fall on+from ladder, occurrence at other specified place"
+332961010,"[X]Fall on and from ladder, occurrence at unspecified place"
+1224984019,[X]Fall on and from scaffolding
+332962015,"[X]Fall on and from scaffolding, occurrence at home"
+386151000006112,[X]Fall on+from scaffold occurrn in residential institution
+385861000006113,"[X]Fall on + from scaffold occ sch, oth inst/pub admin area"
+386171000006119,[X]Fall on+from scaffold occurrnce at sports/athletics area
+385891000006117,"[X]Fall on + from scaffolding, occurrence on street/highway"
+385871000006118,Fall from scaffold
+386141000006110,[X]Fall on+from scaffold occurrn at industr/constructn area
+332969012,"[X]Fall on and from scaffolding, occurrence on farm"
+386161000006114,[X]Fall on+from scaffold occurrnce at other specified place
+385881000006115,"[X]Fall on + from scaffold, occurrence at unspecified place"
+1221047019,"[X]Fall from, out of or through building or structure"
+384801000006113,[X]Fall from out of/through building/structur occurn home
+384791000006112,[X]Fall from out of/thro buildng/struct occ resid instit'n
+384661000006113,[X]Fall frm out/thr bldng/strct occ sch oth ins/pub adm area
+384671000006118,[X]Fall frm out/thro bldng/struct occ at sport/athlet area
+384841000006110,[X]Fall from out/thro buildng/struct occ on street/highway
+384821000006115,[X]Fall from out/thro buildng/struct occ at trade/serv area
+384831000006117,[X]Fall from out/thro buildng/struct occ indust/constr area
+384811000006111,[X]Fall from out of/through building/structur occurnce farm
+384851000006112,[X]Fall from out/thro buildng/struct occ other specif place
+384861000006114,[X]Fall from out/thro buildng/struct occurrn unspecif place
+333017014,[X]Other fall from one level to another
+333019012,"[X]Other fall from one level to another, occurrence at home"
+417481000006119,[X]Othr fall frm one level to anothr occurrn in resid inst
+417491000006116,"[X]Othr fall frm one level to anothr, sch inst/pub adm area"
+417501000006112,[X]Othr fall from one level to anothr occ sport/athlet area
+417511000006110,[X]Othr fall from one level to anothr occurrn street/h'way
+410011000006117,[X]Other fall frm one level to anothr occ at trde/serv area
+410001000006115,[X]Other fall frm one level to anoth occ indust/constr area
+333026012,"[X]Other fall from one level to another, occurrence on farm"
+410021000006113,[X]Other fall frm one levl to anothr occ at oth specif plce
+417471000006117,[X]Othr fall frm one level to anothr occurrn at unspec plce
+2418751000000111,Traumatic wound
+896561000006118,Internal chest injury
+896551000006115,Injury to chest
+46553011,Internal injury of chest
+390669016,Blast injury to internal organs
+402936012,"Internal injury of chest, abdomen and pelvis"
+81652012,Internal injury of abdomen
+896571000006113,Internal injuries
+1216614014,Traumatic pneumothorax and haemothorax
+493316014,Traumatic pneumohaemothorax
+1229486011,Closed traumatic pneumothorax
+1222994011,Open traumatic pneumothorax
+1216629011,Closed traumatic haemothorax
+1216411011,Open traumatic haemothorax
+1216777017,Closed traumatic haemopneumothorax
+1216907014,Open traumatic haemopneumothorax
+149301019,Traumatic pneumothorax
+493321012,Traumatic haemothorax
+493317017,Traumatic haemopneumothorax
+320948012,Traumatic pneumothorax and haemothorax NOS
+320950016,Injury to heart and lung
+320951017,"Heart injury, closed"
+818651000006119,"Heart injury without open wound into thorax, unspecified"
+402937015,Contusion to heart
+29445011,Cardiac contusion
+29446012,Myocardial contusion
+818721000006115,"Heart laceration,closed without penetration of heart chamber"
+818711000006111,"Heart laceration, closed with penetration of heart chamber"
+455466011,[X]Other closed injuries of heart
+320961012,"Heart injury without mention of open wound into thorax, NOS"
+320962017,"Heart injury, open"
+320963010,"Heart injury with open wound into thorax, unspecified"
+1494722016,"Heart contusion, with open wound into thorax"
+818701000006113,"Heart laceration with open wound into thorax, without penetration of heart chambers"
+818691000006113,"Heart laceration with open wound into thorax, with penetration of heart chambers"
+455467019,[X]Other open injuries of heart
+320968018,Heart injury with open wound into thorax NOS
+320969014,Closed injury of lung
+896591000006114,Injury to lung
+732811000006112,"Lung injury without open wound into thorax, unspecified"
+320971014,Contusion of lung without open wound into thorax
+320974018,Lung laceration without mention of open wound into thorax
+320975017,Lung injury without mention of open wound into thorax NOS
+320976016,Open injury of lung
+320977013,"Lung injury with open wound into thorax, unspecified"
+1494726018,Lung contusion with open wound into thorax
+320979011,Lung laceration with open wound into thorax
+320980014,"Lung injury with open wound into thorax, NOS"
+320982018,Injury of heart with haemopericardium
+455462013,Closed heart injury with haemopericardium
+455465010,Open heart injury with haemopericardium
+1485202012,Traumatic pneumopericardium
+320987012,Heart and lung injury NOS
+320988019,Other and unspecified intrathoracic organ injury
+320989010,Closed injury of diaphragm
+320990018,Open injury of diaphragm
+566261000006119,Closed injury other intra-thoracic structure
+320992014,Closed injury of bronchus
+320993016,Closed injury of oesophagus
+320997015,Closed injury of pleura
+320998013,Closed injury of thymus
+320999017,Closed injury of thoracic duct
+566271000006114,Closed injury other intra-thoracic structure NOS
+1222594019,Open injury other intra-thoracic structure
+321002014,Open injury of bronchus
+1217016017,Open injury of oesophagus
+321003016,Open injury of pleura
+321004010,Open injury of thymus
+321005011,Open injury of thoracic duct
+255401000006114,Open injury other intra-thoracic structure NOS
+206635014,Injury of bronchus
+321009017,Injury of thoracic trachea
+455476014,Closed injury of thoracic trachea
+455477017,Open injury of thoracic trachea
+93915015,Injury of pleura
+321013012,Multiple injuries of intrathoracic organs
+695271000006110,Multiple intrathoracic organ injury no open wound to cavity
+56503011,Crushed chest
+695281000006113,Multiple intrathoracic organ injury with open wound into cavity
+990141000006115,Injury to chest
+321018015,Intrathoracic organ injury NOS
+896601000006118,Internal chest injury NOS
+799711000006118,Gastrointestinal tract injury
+1230520019,GIT - Gastrointestinal tract injury
+991711000006112,Intestine injury NOS
+896611000006115,Injury -gastrointestinal tract
+896621000006111,Injury to stomach
+321019011,Stomach injury without mention of open wound into cavity
+321020017,Stomach injury with open wound into cavity
+896631000006114,Injury to small intestine
+136951000006113,Small intestine injury without open wound into cavity
+136941000006111,"Small intestine injury without open wnd into cavity, unspec"
+321023015,Duodenum injury without mention of open wound into cavity
+136961000006110,"Small intestine injury without open wound into cavity, NOS"
+321025010,Small intestine injury with open wound into cavity
+136931000006118,"Small intestine injury with open wound into cavity, unspec"
+321027019,Duodenum injury with open wound into cavity
+321028012,"Small intestine injury with open wound into cavity, NOS"
+896641000006116,Injury to colon/rectum
+573551000006118,Colon or rectum injury without open wound into cavity
+321030014,Colon injury without mention of open wound into cavity
+494181000006118,Ascending colon injury without open wound into cavity
+91471000006115,Transverse colon injury without open wound into cavity
+614821000006110,Descending colon injury without open wound into cavity
+141491000006117,Sigmoid colon injury without open wound into cavity
+321035016,Rectum injury without mention of open wound into cavity
+695251000006117,Multiple injuries to colon/rectum no open wound into cavity
+34941000006111,Other colon or rectum injury without open wound into cavity
+573561000006116,Colon or rectum injury without open wound into cavity NOS
+321039010,Colon or rectum injury with open wound into cavity
+321040012,"Colon injury with open wound into cavity, unspecified"
+321041011,Ascending colon injury with open wound into cavity
+321042016,Transverse colon injury with open wound into cavity
+321043014,Descending colon injury with open wound into cavity
+321044015,Sigmoid colon injury with open wound into cavity
+321045019,Rectum injury with open wound into cavity
+695261000006115,Multiple injuries to colon or rectum with open wound into cavity
+321047010,Other colon or rectum injury with open wound into cavity
+321048017,"Colon or rectum injury with open wound into cavity, NOS"
+321054016,Other closed injury of gastrointestinal tract
+321064013,Injury to pancreas - closed
+29961000006111,"Other GIT injury without open wound into cavity, unspecified"
+249391000006111,Pancreas head injury without open wound into cavity
+249361000006115,Pancreas body injury without open wound into cavity
+249451000006112,Pancreas tail injury without open wound into cavity
+249411000006111,Pancreas multiple/unspecified injury no open wound to cavity
+321062012,Appendix injury without mention of open wound into cavity
+321063019,Closed injury of pancreas
+29601000006117,Other gastrointestinal tract injury no open wound to cavity
+799721000006114,Gastrointestinal tract injury no open wound into cavity NOS
+402940015,Other open injury of gastrointestinal tract
+321076013,Injury to pancreas - open
+802561000006119,"GIT injury with open wound into cavity, unspecified"
+321071015,Pancreas head injury with open wound into cavity
+321072010,Pancreas body injury with open wound into cavity
+321073017,Pancreas tail injury with open wound into cavity
+249401000006113,Pancreas multiple/unspec injury with open wound to cavity
+321075012,Appendix injury with open wound into cavity
+321077016,Open injury of pancreas
+29611000006119,Other gastrointestinal tract injury with open wnd to cavity
+799731000006112,Gastrointestinal tract injury with open wound to cavity NOS
+321080015,"Injury to gastrointestinal tract, NOS"
+896651000006119,Intestine injury NOS
+774601000006115,Injury of liver
+485950011,Closed injury of liver
+739761000006112,"Liver injury without open wound into cavity, unspecified"
+739711000006114,Liver haematoma
+739821000006113,Liver minor laceration without open wound into cavity
+739841000006118,Liver moderate laceration without open wound into cavity
+739791000006116,Liver major laceration without open wound into cavity
+27781000006113,Injury of liver without open wound into abdominal cavity
+739741000006113,"Liver injuries without open wound into cavity, NOS"
+477177011,Open injury of liver
+321091010,"Liver injury with open wound into cavity, unspecified"
+321093013,Liver haematoma and contusion with open wound into cavity
+321094019,Liver minor laceration with open wound into cavity
+321095018,Liver moderate laceration with open wound into cavity
+321096017,Liver major laceration with open wound into cavity
+321097014,Other liver injury with open wound into cavity
+321098016,"Liver injury with open wound into cavity, NOS"
+390827017,Ruptured liver NOS
+402941016,"Injury to liver, NOS"
+774711000006113,Injury of spleen
+321102012,Closed injury of spleen
+135681000006118,"Spleen injury without open wound into cavity, unspecified"
+135631000006119,Spleen haematoma without mention of open wound into cavity
+135611000006113,Spleen capsular tear without mention of open wound to cavity
+135751000006116,Spleen parenchyma laceration without open wound into cavity
+135711000006117,Spleen massive parenchymal disruption no open wound cavity
+991000006113,Other spleen injury without mention of open wound to cavity
+321110013,Spleen injury without mention of open wound into cavity NOS
+321111012,Open injury of spleen
+321112017,"Spleen injury with open wound into cavity, unspecified"
+135621000006117,"Spleen injury with haematoma without rupture of capsule, with open wound into cavity"
+135601000006110,"Spleen capsular tear without major disruption of parenchyma, with open wound into cavity"
+135741000006118,Spleen laceration extending into parenchyma with open wound into cavity
+135701000006115,Spleen massive parenchymal disruption with open wound into cavity
+321118018,Other spleen injury with open wound into cavity
+321119014,"Spleen injury with open wound into cavity, NOS"
+390848015,Rupture of spleen
+402942011,Injury to spleen NOS
+1229602018,Injury to kidney
+321123018,Closed injury of kidney
+753971000006119,"Kidney injury without open wound into cavity, unspecified"
+754831000006113,Kidney haematoma without mention of open wound into cavity
+176901000006111,Renal haematoma without mention of open wound into cavity
+321127017,Kidney laceration without mention of open wound into cavity
+754041000006112,Kidney parenchyma disruption without open wound to cavity
+321129019,Kidney injury without mention of open wound into cavity NOS
+321130012,Open injury of kidney
+321131011,"Kidney injury with open wound into cavity, unspecified"
+754821000006110,"Kidney haematoma without rupture of capsule, with open wound into cavity"
+176891000006112,Renal haematoma with open wound into cavity
+321134015,Kidney laceration with open wound into cavity
+754031000006119,Complete disruption of kidney parenchyma with open wound into cavity
+321136018,Kidney injury with open wound into cavity NOS
+402943018,Injury to kidney NOS
+390958017,Ruptured kidney NOS
+321213019,Internal injury with open wound into cavity NOS
+321209014,Internal injury NOS
+321216010,Injury of intra-abdominal organ(s) with pelvic organ(s)
+321217018,"Internal injury of chest, abdomen or pelvis NOS"
+1219553010,Traumatic amputation at neck level
+321669019,Traumatic amputation at shoulder joint
+92301000006112,Traumatic amputation of fingertip
+574201000006117,Comb traum amp of (part of) fing(s) + oth part wrist/hand
+158778011,Traumatic amputation of hand
+897181000006119,Trauma - amputation-upper limb
+897171000006117,Traumatic amputation - hand
+402968016,Traumatic amputation of arm and hand
+158780017,Traumatic amputation of arm
+897161000006112,Traumatic amputation - arm
+92231000006112,"Traumatic amputation of wrist and hand, level unspecified"
+92051000006114,"Traumatic amputation of forearm, level unspecified"
+897301000006114,Traumatic amputation - foot
+158784014,Traumatic amputation of foot
+7152011,Late effect of traumatic amputation
+106671011,Traumatic shock
+1219676015,Crushing injuries involving multiple body regions
+325270016,Crushing injuries involving head with neck
+601211000006118,Crushing injuries involving multiple regions of upper limb(s) with lower limb(s)
+601231000006112,"Crushing injuries of thorax with abdomen, lower back and pelvis with limb(s)"
+329303010,Fall on or from ladders or scaffolding
+901031000006118,Fall - ladders/scaffolding
+143597019,Fall from ladder
+2476028015,Fall from scaffolding
+329307011,Fall from ladder or scaffolding NOS
+329308018,Fall from or out of building or other structure
+329309014,Fall from balcony
+96015010,Fall from bridge
+23932013,Fall from building
+329312012,Fall from flagpole
+329313019,Fall from tower
+329314013,Fall from turret
+329315014,Fall from viaduct
+329316010,Fall from wall
+150217013,Fall from window
+329318011,Fall through roof
+329319015,Fall from or out of building or other structure NOS
+329320014,Fall into hole or other opening in surface
+901041000006111,Fall into hole/opening
+446621000006111,Accidental fall into manhole
+329331018,"Accidental fall into manhole, unspecified"
+329332013,Accidental fall into storm drain
+329333015,Accidental fall into manhole NOS
+329334014,Fall into other hole or other opening in surface
+329335010,"Fall into cavity, unspecified"
+329336011,Fall into dock
+113405013,Fall into hole
+329338012,Fall into pit
+329339016,Fall into quarry
+329340019,Fall into shaft
+329341015,Fall into tank
+329343017,"Fall into other hole, unspecified"
+445211000006112,Accident due to fall from other burning structure/building
+329642018,Accident due to fall from burning barn
+329643011,Accident due to fall from burning church
+329644017,Accident due to fall from burning convalescent home
+329645016,Accident due to fall from other burning residential home
+445021000006113,Accident due to fall from burning dormitory of educational institution
+329647012,Accident due to fall from burning factory
+329648019,Accident due to fall from burning farm outbuilding
+329649010,Accident due to fall from burning hospital
+329650010,Accident due to fall from burning hotel
+329651014,Accident due to fall from burning school
+329652019,Accident due to fall from burning store
+329653012,Accident due to fall from burning theatre
+329654018,Accident due to fall from burning structure or building NOS
+58021000006112,War injury due to other forms of unconventional warfare
+331881014,[X]Pedestrian injured in transport accident
+429871000006118,[X]Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in nontraffic accident
+419201000006117,[X]Pedal cyclist [any] injured in unspecified nontraffic accident
+1230017016,[X]Water transport accidents
+332747014,[X]Accident to watercraft causing drowning and submersion
+360321000006118,"[X]Accident to watercraft causing drowning and submersion, merchant ship"
+360361000006112,"[X]Accident to watercraft causing drowning and submersion, passenger ship"
+360311000006114,"[X]Accident to watercraft causing drowning and submersion, fishing boat"
+360341000006113,"[X]Accident to watercraft causing drowning and submersion, other powered watercraft"
+360231000006111,"[X]Accident to watercraft causing drowning and submersion, sailboat"
+360291000006110,"[X]Accident to watercraft causing drowning and submersion, canoe or kayak"
+360251000006116,"[X]Accident to watercraft causing drowning and submersion, inflatable craft (nonpowered)"
+360301000006111,"[X]Accident to watercraft causing drowning and submersion, water-skis"
+360241000006118,"[X]Accident to watercraft causing drowning and submersion, other unpowered watercraft"
+360351000006110,"[X]Accident to watercraft causing drowning and submersion, unspecified watercraft"
+332758017,[X]Accident to watercraft causing other injury
+361751000006117,"[X]Accident to watercraft causing other injury, merchant ship"
+361761000006115,"[X]Accident to watercraft causing other injury, passenger ship"
+332762011,"[X]Accident to watercraft causing other injury, fishing boat"
+360271000006114,"[X]Accident to watercraft causing other injury, other powered watercraft"
+332764012,"[X]Accident to watercraft causing other injury, sailboat"
+332765013,"[X]Accident to watercraft causing other injury, canoe/kayak"
+360261000006119,"[X]Accident to watercraft causing other injury, inflatable craft (nonpowered)"
+332767017,"[X]Accident to watercraft causing other injury, water-skis"
+360281000006112,"[X]Accident to watercraft causing other injury, other unpowered watercraft"
+360331000006115,"[X]Accident to watercraft causing other injury, unspecified watercraft"
+432791000006116,[X]Water-transport-related drowning and submersion without accident to watercraft
+432771000006117,"[X]Water-transport-related drowning and submersion without accident to watercraft, merchant ship"
+432781000006119,"[X]Water-transport-related drowning and submersion without accident to watercraft, passenger ship"
+432761000006112,"[X]Water-transport-related drowning and submersion without accident to watercraft, fishing boat"
+432701000006111,"[X]Water-transport-related drowning and submersion without accident to watercraft, other powered watercraft"
+432711000006114,"[X]Water-transport-related drowning and submersion without accident to watercraft, sailboat"
+432741000006113,"[X]Water-transport-related drowning and submersion without accident to watercraft, canoe or kayak"
+432691000006111,"[X]Water-transport-related drowning and submersion without accident to watercraft, inflatable craft (nonpowered)"
+432721000006118,"[X]Water-transport-related drowning and submersion without accident to watercraft, water-skis"
+432681000006113,"[X]Water-transport-related drowning and submersion without accident to watercraft, other unpowered watercraft"
+432731000006115,"[X]Water-transport-related drowning and submersion without accident to watercraft, unspecified watercraft"
+359791000006118,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion"
+359721000006115,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, merchant ship"
+359731000006117,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, passenger ship"
+359711000006111,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, fishing boat"
+359741000006110,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, other powered watercraft"
+359761000006114,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, sailboat"
+359751000006112,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, canoe or kayak"
+359771000006119,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, inflatable craft (nonpowered)"
+359681000006110,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, water-skis"
+359691000006113,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, other unpowered watercraft"
+359701000006113,"[X]Accident on board watercraft without accident to watercraft, not causing drowning and submersion, unspecified watercraft"
+332795017,[X]Other and unspecified water transport accidents
+406771000006111,"[X]Other and unspecified water transport accidents, merchant ship"
+406331000006114,"[X]Other and unspecified water transport accidents, passenger ship"
+406761000006116,"[X]Other and unspecified water transport accidents, fishing boat"
+406301000006118,"[X]Other and unspecified water transport accidents, other powered watercraft"
+332800010,"[X]Other and unspecified water transport accidents, sailboat"
+406291000006119,"[X]Other and unspecified water transport accidents, canoe or kayak"
+406311000006115,Water transport accident
+406731000006113,"[X]Other and unspecified water transport accidents, water-skis"
+404421000006112,"[X]Other and unspecified water transport accidents, other unpowered watercraft"
+404431000006110,"[X]Other and unspecified water transport accidents, unspecified watercraft"
+335064011,[X]Assault by handgun discharge
+335062010,[X]Intentionally shot with handgun
+335063017,"[X]Assault - gun, handgun"
+335065012,"[X]Assault by handgun discharge, occurrence at home"
+364921000006114,[X]Assault by handgun discharge occurrn resident institutn
+364861000006111,[X]Assault by handgun discharg occ sch oth ins/pub adm area
+364961000006115,"[X]Assault by handgun discharge, occurrn sport/athlet area"
+364891000006115,[X]Assault by handgun discharge occurrenc on street/highway
+364931000006112,[X]Assault by handgun discharge occurrn trade/service area
+364911000006118,[X]Assault by handgun discharge occurrn indust/constr area
+335072013,"[X]Assault by handgun discharge, occurrence on farm"
+364901000006116,[X]Assault by handgun discharge occurrenc oth specif place
+364881000006118,[X]Assault by handgun discharge occurrenc at unspecif place
+335077019,"[X]Assault by rifle, shotgun and larger firearm discharge"
+335076011,"[X]Assault - gun, larger gun"
+335075010,[X]Intentionally shot with shotgun
+365511000006110,[X]Assault by rifl shotgun+larger firearm disch occ at home
+366171000006116,[X]Assault rifl s'gun+larg firearm disch occ resid instit'n
+366411000006118,[X]Asslt rifl s'gun+lrg frarm disch occ sch/ins/pub adm area
+366201000006117,[X]Assault rifl s'gun+lrg firarm disch occ sport/athlet area
+366181000006118,[X]Assault rifl s'gun+larg firearm disch occ street/highway
+366211000006119,[X]Assault rifl s'gun+lrg firarm disch occ trade/servce area
+366221000006110,[X]Assault rifl s'gun+lrg frarm disch occ indust/constr area
+365521000006119,[X]Assault by rifl shotgun+larger firearm disch occ on farm
+366161000006111,[X]Assault rifl s'gun+larg firarm disch occ oth specif place
+366191000006115,[X]Assault rifl s'gun+larg firearm disch occ unspecif place
+363329019,[X]Stabbing
+335135017,"[X]Assault by sharp object, occurrence at home"
+365601000006113,[X]Assault by sharp object occurrn in resident institution
+365551000006111,[X]Assault by sharp object occ at sch oth ins/pub adm area
+365591000006117,[X]Assault by sharp object occurrn at sports/athletics area
+365561000006113,[X]Assault by sharp object occurrence at trade/service area
+365571000006118,[X]Assault by sharp object occurrn at indust/construct area
+335142017,"[X]Assault by sharp object, occurrence on farm"
+365581000006115,[X]Assault by sharp object occurrn at other specified place
+335144016,"[X]Assault by sharp object, occurrence at unspecified place"
+335145015,Assault by striking with blunt object
+335146019,"[X]Assault by blunt object, occurrence at home"
+364051000006118,[X]Assault by blunt object occurrn in resident institution
+364001000006117,[X]Assault by blunt object occ at sch oth ins/pub adm area
+364041000006115,[X]Assault by blunt object occurrn at sports/athletics area
+364091000006112,"[X]Assault by blunt object, occurrence on street / highway"
+364011000006119,[X]Assault by blunt object occurrence at trade/service area
+364021000006110,[X]Assault by blunt object occurrn at indust/construct area
+335153011,"[X]Assault by blunt object, occurrence on farm"
+364031000006113,[X]Assault by blunt object occurrn at other specified place
+335155016,"[X]Assault by blunt object, occurrence at unspecified place"
+335156015,[X]Assault by pushing from high place
+335157012,"[X]Assault by pushing from high place, occurrence at home"
+365401000006111,[X]Assault by push from high place occurrn resident instit'n
+365371000006113,[X]Assault by push fr high plce occ sch oth ins/pub adm area
+365411000006114,[X]Assault by push from high place occurrn sport/athlet area
+365381000006111,[X]Assault by push from high place occurrn on street/highway
+365421000006118,[X]Assault by push from high place occurrn trade/servce area
+365441000006113,[X]Assault by push from high plce occurrn indust/constr area
+335166011,"[X]Assault by pushing from high place, occurrence on farm"
+365391000006114,[X]Assault by push from high place occurrn oth specif place
+365431000006115,[X]Assault by push from high place occurrn unspecified place
+335181017,[X]Assault by crashing of motor vehicle
+335182012,"[X]Assault by crashing of motor vehicle, occurrence at home"
+364361000006119,[X]Assault by crash of motor vehicle occ resident instit'n
+364391000006110,[X]Assault by crash of motr vehicl occ sch/ins/pub adm area
+364371000006114,[X]Assault by crash of motor vehicle occ sport/athlet area
+364351000006116,[X]Assault by crash of motor vehicle occ on street/highway
+364381000006112,[X]Assault by crash of motor vehicle occ trade/service area
+364341000006118,[X]Assault by crash of motor vehicle occ indust/constr area
+335190012,"[X]Assault by crashing of motor vehicle, occurrence on farm"
+364321000006113,[X]Assault by crash of motor vehicle occ at oth specif plce
+364331000006111,[X]Assault by crash of motor vehicle occ at unspecif place
+358921000006113,[X] Assault by fight
+335193014,[X]Assault by bodily force
+335194015,"[X]Assault by bodily force, occurrence at home"
+364141000006116,[X]Assault by bodily force occurrn in residential institut'n
+364151000006119,[X]Assault by bodily force occurrn sch oth ins/pub adm area
+364171000006112,"[X]Assault by bodily force, occurrence at sport/athlet area"
+364201000006111,"[X]Assault by bodily force, occurrence on street / highway"
+364111000006115,[X]Assault by bodily force occurrence at trade/service area
+364121000006111,[X]Assault by bodily force occurrn at indust/construct area
+335202015,"[X]Assault by bodily force, occurrence on farm"
+364131000006114,[X]Assault by bodily force occurrn at other specified place
+335204019,"[X]Assault by bodily force, occurrence at unspecified place"
