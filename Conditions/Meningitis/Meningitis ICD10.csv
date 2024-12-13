@@ -1,0 +1,37 @@
+ICD10Codes,Description
+G00,"Bacterial meningitis, not elsewhere classified"
+G00.0,Haemophilus meningitis
+G00.1,Pneumococcal meningitis
+G00.2,Streptococcal meningitis
+G00.3,Staphylococcal meningitis
+G00.8,Other bacterial meningitis
+G00.9,"Bacterial meningitis, unspecified"
+G01,Meningitis in bacterial diseases classified elsewhere
+A32.1,Listerial meningitis and meningoencephalitis
+A39.0,Meningococcal meningitis
+A17.0,Tuberculous meningitis
+G02,Meningitis in other infectious and parasitic diseases classified elsewhere
+G02.0,Meningitis in viral diseases classified elsewhere
+A87.1,Adenoviral meningitis
+A87.2,Lymphocytic choriomeningitis
+A87.8,Other viral meningitis
+A87.9,"Viral meningitis, unspecified"
+A87.0,Enteroviral meningitis
+B00.3,Herpesviral meningitis
+B05.1,Measles complicated by meningitis
+B26.1,Mumps meningitis
+B01.0,Varicella meningitis
+B02.1,Zoster meningitis
+G02.1,Meningitis in mycoses
+B37.5,Candidal meningitis
+B38.4,Coccidioidomycosis meningitis
+G02.8,Meningitis in other specified infectious and parasitic diseases classified elsewhere
+G03,Meningitis due to other and unspecified causes
+G03.0,Nonpyogenic meningitis
+G03.1,Chronic meningitis
+G03.2,Benign recurrent meningitis [Mollaret]
+G03.8,Meningitis due to other specified causes
+G03.9,"Meningitis, unspecified"
+G04.2,"Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified"
+A20.3,Plague meningitis
+A87,Viral meningitis
