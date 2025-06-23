@@ -1,0 +1,29 @@
+V2Codes,Description
+J10y4,Gastro-oesophageal reflux
+1957.,Gastric reflux
+J1011,Gastro-oesophageal reflux with oesophagitis
+R071.,[D]Heartburn
+R071z,[D]Heartburn NOS
+R0710,[D]Pyrosis
+R0711,[D]Waterbrash
+1955.,Heartburn symptom
+J10y6,Barrett's oesophagus
+J1025,Barrett's ulcer of oesophagus
+760L.,Oesophageal reflux operations
+760L0,Antireflux fundoplication using thoracic approach
+760L1,Antireflux operation using thoracic approach NEC
+760L2,Antireflux fundoplication using abdominal approach
+760L3,Antireflux gastropexy
+760L4,Antireflux procedure and gastroplasty however further qualified
+760L6,Oesophagogastric fundoplasty
+760L7,Endoscopic Nissen fundoplication using thoracic approach
+760L8,Laparoscopic Nissen fundoplication using abdominal approach
+760Ly,Other specified antireflux operation
+760Lz,Antireflux operation NOS
+J10y5,Laryngopharyngeal reflux
+760M.,Revision of antireflux operations
+760My,Other specified revision of antireflux operation
+760Mz,Revision of antireflux operation NOS
+760M1,Adjustment to Angelchick prosthesis
+760M2,Removal of Angelchick prosthesis
+760L5,Insertion of Angelchick prosthesis
