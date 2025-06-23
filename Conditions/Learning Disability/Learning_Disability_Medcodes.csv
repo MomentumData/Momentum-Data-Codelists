@@ -1,0 +1,170 @@
+MedCodeID,Description
+8459481000006112,Learning disability annual health check invitation SMS (short message service) text message
+8459511000006116,Learning disability annual health check invitation email
+8461341000006115,Enhanced/Intensive Support for learning disability
+2740281000000114,Profound mental retardation without impairment of behaviour
+2730131000000115,Profound intellectual development disorder without impairment of behaviour
+2740291000000111,Profound mental retardation with significant impairment of behaviour
+2730151000000110,Profound intellectual development disorder with significant impairment of behaviour
+2740301000000110,Profound mental retardation with minimal impairment of behaviour
+2730171000000118,Profound intellectual development disorder with minimal impairment of behaviour
+2730191000000119,Profound intellectual development disorder with impairment of behaviour
+2740311000000112,Profound mental retardation with impairment of behaviour
+2730211000000115,Severe intellectual development disorder without significant impairment of behaviour
+2740341000000113,Severe mental retardation without significant impairment of behaviour
+2730231000000111,Severe intellectual development disorder with significant impairment of behaviour
+2740351000000111,Severe mental retardation with significant impairment of behaviour
+2740361000000114,Severe mental retardation with minimal impairment of behaviour
+2730251000000116,Severe intellectual development disorder with minimal impairment of behaviour
+2740371000000119,Severe mental retardation with impairment of behaviour
+2730271000000113,Severe intellectual development disorder with impairment of behaviour
+2740481000000110,Mental retardation without significant impairment of behaviour
+2740491000000112,Intellectual development disorder without significant impairment of behaviour
+2740511000000116,Mental retardation with significant impairment of behaviour
+2740521000000110,Intellectual development disorder with significant impairment of behaviour
+2740541000000115,Mental retardation with minimal impairment of behaviour
+2740551000000117,Intellectual development disorder with minimal impairment of behaviour
+2740571000000114,Mental retardation with impairment of behaviour
+2740581000000111,Intellectual development disorder with impairment of behaviour
+404861000006115,[X]Oth mental retard with statement no or min impairm behav
+395051000006119,[X]Learn acquisition disab NOS
+295661017,Other specified mental retardation
+295662012,Other specified mental retardation NOS
+430071000006118,[X]Unsp mental retardation without mention impairment behav
+398231000006111,[X]Mental retardation
+401902015,[X]Unspecified mental retardation
+431231000006115,"[X]Unspecified mental retardatn, other impairments of behav"
+430081000006115,[X]Unsp mentl retard sig impairment behav req attent/treatmt
+295664013,Intellectual disability
+151009017,Mental retardation
+411791000006118,[X]Other mental retardation without mention impairment behav
+404851000006117,[X]Oth mental retard sig impairment behav req attent/treatmt
+296586012,[X]Other mental retardation
+296592018,"[X]Other mental retardation, other impairments of behaviour"
+430061000006113,[X]Unsp mental retard with statement no or min impairm behav
+11998101000006118,Intellectual developmental disorder
+398201000006115,[X]Mental deficiency NOS
+398251000006116,[X]Mental subnormality NOS
+9881000006115,Other specified mental retardation
+376941000006116,[X]Developmental expressive writing disorder
+296657015,Developmental disorder of scholastic skill
+401909012,[X]Other developmental disorders of scholastic skills
+395061000006117,Learning disability
+2528351000006115,General learning disability
+2528311000006116,Developmental academic disorder
+296643017,[X]Specific developmental disorders of scholastic skills
+12177541000006119,Profound intellectual development disorder
+12703921000006110,Profound mental retardation (I.Q. below 20)
+423481000006119,[X]Profound ment retard sig impairmnt behav req attent/treat
+423521000006119,[X]Profound mental subnormality
+3003311000006111,Profound mental retardation (Intelligence Quotient below 20)
+423501000006112,Profound intellectual disability
+787151000006113,Idiocy
+423491000006116,[X]Profound ment retrd wth statement no or min impairm behav
+3003341000006110,"Profound learning disability, intelligence quotient less than 20"
+3003361000006114,Profound learning disability
+12177531000006112,Profound intellectual disability
+423361000006118,[X]Prfnd mental retardation without mention impairment behav
+423511000006110,"[X]Profound mental retardation, other impairments of behavr"
+201751000006110,Profound mental retardation with IQ less than 20
+3003301000006113,Profound mental handicap
+3003351000006112,"Profound learning impairment, intelligence quotient less than 20"
+3003321000006115,Profound learning disability with intelligence quotient less than 20
+3003331000006117,Profound learning impairment with intelligence quotient less than 20
+1704791000006112,Excluded from diabetic retinopathy screening as learning disability
+3155201000006115,"Severe learning impairment, intelligence quotient in range 20-34"
+3155171000006119,Severe mental handicap
+12703941000006115,Severe mental retardation (I.Q. 20-34)
+12181621000006113,Severe intellectual development disorder
+3155151000006112,Severe learning disability
+426611000006117,[X]Severe mental subnormality
+882791000006118,Severe mental retardation
+12181611000006117,Severe intellectual disability
+426531000006112,[X]Sev mental retard with statement no or min impairm behav
+3155181000006116,Severe mental retardation (Intelligence Quotient 20-34)
+3155191000006118,"Severe learning disability, intelligence quotient in range 20-34"
+426541000006119,[X]Sev mental retardation without mention impairment behav
+146051000006113,"Severe mental retardation, IQ in range 20-34"
+426591000006111,Severe intellectual disability
+296574014,"[X]Severe mental retardation, other impairments of behaviour"
+426521000006114,[X]Sev mental retard sig impairment behav req attent/treatmt
+6762781000006117,Learning disability - speciality
+6762791000006119,Learning disability - specialty
+6762801000006118,Learning disability
+2548475019,On learning disability register
+7282231000006119,Nonverbal learning disorder
+7282241000006112,Nonverbal learning disability
+1129781000000117,Severe learning disability
+8191411000006110,[X]Severe learning disability
+1162851000000116,Learning disability annual health check invitation
+1162891000000112,Learning disability annual health check verbal invitation
+1162931000000119,Learning disability annual health check telephone invitation
+1164251000000114,Learning disability annual health check letter invitation
+1755011000006114,Learning disability annual health check invitation first letter
+1755021000006118,Learning disability annual health check invitation second letter
+1755031000006115,Learning disability annual health check invitation third letter
+2379351000000119,Died in learning disability unit
+7745761000006111,Prader Willi habitus with osteopenia and camptodactyly
+7745741000006112,Urban Rogers Meyer syndrome
+7745751000006114,Intellectual disability and short stature with hand contracture and genital anomaly syndrome
+8222831000006115,People with learning disability
+7857971000006113,Intellectual developmental disorder due to nutritional deficiency
+7874821000006113,Intellectual disability Buenos Aires type
+12008051000006111,Intellectual disability due to nutritional deficiency
+12009591000006119,Wolff Zimmermann syndrome
+12009581000006117,Intellectual disability Wolff type
+12022571000006117,KCNK9 (potassium two pore domain channel subfamily K member 9) imprinting syndrome
+12022551000006110,"Intellectual disability, hypotonia, facial dysmorphism syndrome"
+12022561000006112,Birk Barel mental retardation dysmorphism syndrome
+12022541000006113,Intellectual disability Birk-Barel type
+3756851000006118,Borderline intellectual functioning
+3756831000006113,Borderline mental retardation
+3756841000006115,Borderline mental handicap
+12197941000006116,Borderline intellectual development disorder
+12197931000006114,Borderline intellectual disability
+3756861000006116,Borderline mental retardation (Intelligence Quotient 70-85)
+3756811000006119,Borderline mental retardation (I.Q. 70-85)
+3756821000006110,Borderline learning disability
+882771000006119,Mild mental retardation
+12202441000006114,Mild intellectual disability
+3910921000006117,Mild mental retardation (Intelligence Quotient 50-70)
+667621000006119,Feeble-minded
+3910931000006119,"Mild learning disability, intelligence quotient in range 50-70"
+12202451000006111,Mild intellectual development disorder
+3910941000006112,"Mild learning impairment, intelligence quotient in range 50-70"
+398411000006116,[X]Mild mental subnormality
+12703781000006112,Mild mental retardation (I.Q. 50-70)
+386751000006111,[X]Feeble-mindedness
+296557014,"[X]Mild mental retardation, other impairments of behaviour"
+398381000006119,[X]Mild mental retardation
+398391000006116,Mild intellectual disability
+3910951000006114,Mild learning disability
+215821000000119,Moron
+398661000006116,[X]Mld mental retard with statement no or min impairm behav
+398651000006118,[X]Mld mental retard sig impairment behav req attent/treatmt
+507246016,"Mild mental retardation, IQ in range 50-70"
+3910901000006110,Mild mental handicap
+2249771000000115,Under care of community learning disability team
+2452401000000113,Community learning disability care plan
+2452421000000116,Learning disability care plan
+1550041000000110,Mild learning disability
+1129811000000119,Moderate learning disability
+1550051000000113,Profound learning disability
+251223010,Learning difficulties
+882761000006114,Mental subnormality
+988941000006119,Mental subnormality NOS
+700071000006118,"Moderate mental retardation, IQ in range 35-49"
+785941000006115,Imbecile
+882781000006116,Moderate mental retardation
+882801000006117,Mental subnormality NOS
+398771000006118,[X]Mod mental retard with statement no or min impairm behav
+398761000006113,[X]Mod mental retard sig impairment behav req attent/treatmt
+296565012,[X]Mod retard oth behav impair
+398781000006115,[X]Mod mental retardation without mention impairment behav
+2435151000000112,Intellectual development disorder of unknown aetiology
+398821000006114,[X]Moderate mental subnormality
+398811000006118,Moderate intellectual disability
+398591000006113,Mixed disorder of scholastic skills
+1887331000006119,Specific learning disability
+1222495016,[D]Global retardation
+460622019,[V]Problems with learning
