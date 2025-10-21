@@ -1,0 +1,95 @@
+MedCodeID,Description
+4310021000006112,Burkitt's lymphoma - disorder
+289602015,Burkitt's lymphoma of unspecified site
+4310031000006110,Burkitt's type malignant lymphoma - small non-cleaved
+1215905010,Burkitt's tumour
+2663190016,Burkitt's lymphoma
+4310011000006116,Burkitt's type malignant lymphoma - undifferentiated
+4310061000006118,Burkitt lymphoma
+289612010,Burkitt's lymphoma NOS
+4310001000006119,Burkitt's tumor
+4309981000006116,Burkitt's lymphoma (clinical)
+4310041000006117,BL - Burkitt's lymphoma
+8038261000006119,Lymphoproliferative disorder following transplantation of bone marrow
+8038251000006116,Lymphoproliferative disorder after transplantation of bone marrow
+8038271000006114,Post bone marrow transplant lymphoproliferative disorder
+4417461000006117,Aggressive natural killer-cell leukaemia
+4417451000006119,Aggressive natural killer-cell leukemia
+4417441000006116,Aggressive NK cell leukemia
+4417431000006114,Aggressive NK cell leukaemia
+4417421000006111,Aggressive NK-cell leukemia
+4417411000006115,Aggressive NK-cell leukaemia
+289604019,Burkitt's lymphoma of intrathoracic lymph nodes
+4751531000006116,Burkitt lymphoma of intrathoracic lymph nodes
+289605018,Burkitt's lymphoma of intra-abdominal lymph nodes
+4751551000006111,Burkitt lymphoma of intra-abdominal lymph nodes
+4751611000006111,Burkitt lymphoma of intrapelvic lymph nodes
+289608016,Burkitt's lymphoma of intrapelvic lymph nodes
+289610019,Burkitt's lymphoma of spleen
+4751631000006117,Burkitt lymphoma of spleen
+4751651000006112,Burkitt lymphoma of lymph nodes of multiple sites
+289611015,Burkitt's lymphoma of lymph nodes of multiple sites
+5133151000006118,LG - Lymphomatoid granulomatosis of lung
+5133131000006113,Lymphomatoid granulomatosis of the lung
+5133141000006115,Lymphoid granulomatosis of the lung
+5141671000006119,Lymphomatoid granulomatosis
+5141681000006116,LG - Lymphomatoid granulomatosis
+5149061000006119,African Burkitt's lymphoma
+5149071000006114,African Burkitt lymphoma
+378524011,Post-transplant lymphoproliferative disorder
+5340231000006119,Post-transplantation lymphoproliferative syndrome
+5340221000006117,PTLD - Post-transplant lymphoproliferative disorder
+6585661000006112,"Post-transplant lymphoproliferative disorder, polymorphic"
+6693291000006114,Aggressive natural killer-cell leukemia involving skin
+6693281000006111,Aggressive NK-cell leukemia involving skin
+6693301000006110,Aggressive natural killer-cell leukaemia involving skin
+6693271000006113,Aggressive NK-cell leukaemia involving skin
+6853311000006112,Angiocentric T-cell lymphoma
+6853331000006118,"Extranodal natural killer/T-cell lymphoma, nasal type"
+6853321000006116,T/NK-cell lymphoma
+2534467019,"Extranodal NK/T-cell lymphoma, nasal type"
+6931771000006112,Immunodeficiency-associated Burkitt lymphoma
+6931761000006117,Immunodeficiency-associated Burkitt's lymphoma
+6942801000006115,Endemic Burkitt lymphoma
+6942791000006116,Endemic Burkitt's lymphoma
+6969131000006119,Primary lymphoma of brain associated with AIDS
+6969141000006112,Primary lymphoma of brain associated with acquired immunodeficiency syndrome
+7316561000006118,Monomorphic posttransplant lymphoproliferative disorder
+7384911000006119,Systemic EBV positive T-cell lymphoproliferative disease of childhood
+7384921000006110,Systemic Epstein Barr virus positive T-cell lymphoproliferative disease of childhood
+7384951000006118,Plasmablastic lymphoma
+7711131000006114,Burkitt's lymphoma co-occurrent with human immunodeficiency virus infection
+287029018,Burkitt lymphoma co-occurrent with human immunodeficiency virus infection
+2168331000000117,HIV disease resulting in Burkitt lymphoma
+7752061000006119,Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly
+7815421000006119,Systemic Epstein-Barr virus positive T-cell lymphoproliferative disease of childhood
+7838611000006110,Early post-transplant lymphoproliferative disorder
+7838631000006116,Infectious mononucleosis-like post-transplant lymphoproliferative disorder
+7858991000006110,Diffuse large B-cell lymphoma co-occurrent with chronic inflammation caused by Epstein-Barr virus
+7859001000006110,Diffuse large B-cell lymphoma with chronic inflammation caused by Human herpesvirus 4
+7859011000006113,Plasmablastic lymphoma
+3636383015,Polymorphic post-transplant lymphoproliferative disorder
+3636384014,Polymorphic lymphoproliferative disorder following transplant
+291981011,[M]Burkitt's tumour NOS
+3758791000006119,Burkitt tumour [obs]
+3758761000006110,Burkitt-like lymphoma
+3758731000006118,Burkitt's lymphoma
+3758741000006111,"Malignant lymphoma, small noncleaved, Burkitt's, diffuse"
+3758781000006117,Burkitt tumor [obs]
+1216939019,[M]Burkitt's tumour
+3758771000006115,Burkitt's tumor [obs]
+3758751000006113,"Malignant lymphoma, undifferentiated, Burkitt type [obs]"
+3758801000006118,Burkitt's tumour [obs]
+291980012,[M]Burkitt's tumours
+3758721000006116,Burkitt lymphoma
+289603013,"Burkitt's lymphoma of lymph nodes of head, face and neck"
+289606017,Burkitt's lymphoma of lymph nodes of axilla and upper limb
+527801000006112,Burkitt's lymphoma of lymph nodes of inguinal region and lower limb
+207325017,T-cell lymphoma
+1815301000006117,Cutaneous/peripheral T-cell lymphoma
+1815401000006114,Blastic plasmacytoid dendritic cell neoplasm
+2534468012,Angioimmunoblastic T-cell lymphoma
+1815431000006118,Other mature T/NK-cell lymphoma
+414160018,B-cell acute lymphoblastic leukaemia
+2872860018,Mature B-cell leukaemia Burkitt-type
+306171000006115,[M]Burkitt's cell leukaemia
