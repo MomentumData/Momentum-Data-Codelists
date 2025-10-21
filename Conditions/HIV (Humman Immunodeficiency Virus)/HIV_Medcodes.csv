@@ -1,0 +1,349 @@
+MedCodeID,Description
+4085591000006113,HIV p24 antigen
+4085611000006119,Human immunodeficiency virus (HIV) p24 antigen
+4085601000006117,Human immunodeficiency virus p24 antigen
+9323271000006119,Acquired immune deficiency syndrome complicating childbirth
+9323281000006116,AIDS (acquired immune deficiency syndrome) during childbirth
+365853018,Acute HIV infection
+4200801000006118,Acute human immunodeficiency virus seroconversion illness
+4200811000006115,Acute human immunodeficiency virus infection
+2717731000006116,Human immunodeficiency virus receptor
+2717711000006110,HIV receptor
+2717721000006119,Human immunodeficiency virus (HIV) receptor
+4596341000006119,Human immunodeficiency virus (HIV) positive
+317670010,[D]Laboratory evidence of human immunodeficiency virus [HIV]
+4596351000006117,Human immunodeficiency virus positive
+257854011,HTLV-3 antibody positive
+257855012,HIV positive
+4742821000006114,Human immunodeficiency virus infection constitutional disease
+829181000006115,Human immunodeficiency virus with constitutional disease
+4742831000006112,HIV - Human immunodeficiency virus infection constitutional disease
+4742841000006119,Human immunodeficiency virus infection with neurological disease
+287012016,Human immunodeficiency virus with neurological disease
+829221000006112,Human immunodeficiency virus infection with secondary clinical infectious disease
+389111000006119,[X]HIV disease resulting/unspcf infectious+parasitic disease
+389021000006114,[X]HIV disease resulting in multiple infections
+287027016,HIV disease resulting in multiple infections
+288177018,[X]HIV disease resulting in other viral infections
+389101000006117,[X]HIV disease resulting/other infectious+parasitic diseases
+825861000006116,HIV disease resulting/unspcf infectious+parasitic disease
+2802031000006116,HIV
+2802041000006114,AIDS virus
+2802021000006119,Human immunodeficiency virus
+2802051000006111,HIV - Human immunodeficiency virus
+5004491000006116,HIV - Human immunodeficiency virus leukoencephalopathy
+5004481000006119,Human immunodeficiency virus leucoencephalopathy
+5004501000006112,Human immunodeficiency virus leukoencephalopathy
+5004511000006110,HIV - Human immunodeficiency virus leucoencephalopathy
+5009901000006116,Human immunodeficiency virus neuropathy
+5009911000006118,HIV - Human immunodeficiency virus neuropathy
+5009921000006114,Neuropathy caused by HIV - human immunodeficiency virus
+5009881000006118,Neuropathy due to human immunodeficiency virus
+5009931000006112,Neuropathy caused by human immunodeficiency virus
+5009891000006115,Neuropathy due to HIV - human immunodeficiency virus
+5084741000006115,Human immunodeficiency virus diarrhea
+5084691000006117,HIV - Human immunodeficiency virus enteropathy
+5084681000006115,Human immunodeficiency virus enteropathy
+5084731000006113,HIV - Human immunodeficiency virus diarrhea
+5084751000006118,Human immunodeficiency virus non-pathogenic diarrhea
+5084701000006117,Human immunodeficiency virus non-pathogenic diarrhoea
+5084711000006119,HIV - Human immunodeficiency virus diarrhoea
+5084721000006110,Human immunodeficiency virus diarrhoea
+5093691000006119,Acquired immune deficiency syndrome-related nephropathy
+5093701000006119,AIDS - Acquired immune deficiency synd-related nephropathy
+5143451000006111,Human immunodeficiency virus myopathy
+5143461000006113,HIV - Human immunodeficiency virus myopathy
+5588851000006115,Congenital acquired immune deficiency syndrome
+5588861000006118,AIDS - Congenital acquired immune deficiency syndrome
+5588871000006113,Congenital human immunodeficiency virus positive status syndrome
+5588881000006111,HIV - Congenital human immunodeficiency virus positive status syndrome
+6052961000006119,AIDS virus with aseptic meningitis
+6052981000006112,Human immunodeficiency virus infection with aseptic meningitis
+6052971000006114,Human immunodeficiency virus (HIV) infection with aseptic meningitis
+6052951000006116,HIV infection with aseptic meningitis
+3082061000006116,Human immunodeficiency virus type 2
+3082081000006114,HIV2 - Human immunodeficiency virus type 2
+3082071000006111,HIV-2
+6592361000006110,Human immunodeficiency virus encephalopathy
+6601991000006118,Human immunodeficiency virus encephalitis
+6602001000006116,HIV - Human immunodeficiency virus encephalitis
+6723191000006119,HIV EIA test positive
+6723201000006116,HIV ELISA test positive
+6723181000006117,Human immunodeficiency virus enzyme-linked immunosorbent assay test positive
+6896331000006118,Neutropenia associated with acquired immunodeficiency syndrome
+6896301000006114,Neutropenia associated with AIDS
+6896311000006112,AIDS-associated neutropenia
+6896321000006116,AIDS-related neutropenia
+6950631000006114,Encephalitis associated with acquired immunodeficiency syndrome
+6950621000006111,Encephalitis associated with AIDS
+6951321000006111,Skin rash associated with acquired immunodeficiency syndrome
+6951311000006115,Skin rash associated with AIDS
+6951681000006115,Reticulosarcoma associated with acquired immunodeficiency syndrome
+6951671000006118,Reticulosarcoma associated with AIDS
+6951771000006111,Retinal vascular changes associated with AIDS
+6951781000006114,Retinal vascular changes associated with acquired immunodeficiency syndrome
+6952021000006118,Intestinal malabsorption associated with acquired immunodeficiency syndrome
+6952011000006114,Intestinal malabsorption associated with AIDS
+6953131000006113,Haematopoietic system disease associated with AIDS
+6953151000006118,Hematopoietic system disease associated with AIDS
+6953141000006115,Hematopoietic system disease associated with acquired immunodeficiency syndrome
+6953341000006117,AIDS-associated acute endocarditis
+6953351000006115,Acute endocarditis associated with acquired immunodeficiency syndrome
+6953331000006110,Acute endocarditis associated with AIDS
+825831000006113,Pneumocystosis associated with AIDS
+6953541000006114,Pneumocystosis associated with acquired immunodeficiency syndrome
+1814921000006112,HIV disease resulting in Pneumocystis jirovecii pneumonia
+6954361000006115,Myelopathy associated with AIDS
+6954371000006110,Myelopathy associated with acquired immunodeficiency syndrome
+6955711000006116,Kaposi sarcoma associated with AIDS
+6955721000006112,Kaposi's sarcoma associated with acquired immunodeficiency syndrome
+825771000006119,Kaposi's sarcoma associated with AIDS
+1814931000006110,HIV disease resulting in Kaposi sarcoma
+6956121000006118,Bacterial pneumonia associated with AIDS
+6956131000006115,Bacterial pneumonia associated with acquired immunodeficiency syndrome
+6956211000006115,Salivary gland disease associated with AIDS
+6956221000006111,Salivary gland disease associated with acquired immunodeficiency syndrome
+6956291000006113,Progressive multifocal leucoencephalopathy associated with AIDS
+6956301000006114,Progressive multifocal leukoencephalopathy associated with AIDS
+6956321000006116,Progressive multifocal leucoencephalopathy associated with acquired immunodeficiency syndrome
+6956311000006112,Progressive multifocal leukoencephalopathy associated with acquired immunodeficiency syndrome
+6957301000006111,Organic dementia associated with AIDS
+6957311000006114,Organic dementia associated with acquired immunodeficiency syndrome
+6958141000006114,Radiculitis associated with acquired immunodeficiency syndrome
+6958131000006116,Radiculitis associated with AIDS
+6958651000006117,Nutritional deficiency associated with AIDS
+6958661000006115,Nutritional deficiency associated with acquired immunodeficiency syndrome
+6959151000006116,Central nervous system demyelinating disease associated with AIDS
+6959161000006119,Central nervous system demyelinating disease associated with acquired immunodeficiency syndrome
+6959231000006117,AIDS-associated disorder
+6959261000006114,Acquired immunodeficiency syndrome-associated disorder
+6959251000006112,AIDS complication
+6959241000006110,Complication of AIDS
+6959971000006112,Salmonella infection associated with acquired immunodeficiency syndrome
+6959961000006117,Salmonella infection associated with AIDS
+6960361000006117,Pneumococcal pneumonia associated with acquired immunodeficiency syndrome
+6960351000006119,Pneumococcal pneumonia associated with AIDS
+6960641000006114,Malaise associated with AIDS
+6960651000006111,Malaise associated with acquired immunodeficiency syndrome
+287023017,Mycobacteriosis associated with AIDS
+6960961000006118,Mycobacteriosis associated with acquired immunodeficiency syndrome
+6960951000006115,Mycobacteriosis associated with AIDS
+6962061000006118,Dermatomycosis associated with AIDS
+6962071000006113,Dermatomycosis associated with acquired immunodeficiency syndrome
+6962451000006113,Fatigue associated with AIDS
+6962461000006110,Fatigue associated with acquired immunodeficiency syndrome
+6963111000006111,Subacute endocarditis associated with acquired immunodeficiency syndrome
+6963101000006113,Subacute endocarditis associated with AIDS
+6963221000006113,Histoplasmosis associated with AIDS
+6963231000006111,Histoplasmosis associated with acquired immunodeficiency syndrome
+6964701000006110,Presenile dementia associated with acquired immunodeficiency syndrome
+6964691000006110,Presenile dementia associated with AIDS
+6965081000006116,Candidiasis of lung associated with AIDS
+6965091000006118,Candidiasis of lung associated with acquired immunodeficiency syndrome
+6965601000006116,Disseminated candidiasis associated with acquired immunodeficiency syndrome
+6965591000006112,Disseminated candidiasis associated with AIDS
+6965951000006113,Aplastic anemia associated with acquired immunodeficiency syndrome
+6965931000006118,Aplastic anaemia associated with AIDS
+6965941000006111,Aplastic anemia associated with AIDS
+6965961000006110,Aplastic anaemia associated with acquired immunodeficiency syndrome
+6968181000006110,Hepatomegaly associated with acquired immunodeficiency syndrome
+6968171000006112,Hepatomegaly associated with AIDS
+6968891000006115,Subacute myocarditis associated with acquired immunodeficiency syndrome
+6968881000006118,Subacute myocarditis associated with AIDS
+6969131000006119,Primary lymphoma of brain associated with AIDS
+6969141000006112,Primary lymphoma of brain associated with acquired immunodeficiency syndrome
+6969661000006118,Agranulocytosis associated with acquired immunodeficiency syndrome
+6969651000006115,Agranulocytosis associated with AIDS
+6969741000006111,Myelitis associated with AIDS
+6969751000006113,Myelitis associated with acquired immunodeficiency syndrome
+6971081000006110,Skin disorder associated with AIDS
+6971091000006113,Skin disorder associated with acquired immunodeficiency syndrome
+6971291000006117,Cryptococcosis associated with acquired immunodeficiency syndrome
+6971281000006115,Cryptococcosis associated with AIDS
+6971471000006119,Subacute adenoviral encephalitis associated with AIDS
+6971481000006116,Subacute adenoviral encephalitis associated with acquired immunodeficiency syndrome
+6971791000006110,Nocardia infection associated with AIDS
+6971801000006111,Nocardiosis associated with acquired immunodeficiency syndrome
+6971781000006112,Nocardiosis associated with AIDS
+6972141000006110,Infectious gastroenteritis associated with acquired immunodeficiency syndrome
+6972131000006117,Infectious gastroenteritis associated with AIDS
+6972241000006118,Retinopathy associated with AIDS
+6972271000006114,HIV-associated retinopathy
+6972281000006112,Retinopathy associated with acquired immunodeficiency syndrome
+6972251000006116,HIV-related microangiopathy of the retina
+6972261000006119,HIV retinopathy
+6973041000006117,Viral pneumonia associated with acquired immunodeficiency syndrome
+6973031000006110,Viral pneumonia associated with AIDS
+6973471000006115,Dementia associated with acquired immunodeficiency syndrome
+6973451000006113,ADC - Acquired immune deficiency syndrome dementia complex
+6973431000006118,Acquired immune deficiency syndrome-related dementia
+376571000006116,[X]Dementia in human immunodef virus [HIV] disease
+6973441000006111,AIDS - Acquired immune deficiency syndrome dementia complex
+6973421000006116,Dementia associated with AIDS
+6973461000006110,Acquired immune deficiency syndrome dementia complex
+6974191000006112,Tuberculosis associated with AIDS
+6974201000006110,Tuberculosis associated with acquired immunodeficiency syndrome
+6974661000006114,AIDS with polyneuropathy (multiple nerve disease)
+6974671000006119,Polyneuropathy associated with acquired immunodeficiency syndrome
+6974651000006112,Polyneuropathy associated with AIDS
+6975781000006114,Failure to thrive in infant associated with AIDS
+6975791000006112,Failure to thrive in infant associated with acquired immunodeficiency syndrome
+6975941000006117,Pneumonia associated with AIDS
+6975951000006115,Pneumonia associated with acquired immunodeficiency syndrome
+287032015,HIV disease resulting in lymphoid interstitial pneumonitis
+6976631000006114,Blindness associated with AIDS
+6976641000006116,Blindness associated with acquired immunodeficiency syndrome
+6976651000006119,Infective arthritis associated with AIDS
+6976661000006117,Infective arthritis associated with acquired immunodeficiency syndrome
+6976701000006113,Candidiasis of mouth associated with acquired immunodeficiency syndrome
+6976691000006113,Candidiasis of mouth associated with AIDS
+6977701000006110,Thrombocytopenia associated with AIDS
+6977711000006113,Thrombocytopenia associated with acquired immunodeficiency syndrome
+6978831000006114,Encephalopathy associated with acquired immunodeficiency syndrome
+6978821000006111,Encephalopathy associated with AIDS
+6979641000006111,Respiratory disorder associated with acquired immunodeficiency syndrome
+6979631000006118,Respiratory disorder associated with AIDS
+6979821000006117,Strongyloidiasis associated with acquired immunodeficiency syndrome
+6979811000006113,Strongyloidiasis associated with AIDS
+6980531000006117,Myocarditis associated with AIDS
+6980541000006110,Myocarditis associated with acquired immunodeficiency syndrome
+6981551000006117,Noninfectious gastroenteritis associated with acquired immunodeficiency syndrome
+6981541000006119,Noninfectious gastroenteritis associated with AIDS
+6981851000006115,Central nervous disorder associated with acquired immunodeficiency syndrome
+6981841000006117,Central nervous disorder associated with AIDS
+6982111000006119,Neuritis associated with acquired immunodeficiency syndrome
+6982101000006117,Neuritis associated with AIDS
+6983541000006118,Encephalomyelitis associated with acquired immunodeficiency syndrome
+6983531000006111,Encephalomyelitis associated with AIDS
+6984241000006118,Herpes zoster associated with acquired immunodeficiency syndrome
+6984231000006111,Herpes zoster associated with AIDS
+6984441000006117,Neuralgia associated with acquired immunodeficiency syndrome
+6984431000006110,Neuralgia associated with AIDS
+6985261000006115,Dyspnoea associated with acquired immunodeficiency syndrome
+6985231000006112,Dyspnoea associated with AIDS
+6985241000006119,Dyspnea associated with AIDS
+6985251000006117,Dyspnea associated with acquired immunodeficiency syndrome
+6985521000006112,Low vision associated with acquired immunodeficiency syndrome
+6985511000006116,Low vision associated with AIDS
+6985631000006114,Hyperhidrosis associated with acquired immunodeficiency syndrome
+6985621000006111,Hyperhidrosis associated with AIDS
+6987131000006110,Malignant neoplasm associated with acquired immunodeficiency syndrome
+6987121000006112,Malignant neoplasm associated with AIDS
+6988121000006113,Coccidioidomycosis associated with AIDS
+6988131000006111,Coccidioidomycosis associated with acquired immunodeficiency syndrome
+7316251000006117,Infectious disease associated with acquired immune deficiency syndrome
+3289651000006112,Human immunodeficiency virus (HIV) infection with infectious mononucleosis-like syndrome
+3289661000006114,Human immunodeficiency virus infection with infectious mononucleosis-like syndrome
+3289641000006110,HIV infection with infectious mononucleosis-like syndrome
+3344261000006112,Congenital HIV infection
+3344251000006110,Congenital human immunodeficiency virus infection
+3515801000006118,AIDS - Acquired immunodeficiency syndrome
+3515761000006110,AIDS
+3515781000006117,Acquired immunodeficiency syndrome
+3515811000006115,Acquired immune deficiency syndrome (AIDS)
+3515791000006119,Immunodeficiency due to human immunodeficiency virus infection
+103844015,Acquired immune deficiency syndrome
+7502531000006110,Cholangitis associated with AIDS
+7502541000006117,Cholangitis associated with acquired immunodeficiency syndrome
+7530341000006115,Sepsis associated with acquired immunodeficiency syndrome
+7671061000006119,Immunoglobulin G antibody to HIV 1
+7702101000006110,Candidiasis of esophagus co-occurrent with human immunodeficiency virus infection
+7702091000006116,Candidiasis of oesophagus co-occurrent with human immunodeficiency virus infection
+7702131000006119,Disorder of eye co-occurrent with human immunodeficiency virus infection
+7702121000006117,Disorder of eye proper co-occurrent with human immunodeficiency virus infection
+7702141000006112,Disorder of gastrointestinal tract co-occurrent with human immunodeficiency virus infection
+7702471000006110,Primary cerebral lymphoma co-occurrent with human immunodeficiency virus infection
+7702681000006111,Myelitis co-occurrent with human immunodeficiency virus infection
+7702791000006119,Anaemia co-occurrent with human immunodeficiency virus infection
+7702801000006118,Anemia co-occurrent with human immunodeficiency virus infection
+7704691000006115,Presenile dementia co-occurrent with human immunodeficiency virus infection
+7704731000006111,Organic brain syndrome co-occurrent with human immunodeficiency virus infection
+7704861000006112,Candidiasis of mouth co-occurrent with human immunodeficiency virus infection
+7704931000006113,Disorder of spinal cord co-occurrent with human immunodeficiency virus infection
+7704951000006118,Nephropathy co-occurrent with human immunodeficiency virus infection
+7704941000006115,Disorder of kidney co-occurrent with human immunodeficiency virus infection
+7704961000006116,Gastrointestinal malabsorption syndrome co-occurrent with human immunodeficiency virus infection
+7704991000006112,Aplastic anaemia co-occurrent with human immunodeficiency virus infection
+7705001000006117,Aplastic anemia co-occurrent with human immunodeficiency virus infection
+7705211000006114,Disorder of peripheral nervous system co-occurrent with human immunodeficiency virus infection
+7705261000006112,Agranulocytosis co-occurrent with human immunodeficiency virus infection
+7705271000006117,Visual impairment co-occurrent with human immunodeficiency virus infection
+7705301000006115,Acquired hemolytic anemia co-occurrent with human immunodeficiency virus infection
+7705291000006116,Acquired haemolytic anaemia co-occurrent with human immunodeficiency virus infection
+7705421000006119,Demyelinating disease of central nervous system co-occurrent with human immunodeficiency virus infection
+7705461000006113,Isosporiasis co-occurrent with human immunodeficiency virus infection
+7706051000006111,Infectious gastroenteritis co-occurrent with human immunodeficiency virus infection
+7706061000006113,Disorder of central nervous system co-occurrent with human immunodeficiency virus infection
+7707941000006112,Nephrotic syndrome co-occurrent with human immunodeficiency virus infection
+7707951000006114,Renal failure syndrome co-occurrent with human immunodeficiency virus infection
+7710381000006117,Dementia co-occurrent with human immunodeficiency virus infection
+7710981000006116,Focal segmental glomerulosclerosis co-occurrent with human immunodeficiency virus infection
+8223151000006111,People with human immunodeficiency virus or acquired immune deficiency syndrome
+8223161000006113,People with HIV or AIDS
+7833271000006112,Parkinsonism due to human immunodeficiency virus infection
+3541153015,Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with tuberculosis
+3541143016,WHO 2007 HIV infection clinical stage 1 and tuberculosis
+3533582016,Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with malaria
+3533581011,HIV infection WHO 2007 clinical stage 1 co-occurrent with malaria
+3541154014,Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with tuberculosis
+3541148013,WHO 2007 HIV infection clinical stage 2 and tuberculosis
+3533585019,Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with malaria
+3533586018,HIV infection WHO 2007 clinical stage 2 co-occurrent with malaria
+3541151018,WHO 2007 HIV infection clinical stage 3 and tuberculosis
+3541157019,Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with tuberculosis
+3533589013,Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with malaria
+3533587010,HIV WHO 2007 infection clinical stage 3 co-occurrent with malaria
+3541141019,WHO 2007 HIV infection clinical stage 4 and tuberculosis
+3541159016,Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with tuberculosis
+3533590016,Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with malaria
+3533591017,HIV WHO 2007 infection clinical stage 4 co-occurrent with malaria
+287022010,Symptomatic human immunodeficiency virus infection
+287024011,HIV disease resulting in cytomegaloviral disease
+287025012,HIV disease resulting in candidiasis
+825791000006118,HIV disease resulting in multiple diseases CE
+3904981000006111,HIV - Human immunodeficiency virus infection
+389011000006118,[X]HIV disease resulting in multiple diseases classified elsewhere
+287021015,Acquired human immunodeficiency virus infection syndrome NOS
+288174013,[X]HIV disease resulting in other bacterial infections
+388991000006116,"[X]HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+143288017,Human immunodeficiency virus infection
+3904971000006113,HIV infection
+288191012,[X]Unspecified human immunodeficiency virus [HIV] disease
+825841000006115,HIV disease resulting in unspecified malignant neoplasm
+288178011,[X]HIV disease resulting in other mycoses
+288186011,[X]HIV disease resulting in unspecified malignant neoplasm
+288173019,[X]Human immunodeficiency virus disease
+825711000006111,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+287020019,Human immunodeficiency virus with other clinical findings
+288190013,[X]HIV disease resulting in other specified conditions
+3916501000006115,Human immunodeficiency virus infection with acute lymphadenitis
+3916481000006113,AIDS virus with acute lymphadenitis
+3916491000006111,Human immunodeficiency virus (HIV) infection with acute lymphadenitis
+3916471000006110,HIV infection with acute lymphadenitis
+3951401000006118,HIV-1
+3951411000006115,Human immunodeficiency virus type 1
+3951391000006115,Human immunodeficiency virus type I
+3514144017,Asymptomatic human immunodeficiency virus A1 infection
+3515863011,Asymptomatic human immunodeficiency virus A2 infection
+152322017,Asymptomatic human immunodeficiency virus infection
+3994511000006112,Asymptomatic HIV infection
+3994531000006118,Asymptomatic HIV infection in pregnancy
+3994521000006116,Asymptomatic human immunodeficiency virus infection in pregnancy
+825731000006117,"HIV disease result/haematological+immunologic abnorms,NEC"
+8342711000006110,HIV (human immunodeficiency virus) disease resulting in haematological and immunological abnormalities
+389001000006116,HIV (human immunodeficiency virus) disease resulting in haematological and immunological abnormalities
+4063961000006110,Human immunodeficiency virus infection with persistent generalized lymphadenopathy
+825871000006111,Human immunodeficiency virus infection with persistent generalised lymphadenopathy
+264371011,Human immunodeficiency virus carrier
+287014015,Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection
+2168331000000117,HIV disease resulting in Burkitt lymphoma
+287029018,Burkitt lymphoma co-occurrent with human immunodeficiency virus infection
+1814951000006115,HIV disease resulting in other types of non-Hodgkin lymphoma
+825721000006115,Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection
+287031010,HIV disease resulting in multiple malignant neoplasms
+1815001000006119,[X]HIV disease resulting in other non-Hodgkin lymphoma
+288182013,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+288185010,Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection
+2622348012,HIV disease resulting in wasting syndrome
+1816791000006117,HIV disease complicating pregnancy childbirth puerperium
+337231000006117,[V]Asymptomatic human immunodeficiency virus infection status
