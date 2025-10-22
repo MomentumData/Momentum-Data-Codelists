@@ -1,0 +1,778 @@
+MedCodeID,Description
+4095121000006116,"Acute myeloid leukemia, t(16;16)(p13;q22)"
+4095091000006115,Acute myelomonocytic leukaemia with abnormal eosinophils
+4095151000006113,"Acute myeloid leukemia, CBF-beta/MYH11"
+4095141000006111,"Acute myeloid leukemia, inv(16)(p13q22)"
+4095171000006115,Acute myeloid leukaemia with abnormal marrow eosinophils and inv(16)(p13q22) or t(16;16)(p13;q22)
+4095071000006116,Acute myeloid leukemia with abnormal marrow eosinophils
+4095101000006114,"Acute myeloid leukaemia, CBF-beta/MYH11"
+4095081000006118,"Acute myeloid leukaemia, inv(16)(p13q22)"
+4095131000006118,Acute myelomonocytic leukemia with abnormal eosinophils
+4095111000006112,"Acute myeloid leukaemia, t(16;16)(p13;q22)"
+4095061000006111,Acute myelomonocytic leukaemia with eosinophils
+4095161000006110,Acute myeloid leukemia with abnormal marrow eosinophils and inv(16)(p13q22) or t(16;16)(p13;q22)
+4095031000006119,Acute myeloid leukaemia with abnormal marrow eosinophils
+4095041000006112,Acute myelomonocytic leukemia with eosinophils
+4095051000006114,FAB M4E
+4095281000006113,"Acute myeloblastic leukaemia, minimal differentiation"
+4095191000006119,"Acute myeloid leukemia, minimal differentiation"
+4095201000006116,"Acute myeloblastic leukemia, minimal differentiation"
+4095241000006119,FAB M0
+4095261000006115,"Acute myelocytic leukaemia, minimal differentiation"
+4095271000006110,"Acute myelogenous leukaemia, minimal differentiation"
+4095181000006117,"Acute myeloid leukaemia, minimal differentiation"
+4095251000006117,"Acute granulocytic leukaemia, minimal differentiation"
+4095211000006118,"Acute granulocytic leukemia, minimal differentiation"
+4095221000006114,"Acute myelogenous leukemia, minimal differentiation"
+4095231000006112,"Acute myelocytic leukemia, minimal differentiation"
+4095361000006113,Acute granulocytic leukaemia without maturation
+4095371000006118,Acute myelogenous leukaemia without maturation
+4095291000006111,Acute myeloid leukaemia without maturation
+4095321000006119,Acute granulocytic leukemia without maturation
+4095301000006112,Acute myeloid leukemia without maturation
+4095381000006115,Acute myelocytic leukaemia without maturation
+4095331000006116,Acute myelogenous leukemia without maturation
+4095351000006111,FAB M1
+4095391000006117,Acute myeloblastic leukaemia without maturation
+4095341000006114,Acute myelocytic leukemia without maturation
+4095311000006110,Acute myeloblastic leukemia without maturation
+4095481000006112,Acute myeloblastic leukaemia with maturation
+4095471000006114,Acute granulocytic leukaemia with maturation
+4095431000006111,Acute granulocytic leukemia with maturation
+4095411000006117,Acute myeloid leukemia with maturation
+4095401000006115,Acute myeloid leukaemia with maturation
+4095421000006113,Acute myeloblastic leukemia with maturation
+4095501000006119,Acute myelocytic leukaemia with maturation
+4095461000006119,FAB M2
+4095491000006110,Acute myelogenous leukaemia with maturation
+4095441000006118,Acute myelogenous leukemia with maturation
+4095451000006116,Acute myelocytic leukemia with maturation
+4173491000006110,Mast cell leukemia (clinical)
+4173481000006112,Mast cell leukaemia (clinical)
+4173511000006116,Mast cell leukemia
+716871000006112,Mast cell leukaemia
+4420081000006111,Mast cell leukaemia
+4173581000006111,APML - Acute promyelocytic leukaemia
+4173571000006113,M3 - Acute promyelocytic leukaemia
+4173591000006114,APL - Acute promyelocytic leukemia
+4173551000006115,Acute promyelocytic leukemia (clinical)
+4173601000006118,M3 - Acute promyelocytic leukemia
+4173521000006112,"Acute promyelocytic leukaemia, FAB M3"
+4173541000006117,"Acute promyelocytic leukemia, FAB M3"
+459741000006115,APL - Acute promyelocytic leukaemia
+4173611000006115,APML - Acute promyelocytic leukemia
+4173531000006110,Acute promyelocytic leukaemia (clinical)
+4173651000006119,Acute myelomonocytic leukemia (clinical)
+4173681000006110,M4 - Acute myelomonocytic leukemia
+4173671000006112,AMML - Acute myelomonocytic leukaemia
+4173691000006113,AMML - Acute myelomonocytic leukemia
+4173621000006111,"Acute myelomonocytic leukaemia, FAB M4"
+458201000006115,M4 - Acute myelomonocytic leukaemia
+4173631000006114,Acute myelomonocytic leukaemia (clinical)
+4173641000006116,"Acute myelomonocytic leukemia, FAB M4"
+4173731000006117,PLL - Prolymphocytic leukemia
+202801000006110,Prolymphocytic leukaemia
+4173701000006113,Prolymphocytic leukaemia (clinical)
+4173751000006112,Prolymphocytic leukemia
+4173721000006115,PLL - Prolymphocytic leukaemia
+4173711000006111,Prolymphocytic leukemia (clinical)
+745011000006112,Leukaemic reticuloendotheliosis
+745001000006114,Leukaemic reticuloendotheliosis
+3377381000006119,Leukaemic reticuloendotheliosis
+11926201000006119,Leukaemic reticuloendotheliosis of unspecified sites
+4309771000006116,LRE - Leukaemic reticuloendotheliosis
+289756017,LRE - Leukaemic reticuloendotheliosis
+4309731000006119,Hairy cell leukaemia (clinical)
+1591211000006111,Hairy cell leukaemia
+289773015,Leukaemic reticuloendotheliosis NOS
+4309791000006115,LRE - Leukemic reticuloendotheliosis
+4309821000006112,Hairy cell leukemia
+4309781000006118,HCL - Hairy cell leukaemia
+4309761000006111,Leukaemic reticuloendotheliosis (clinical) [obs]
+4309751000006114,Hairy cell leukemia (clinical)
+4309801000006119,HCL - Hairy cell leukemia
+4309741000006112,Leukemic reticuloendotheliosis (clinical) [obs]
+7995641000006118,Acute lymphoid leukaemia relapse
+7995651000006116,Acute lymphoid leukemia relapse
+7995731000006119,Refractory acute lymphoid leukemia
+7995721000006117,Refractory acute lymphoid leukaemia
+4395141000006112,Chronic myelomonocytic leukemia
+474077018,Chronic myelomonocytic leukaemia
+4416311000006111,Acute bilineal leukaemia
+4416291000006112,Acute bilineal leukemia
+4416301000006113,Acute biphenotypic leukemia
+4416281000006114,Acute biphenotypic leukaemia
+4416671000006113,"Acute lymphocytic leukaemia, L2 type"
+4416541000006118,"Acute lymphoblastic leukemia, L2 type"
+4416681000006111,Acute lymphocytic leukaemia
+4416441000006119,Precursor cell lymphoblastic leukaemia
+4416451000006117,"Precursor cell lymphoblastic leukemia, not phenotyped"
+4416501000006115,"Acute lymphocytic leukemia, L2 type"
+4416461000006115,"Lymphoblastic leukemia, L2 type"
+4416491000006111,"Acute lymphoid leukemia, L2 type"
+4416691000006114,Acute lymphoblastic leukaemia
+4416561000006119,"Acute lymphatic leukemia, L2 type"
+4416481000006113,FAB L2
+4416611000006116,"Precursor cell lymphoblastic leukaemia, not phenotyped"
+4416701000006114,"Acute lymphatic leukaemia, L2 type"
+4416571000006114,Acute lymphatic leukemia
+4416471000006110,Lymphoblastic leukemia
+4416651000006115,"Acute lymphoblastic leukaemia, precursor-cell type"
+4416531000006111,"Acute lymphoblastic leukemia, precursor-cell type"
+4416601000006119,"Lymphoblastic leukaemia, L2 type"
+4416591000006110,Lymphoblastic leukaemia
+4416551000006116,Acute lymphoblastic leukemia
+4416511000006117,Acute lymphocytic leukemia
+4416631000006110,"Acute lymphoid leukaemia, L2 type"
+4416621000006112,Acute lymphatic leukaemia
+4416641000006117,"Acute lymphoblastic leukaemia, L2 type"
+4416581000006112,Precursor cell lymphoblastic leukemia
+4416711000006112,Precursor B-cell lymphoblastic leukaemia
+4416721000006116,c-ALL
+4416741000006111,Pre-pre-B ALL
+4416751000006113,Pre-B ALL
+4416781000006117,Precursor B-cell lymphoblastic leukemia
+4416761000006110,Common precursor B ALL
+4416731000006118,Pro-B ALL
+4416771000006115,Common ALL
+4416831000006114,Cortical T ALL
+4416841000006116,Precursor T-cell lymphoblastic leukemia
+4416791000006119,Precursor T-cell lymphoblastic leukaemia
+4416821000006111,Mature T ALL
+4416801000006118,Pro-T ALL
+4416811000006115,Pre-T ALL
+4416991000006117,"Atypical chronic myeloid leukemia, BCR/ABL negative"
+11930241000006117,"Atypical chronic myeloid leukaemia, BCR/ABL negative"
+4417001000006113,"Atypical chronic myeloid leukaemia, Philadelphia chromosome (Ph1) negative"
+4416981000006115,"Atypical chronic myeloid leukemia, Philadelphia chromosome (Ph1) negative"
+4417031000006117,Acute myeloid leukemia with prior myelodysplastic syndrome
+4417051000006112,Acute myeloid leukaemia with prior myelodysplastic syndrome
+4417071000006119,Acute myeloid leukaemia with myelodysplasia-related changes
+4417021000006115,Acute myeloid leukemia without prior myelodysplastic syndrome
+4417011000006111,Acute myeloid leukaemia with multilineage dysplasia
+4417061000006114,Acute myeloid leukaemia without prior myelodysplastic syndrome
+4417081000006116,Acute myeloid leukemia with myelodysplasia-related changes
+4417041000006110,Acute myeloid leukemia with multilineage dysplasia
+4417101000006112,"FAB M2, t(8;21)(q22;q22)"
+4417151000006111,Acute myeloid leukaemia with t(8;21)(q22;q22); RUNX1-RUNX1T1
+4417111000006110,"FAB M2, AML1(CBF-alpha)/ETO"
+4417161000006113,Acute myeloid leukemia with t(8;21)(q22;q22); RUNX1-RUNX1T1
+4417131000006116,"Acute myeloid leukemia, t(8;21) (q22;q22)"
+4417141000006114,"Acute myeloid leukaemia, AML1(CBF-alpha)/ETO"
+4417091000006118,"Acute myeloid leukaemia, t(8;21) (q22;q22)"
+4417121000006119,"Acute myeloid leukemia, AML1(CBF-alpha)/ETO"
+4417191000006117,"Acute myeloid leukemia, 11q23 abnormalities"
+4417221000006112,Acute myeloid leukemia with t(9;11)(p22;q23); MLLT3-MLL
+4417181000006115,"Acute myeloid leukemia, MLL"
+4417171000006118,"Acute myeloid leukaemia, 11q23 abnormalities"
+4417211000006116,Acute myeloid leukaemia with t(9;11)(p22;q23); MLLT3-MLL
+4417201000006119,"Acute myeloid leukaemia, MLL"
+4419991000006112,Plasmacytic leukemia
+1216014013,[M]Plasma cell leukaemia
+292014014,[M]Plasma cell leukaemias
+4420031000006110,"Plasma cell leukaemia, morphology"
+11908671000006118,Plasma cell leukemia
+4420041000006117,"Plasma cell leukemia, morphology"
+11989551000006115,Plasma cell leukemia
+4420011000006116,Plasmacytic leukaemia
+292017019,Plasma cell leukaemia
+4419981000006114,Plasma cell leukaemia
+1216016010,[M]Mast cell leukaemia
+4420091000006114,Mast cell leukemia
+11905961000006113,"Acute myeloid leukemia, M6 type"
+292024018,[M]Erythroleukaemia NOS
+304331000006110,"Acute myeloid leukaemia, M6 type"
+2726671000006116,"Acute myeloid leukaemia, M6 type"
+2726711000006117,M6B
+2726791000006110,Erythroleukaemia
+2726821000006118,Acute erythroid leukaemia
+2726731000006111,Acute erythroid leukemia
+2726781000006112,Erythraemic myelosis
+2726681000006118,Erythroleukemia
+2726811000006114,Acute erythraemic myelosis [obs]
+2726701000006115,Erythremic myelosis
+2726801000006111,Acute erythraemia [obs]
+2726751000006116,Acute erythremia [obs]
+2726691000006115,FAB M6
+307591000006111,[M]Di Guglielmo's disease
+2726761000006119,AML M6
+2726741000006118,Acute erythremic myelosis [obs]
+2726721000006113,Di Guglielmo disease [obs]
+4752821000006112,"Leukemic reticuloendotheliosis of lymph nodes of head, face and neck"
+747141000006116,"Leukaemic reticuloendotheliosis of lymph nodes of head, face and neck"
+747131000006114,Leukaemic reticuloendotheliosis of lymph nodes of axilla and upper limb
+4752841000006117,Leukemic reticuloendotheliosis of lymph nodes of axilla and upper limb
+4752861000006118,Leukemic reticuloendotheliosis of lymph nodes of inguinal region and lower limb
+746311000006119,Leukaemic reticuloendotheliosis of lymph nodes of inguinal region and lower limb
+289881011,Other lymphoid leukaemia
+4753221000006118,Lymphatic leukemia
+289889013,Lymphoid leukaemia NOS
+289876019,Lymphoid leukaemia
+292177013,[X]Other lymphoid leukaemia
+289875015,Lymphatic leukaemia
+4753211000006114,Lymphoid leukemia
+731621000006113,Lymphosarcoma cell leukaemia
+289888017,Other lymphoid leukaemia NOS
+4753241000006113,Subacute lymphoid leukemia
+289880012,Subacute lymphoid leukaemia
+880841000006119,Lymphoid leukaemia - subacute
+4753261000006112,Aleukemic lymphoid leukemia
+289884015,Aleukaemic lymphoid leukaemia
+292178015,[X]Other myeloid leukaemia
+4753301000006115,Myeloid leukemia
+289907011,Other myeloid leukaemia
+289892012,Myeloid leukaemia
+289912012,Myeloid leukaemia NOS
+4753321000006113,Granulocytic leukaemia
+289911017,Other myeloid leukaemia NOS
+4753311000006117,Granulocytic leukemia
+4753341000006118,Chronic eosinophilic leukemia
+289895014,Chronic eosinophilic leukaemia
+4753361000006119,Chronic neutrophilic leukemia
+289898011,Chronic neutrophilic leukaemia
+289926015,Other monocytic leukaemia
+4753471000006118,Schilling-type monocytic leukemia
+4753511000006111,Schilling-type monocytic leukaemia
+289917018,Monocytic leukaemia
+4753491000006117,Monocytic leukemia
+289930017,Other monocytic leukaemia NOS
+289921013,Histiocytic leukaemia
+289933015,Monocytic leukaemia NOS
+4753461000006113,Histiocytic leukemia
+4753481000006115,Monoblastic leukemia
+292181013,[X]Other monocytic leukaemia
+289919015,Monoblastic leukaemia
+4753611000006112,Megakaryocytic leukemia
+289948014,Thrombocytic leukaemia
+4753601000006114,Thrombocytic leukemia
+289949018,Megakaryocytic leukaemia
+4753641000006111,Myelomonocytic leukemia
+289974015,Myelomonocytic leukaemia
+289980011,Subacute myelomonocytic leukaemia
+4753661000006110,Subacute myelomonocytic leukemia
+4757511000006116,Mixed leukaemia
+4757491000006110,Compound leukemias
+4757481000006112,Compound leukaemias
+4757501000006119,Mixed leukemia
+2853511000006117,Burkitt cell leukaemia
+2853571000006114,"Acute lymphoblastic leukaemia, Burkitt's type"
+2853551000006116,"Acute lymphoblastic leukemia, mature B-cell type"
+2853531000006111,"Acute lymphoblastic leukemia, Burkitt's type"
+2853561000006119,Burkitt cell leukemia
+2853591000006110,Burkitt's cell leukaemia
+306171000006115,[M]Burkitt's cell leukaemia
+2853521000006113,Burkitt's cell leukemia
+2853541000006118,FAB L3 [obs]
+2853581000006112,"Acute lymphoblastic leukaemia, mature B-cell type"
+2855861000006116,FAB M5A
+2855841000006115,Acute monoblastic leukemia
+2855881000006114,Monoblastic leukaemia
+2855871000006111,FAB M5B
+2855901000006111,"Acute monocytic leukemia, morphology"
+2855821000006110,Acute monocytic leukemia
+2855851000006118,FAB M5
+2855831000006113,Monoblastic leukemia
+2855891000006112,Acute monoblastic leukaemia
+304381000006111,Acute monocytic leukaemia
+2534415018,Acute monocytic leukaemia
+5095261000006113,Leukemic infiltrate of kidney
+5095251000006111,Leukaemic infiltrate of kidney
+306001000006110,[M]Blast cell leukaemia
+317011000006112,[M]Stem cell leukaemia
+2884041000006116,Blast cell leukemia
+306011000006113,[M]Blastic leukaemia
+2884111000006116,"Acute leukaemia, morphology, including blast cell OR undifferentiated leukaemia"
+2884021000006111,Acute leukaemia
+2884031000006114,Acute leukemia
+2884121000006112,"Acute leukemia, morphology, including blast cell OR undifferentiated leukemia"
+2884071000006112,Undifferentiated leukaemia
+2884091000006113,Blast cell leukaemia
+2884061000006117,Stem cell leukemia
+1216160012,[M]Acute leukaemia NOS
+2884081000006110,Stem cell leukaemia
+2884051000006119,Undifferentiated leukemia
+5599861000006111,B-CLL - B-cell chronic lymphocytic leukemia variant
+5599831000006119,B-cell chronic lymphocytic leukaemia variant
+5599851000006114,B-CLL - B-cell chronic lymphocytic leukaemia variant
+5599841000006112,B-cell chronic lymphocytic leukemia variant
+5600971000006112,CLL/PLL - Chronic lymphocytic prolymphocytic leukaemia syndrome
+5600961000006117,CLL/PLL - Chronic lymphocytic prolymphocytic leukemia syndrome
+5600941000006116,Chronic lymphocytic prolymphocytic leukaemia syndrome
+5600951000006119,Chronic lymphocytic prolymphocytic leukemia syndrome
+5601191000006118,T-cell prolymphocytic leukemia
+414151014,T-cell prolymphocytic leukaemia
+2168661000000116,Prolymphocytic leukemia of T-cell type
+5601221000006113,Hairy cell leukemia variant
+5601211000006117,Hairy cell leukaemia variant
+5601231000006111,Large granular lymphocytic leukaemia
+5601261000006119,LGLL - Large granular lymphocytic leukemia
+5601251000006116,LGLL - Large granular lymphocytic leukaemia
+5601241000006118,Large granular lymphocytic leukemia
+2872860018,Mature B-cell leukaemia Burkitt-type
+5601291000006110,B-cell acute lymphoblastic leukemia
+5601301000006111,Burkitt's leukemia
+5601341000006113,Mature B-cell leukemia Burkitt type
+414160018,B-cell acute lymphoblastic leukaemia
+5601351000006110,Mature B-cell leukaemia Burkitt type
+5601311000006114,Burkitt's leukaemia
+5601331000006115,Mature B-cell leukemia Burkitt-type
+5601361000006112,Pre B-cell acute lymphoblastic leukaemia
+5601391000006116,Acute pre B-cell lymphoblastic leukemia
+5601381000006119,"Leukemia, pre B cell, acute lymphoblastic"
+5601371000006117,Pre B-cell acute lymphoblastic leukemia
+5601401000006119,Common acute lymphoblastic leukaemia
+5601421000006112,CALL - Common acute lymphoblastic leukaemia
+5601431000006110,CALL - Common acute lymphoblastic leukemia
+5601411000006116,Common acute lymphoblastic leukemia
+5601451000006115,Null cell acute lymphoblastic leukemia
+5601441000006117,Null cell acute lymphoblastic leukaemia
+5601501000006118,Acute T-cell lymphoblastic leukemia
+5601491000006114,Precursor T-cell lymphoblastic leukemia
+5601471000006113,T-cell acute lymphoblastic leukemia
+5601481000006111,Precursor T-cell lymphoblastic leukaemia
+5601461000006118,T-cell acute lymphoblastic leukaemia
+5601511000006115,Acute T-cell lymphoblastic leukaemia
+5601681000006114,JCML - Juvenile chronic myeloid leukemia
+5601691000006112,Juvenile chronic myeloid leukemia
+5601671000006111,JCML - Juvenile chronic myeloid leukaemia
+5601661000006116,Juvenile chronic myeloid leukaemia
+5601961000006111,Acute megakaryoblastic leukemia
+5601981000006118,M7 - Acute megakaryoblastic leukaemia
+5601951000006114,Acute megakaryoblastic leukaemia
+5602001000006118,"Acute megakaryoblastic leukaemia, FAB M7"
+5601971000006116,M7 - Acute megakaryoblastic leukemia
+5601991000006115,"Acute megakaryoblastic leukemia, FAB M7"
+5602041000006116,Acute eosinophilic leukemia
+5602031000006114,Acute eosinophilic leukaemia
+414248013,B-cell prolymphocytic leukaemia
+5602291000006117,Prolymphocytic leukemia of B-cell type
+2168671000000111,Prolymphocytic leukaemia of B-cell type
+5602281000006115,B-cell prolymphocytic leukemia
+5610211000006114,Hypergranular promyelocytic leukaemia
+5610221000006118,Hypergranular promyelocytic leukemia
+5613451000006117,Acute biphenotypic leukemia
+5613441000006119,Acute biphenotypic leukaemia
+5706041000006110,Acute promyelocytic leukaemia - hypogranular variant
+5706071000006119,M3V - Acute promyelocytic leukaemia - hypogranular variant
+5706051000006112,Acute promyelocytic leukemia - hypogranular variant
+5706061000006114,M3V - Acute promyelocytic leukemia - hypogranular variant
+2965601000006115,"Acute promyelocytic leukaemia, PML/RAR-alpha"
+2965521000006114,Acute promyelocytic leukemia
+2965531000006112,FAB M3
+2965581000006113,"Acute myeloid leukaemia, PML/RAR-alpha"
+2965571000006110,"Acute myeloid leukemia, PML/RAR-alpha"
+2965511000006118,Acute promyelocytic leukaemia
+1216284012,[M]Acute promyelocytic leukaemia
+2965551000006117,"Acute promyelocytic leukemia, PML/RAR-alpha"
+2965561000006115,"Acute myeloid leukemia, t(15;17)(q22;q11-12)"
+2965591000006111,"Acute promyelocytic leukaemia, t(15;17)(q22;q11-12)"
+2965541000006119,"Acute promyelocytic leukemia, t(15;17)(q22;q11-12)"
+2965611000006117,"Acute myeloid leukaemia, t(15;17)(q22;q11-12)"
+5912221000006116,Subacute leukemia
+289968015,Subacute leukaemia
+5912231000006118,Aleukaemic leukaemia
+5912241000006111,Aleukemic leukemia
+5967151000006115,Atypical hairy cell leukaemia
+5967161000006118,Atypical hairy cell leukemia
+5970231000006112,Basophilic leukaemia
+5970241000006119,Basophilic leukemia
+5970551000006115,Neutrophilic leukaemia
+5970561000006118,Neutrophilic leukemia
+2999021000006115,Acute myelomonocytic leukemia
+2999031000006117,FAB M4
+2999011000006111,Acute myelomonocytic leukaemia
+1216346016,[M]Acute myelomonocytic leukaemia
+6045641000006119,Leukemic infiltrate of choroid
+6045631000006112,Leukaemic infiltrate of choroid
+6045741000006113,Leukemic infiltrate of retina
+6045731000006115,Leukaemic infiltrate of retina
+1228268017,[M]Chloroma
+1228267010,[M]Granulocytic sarcoma
+3068751000006116,"Myeloid sarcoma, morphology"
+1228269013,[M]Myeloid sarcoma
+3068691000006115,Myeloid sarcoma
+3068701000006115,Chloroma
+3068711000006117,Granulocytic sarcoma
+6204551000006117,M0 - Acute myeloblastic leukemia - undifferentiated
+6204541000006119,"Acute myeloid leukemia, minimal differentiation, FAB M0"
+6204561000006115,M0 - Acute myeloblastic leukaemia - undifferentiated
+6204531000006112,"Acute myeloid leukaemia, minimal differentiation, FAB M0"
+6204721000006117,M1 - Acute myeloblastic leukemia without maturation
+6204691000006110,M1 - Acute myeloblastic leukaemia without maturation
+6204711000006113,Acute myelogenous leukemia without maturation
+6204671000006114,"Acute myeloid leukaemia without maturation, FAB M1"
+6204701000006110,Acute myelogenous leukaemia without maturation
+6204681000006112,"Acute myeloid leukemia without maturation, FAB M1"
+6204831000006110,M2 - Acute myeloblastic leukaemia with maturation
+6204821000006112,M2 - Acute myeloblastic leukemia with maturation
+6204811000006116,"Acute myeloid leukemia with maturation, FAB M2"
+6204801000006119,"Acute myeloid leukaemia with maturation, FAB M2"
+6347721000006110,"Acute lymphoblastic leukemia, transitional pre-B-cell"
+6347711000006119,"Acute lymphoblastic leukaemia, transitional pre-B-cell"
+6585561000006111,Acute leukaemia of ambiguous lineage
+6585571000006116,Acute leukemia of ambiguous lineage
+6671191000006110,T-cell leukemic infiltration of skin
+6693071000006119,Leukaemic infiltration of skin (chronic T-cell lymphocytic leukaemia)
+6693081000006116,Leukemic infiltration of skin (chronic T-cell lymphocytic leukemia)
+6693101000006112,Leukemic infiltration of skin (T-cell prolymphocytic leukemia)
+6693091000006118,Leukaemic infiltration of skin (T-cell prolymphocytic leukaemia)
+6693121000006119,Leukemic infiltration of skin (T-cell lymphoblastic leukemia)
+6693111000006110,Leukaemic infiltration of skin (T-cell lymphoblastic leukaemia)
+6693281000006111,Aggressive NK-cell leukemia involving skin
+6693301000006110,Aggressive natural killer-cell leukaemia involving skin
+6693291000006114,Aggressive natural killer-cell leukemia involving skin
+6693271000006113,Aggressive NK-cell leukaemia involving skin
+6693331000006119,Leukaemic infiltration of skin in hairy-cell leukaemia
+6693341000006112,Leukemic infiltration of skin in hairy-cell leukemia
+6693571000006111,Leukaemic infiltration of skin in myeloid leukaemia
+6693581000006114,Leukemic infiltration of skin in myeloid leukemia
+6693601000006116,Leukemic infiltration of skin in acute myeloid leukemia
+6693591000006112,Leukaemic infiltration of skin in acute myeloid leukaemia
+6693621000006114,Leukemic infiltration of skin in chronic myeloid leukemia
+6693611000006118,Leukaemic infiltration of skin in chronic myeloid leukaemia
+6693641000006119,Leukemic infiltration of skin in monocytic leukemia
+6693631000006112,Leukaemic infiltration of skin in monocytic leukaemia
+6693681000006113,Leukaemia cutis
+6693661000006115,Leukaemic infiltration of skin
+6693691000006111,Leukemia cutis
+6693671000006110,Leukemic infiltration of skin
+6693981000006117,Mast cell leukaemia affecting skin
+6693991000006119,Mast cell leukemia affecting skin
+6840361000006118,Accelerated phase chronic myeloid leukemia
+6840351000006115,Accelerated phase chronic myeloid leukaemia
+880881000006113,Monocytic leukaemia - acute
+6841301000006113,M5b - Acute monocytic leukemia
+6841291000006112,"Acute monocytic leukemia, FAB M5b"
+6841321000006115,"Acute monocytic leukaemia, FAB M5b"
+6841311000006111,M5b - Acute monocytic leukaemia
+6841281000006114,Acute monocytic leukemia
+6844701000006111,Blastic phase chronic myeloid leukemia
+6844691000006111,Blastic phase chronic myeloid leukaemia
+6844721000006118,Blast crisis stage of chronic myeloid leukaemia
+6844711000006114,Blast crisis stage of chronic myeloid leukemia
+6847821000006117,Chronic myeloid leukaemia in lymphoid blast crisis
+6847831000006119,Chronic myeloid leukemia in lymphoid blast crisis
+6847851000006114,Chronic myeloid leukemia in myeloid blast crisis
+6847841000006112,Chronic myeloid leukaemia in myeloid blast crisis
+6847911000006118,Chronic phase chronic myeloid leukemia
+6847901000006116,Chronic phase chronic myeloid leukaemia
+6873261000006119,Relapsing chronic myeloid leukemia
+6873251000006116,Relapsing chronic myeloid leukaemia
+7000511000006118,Leukaemic infiltration of orbit
+7000521000006114,Leukemic infiltration of orbit
+7048081000006110,Ph positive ALL
+7048111000006116,Ph+ acute lymphoblastic leukemia
+7048091000006113,Ph+ ALL
+7048071000006112,Philadelphia chromosome-positive acute lymphoblastic leukaemia
+7048101000006119,Ph+ acute lymphoblastic leukaemia
+7048121000006112,Philadelphia chromosome-positive acute lymphoblastic leukemia
+7066821000006110,Ph+ acute lymphoblastic leukemia
+7066811000006119,Philadelphia chromosome-positive acute lymphoblastic leukaemia
+7066861000006116,Ph+ acute lymphoblastic leukaemia
+7066831000006113,Philadelphia chromosome-positive acute lymphoblastic leukemia
+7066851000006118,Ph+ ALL
+7066841000006115,Ph positive ALL
+7118601000006111,Smoldering chronic lymphocytic leukemia
+7118591000006115,Smouldering chronic lymphocytic leukaemia
+7299951000006114,Acute myeloid leukemia with t(9:11)(p22;q23); MLLT3-MLL
+7299931000006119,Acute myeloid leukaemia with 11q23 abnormality
+7299921000006117,Acute myeloid leukaemia with t(9:11)(p22;q23); MLLT3-MLL
+7299941000006112,Acute myeloid leukemia with 11q23 abnormality
+7304861000006113,Juvenile myelomonocytic leukemia
+2871720012,Juvenile myelomonocytic leukaemia
+2872264019,Acute myeloid leukaemia with multilineage dysplasia
+7308311000006114,Acute myeloid leukaemia with myelodysplasia-related changes
+7308331000006115,Acute myeloid leukemia with multilineage dysplasia
+7308341000006113,Acute myeloid leukemia with myelodysplasia-related changes
+7328231000006118,Leukaemic infiltration
+7328241000006111,Leukemic infiltration
+7385031000006113,Acute mixed lineage leukaemia
+7385051000006118,Mixed phenotype acute leukemia
+7385041000006115,Acute mixed lineage leukemia
+7385021000006110,Mixed phenotype acute leukaemia
+7385061000006116,Mixed phenotype acute leukaemia with t(9;22)(q34;q11.2); BCR-ABL1
+7385071000006111,Mixed phenotype acute leukemia with t(9;22)(q34;q11.2); BCR-ABL1
+7385081000006114,Mixed phenotype acute leukaemia with t(v;11q23); MLL rearranged
+7385091000006112,Mixed phenotype acute leukemia with t(v;11q23); MLL rearranged
+7385111000006115,Mixed phenotype acute leukaemia with myeloid and B-cell lymphoid phenotypes
+7385121000006111,Mixed phenotype acute leukemia with myeloid and B-cell lymphoid phenotypes
+7385131000006114,Mixed phenotype acute leukemia B/myeloid
+7385101000006118,Mixed phenotype acute leukaemia B/myeloid
+7385151000006119,Mixed phenotype acute leukemia T/myeloid
+7385141000006116,Mixed phenotype acute leukaemia T/myeloid
+7385161000006117,Mixed phenotype acute leukaemia with myeloid and T-cell lymphoid pheotypes
+7385171000006112,Mixed phenotype acute leukemia with myeloid and T-cell lymphoid phenotypes
+7385341000006118,Acute myeloid leukaemia with t(6;9)(p23;q34); DEK-NUP214
+7385351000006116,Acute myeloid leukemia with t(6;9)(p23;q34); DEK-NUP214
+7385361000006119,Acute myeloid leukaemia with inv(3)(q21q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1
+7385371000006114,Acute myeloid leukemia with inv(3)(q21q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1
+2920381015,Myeloid leukemia associated with Down Syndrome
+2920656014,Myeloid leukaemia associated with Down Syndrome
+7385461000006113,Acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); RBM15-MKL1
+7385451000006111,Acute myeloid leukaemia (megakaryoblastic) with t(1;22)(p13;q13); RBM15-MKL1
+7385701000006119,B lymphoblastic leukemia lymphoma with t(9;22)(q34;q11.2); BCR-ABL1
+7385691000006119,B lymphoblastic leukaemia lymphoma with t(9;22)(q34;q11.2); BCR-ABL1
+7385721000006112,B lymphoblastic leukemia lymphoma with t(v;11q23); MLL rearranged
+7385711000006116,B lymphoblastic leukaemia lymphoma with t(v;11q23); MLL rearranged
+7385741000006117,B lymphoblastic leukemia lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1)
+7385731000006110,B lymphoblastic leukaemia lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1)
+7385751000006115,B lymphoblastic leukaemia lymphoma with hyperdiploidy
+7385761000006118,B lymphoblastic leukemia lymphoma with hyperdiploidy
+7385771000006113,B lymphoblastic leukaemia lymphoma with hypodiploidy (Hypodiploid ALL)
+7385781000006111,B lymphoblastic leukemia lymphoma with hypodiploidy (Hypodiploid ALL)
+7385801000006110,B lymphoblastic leukemia lymphoma with t(5;14)(q31;q32); IL3-IGH
+7385791000006114,B lymphoblastic leukaemia lymphoma with t(5;14)(q31;q32); IL3-IGH
+7385821000006117,B lymphoblastic leukemia lymphoma with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1)
+7385811000006113,B lymphoblastic leukaemia lymphoma with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1)
+317571000006112,[M]Thrombocytic leukaemia
+292073010,[M]Acute megakaryoblastic leukaemia
+312211000006119,Acute megakaryoblastic leukaemia
+12702821000006113,Acute megakaryoblastic leukaemia
+3346461000006115,FAB M7
+3346451000006117,Megakaryoblastic leukemia
+3346481000006113,Megakaryocytic leukaemia
+3346501000006115,"Acute megakaryoblastic leukemia, morphology"
+3346491000006111,"Acute megakaryoblastic leukaemia, morphology"
+3346471000006110,Megakaryoblastic leukaemia
+3346421000006114,Megakaryocytic leukemia
+3346411000006118,Acute megakaryoblastic leukemia
+311041000006118,Hairy cell leukaemia
+12702811000006117,Hairy cell leukaemia
+1216729017,[M]Hairy cell leukaemia
+3377351000006110,Leukemic reticuloendotheliosis
+3377371000006117,Hairy cell leukaemia variant
+3377341000006113,Hairy cell leukemia
+3377361000006112,Hairy cell leukemia variant
+311051000006116,[M]Leukaemic reticuloendotheliosis
+8019611000006115,Disorder of central nervous system co-occurrent and due to acute lymphoid leukaemia
+8019621000006111,Disorder of central nervous system co-occurrent and due to acute lymphoid leukemia
+1216868019,[M]Basophilic leukaemia
+3623391000006119,Acute basophilic leukemia
+292045013,[M]Basophilic leukaemia NOS
+3623401000006117,Basophilic leukaemia
+3623371000006115,Acute basophilic leukaemia
+292042011,[M]Basophilic leukaemias
+3623381000006117,Basophilic leukemia
+7527561000006114,T-cell large granular lymphocytic leukemia
+7527551000006112,T-cell large granular lymphocytic leukaemia
+7561011000006117,Core binding factor acute myeloid leukaemia
+7561031000006111,CBF-AML - core binding factor acute myeloid leukemia
+7561021000006113,Core binding factor acute myeloid leukemia
+7574811000006118,Cytogenetically normal acute myeloid leukaemia
+7574821000006114,Normal karyotype acute myeloid leukemia
+7574831000006112,Cytogenetically normal acute myeloid leukemia
+7574841000006119,Acute myeloid leukemia with normal karyotype
+7582471000006113,Acute myeloid leukaemia with mutated CEBPA
+7582481000006111,Acute myeloid leukemia with mutated CEBPA
+7582501000006118,Acute myeloid leukemia with mutated NPM1
+7582491000006114,Acute myeloid leukaemia with mutated NPM1
+7598971000006117,Gingivitis due to leukemia
+7598961000006112,Gingivitis due to leukaemia
+7650351000006113,Periodontitis associated with leukaemia
+7650331000006118,Periodontitis co-occurrent with leukaemia
+7650361000006110,Periodontitis associated with leukemia
+7650341000006111,Periodontitis co-occurrent with leukemia
+7716791000006117,Philadelphia chromosome-negative precursor B-cell acute lymphoblastic leukaemia
+7716801000006116,Philadelphia chromosome-negative precursor B-cell acute lymphoblastic leukemia
+7815381000006112,Acute leukaemia of ambiguous lineage
+7815391000006110,Acute leukemia of ambiguous lineage
+7815401000006112,Aggressive natural killer-cell leukaemia
+7815411000006110,Aggressive natural killer-cell leukemia
+7836501000006112,Leukemic meningitis
+7836471000006117,Meningeal leukemia
+7836481000006119,Leukemic leptomeningitis
+7836461000006112,Meningeal leukaemia
+7836491000006116,Leukaemic leptomeningitis
+7836511000006110,Leukaemic meningitis
+7849041000006110,B lymphoblastic leukemia lymphoma with t(9:22) (q34;q11.2); BCR-ABL 1
+7849031000006117,B lymphoblastic leukaemia lymphoma with t(9:22) (q34;q11.2); BCR-ABL 1
+7858971000006114,Myeloid leukaemia and Down syndrome
+7858941000006118,Myeloid leukaemia co-occurrent with Down syndrome
+7858951000006116,Myeloid leukemia co-occurrent with Down syndrome
+7858961000006119,Myeloid leukemia and Down syndrome
+7868071000006118,Acute myeloid leukaemia with t(8;16)(p11;p13) translocation
+7868081000006115,Acute myeloid leukemia with t(8;16)(p11;p13) translocation
+7868091000006117,Acute myeloid leukaemia with t(8;16)(p11;p13) translocation
+7868101000006111,Acute myeloid leukemia with t(8;16)(p11;p13) translocation
+7868981000006116,Chronic lymphocytic leukaemia genetic mutation variant
+7868991000006118,Chronic lymphocytic leukemia genetic mutation variant
+7959391000006113,Acute myeloid leukaemia with t(6;9)(p23;q34) translocation
+7959401000006110,Acute myeloid leukemia with t(6;9)(p23;q34) translocation
+12002441000006118,Acute myeloid leukaemia with NPM1 somatic mutation
+12002461000006119,Acute myeloid leukemia with nucleophosmin 1 somatic mutation
+12002451000006116,Acute myeloid leukemia with NPM1 somatic mutation
+12002471000006114,Acute myeloid leukaemia with nucleophosmin 1 somatic mutation
+12010211000006119,Megakaryoblastic acute myeloid leukaemia with t(1;22)(p13;q13)
+12010221000006110,Megakaryoblastic acute myeloid leukemia with t(1;22)(p13;q13)
+12022391000006113,Acute myeloid leukemia with CCAAT/enhancer binding protein alpha somatic mutation
+12022401000006110,Acute myeloid leukaemia with CCAAT/enhancer binding protein alpha somatic mutation
+12022381000006110,Acute myeloid leukemia with CEBPA somatic mutations
+12022371000006112,Acute myeloid leukaemia with CEBPA somatic mutations
+12023711000006111,Pure familial acute myeloid leukaemia
+12023681000006110,Inherited acute myeloid leukaemia
+12023701000006113,Pure familial acute myeloid leukemia
+12023691000006113,Inherited acute myeloid leukemia
+3759571000006119,Adult T-cell leukemia
+3759591000006118,Adult T-cell leukaemia
+2233381000000115,Clinical stage A chronic lymphocytic leukaemia
+2233421000000112,Clinical stage B chronic lymphocytic leukaemia
+2233461000000116,Clinical stage C chronic lymphocytic leukaemia
+3992581000006112,"Acute leukemia, disease"
+3992561000006119,Acute leukemia
+289964018,Acute leukaemia
+3992571000006114,"Acute leukaemia, disease"
+3992621000006112,Acute lymphoid leukemia
+3992651000006115,"Acute lymphoid leukaemia, disease"
+3992631000006110,ALL - Acute lymphoblastic leukaemia
+509741017,Acute lymphoid leukaemia
+3992661000006118,"Acute lymphoid leukemia, disease"
+880821000006114,Lymphoid leukaemia - acute
+3992641000006117,ALL - Acute lymphoblastic leukemia
+3992711000006112,"Acute myeloid leukaemia, disease"
+1815651000006110,AML - Acute myeloblastic leukaemia
+3992781000006117,AML - Acute myeloblastic leukemia
+3992751000006113,"Acute myeloid leukemia, disease"
+3992801000006118,Acute myelocytic leukemia
+3992741000006111,AML - Acute myeloid leukemia
+880851000006117,Myeloid leukaemia - acute
+3992761000006110,AML - Acute myeloid leukaemia
+3992791000006119,Acute myelocytic leukaemia
+3992721000006116,Acute myeloid leukemia
+201612010,Acute myeloid leukaemia
+4009651000006115,"Chronic leukaemia, disease"
+289967013,Chronic leukaemia
+4009641000006117,Chronic leukemia
+4009661000006118,"Chronic leukemia, disease"
+4009731000006118,CLL - Chronic lymphocytic leukaemia
+201652012,Chronic lymphoid leukaemia
+4009741000006111,CLL - Chronic lymphocytic leukemia
+555131000006118,"Chronic lymphoid leukaemia, disease"
+880831000006112,Lymphoid leukaemia - chronic
+4009701000006114,Chronic lymphoid leukemia
+4009721000006116,"Chronic lymphoid leukemia, disease"
+554641000006115,Chronic granulocytic leukaemia
+201656010,Chronic myeloid leukaemia
+4009791000006119,CML - Chronic myeloid leukaemia
+880861000006115,Myeloid leukaemia - chronic
+4009831000006114,"Chronic myeloid leukaemia, disease"
+289900013,Chronic myeloid leukaemia NOS
+4009851000006119,Chronic myelocytic leukaemia
+4009781000006117,Chronic myeloid leukemia
+4009821000006111,CML - Chronic myeloid leukemia
+4009801000006118,CGL - Chronic granulocytic leukaemia
+4009861000006117,Chronic myelocytic leukemia
+4009841000006116,"Chronic myeloid leukemia, disease"
+4009811000006115,CGL - Chronic granulocytic leukemia
+746301000006117,Leukaemic reticuloendotheliosis of intra-abdominal lymph nodes
+4015611000006116,Leukemic reticuloendotheliosis of intra-abdominal lymph nodes
+4015631000006110,Leukemic reticuloendotheliosis of intrapelvic lymph nodes
+510217015,Leukaemic reticuloendotheliosis of intrapelvic lymph nodes
+4015651000006115,Leukemic reticuloendotheliosis of intrathoracic lymph nodes
+510218013,Leukaemic reticuloendotheliosis of intrathoracic lymph nodes
+4015731000006118,Leukemic reticuloendotheliosis of lymph nodes of multiple sites
+744991000006119,Leukaemic reticuloendotheliosis of lymph nodes of multiple sites
+4015741000006111,Hairy cell leukaemia of spleen
+4015751000006113,Leukemic reticuloendotheliosis of spleen
+289769018,Leukaemic reticuloendotheliosis of spleen
+4015761000006110,Hairy cell leukemia of spleen
+4020881000006112,M6 - Acute erythroleukaemia
+11906781000006110,[M]Erythroleukaemia
+4020861000006119,Di Guglielmo's disease
+4020841000006118,"Erythroleukaemia, FAB M6"
+201658011,Di Guglielmo's disease
+456641000006119,Acute erythraemia and erythroleukaemia
+292018012,Erythroleukaemia
+476225016,"Erythroleukemia, FAB M6"
+1216029010,Erythroleukaemia
+11930251000006115,"Erythroleukemia, FAB M6"
+4020921000006116,Erythroleukemia
+4020911000006112,M6 - Acute erythroleukemia
+201743012,Plasma cell leukaemia
+4053021000006113,"Plasma cell leukemia, disease"
+4053031000006111,"Plasma cell leukaemia, disease"
+4053011000006117,Plasma cell leukemia
+251577010,H/O: leukaemia
+289885019,Adult T-cell leukaemia
+289901012,Subacute myeloid leukaemia
+880871000006110,Myeloid leukaemia - subacute
+157091019,Myeloid sarcoma
+289904016,Granulocytic sarcoma
+289908018,Aleukaemic myeloid leukaemia
+289923011,Chronic monocytic leukaemia
+880891000006111,Monocytic leukaemia - chronic
+289928019,Aleukaemic monocytic leukaemia
+988791000006114,Leukaemia - specif. cell NOS
+880921000006117,Leukaemia - specif. cell NOS
+289934014,Other specified leukaemia
+880911000006113,Leukaemia - specif.cell type
+289955011,Other and unspecified leukaemia
+289959017,Other and unspecified leukaemia NOS
+289960010,Other specified leukaemia NOS
+289963012,Leukaemia of unspecified cell type
+880931000006119,Leukaemia - unspecified cell
+880941000006112,Leukaemia - unspec. cell acute
+880951000006114,Leukaemia -unspec.cell chronic
+880961000006111,Leukaemia-unspec.cell subacute
+289971011,Other leukaemia of unspecified cell type
+880971000006116,Leukaemia - unspec. cell NOS
+289972016,Leukaemia
+292182018,[X]Other specified leukaemias
+292185016,[X]Other leukaemia of unspecified cell type
+2168681000000113,Chronic lymphocytic leukaemia of B-cell type
+414008012,B-cell chronic lymphocytic leukaemia
+2124991000000117,Acute myeloid leukaemia with 11q23 abnormality
+1815631000006115,Philadelphia chromosome positive chronic myelogenous leukaemia
+474604011,Philadelphia chromosome negative chronic myelogenous leukaemia
+289905015,Myeloid sarcoma NOS
+414220013,Acute monoblastic leukaemia
+311021000006113,Leukaemia morphology
+291984015,[M]Leukaemias unspecified
+310991000006116,[M]Leukaemia NOS
+291985019,[M]Leukaemia NOS
+291988017,[M]Subacute leukaemia NOS
+306921000006118,Chronic leukaemia (category)
+291992012,[M]Aleukaemic leukaemia NOS
+291995014,"[M]Leukaemia unspecified, NOS"
+307221000006111,[M]Compound leukaemias
+292001013,[M]Compound leukaemia
+291997018,[M]Mixed leukaemia
+292002018,[M]Compound leukaemia NOS
+292005016,[M]Lymphoid leukaemias
+311311000006115,[M]Lymphatic leukaemia
+1216396015,[M]Lymphoid leukaemia NOS
+292006015,Acute lymphoblastic leukaemia - category
+292009010,[M]Subacute lymphoid leukaemia
+306931000006115,Chronic lymphoid leukaemia
+292010017,[M]Aleukaemic lymphoid leukaemia
+1216015014,[M]Prolymphocytic leukaemia
+314521000006116,Lymphoid leukaemia
+311511000006114,[M]Lymphosarcoma cell leukaemias
+292028015,[M]Lymphosarcoma cell leukaemia
+292031019,[M]Lymphosarcoma cell leukaemia NOS
+292032014,[M]Myeloid leukaemias
+309521000006115,[M]Granulocytic leukaemia NOS
+1216572014,[M]Myeloid leukaemia NOS
+304401000006111,Acute myeloid leukaemia
+292035011,[M]Subacute myeloid leukaemia
+313621000006115,[M]Naegeli-type monocytic leukaemia
+1216809013,[M]Chronic myeloid leukaemia
+292036012,[M]Aleukaemic myeloid leukaemia
+292039017,[M]Neutrophilic leukaemia
+306971000006117,Chronic myelomonocytic leukaemia
+1870401000006113,Juvenile myelomonocytic leukaemia
+292041016,[M]Other myeloid leukaemia NOS
+292046014,[M]Eosinophilic leukaemias
+308041000006113,[M]Eosinophilic leukaemia
+292050019,Eosinophilic leukaemia
+292053017,[M]Monocytic leukaemias
+312961000006113,[M]Monocytic leukaemia NOS
+316171000006117,[M]Schilling-type monocytic leukaemia
+309941000006119,[M]Histiocytic leukaemia
+317101000006113,[M]Subacute monocytic leukaemia
+306951000006110,[M]Chronic monocytic leukaemia
+305141000006119,[M]Aleukaemic monocytic leukaemia
+292062015,Monocytic leukaemia
+292065018,[M]Miscellaneous leukaemias
+304421000006118,Acute panmyelosis with myelofibrosis
+292075015,[M]Acute myelofibrosis
+292077011,[M]Miscellaneous leukaemia NOS
