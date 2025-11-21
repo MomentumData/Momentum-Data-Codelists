@@ -1,0 +1,496 @@
+MedCodeID,Description
+2667381000006111,Tuberculosis lupus exedens
+89011000006116,Tuberculosis - lupus vulgaris
+2667361000006118,Tuberculosis cutis luposa
+719321000006114,Lupus - tuberculous
+18298019,Lupus vulgaris
+2667391000006114,Tuberculosis luposa cutis
+88991000006119,Tuberculosis - lupus exedens
+286303015,Tuberculosis - lupus NOS
+2667371000006113,LV - Lupus vulgaris
+878961000006118,Tuberculosis - meninges/CNS
+286268012,Other specified tuberculosis of central nervous system
+89511000006113,Tuberculosis of meninges and central nervous system
+288004014,"[X]Tuberculosis of nervous system, unspecified"
+286269016,Tuberculosis of central nervous system
+9325891000006118,TB (tuberculosis) in childbirth
+9325881000006116,Tuberculosis in mother complicating childbirth
+18908019,Tuberculous adenitis
+2673241000006110,Tuberculosis of lymph node
+2673231000006117,Tuberculous lymphadenopathy
+8467471000006112,Iridocyclitis due to tuberculosis
+8467481000006110,Tuberculous neuritis
+4200231000006113,TB - Urinary tuberculosis
+286288011,Tuberculosis of urinary organs
+2535679015,Tuberculosis of urinary tract
+4200221000006110,Urinary tuberculosis
+286215018,Primary progressive tuberculosis
+2680951000006117,Tuberculosis cutis indurativa
+2680981000006113,Bazin's disease
+2680961000006115,Tuberculous erythema induratum
+2680971000006110,Tuberculous Bazin's disease
+20174015,Tuberculous leptomeningitis
+4283881000006117,Mycobacterium tuberculosis hominis rRNA
+4283891000006119,Mycobacterium tuberculosis hominis ribosomal ribonucleic acid
+2701551000006113,Tuberculosis of brain
+2706211000006118,Tuberculosis of seminal vesicle
+82761000006110,Tuberculosis seminal vesicle
+2714971000006111,Tuberculous tenosynovitis
+24141013,Tuberculosis of hip
+2724731000006119,Tuberculosis of hip
+2724741000006112,Tuberculosis of hip joint
+24683016,Tuberculous empyema
+2730071000006112,Tuberculous pleural empyema
+2740961000006115,Tuberculoma
+2742351000006115,Tuberculosis of oesophagus
+89121000006113,Tuberculosis oesophagus
+2742361000006118,Tuberculosis of esophagus
+286242017,"Tuberculosis of lung, confirmed by unspecified means"
+286221019,Other specified pulmonary tuberculosis
+732921000006113,Lung tuberculosis
+286252018,Other specified respiratory tuberculosis
+286222014,Pulmonary tuberculosis NOS
+286223016,Other respiratory tuberculosis
+239551014,Pulmonary tuberculosis
+4514601000006116,PTB - Pulmonary tuberculosis
+286257012,Other specified respiratory tuberculosis NOS
+4514611000006118,TB - Pulmonary tuberculosis
+2760241000006118,Retroperitoneal tuberculosis
+27784014,Tuberculosis of retroperitoneal lymph nodes
+2771931000006116,Tuberculosis of knee
+2771941000006114,Tuberculosis of knee joint
+28980013,Tuberculosis of knee
+878981000006111,Tuberculosis - bones/joints
+1494889019,Tuberculosis of bones and joints
+2780081000006115,Tuberculosis of bones and/or joints
+281631019,Disseminated tuberculosis
+4711631000006114,Generalised tuberculosis
+4711621000006111,Generalized tuberculosis
+282858010,TB chemotherapy
+4719151000006114,Tuberculosis chemotherapy
+4733121000006112,Tuberculosis of adrenal glands
+286214019,Tuberculous pleurisy in primary progressive tuberculosis
+4740991000006119,Primary progressive tuberculosis with tuberculous pleurisy
+286217014,Infiltrative lung tuberculosis
+4741011000006115,Infiltrative tuberculosis of lung
+286219012,Tuberculosis of lung with cavitation
+286220018,Tuberculosis of bronchus
+4741061000006117,Tuberculous pleuritis
+286230010,Tuberculous pleurisy NOS
+286225011,Tuberculous pleurisy
+286224010,Tuberculosis of pleura
+107761000006118,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture"
+286238015,"Tuberculosis of lung, confirmed by culture only"
+286239011,"Tuberculosis of lung, confirmed histologically"
+89391000006112,"Tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically and histologically"
+83211000006113,"Tuberculous pleurisy, confirmed bacteriologically and histologically"
+424871000006117,"[X]Resp TB unspcf,w'out mention/bacterial or histol confrmtn"
+208961000006118,Prim respiratory TB without mention of bact or hist confirm
+168861000006111,"Respiratory tuberculosis, not confirmed bacteriologically or histologically"
+175141000006119,"Resp TB unspcf,w'out mention/bacterial or histol confrmtn"
+89451000006113,"Tuberculosis of lung, bacteriologically and histologically negative"
+89091000006114,"Tuberculosis of lung, bacteriological and histological examination not done"
+286270015,"Tuberculosis of intestines, peritoneum and mesenteric glands"
+878971000006113,Tuberculosis - GIT
+286311013,Scrofulous tuberculous abscess
+286317012,Tuberculous chorioretinitis
+286320016,Tuberculous chronic iridocyclitis
+4741261000006113,Chronic tuberculous iridocyclitis
+286321017,Tuberculous keratoconjunctivitis
+286323019,Tuberculosis of ear
+4741311000006118,Addison's disease due to tuberculosis
+286325014,Tuberculosis of adrenal glands - Addison's disease
+4741291000006117,Tuberculous Addison's disease
+4741321000006114,Tuberculous Addison disease
+286328011,Tuberculosis of stomach
+286329015,Tuberculosis of liver
+286333010,Acute miliary tuberculosis of a single specified site
+286332017,Acute miliary tuberculosis
+288006011,"[X]Acute miliary tuberculosis, unspecified"
+286334016,Acute miliary tuberculosis of multiple sites
+287967017,Late effects of tuberculosis NOS
+288298014,Sequelae of tuberculosis
+287958017,Late effects of tuberculosis
+287966014,Late effects of tuberculosis of other specified organs
+1222160013,[X]Sequelae of tuberculosis of other organs
+287959013,Late effects of respiratory tuberculosis
+4745051000006116,Sequelae of central nervous system tuberculosis
+287961016,[X]Sequelae of central nervous system tuberculosis
+287960015,Late effects of central nervous system tuberculosis
+287963018,Late effects of genitourinary system tuberculosis
+287962011,[X]Sequelae of genitourinary tuberculosis
+4745081000006112,Sequelae of genitourinary tuberculosis
+4745091000006110,Late effects of tuberculosis of bones and/or joints
+287964012,Late effects of tuberculosis of bones and joints
+287965013,[X]Sequelae of tuberculosis of bones and joints
+4745121000006114,Sequelae of tuberculosis of bones and joints
+293128014,Tuberculous arthritis
+4759361000006117,Tuberculous arthropathy
+4759371000006112,Tuberculous rheumatism
+82841000006116,Tuberculous arthritis
+4759381000006110,Arthritis caused by Mycobacterium tuberculosis
+286283019,Tuberculosis of joint
+298355010,Keratitis due to tuberculosis
+4773231000006118,Keratitis caused by tuberculosis
+4776411000006118,Acute tuberculous pericarditis
+299883012,TB - acute pericarditis
+299882019,Acute pericarditis - tuberculous
+299935013,Acute myocarditis - tuberculous
+304780016,Female tuberculous pelvic inflammatory disease
+715811000006112,Maternal tuberculosis in pregnancy/childbirth/puerperium NOS
+887931000006118,Preg. + tuberculosis
+715841000006111,"Maternal tuberculosis,unspec whether in pregnancy/puerperium"
+4796071000006111,"Tuberculosis in mother complicating pregnancy, childbirth AND/OR puerperium"
+715801000006114,"Maternal tuberculosis during pregnancy, childbirth and the puerperium"
+311548014,Tuberculous infection of tendon sheath
+311912015,Tuberculosis of cervical spine
+311913013,Tuberculosis of thoracic spine
+311914019,Tuberculosis of lumbar spine
+311924010,Tuberculosis of limb bones NOS
+311916017,Tuberculosis of limb bones
+311922014,Tuberculosis of other limb bones
+311917014,Tuberculosis of unspecified limb bone
+311918016,Tuberculosis of the upper arm bone
+4819531000006113,Tuberculosis of humerus
+311919012,Tuberculosis of the forearm bone
+311921019,Tuberculosis of the lower leg bone
+311923016,Tuberculosis of multiple limb bones
+311927015,Tuberculosis of the bones of the shoulder region
+311928013,Tuberculosis of the bones of the hand
+311929017,Tuberculosis of the bones of the ankle and foot
+4819611000006118,Tuberculosis of the bones of the ankle and/or foot
+311931014,Tuberculosis of the bones of multiple sites
+203531000006112,Prostatitis in tuberculosis
+34267015,Tuberculosis of prostate
+4873291000006116,Caseating tuberculoid granuloma
+2866441000006117,Chronic tuberculosis
+2867041000006113,Post-tuberculous bronchiectasis
+38677017,Tuberculous bronchiectasis
+5053921000006116,Tuberculous chylothorax
+5054031000006115,Post-tuberculous pleural fibrosis
+5055431000006113,Silicotuberculosis
+5055841000006117,Tuberculous bronchopleural fistula
+5059871000006111,Tuberculous mesenteric adenitis
+89521000006117,Tuberculosis of mesenteric lymph glands
+5074641000006119,Oral tuberculosis
+387571000000119,Other specified tuberculosis support
+387991000000112,Tuberculosis support NOS
+380421000000115,Tuberculosis support
+5084401000006110,Tuberculous duodenitis
+5096451000006119,Tuberculous stricture of ureter
+5097441000006118,Tuberculous urethritis
+5098451000006115,Tuberculous epididymo-orchitis
+5107381000006111,Tuberculosis of breast
+5139241000006110,Poncet's disease
+5139251000006112,Grocco-Poncet disease
+5139231000006117,Post-tuberculous reactive arthritis
+286289015,Tuberculosis of male genital organs
+286291011,Tuberculosis of other male genital organs NOS
+5146911000006112,Acute tuberculous ulcer
+5146941000006111,Tuberculosis cutis acuta generalisata
+5146921000006116,Acute miliary cutaneous tuberculosis
+5146931000006118,Tuberculosis cutis miliaris disseminata
+5146951000006113,Cutaneous tuberculous gumma
+5146961000006110,Metastatic tuberculous ulcer
+40681016,Tuberculous hydrothorax
+2896211000006119,Tuberculosis orificialis of mouth
+2909981000006115,Acute tuberculosis
+43134017,Tuberculous synovitis
+43285015,Tuberculosis of nasal septum
+5499841000006119,Tuberculosis in pregnancy
+5499851000006117,Tuberculosis+pregnancy
+45053014,Tuberculosis of thyroid gland
+406201015,Tuberculosis of skin and subcutaneous tissue
+286306011,Tuberculosis of skin and subcutaneous tissue NOS
+5653841000006114,Genital tuberculosis
+5653851000006111,TB - Genital tuberculosis
+2956061000006112,Tuberculosis of spleen
+82771000006115,Tuberculosis spleen
+49747014,Tuberculous pneumothorax
+5899421000006118,Tuberculosis of colon
+5903291000006113,Tuberculosis of heart
+52073015,Tuberculous meningoencephalitis
+6041561000006118,Tuberculous uveitis
+53904019,Tuberculosis of bladder
+3019561000006119,TB - Tuberculous cystitis
+606691000006115,Cystitis in tuberculosis
+3045331000006114,Warty tuberculosis
+3045341000006116,Prosector's wart
+3045321000006111,Verruca necrogenica
+56584015,Tuberculosis verrucosa cutis
+59375015,Tuberculous endometritis
+59684010,Tuberculoma of meninges
+1228335014,Tuberculosis of spine (Pott's)
+3079711000006117,Pott's disease
+3079721000006113,Tuberculous spondylitis
+82541000006118,Tuberculosis of vertebral column
+1228336010,Tuberculosis of vertebral column - Pott's
+61952018,Tuberculous pyelitis
+62169019,Congenital tuberculosis
+6375541000006118,Infection caused by Mycobacterium microti
+6375531000006111,Infection due to Mycobacterium microti
+6376231000006119,Infection caused by Mycobacterium africanum
+6376221000006117,Infection due to Mycobacterium africanum
+6376241000006112,Infection due to mycobacterium tuberculosis hominis
+6376251000006114,Infection caused by mycobacterium tuberculosis hominis
+6381381000006114,Infection caused by Mycobacterium bovis
+6381371000006111,Infection due to Mycobacterium bovis
+6382831000006113,Infection due to Mycobacterium tuberculosis
+6382841000006115,Infection caused by Mycobacterium tuberculosis
+64723010,Tuberculosis of spinal meninges
+286282012,Tuberculosis of other specified bones
+311926012,"Tuberculosis of bone, site unspecified"
+3116511000006115,Tuberculous osteitis
+311932019,Tuberculosis of bone
+311925011,Tuberculosis of other bones
+311930010,Tuberculosis of the bones of other sites
+64199010,Tuberculosis of large intestine
+65908017,Tuberculosis of anus
+63627011,Tuberculosis of testis
+6843311000006110,Antibiotic resistant tuberculosis
+2533741015,Ciprofloxacin resistant tuberculosis
+2533740019,Ethambutol resistant tuberculosis
+2533739016,Ethionamide resistant tuberculosis
+2533738012,Isoniazid resistant tuberculosis
+2533737019,Pyrazinamide resistant tuberculosis
+2533736011,Rifampicin resistant tuberculosis
+2533735010,Streptomycin resistant tuberculosis
+2548770013,Tuberculoma of brain
+2549441013,Tuberculoma of spinal cord
+6974191000006112,Tuberculosis associated with AIDS
+6974201000006110,Tuberculosis associated with acquired immunodeficiency syndrome
+6990631000006119,Extensively drug resistant tuberculosis
+6990651000006114,Extremely drug resistant tuberculosis
+6990641000006112,Extreme drug resistant tuberculosis
+2566271000006110,Tuberculosis of nose
+2566281000006113,Nasal tuberculosis
+2646197017,Multidrug resistant tuberculosis
+7012431000006111,Drug resistant tuberculosis
+7017961000006110,"Tuberculosis, extrapulmonary"
+7017971000006115,"TB, extrapulmonary"
+7068961000006113,Active tuberculosis
+7254941000006115,Tuberculosis of external body orifice
+7254931000006113,Orificial tuberculosis
+3211671000006118,Tuberculous necrosis of bone
+3214051000006119,TB - Renal tuberculosis
+73939018,Renal tuberculosis
+73938014,Tuberculosis of kidney
+286286010,Tuberculosis of kidney NOS
+108231015,Tuberculous pyelonephritis
+286285014,Tuberculous nephropathy
+2569691000006119,Tuberculosis of genitourinary system
+2569701000006119,TB - Urogenital tuberculosis
+286296018,Genitourinary tuberculosis NOS
+7551011,Tuberculosis of genitourinary system
+2569711000006116,Urogenital tuberculosis
+878991000006114,Tuberculosis-kidney + other GU
+74349016,Tuberculous peritonitis
+3218351000006114,Tuberculosis of peritoneum
+3218371000006116,Tuberculosis (TB) peritonitis
+1230111017,Peritonitis - tuberculous
+7329541000006116,Tuberculosis of oropharynx
+7332441000006112,Reinfection respiratory tuberculosis
+7332431000006119,Reinfection pulmonary tuberculosis
+7333131000006118,Tuberculous pleural effusion
+7333441000006118,Relapse pulmonary tuberculosis
+7333451000006116,Relapse respiratory tuberculosis
+7333551000006115,Tuberculosis of spinal cord
+7337031000006113,Tuberculous arachnoiditis
+7338931000006113,Tuberculosis of ileum
+7338921000006110,Tuberculous ileitis
+7376871000006116,Tuberculosis of bone of upper limb
+7396051000006110,Pericarditis with pericardial effusion due to Mycobacterium tuberculosis complex
+7396071000006117,Pericarditis with pericardial effusion caused by Mycobacterium tuberculosis complex
+7396061000006112,Tuberculous pericarditis with pericardial effusion
+7396171000006116,Constrictive pericarditis caused by Mycobacterium tuberculosis complex
+7396151000006114,Constrictive pericarditis due to Mycobacterium tuberculosis complex
+7396161000006111,Tuberculous constrictive pericarditis
+89101000006115,Tuberculosis myocardium
+3264591000006118,Tuberculosis of myocardium
+7488021000006111,Tuberculoma of spinal cord confirmed
+286335015,Other specified miliary tuberculosis
+3269821000006118,MTB - Miliary tuberculosis
+288008012,"[X]Miliary tuberculosis, unspecified"
+79348014,Miliary tuberculosis
+288007019,[X]Other miliary tuberculosis
+286336019,Miliary tuberculosis NOS
+3280171000006117,Tuberculous disseminated chorioretinitis
+3294571000006116,Ocular tuberculosis
+286322012,Tuberculosis of eye NOS
+81815010,Tuberculosis of eye
+82550012,Tuberculous salpingitis
+1230741010,Fallopian tube tuberculosis
+3302131000006114,Tuberculosis (TB) salpingitis
+286293014,Tuberculous oophoritis or salpingitis NOS
+3306201000006110,Tuberculous dactylitis
+3326501000006117,Reactivation tuberculosis
+3326511000006119,Reinfection tuberculosis
+3326521000006110,Secondary tuberculosis
+3326531000006113,Postprimary tuberculosis
+87729013,Tuberculosis of nasal sinus
+89061000006118,Tuberculosis endocardium
+3359291000006115,Tuberculosis of endocardium
+3377291000006110,Tuberculosis of cervical lymph nodes
+156441000006115,Scrofula - tuberculous cervical lymph nodes
+3377281000006112,Scrofula
+3377271000006114,Cervical tuberculous lymphadenitis
+82801000006118,Tuberculous cervical lymphadenitis
+3399861000006117,Tuberculosis of glottis
+93954019,Tuberculosis of nasopharynx
+286337011,Other specified tuberculosis
+286284013,Tuberculosis of bones or joints NOS
+429601000006111,[X]Tuberculosis
+405021000006117,"[X]Oth resp tubercul, w'out m/bacteriol or histol confirmatn"
+286338018,Tuberculosis NOS
+413241000006118,"[X]Other resp tubercul,confirmd bacteriologicly+histologicly"
+288005010,[X]Tuberculosis of other specified organs
+286330013,Tuberculosis of other specified organs NOS
+286331012,Tuberculosis of other organs NOS
+288003015,[X]Other tuberculosis of nervous system
+286297010,Tuberculosis of other organs
+303801017,[X]Tuberculous disorders of intestine and mesentery
+94320019,Tuberculosis
+3421371000006119,TB - Tuberculosis
+286327018,Tuberculosis of other specified organs
+3448311000006115,Acute diffuse tuberculosis
+286260017,Tuberculous meningitis NOS
+3449511000006115,Tuberculosis of meninges
+3449531000006114,TB - Tuberculous meningitis
+3449541000006116,TBM - Tuberculous meningitis
+710951000006114,Meningitis - tuberculous
+97107015,Tuberculous meningitis
+83161000006116,Tuberculous osteomylelytis
+3454671000006114,Tuberculous osteomyelitis
+3476611000006110,Tuberculosis of intestine
+3476621000006119,Tuberculosis of intestinal tract
+3476601000006112,Tuberculosis of intestines
+3516021000006114,Chronic miliary tuberculosis
+3521201000006112,Tuberculosis (TB) of uterine cervix
+104401018,Tuberculous cervicitis
+878951000006115,Primary tuberculosis infection
+3529611000006112,Primary tuberculosis
+286216017,Primary tuberculous infection NOS
+3529631000006118,Primary (TB) tuberculosis
+105237015,Primary tuberculous infection
+3537761000006113,Tuberculous chancre
+111268016,Tuberculosis cutis
+3589191000006116,Tuberculosis of skin
+3589221000006111,Cutaneous tuberculosis
+3589211000006115,Tuberculoderma
+82741000006111,Tuberculosis pericardium
+3594011000006112,Tuberculous pericarditis
+3594001000006114,Tuberculosis of pericardium
+7532991000006112,Tuberculosis of respiratory system
+7532981000006114,Respiratory tuberculosis
+286235017,Isolated tracheal or bronchial tuberculosis NOS
+286232019,Isolated tracheobronchial tuberculosis
+3643891000006111,Tuberculosis of larynx
+3643901000006110,Laryngeal tuberculosis
+116837013,Tuberculous laryngitis
+3643911000006113,Tuberculosis (TB) with laryngitis
+7613131000006118,Mycobacterial lymphadenitis
+7621451000006110,Mycobacterium tuberculosis rRNA
+7621461000006112,Ribosomal ribonucleic acid of Mycobacterium tuberculosis
+2437721000000112,Extensively drug resistant tuberculosis
+3661191000006113,Tuberculosis of mastoid process
+118567019,Tuberculous mastoiditis
+7718861000006116,Lupus vulgaris of nose
+7761231000006119,Tuberculous ulceration of vulva
+3670261000006114,Chronic granulomatous tuberculosis
+3670271000006119,Miliary granuloma of tuberculosis
+7802131000006117,Immunoglobulin G antibody to Mycobacterium tuberculosis
+7802121000006115,Anti-Mycobacterium tuberculosis IgG
+7802111000006111,Mycobacterium tuberculosis IgG
+7821991000006116,Tuberculosis of musculoskeletal system
+7821981000006119,Infection of musculoskeletal system caused by Mycobacterium tuberculosis
+7857571000006117,Acute miliary tuberculosis of single site
+3683891000006119,Tuberculous polyserositis
+7960991000006110,Extrapulmonary tuberculosis co-occurrent with human immunodeficiency virus infection
+7961001000006111,Extrapulmonary TB (tuberculosis) co-occurrent with HIV (human immunodeficiency virus) infection
+3514741018,Tuberculous myositis
+3514740017,Myositis caused by Mycobacterium tuberculosis
+3514743015,Infection of digestive system caused by Mycobacterium tuberculosis
+3514744014,Tuberculosis of digestive system
+3514746011,Infection of endocrine gland caused by Mycobacterium tuberculosis
+3514747019,Tuberculosis of endocrine gland
+3541143016,WHO 2007 HIV infection clinical stage 1 and tuberculosis
+3541153015,Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with tuberculosis
+3541148013,WHO 2007 HIV infection clinical stage 2 and tuberculosis
+3541154014,Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with tuberculosis
+3541151018,WHO 2007 HIV infection clinical stage 3 and tuberculosis
+3541157019,Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with tuberculosis
+3541159016,Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with tuberculosis
+3541141019,WHO 2007 HIV infection clinical stage 4 and tuberculosis
+286292016,Tuberculous oophoritis or salpingitis
+286295019,Tuberculosis of other female genital organs NOS
+286294015,Tuberculosis of female genital organs
+123534017,Tuberculosis of hilar lymph nodes
+13280016,Tuberculosis of rectum
+82791000006119,Tuberculosis with erythema nodosum hypersensitivity reaction
+123913018,Tuberculous erythema nodosum
+286309016,Erythema nodosum with tuberculosis NOS
+3712631000006117,Tuberculosis with erythema nodosum AND hypersensitivity reaction
+3712641000006110,Tuberculosis (TB) with erythema nodosum
+127902015,Tuberculosis of peripheral lymph nodes
+286314017,Tuberculosis of peripheral lymph nodes NOS
+130160016,Tuberculosis of intrathoracic lymph nodes
+286231014,Tuberculosis of intrathoracic lymph nodes NOS
+107751000006115,TB intrathoracic lymph nodes confirm bact histologically
+131348017,Tuberculous interstitial keratitis
+132731014,Tuberculous pneumonia
+132741012,Isolated bronchial tuberculosis
+3811041000006111,Nodular tuberculosis of lung
+1788181018,Nodular lung tuberculosis
+3819781000006116,Tuberculosis of bones of lower extremity
+3823041000006118,TB - Tuberculosis of ureter
+134962018,Tuberculosis of ureter
+3826081000006119,Tuberculosis of lung with involvement of bronchus
+136831015,Tuberculosis of mediastinal lymph nodes
+2631651000006112,Tuberculosis of subcutaneous cellular tissue
+3847051000006110,Tuberculosis colliquativa cutis
+137346014,Tuberculosis colliquativa
+3847031000006115,Scrofuloderma
+89021000006112,Tuberculosis - scrofuloderma
+138730017,Tuberculosis of epididymis
+3861111000006112,Tuberculosis of epididymis
+3861121000006116,Tuberculous epididymitis
+138939013,Tuberculosis of mediastinum
+139628019,Tuberculous oophoritis
+139795018,Tuberculous episcleritis
+142044014,Tuberculosis of tracheobronchial lymph nodes
+3892961000006115,Tuberculous tracheobronchial adenopathy
+3896781000006110,Tuberculous otitis media
+2640941000006110,Tuberculosis orificialis of anus
+149374011,Tuberculous fibrosis of lung
+149683011,Tuberculosis of cerebral meninges
+82911000006110,Tuberculous encephalitis
+151549019,Tuberculous encephalitis
+641081000006113,Encephalitis due to tuberculosis
+1235995011,Tuberculosis lichenoides
+2655641000006111,Tuberculosis cutis lichenoides
+2655651000006113,Lichen scrofulosorum
+667971000000118,Latent tuberculosis
+146495016,Primary tuberculous complex
+128905016,Isolated tracheal tuberculosis
+175131000006112,"Respiratory tuberculosis, bacteriologically and histologically confirmed"
+206221000006117,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically"
+286262013,Tuberculous abscess of brain
+2548529013,Tuberculous abscess of spinal cord
+286265010,Tuberculous encephalitis or myelitis
+57296016,Tuberculous myelitis
+286267019,Tuberculous encephalitis or myelitis NOS
+286271016,Other gastrointestinal tract tuberculosis
+20900014,Tuberculosis of small intestine
+286272011,Other gastrointestinal tract tuberculosis NOS
+286273018,Tuberculosis of gastrointestinal tract
+286281017,Tuberculosis limb bones - Tuberculous dactylitis
+879001000006114,Tuberculosis - other organs
+68651015,Tuberculosis papulonecrotica
+504231000006117,Bazin's disease - erythema induratum - TB hypersensitivity
+301563019,Pneumoconiosis associated with tuberculosis
+715781000006110,"Tuberculosis in pregnancy, childbirth and the puerperium - delivered"
+715821000006116,Maternal tuberculosis in the puerperium - baby delivered during current episode of care
+715791000006113,Maternal tuberculosis during pregnancy - baby not yet delivered
+715831000006118,Maternal tuberculosis in the puerperium - baby delivered during previous episode of care
+311915018,Tuberculosis of sacrum/coccyx
+311920018,Tuberculosis of the pelvic and thigh bones
