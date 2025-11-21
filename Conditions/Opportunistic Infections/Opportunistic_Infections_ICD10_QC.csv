@@ -1,0 +1,76 @@
+ICD10Codes,Description
+A02.1,Salmonella sepsis
+A32.1,Listerial meningitis and meningoencephalitis
+A32.7,Listerial sepsis
+A43,Nocardiosis
+A43.0,Pulmonary nocardiosis
+A43.1,Cutaneous nocardiosis
+A43.8,Other forms of nocardiosis
+A43.9,"Nocardiosis, unspecified"
+A44.0,Systemic bartonellosis
+A81.2,Progressive multifocal leukoencephalopathy
+B01.0,Varicella meningitis
+B01.1,Varicella encephalitis
+B02.0,Zoster encephalitis
+B02.1,Zoster meningitis
+B02.7,Disseminated zoster
+B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases
+B20.0,HIV disease resulting in mycobacterial infection
+B20.1,HIV disease resulting in other bacterial infections 
+B20.2,HIV disease resulting in cytomegaloviral disease
+B20.3,HIV disease resulting in other viral infections
+B20.4,HIV disease resulting in candidiasis
+B20.5,HIV disease resulting in other mycoses
+B20.6,HIV disease resulting in Pneumocystis jirovecii pneumonia
+B20.7,HIV disease resulting in multiple infections
+B20.8,HIV disease resulting in other infectious and parasitic diseases
+B20.9,HIV disease resulting in unspecified infectious and parasitic disease
+B21.0,HIV disease resulting in Kaposi sarcoma
+B25.1,Cytomegaloviral hepatitis
+B25.2,Cytomegaloviral pancreatitis
+B37.1,Pulmonary candidiasis
+B37.5,Candidal meningitis
+B37.6,Candidal endocarditis
+B37.7,Candidal sepsis
+B38.7,Disseminated coccidioidomycosis
+B39.3,Disseminated histoplasmosis capsulati
+B40.7,Disseminated blastomycosis
+B43.1,Phaeomycotic brain abscess
+B44.0,Invasive pulmonary aspergillosis
+B44.7,Disseminated aspergillosis
+B45,Cryptococcosis
+B45.0,Pulmonary cryptococcosis
+B45.1,Cerebral  cryptococcosis
+B45.2,Cutaneous cryptococcosis
+B45.3,Osseous cryptococcosis
+B45.7,Disseminated cryptococcosis
+B45.8,Other forms of cryptococcosis
+B45.9,"Cryptococcosis, unspecified"
+B46,Zygomycosis
+B46.0,Pulmonary mucormycosis
+B46.1,Rhinocerebral mucormycosis
+B46.2,Gastrointestinal mucormycosis
+B46.3,Cutaneous mucormycosis
+B46.4,Disseminated mucormycosis
+B46.5,"Mucormycosis, unspecified"
+B46.8,Other zygomycoses
+B46.9,"Zygomycosis, unspecified"
+B48.3,Geotrichosis
+B48.4,Penicillosis
+B48.5,Pneumocystosis
+B48.7,Opportunistic mycoses
+B58,Toxoplasmosis
+B58.0,Toxoplasma oculopathy
+B58.1,Toxoplasma hepatitis
+B58.2,Toxoplasma meningoencephalitis
+B58.3,Pulmonary toxoplasmosis
+B58.8,Toxoplasmosis with other organ involvement
+B58.9,"Toxoplasmosis, unspecified"
+C46,Kaposi sarcoma
+C46.0,Kaposi sarcoma of skin
+C6.1,Kaposi sarcoma of soft tissue
+C46.2,Kaposi sarcoma of palate
+C46.3,Kaposi sarcoma of lymph nodes
+C46.7,Kaposi sarcoma of other sites
+C46.8,Kaposi sarcoma of multiple organs
+C46.9,"Kaposi sarcoma, unspecified"

@@ -1,0 +1,612 @@
+MedCodeID,Description
+8467211000006116,Salmonella pyelonephritis
+4163491000006115,KS - Kaposi's sarcoma
+4163501000006111,Kaposi's sarcoma
+292136014,Kaposi's sarcoma (clinical)
+755671000006113,"Kaposi's sarcoma, unspecified"
+4163511000006114,Kaposi sarcoma
+4163481000006118,Epidemic Kaposi's sarcoma
+292128017,"[X]Kaposi's sarcoma, unspecified"
+4163531000006115,Kaposi sarcoma of skin
+173944012,Kaposi's sarcoma of skin
+173946014,Kaposi's sarcoma of palate
+4163551000006110,Kaposi sarcoma of palate
+4163561000006112,Kaposi's sarcoma of gastrointestinal tract
+4163571000006117,Kaposi sarcoma of gastrointestinal tract
+4163581000006119,Kaposi's sarcoma of lung
+4163591000006116,Kaposi sarcoma of lung
+4163611000006110,Kaposi sarcoma of lymph nodes
+173950019,Kaposi's sarcoma of lymph nodes
+292127010,[X]Kaposi's sarcoma of multiple organs
+755631000006110,Kaposi's sarcoma of multiple organs
+4163631000006116,Kaposi sarcoma of multiple organs
+4208031000006118,Nocardia lutea
+4228911000006116,Mycobacterium avium ss avium
+4228921000006112,Mycobacterium avium ss paratuberculosis
+4228931000006110,Mycobacterium avium ss silvaticum
+4455611000006116,Nocardia transvalensis complex
+2717421000006112,Disseminated herpes simplex
+1221068018,Meningitis due to cryptococcus
+24210015,Cryptococcal meningitis
+2725491000006113,Meningitis due to Cryptococcus
+9753541000006114,Abscess of abdomen caused by Nocardia
+9753551000006111,Nocardia abscess of abdomen
+2755551000006117,Acute lymphadenopathic toxoplasmosis
+2774021000006115,Mucocutaneous cryptococcosis
+7970101000006113,Atypical mycobacterial infection of lung
+2780581000006113,Hepatitis caused by acquired toxoplasmosis
+2780571000006110,Hepatitis due to acquired toxoplasmosis
+2784761000006116,Meningoencephalitis due to acquired toxoplasmosis
+2784771000006111,Acquired toxoplasmal meningoencephalitis
+4741561000006110,Pulmonary Mycobacterium avium complex infection
+1229247010,Pulmonary Mycobacterium avium-intracellulare infection
+1211907013,Battey disease
+2475553015,Hepatitis in cytomegalic inclusion virus
+4742801000006116,Cytomegalic inclusion virus hepatitis
+4742781000006115,CMV - Cytomegalovirus hepatitis
+4742761000006113,Cytomegalovirus hepatitis
+286985017,Cytomegaloviral hepatitis
+288177018,[X]HIV disease resulting in other viral infections
+389021000006114,[X]HIV disease resulting in multiple infections
+829221000006112,Human immunodeficiency virus infection with secondary clinical infectious disease
+389101000006117,[X]HIV disease resulting/other infectious+parasitic diseases
+389111000006119,[X]HIV disease resulting/unspcf infectious+parasitic disease
+825861000006116,HIV disease resulting/unspcf infectious+parasitic disease
+287027016,HIV disease resulting in multiple infections
+287690012,Systemic cryptococcosis
+4744431000006115,Hepatic cryptococcosis
+287693014,Cryptococcosis liver
+287694015,Cerebral cryptococcosis
+287862010,Toxoplasma chorioretinitis
+4744811000006112,Toxoplasmosis chorioretinitis
+287868014,Toxoplasmosis of multiple sites
+4748931000006116,Kaposi's sarcoma of soft tissues
+289008015,Kaposi's sarcoma of soft tissue
+4748941000006114,Kaposi sarcoma of soft tissue
+8006821000006119,Acquired disseminated toxoplasmosis
+4767641000006111,Meningitis caused by typhoid fever
+296784012,Meningitis due to typhoid fever
+296865015,Toxoplasma meningoencephalitis
+4768041000006116,Cerebral toxoplasmosis
+4768031000006114,Toxoplasmosis of brain
+296864016,Toxoplasmosis encephalitis
+4768071000006112,TE - Toxoplasma encephalitis
+641061000006115,Toxoplasma encephalitis
+299915012,Endocarditis - typhoid
+4781191000006117,Legionnaires disease
+4781171000006118,Legionnaire's disease
+4781181000006115,Legionnaires' disease
+219771000006116,Legionella pneumonia
+301397013,Pneumonia with nocardiasis
+4781271000006113,Nocardial pneumonia
+2828391000006113,Candidosis of esophagus
+2828341000006116,Candidiasis of the esophagus
+1216106016,Candidiasis of oesophagus
+267091000006113,Oesophageal moniliasis
+2828381000006110,Esophageal thrush
+2828361000006117,Oesophageal thrush
+2828371000006112,Candidosis of oesophagus
+2828411000006113,Candida of esophagus
+2828401000006110,Candidiasis of esophagus
+267071000006112,Candidiasis of the oesophagus
+4591015,Pulmonary nocardiosis
+35229011,Pulmonary cryptococcosis
+2833361000006113,Cryptococcal pneumonitis
+2854611000006119,Multifocal leukoencephalopathy
+2854641000006115,PML - Progressive multifocal leucoencephalopathy
+37365019,PML - Progressive multifocal leukoencephalopathy
+2854631000006113,Multifocal leucoencephalopathy
+481281019,Progressive multifocal leucoencephalopathy
+2854661000006116,PMLE - Progressive multifocal leucoencephalopathy
+2854601000006117,Progressive multifocal leukoencephalopathy
+2854651000006118,PMLE - Progressive multifocal leukoencephalopathy
+2857861000006112,Cytomegalovirus retinitis
+2857851000006110,CMV retinitis
+2857871000006117,CMV - Cytomegalovirus retinitis
+2857841000006113,Cytomegaloviral retinitis
+2859171000006118,Multisystemic disseminated toxoplasmosis
+2859181000006115,Disseminated toxoplasmosis
+5004941000006118,Candidal brain abscess
+5028171000006112,Kaposi sarcoma of eyelid
+5028161000006117,Kaposi's sarcoma of eyelid
+5030311000006118,Candida retinitis
+5059881000006114,Atypical mycobacterial lymphadenitis
+5085101000006115,Cytomegalovirus colitis
+5085091000006114,Cytomegaloviral colitis
+5085111000006117,CMV - Cytomegalovirus colitis
+353692014,Cytomegaloviral pancreatitis
+354636018,Cytomegalovirus-induced glomerulonephritis
+5096311000006113,CMV - Cytomegalovirus-induced glomerulonephritis
+5146851000006116,Chronic intestinal cryptosporidiasis
+5147401000006115,Disseminated atypical mycobacterial infection
+5147411000006117,Cervical atypical mycobacterial lymphadenitis
+5147501000006119,Hyperimmune cutaneous reaction to mycobacterium avium-intracellulare
+5147511000006116,Hyperimmune cutaneous reaction caused by mycobacterium avium-intracellulare
+5147861000006116,Haematogenous nocardiosis
+5147851000006118,Disseminated nocardiosis
+5147871000006111,Hematogenous nocardiosis
+5148051000006113,Neurobartonellosis
+5148061000006110,Bartonella infection of central nervous system
+5150161000006114,Bacillary peliosis
+5150221000006113,Disseminated pneumocystosis
+5150911000006113,Systemic aspergillosis
+5151421000006116,Central nervous system candidosis
+5151411000006112,Central nervous system candidiasis
+5151451000006113,Acute disseminated candidiasis
+5151461000006110,Acute disseminated candidosis
+5151471000006115,Chronic disseminated candidiasis
+5151481000006117,Chronic disseminated candidosis
+360589019,Cutaneous cryptococcosis
+5151571000006116,Acute disseminated classical histoplasmosis
+5151581000006118,Infant type disseminated classical histoplasmosis
+5151601000006111,Intermediate type disseminated classical histoplasmosis
+5151591000006115,Subacute disseminated classical histoplasmosis
+5151621000006118,Adult type disseminated classical histoplasmosis
+5151611000006114,Chronic disseminated classical histoplasmosis
+360663014,Disseminated mucormycosis
+5186371000006111,Mycobacterium avium brunese
+220201000006117,Pneumonia with salmonellosis
+5303018,Salmonella pneumonia
+5356201000006110,Kaposi's sarcoma of cornea
+5356211000006113,Kaposi sarcoma of cornea
+287542013,Candidiasis of mouth and oesophagus NOS
+395433018,Thrush of mouth and oesophagus
+395435013,Candidiasis of mouth and oesophagus
+5491801000006115,Candidiasis of mouth and esophagus
+395434012,Monilia of mouth and oesophagus
+5491791000006116,Thrush of mouth and esophagus
+5491781000006119,Monilia of mouth and esophagus
+5605771000006116,Non-tuberculous mycobacterial pneumonia
+422230018,Osseous cryptococcosis
+288057010,[X]Other forms of nocardiosis
+288058017,Nocardiosis
+286535016,Nocardiosis NOS
+2984351000006114,Actinomyces asteroides
+2984341000006112,Nocardia asteroides
+6041581000006111,Acute toxoplasmosis chorioretinitis
+6421012,Invasive pulmonary aspergillosis
+8106431000006112,Toxoplasmosis choroiditis
+8106421000006114,Toxoplasma choroiditis
+220051000006110,Pneumonia with candidiasis
+2554641000006116,Pulmonary candidiasis
+2554661000006117,Candidosis of lung
+6880017,Candidiasis of lung
+2554651000006119,Pulmonary candidosis
+219761000006111,Candidal pneumonia
+3079491000006118,Cryptococcal gastroenteritis
+6358781000006112,Infection due to Mycobacterium avium-intracellulare group
+6358801000006111,Infection caused by Mycobacterium avium-intracellulare group
+6358811000006114,Infection caused by Mycobacterium avium complex
+6358791000006110,Infection due to Mycobacterium avium complex
+6358831000006115,Disseminated infection caused by Mycobacterium avium-intracellulare group
+6358821000006118,Disseminated infection due to Mycobacterium avium-intracellulare group
+6381331000006113,Battey disease
+6381341000006115,Pulmonary mycobacterium intracellulare infection
+3105871000006116,Nocardia nova
+6660301000006119,Actinomycetoma caused by Nocardia infection
+6660291000006115,Actinomycetoma due to Nocardia infection
+6660311000006116,Disseminated cutaneous candidiasis
+6660321000006112,Disseminated cutaneous candidosis
+6660341000006117,Systemic candidosis with skin involvement
+6660331000006110,Systemic candidiasis with skin involvement
+6660461000006112,Onychomycosis due to opportunistic infection
+6672821000006110,Mycobacterium avium intracellulare infection of skin
+6672911000006114,Mycetoma caused by Nocardia brasiliensis
+6672901000006111,Actinomycetoma caused by Nocardia brasiliensis
+6672881000006114,Actinomycetoma due to Nocardia brasiliensis
+6672891000006112,Mycetoma due to Nocardia brasiliensis
+6672921000006118,Actinomycetoma due to Nocardia asteroides
+6672931000006115,Mycetoma due to Nocardia asteroides
+6672951000006110,Mycetoma caused by Nocardia asteroides
+6672941000006113,Actinomycetoma caused by Nocardia asteroides
+6672971000006117,Mycetoma due to Nocardia otitidis caviarum
+6672981000006119,Mycetoma caused by Nocardia otitidis caviarum
+6672961000006112,Actinomycetoma due to Nocardia otitidis caviarum
+6672991000006116,Actinomycetoma caused by Nocardia otitidis caviarum
+6673001000006115,Primary cutaneous nocardiosis
+6673011000006117,Disseminated nocardiosis infection affecting skin
+6673291000006119,Neonatal systemic candidosis
+6673281000006117,Neonatal systemic candidiasis
+322664014,Neonatal candida septicaemia
+679811000006112,Neonatal monilial septicaemia
+6676161000006111,Disseminated cutaneous mycosis caused by Fusarium
+6676151000006114,Disseminated cutaneous mycosis due to Fusarium
+6690721000006114,Kaposi's sarcoma - sporadic
+6690731000006112,Kaposi sarcoma - sporadic
+6729401000006117,Cryptococcus infection of the central nervous system
+6729411000006119,Cytomegalovirus infection of the central nervous system
+6729641000006118,Histoplasma infection of central nervous system
+6797831000006114,Bartonella henselae neuroretinitis
+6845941000006112,Candida endophthalmitis
+6853421000006110,Extrapulmonary pneumocystis jirovecii infection
+6853411000006119,Extrapulmonary pneumocystis infection
+6854981000006119,Pneumocystis carinii present
+6854971000006117,Pneumocystis jirovecii present
+6865991000006114,Nocardia abscessus
+6866001000006110,Nocardia asteroides complex
+6866021000006117,Nocardia cyriacigeorgici
+6866011000006113,Nocardia cyriacigeorgica
+6866031000006119,Nocardia paucivorans
+6866041000006112,Nocardia pseudobrasiliensis
+6866051000006114,Nocardia veterana
+6870511000006114,PCP - Pneumocystis pneumonia
+220181000006118,Pneumocystosis pneumonia
+6870531000006115,Pneumocystosis jirovecii pneumonia
+6870521000006118,Pulmonary pneumocystosis
+6890131000006118,Cryptococcal endophthalmitis
+6892791000006119,Ocular toxoplasmosis
+6897031000006118,Ocular histoplasmosis syndrome
+6897041000006111,OHS-ocular histoplasmosis syndrome
+6898751000006110,Cryptococcal chorioretinitis
+6902351000006119,Mycobacterium avium intracellulare group choroiditis
+6902361000006117,MAI choroiditis
+6904271000006113,Ocular cryptococcosis
+6905521000006111,Nocardia africana
+6905541000006116,Cryptococcal choroiditis
+6908511000006112,Cryptococcal retinitis
+6916281000006119,Tea-tasters' cough
+6916271000006117,Tea-factory cough
+6916261000006112,Bronchomoniliasis
+6925851000006113,Nocardia elegans
+825831000006113,Pneumocystosis associated with AIDS
+1814921000006112,HIV disease resulting in Pneumocystis jirovecii pneumonia
+6953541000006114,Pneumocystosis associated with acquired immunodeficiency syndrome
+6956121000006118,Bacterial pneumonia associated with AIDS
+6956131000006115,Bacterial pneumonia associated with acquired immunodeficiency syndrome
+6956291000006113,Progressive multifocal leucoencephalopathy associated with AIDS
+6956301000006114,Progressive multifocal leukoencephalopathy associated with AIDS
+6956311000006112,Progressive multifocal leukoencephalopathy associated with acquired immunodeficiency syndrome
+6956321000006116,Progressive multifocal leucoencephalopathy associated with acquired immunodeficiency syndrome
+6959971000006112,Salmonella infection associated with acquired immunodeficiency syndrome
+6959961000006117,Salmonella infection associated with AIDS
+6960351000006119,Pneumococcal pneumonia associated with AIDS
+6960361000006117,Pneumococcal pneumonia associated with acquired immunodeficiency syndrome
+287023017,Mycobacteriosis associated with AIDS
+6960961000006118,Mycobacteriosis associated with acquired immunodeficiency syndrome
+6960951000006115,Mycobacteriosis associated with AIDS
+6962071000006113,Dermatomycosis associated with acquired immunodeficiency syndrome
+6962061000006118,Dermatomycosis associated with AIDS
+6963231000006111,Histoplasmosis associated with acquired immunodeficiency syndrome
+6963221000006113,Histoplasmosis associated with AIDS
+6965081000006116,Candidiasis of lung associated with AIDS
+6965091000006118,Candidiasis of lung associated with acquired immunodeficiency syndrome
+6965591000006112,Disseminated candidiasis associated with AIDS
+6965601000006116,Disseminated candidiasis associated with acquired immunodeficiency syndrome
+6969031000006115,Cryptococcus neoformans choroiditis
+6969041000006113,Choroiditis due to Cryptococcus neoformans
+6971291000006117,Cryptococcosis associated with acquired immunodeficiency syndrome
+6971281000006115,Cryptococcosis associated with AIDS
+6971471000006119,Subacute adenoviral encephalitis associated with AIDS
+6971481000006116,Subacute adenoviral encephalitis associated with acquired immunodeficiency syndrome
+6971781000006112,Nocardiosis associated with AIDS
+6971791000006110,Nocardia infection associated with AIDS
+6971801000006111,Nocardiosis associated with acquired immunodeficiency syndrome
+6972131000006117,Infectious gastroenteritis associated with AIDS
+6972141000006110,Infectious gastroenteritis associated with acquired immunodeficiency syndrome
+6973041000006117,Viral pneumonia associated with acquired immunodeficiency syndrome
+6973031000006110,Viral pneumonia associated with AIDS
+6976651000006119,Infective arthritis associated with AIDS
+6976661000006117,Infective arthritis associated with acquired immunodeficiency syndrome
+6976691000006113,Candidiasis of mouth associated with AIDS
+6976701000006113,Candidiasis of mouth associated with acquired immunodeficiency syndrome
+6979821000006117,Strongyloidiasis associated with acquired immunodeficiency syndrome
+6979811000006113,Strongyloidiasis associated with AIDS
+6988121000006113,Coccidioidomycosis associated with AIDS
+6988131000006111,Coccidioidomycosis associated with acquired immunodeficiency syndrome
+7009151000006118,Disseminated Mycobacterium fortuitum infection
+7009161000006116,"Mycobacterium fortuitum infection, disseminated"
+7012741000006110,Disseminated Mycobacterium chelonei infection
+7012751000006112,"Mycobacterium chelonei infection, disseminated"
+70718016,Cryptococcosis
+287697010,Cryptococcosis NOS
+3183261000006110,European Blastomycosis
+3183321000006111,Busse-Buschke disease
+3183271000006115,Torulosis
+529831000006112,Busse - Buschke's disease
+70720018,Torula
+288231017,[X]Other forms of cryptococcosis
+3183301000006118,European blastomycosis
+3183281000006117,Infection by Cryptococcus neoformans
+493296011,European cryptococcosis
+3183311000006115,Busse-Buschke's disease
+288232012,"[X]Cryptococcosis, unspecified"
+7017391000006115,"Mycobacterium gordonaei infection, disseminated"
+7017381000006118,Disseminated Mycobacterium gordonae infection
+7020681000006119,"Mycobacterium avium intracellulare, localised"
+7020691000006116,"Mycobacterium avium intracellulare, localized"
+7028261000006111,"Mycobacterium kansasii infection, disseminated"
+7028251000006114,Disseminated Mycobacterium kansasii infection
+483187019,Disseminated Histoplasma capsulatum infection
+7053421000006110,Nocardia asiatica
+7054561000006118,Cytomegaloviral enteritis
+7060171000006118,Candida enteritis
+7060181000006115,Enteritis caused by Candida
+7060161000006113,Enteritis due to Candida
+7071541000006117,Nocardia arthritidis
+7075081000006116,Disseminated mycobacterium abscessus infection
+7076351000006117,Human herpesvirus 8
+7076371000006110,HHV-8
+7076361000006115,Kaposi's sarcoma-associated herpesvirus
+7084081000006111,Nocardia globerula
+7085121000006112,Disseminated cytomegalovirus infection
+7101311000006114,Cytomegaloviral gastritis
+7119851000006116,Histoplasmosis of spinal cord
+7119861000006119,Histoplasma infection of spinal cord
+7119871000006114,Infection of spinal cord due to Histoplasma
+7119881000006112,Infection of spinal cord caused by Histoplasma
+7120031000006116,Intramedullary histoplasma spinal cord abscess
+7120061000006113,Abscess of medulla of spinal cord caused by Histoplasma
+7120021000006119,Intramedullary abscess of spinal cord due to Histoplasma
+7120051000006111,Intramedullary abscess of spinal cord caused by Histoplasma
+7120041000006114,Abscess of medulla of spinal cord due to Histoplasma
+7122221000006112,Nocardia pseudovaccinii
+7122401000006118,Nocardia puris
+7123711000006117,Nocardia soli
+7123721000006113,Nocardia takedensis
+7123731000006111,Nocardia tenerifensis
+7123741000006118,Nocardia testacea
+7123901000006117,Nocardia alba
+7123911000006119,Nocardia araoensis
+7124571000006117,Nocardia cummidelens
+7124581000006119,Nocardia flavorosea
+7124591000006116,Nocardia fluminea
+7124601000006112,Nocardia higoensis
+7124641000006114,Nocardia uniformis
+7124651000006111,Nocardia vinacea
+7124661000006113,Nocardia xishanensis
+7124671000006118,Nocardia yamanashiensis
+7124801000006113,Nocardia salmonicida
+7124811000006111,Nocardia seriolae
+7124821000006115,Nocardia shimofusensis
+7124831000006117,Nocardia sienata
+7126391000006116,Nocardia ignorata
+7126401000006119,Nocardia inohanensis
+7126411000006116,Nocardia neocaledoniensis
+7126421000006112,Nocardia niigatensis
+7127611000006116,Nocardia beijingensis
+7127621000006112,Nocardia caishijiensis
+7127631000006110,Nocardia cerradoensis
+7127641000006117,Nocardia crassostreae
+7130641000006115,Nocardia pigrifrangens
+7130651000006118,Nocardia pneumoniae
+7139311000006118,Mycobacterium chimaera
+7139321000006114,Mycobacterium chimera
+7156391000006117,Candidemia
+7161031000006117,Candidemia associated with intravascular line
+7254171000006113,Nocardia exalbida
+7256181000006119,Reactivation of toxoplasmosis chorioretinitis
+7273611000006114,Pneumocystis jirovecii choroiditis
+7273621000006118,Inflammation of choroid due to Pneumocystis jirovecii infection
+7273631000006115,Inflammation of choroid caused by Pneumocystis jirovecii infection
+7296391000006114,Nocardia aobensis
+7298351000006119,Nocardia terpenica
+7316231000006112,Nocardia gamkensis
+7316251000006117,Infectious disease associated with acquired immune deficiency syndrome
+287577013,Candidal septicaemia
+7346521000006116,Sepsis caused by Candida
+1814981000006111,Candidal sepsis
+2901596018,Sepsis due to Candida
+7353521000006113,Nocardia iowensis
+75093015,Candidal meningitis
+7379181000006117,Nocardia mikamii
+7379191000006119,Nocardia kruczakiae
+3229051000006110,Nocardia coeliaca
+3246521000006118,Acquired toxoplasmal pneumonitis
+3246491000006115,Pneumonitis due to acquired toxoplasmosis
+3246511000006114,Toxoplasma pneumonia
+3246531000006115,Pneumonitis caused by acquired toxoplasmosis
+494463016,Pneumonia with toxoplasmosis
+11633141000006119,Nocardia anaemiae
+7982391000006110,Mycobacterium arosiense
+7982411000006110,Mycobacterium colombiense
+3450411000006113,"Mycobacterium, MAIS group"
+3450371000006112,MAIS complex
+3450351000006119,"Mycobacterium, avium-intracellulare group"
+1760291000006114,Mycobacterium avium complex
+3450361000006117,MAC complex
+3450381000006110,"Avium, intracellulare, scrofulaceum group"
+3450391000006113,Mycobacterium avium-intracellulare
+3457951000006116,Nocardia brasiliensis
+3457961000006119,Actinomyces brasiliensis
+3469341000006115,Nocardia species
+3469321000006110,Nocardia
+3469331000006113,Genus Nocardia
+3494621000006119,Nocardia carnea
+3495581000006118,Opportunistic infectious disease
+11633331000006114,Nocardia thailandica
+3525671000006118,Nocardia otitidiscaviarum
+3525641000006114,Nocardia otitidis caviarum
+3525651000006111,Nocardia caviae
+3525661000006113,Nocardia otitidis-caviarum
+3551541000006112,Pyogranulomatous dermatitis
+107443015,Cutaneous nocardiosis
+3596041000006118,Conjunctivitis due to acquired toxoplasmosis
+3596061000006119,Conjunctivitis caused by acquired toxoplasmosis
+1232927016,Toxoplasma conjunctivitis
+8209981000006112,Histoplasmosis syndrome of bilateral eyes
+8210001000006114,Histoplasmosis syndrome of left eye
+8210011000006112,Histoplasmosis syndrome of right eye
+12270011,Salmonella osteomyelitis
+7506181000006118,Nocardia rhamnosiphila
+7528421000006115,Pneumocystis carinii
+7530341000006115,Sepsis associated with acquired immunodeficiency syndrome
+7569341000006115,Nocardia abscessus or Nocardia arthritidis
+7570171000006112,Mycobacterium avium subspecies hominissuis
+3644341000006111,Nocardia brevicatena
+3644351000006113,Micropolyspora brevicatena
+7596731000006116,Nocardia acidivorans
+3647731000006114,Disseminated candida
+3647691000006118,Invasive candidiasis
+3647701000006118,Disseminated candidiasis
+3647711000006115,Systemic candidiasis
+3647721000006111,Disseminated candidosis
+625351000006119,"Disseminated, systemic candida"
+7632571000006112,Nocardia amikacinitolerans
+7632581000006110,Nocardia kroppenstedtii
+7690851000006112,Chorioretinitis caused by Cytomegalovirus
+7690841000006110,Cytomegalovirus chorioretinitis
+7697211000006113,Mycobacterium vulneris
+118420016,Salmonella arthritis
+7699051000006110,Cytomegalovirus oesophagitis
+7699031000006115,Oesophagitis caused by Cytomegalovirus
+7699061000006112,Esophagitis caused by Cytomegalovirus
+7699041000006113,Cytomegalovirus esophagitis
+7702091000006116,Candidiasis of oesophagus co-occurrent with human immunodeficiency virus infection
+7702101000006110,Candidiasis of esophagus co-occurrent with human immunodeficiency virus infection
+7702691000006114,Infection caused by Salmonella co-occurrent with human immunodeficiency virus infection
+7702701000006114,Salmonellosis co-occurrent with human immunodeficiency virus infection
+7704681000006118,Progressive multifocal leukoencephalopathy co-occurrent with human immunodeficiency virus infection
+7704671000006116,Progressive multifocal leucoencephalopathy co-occurrent with human immunodeficiency virus infection
+7704721000006113,Pneumocystosis co-occurrent with human immunodeficiency virus infection
+7704711000006117,Infection caused by Pneumocystis co-occurrent with human immunodeficiency virus infection
+7705201000006111,Recurrent bacterial pneumonia co-occurrent with human immunodeficiency virus infection
+7705281000006119,Infective arthritis co-occurrent with human immunodeficiency virus infection
+7705441000006114,Infection caused by Nocardia co-occurrent with human immunodeficiency virus infection
+7705451000006111,Nocardiosis co-occurrent with human immunodeficiency virus infection
+7706851000006115,Meningitis caused by Histoplasma capsulatum
+287614019,Histoplasma capsulatum with meningitis
+287635017,Histoplasmosis with meningitis
+7706861000006118,Meningitis caused by Histoplasma duboisii
+287625011,Histoplasma duboisii with meningitis
+7706871000006113,Meningitis caused by Histoplasmosis
+7708371000006116,Infection caused by Cytomegalovirus co-occurrent with human immunodeficiency virus infection
+7708381000006118,Cytomegalovirus infection co-occurrent with human immunodeficiency virus infection
+7708561000006116,Infection caused by Aspergillus co-occurrent with human immunodeficiency virus infection
+7708551000006118,Aspergillosis co-occurrent with human immunodeficiency virus infection
+7710391000006119,Infection caused by Cryptosporidium co-occurrent with human immunodeficiency virus infection
+7710861000006118,Opportunistic mycosis co-occurrent with human immunodeficiency virus infection
+7710971000006119,Nephropathy caused by BK polyomavirus
+7710951000006112,BK virus nephropathy
+7710961000006114,Kidney disease caused by BK polyomavirus
+7712061000006114,Disseminated atypical infection caused by Mycobacterium co-occurrent with human immunodeficiency virus infection
+7713761000006119,Recurrent salmonella sepsis co-occurrent with human immunodeficiency virus infection
+7713781000006112,Recurrent salmonella septicemia co-occurrent with human immunodeficiency virus infection
+7713771000006114,Recurrent salmonella septicaemia co-occurrent with human immunodeficiency virus infection
+7738611000006112,Infection caused by Cryptococcus gatti
+7738601000006114,Cryptococcus gattii infection
+7760621000006112,Nocardia grenadensis
+7788101000006111,Pneumocystis jirovecii early cyst
+7788111000006114,Pneumocystis jirovecii thin walled cyst
+7788121000006118,Pneumocystis jirovecii mature cyst
+7788131000006115,Pneumocystis jirovecii thick walled cyst
+7814871000006117,Neonatal aspergillosis
+7814861000006112,Neonatal infection caused by Aspergillus
+7822481000006117,Nocardia meningitis
+7822471000006115,Meningitis due to Nocardia species
+7822461000006110,Meningitis caused by Nocardia
+7822831000006116,Cytomegalovirus meningitis
+7822821000006119,Meningitis caused by Human cytomegalovirus 5
+7822841000006114,Infection of intestine caused by Human cytomegalovirus 5
+7822851000006111,Cytomegalovirus intestinal infection
+7823361000006112,Invasive aspergillosis
+7823451000006115,Infection of lung caused by Pneumocystis
+7823461000006118,Pulmonary Pneumocystis infection
+7826221000006119,Pneumocystis jiroveci trophozoite
+7829131000006119,Nocardia nova complex
+7829141000006112,Nocardia brevicatena-paucivorans complex
+7844431000006110,Nocardia blacklockiae
+8022821000006110,Kaposi sarcoma of viscus
+8022831000006113,Kaposi sarcoma of visceral organ
+7954741000006119,Gastrointestinal infection caused by non-tuberculous Mycobacterium
+7954751000006117,Gastrointestinal non-tuberculous mycobacterial infection
+7954841000006114,Invasive aspergillosis of brain
+7954851000006111,Invasive cerebral aspergillosis
+7954861000006113,Invasive aspergillosis of digestive tract
+3502839018,Nocardia vulneris
+3541151018,WHO 2007 HIV infection clinical stage 3 and tuberculosis
+3541157019,Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with tuberculosis
+3541159016,Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with tuberculosis
+3541141019,WHO 2007 HIV infection clinical stage 4 and tuberculosis
+3528134011,Nocardia jiangxiensis
+3728561000006118,Infection caused by Pneumocystis jirovecii
+3728551000006115,Infection by Pneumocystis jirovecii
+3737701000006111,Tatlockia micdadei
+3737711000006114,Legionella micdadei
+3737691000006111,Pittsburgh pneumonia
+3737721000006118,Legionella pittsburghensis
+12000431000006110,Nocardia ninae
+12000441000006117,Nocardia sungurluensis
+12000451000006115,Nocardia thraciensis
+12009901000006117,iNTS (invasive non-typhoidal salmonella) disease
+12009891000006116,Invasive non-typhoidal salmonella disease
+12009881000006119,Invasive non-typhoidal salmonellosis
+3744871000006117,Myocarditis due to acquired toxoplasmosis
+13678019,Disseminated aspergillosis
+7987731000006112,Nocardia concava
+128872018,Salmonella meningitis
+1234139012,Meningitis due to salmonella
+43281000006112,Opportunistic mycoses
+3784751000006114,Opportunistic mycosis
+3799581000006113,Pneumocystis jirovecii
+3807291000006116,Nocardia transvalensis
+8265951000006115,Human herpes virus 8 deoxyribonucleic acid detection by nucleic acid amplification test
+8265961000006118,HHV (human herpes virus) 8 DNA (deoxyribonucleic acid) detection by NAAT (nucleic acid amplification test)
+640891000006113,Cytomegalovirus encephalitis
+607301000006119,Cytomegaloviral encephalitis
+3862271000006119,Mycobacterium avium
+3862281000006116,Avian tubercle bacillus
+3864091000006117,Battey bacillus
+3864081000006115,Mycobacterium brunense
+3864071000006118,Mycobacterium intracellulare
+141014013,Disseminated coccidioidomycosis
+3883491000006111,Extra-pulmonary coccidioidomycosis
+11633551000006110,Nocardia mexicana
+3889991000006119,Nocardia farcinica
+3934741000006114,Focal chorioretinitis due to acquired toxoplasmosis
+3934751000006111,Focal chorioretinitis caused by acquired toxoplasmosis
+147339015,Pneumocystosis
+3978431000006116,"Salmonellosis, non-typhoid"
+3978421000006119,Salmonellosis (except human typhoid & paratyphoid)
+2647671000006113,Nocardia vaccinii
+11635491000006116,Nocardia wallacei
+11635511000006110,Nocardia vermiculata
+11639521000006116,Nocardia niwae
+495504016,Salmonella septicaemia
+625341000006116,Disseminated herpes zoster
+286729018,Eczema herpeticum - Kaposi's varicelliform eruption
+287021015,Acquired human immunodeficiency virus infection syndrome NOS
+287024011,HIV disease resulting in cytomegaloviral disease
+287025012,HIV disease resulting in candidiasis
+825771000006119,Kaposi's sarcoma associated with AIDS
+1814931000006110,HIV disease resulting in Kaposi sarcoma
+105628012,Candidal endocarditis
+287703011,Rhinocerebral mucormycosis
+287704017,Gastrointestinal mucormycosis
+23810017,Geotrichosis
+287859012,Toxoplasmosis
+287863017,Toxoplasma myocarditis
+287867016,Other specified site toxoplasma
+288174013,[X]HIV disease resulting in other bacterial infections
+288178011,[X]HIV disease resulting in other mycoses
+288239015,"[X]Mucormycosis, unspecified"
+288252013,[X]Toxoplasmosis with other organ involvement
+1219080012,Herpes zoster meningitis
+706441000006117,Herpes zoster with meningitis
+286689014,Encephalitis following chickenpox
+641091000006111,Encephalitis due to varicella
+299934012,Acute myocarditis - toxoplasmosis
+459661016,Pneumocystis carinii IF
+1814271000006115,Sepsis due to Salmonella
+281631019,Disseminated tuberculosis
+48459015,Cytomegalovirus infection
+1226168016,CMV - Cytomegalovirus infection
+287613013,Unspecified histoplasma capsulatum infection
+287615018,Histoplasma capsulatum with retinitis
+287617014,Histoplasma capsulatum with endocarditis
+287626012,Histoplasma duboisii with retinitis
+287627015,Histoplasma duboisii with pericarditis
+287628013,Histoplasma duboisii with endocarditis
+287636016,Histoplasmosis with retinitis
+2535847014,Histoplasmosis with endocarditis
+98477012,Zygomycosis
+98478019,Phycomycosis
+127246018,Mucormycosis
+350061012,Pulmonary mucormycosis
+360659019,Cutaneous mucormycosis
+696771000006111,"Mucormycosis, unspecified"
+287864011,Toxoplasma pneumonitis
+287865012,Toxoplasma hepatitis
+1230800010,[M]Kaposi's sarcoma
+313251000006114,[M]Multiple haemorrhagic sarcoma
+1219078018,Varicella meningitis
+354329011,Candida pyelonephritis
