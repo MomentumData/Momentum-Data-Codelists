@@ -1,0 +1,12 @@
+ICD10Codes,Description
+K85.1,Biliary acute pancreatitis
+K56.3,Gallstone ileus
+K80.2,Calculus of gallbladder without cholecystitis
+K80.1,Calculus of gallbladder with other cholecystitis
+K80,Cholelithiasis
+K80.0,Calculus of gallbladder with acute cholecystitis
+K80.3,Calculus of bile duct with cholangitis
+K80.4,Calculus of bile duct with cholecystitis
+K80.5,"
+Calculus of bile duct without cholangitis or cholecystitis"
+K80.8,Other cholelithiasis
