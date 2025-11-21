@@ -1,0 +1,28 @@
+ICD10Codes,Description
+G61,Inflammatory polyneuropathy
+G61.1,Serum neuropathy
+G61.8,Other inflammatory polyneuropathies
+G61.9,"Inflammatory polyneuropathy, unspecified"
+G62,Other polyneuropathies
+G62.0,Drug-induced polyneuropathy
+G62.1,Alcoholic polyneuropathy
+G62.2,Polyneuropathy due to other toxic agents
+G62.8,Other specified polyneuropathies
+G62.9,"Polyneuropathy, unspecified"
+G63,Polyneuropathy in diseases classified elsewhere
+G63.0,Polyneuropathy in infectious and parasitic diseases classified elsewhere
+G63.1,Polyneuropathy in neoplastic disease
+G63.2,Diabetic polyneuropathy
+G63.3,Polyneuropathy in other endocrine and metabolic diseases?
+G63.4,Polyneuropathy in nutritional deficiency
+G63.5,Polyneuropathy in systemic connective tissue disorders
+G63.6,Polyneuropathy in other musculoskeletal disorders
+G63.8,Polyneuropathy in other diseases classified elsewhere
+G64,Other disorders of peripheral nervous system
+G13.0,Paraneoplastic neuromyopathy and neuropathy
+G60.0,Hereditary motor and sensory neuropathy
+G60.2,Neuropathy in association with hereditary ataxia
+G60.3,Idiopathic progressive neuropathy
+G60.8,Other hereditary and idiopathic neuropathies
+G60.9,"Hereditary and idiopathic neuropathy, unspecified"
+G90.0,Idiopathic peripheral autonomic neuropathy
